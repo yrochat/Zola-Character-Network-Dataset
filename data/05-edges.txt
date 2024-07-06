@@ -1,0 +1,294 @@
+"from","to","weight"
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",36
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",37
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",201
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",29
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",32
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Archangias (Frère). Frère des écoles chrétiennes : ",28
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Artaud (les). Paysans des--Artaud : ",3
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ",15
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ",15
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ",6
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Bambousse (Catherine). Fille cadette de Bambousse : ",8
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Brichet (Artaud, dit). Vieux paysan des Artaud : ",5
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Brichet (la mère). Épouse du précédent : ",10
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ",12
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Brichet (Vincent). Second fils des Brichet : ",10
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Guyot (abbé). Prêtre à Saint-Eutrope : ",2
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Son enfant : ",6
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","*Holbach (baron d'). Philosophe français du xvme siècle : ",2
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Lisa. Jeune paysanne des Artaud : ",5
+"Albine. Nièce de Jean-bernat. Amante de Serge Mouret: ","Rousse (la). Jeune paysanne des Artaud: ",5
+"Archangias (Frère). Frère des écoles chrétiennes : ","Artaud (les). Paysans des--Artaud : ",12
+"Archangias (Frère). Frère des écoles chrétiennes : ","Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ",17
+"Archangias (Frère). Frère des écoles chrétiennes : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",30
+"Archangias (Frère). Frère des écoles chrétiennes : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",57
+"Archangias (Frère). Frère des écoles chrétiennes : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",34
+"Archangias (Frère). Frère des écoles chrétiennes : ","Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ",12
+"Archangias (Frère). Frère des écoles chrétiennes : ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",10
+"Archangias (Frère). Frère des écoles chrétiennes : ","Bambousse (Catherine). Fille cadette de Bambousse : ",11
+"Archangias (Frère). Frère des écoles chrétiennes : ","Brichet (Artaud, dit). Vieux paysan des Artaud : ",8
+"Archangias (Frère). Frère des écoles chrétiennes : ","Brichet (la mère). Épouse du précédent : ",13
+"Archangias (Frère). Frère des écoles chrétiennes : ","Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ",14
+"Archangias (Frère). Frère des écoles chrétiennes : ","Brichet (Vincent). Second fils des Brichet : ",16
+"Archangias (Frère). Frère des écoles chrétiennes : ","Son enfant : ",4
+"Archangias (Frère). Frère des écoles chrétiennes : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",3
+"Archangias (Frère). Frère des écoles chrétiennes : ","Lisa. Jeune paysanne des Artaud : ",6
+"Archangias (Frère). Frère des écoles chrétiennes : ","Rousse (la). Jeune paysanne des Artaud: ",7
+"Archangias (Frère). Frère des écoles chrétiennes : ","Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ",13
+"Archangias (Frère). Frère des écoles chrétiennes : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",1
+"Archangias (Frère). Frère des écoles chrétiennes : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",1
+"Archangias (Frère). Frère des écoles chrétiennes : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",1
+"Archangias (Frère). Frère des écoles chrétiennes : ","Babet. Jeune paysanne des Artaud : ",2
+"Artaud (les). Paysans des--Artaud : ","Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ",11
+"Artaud (les). Paysans des--Artaud : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",14
+"Artaud (les). Paysans des--Artaud : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",19
+"Artaud (les). Paysans des--Artaud : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",8
+"Artaud (les). Paysans des--Artaud : ","Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ",8
+"Artaud (les). Paysans des--Artaud : ","Brichet (Vincent). Second fils des Brichet : ",3
+"Artaud (les). Paysans des--Artaud : ","Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ",3
+"Artaud (les). Paysans des--Artaud : ","Brichet (Artaud, dit). Vieux paysan des Artaud : ",3
+"Artaud (les). Paysans des--Artaud : ","Brichet (la mère). Épouse du précédent : ",3
+"Artaud (les). Paysans des--Artaud : ","Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ",8
+"Artaud (les). Paysans des--Artaud : ","Bambousse (Catherine). Fille cadette de Bambousse : ",4
+"Artaud (les). Paysans des--Artaud : ","Son enfant : ",2
+"Artaud (les). Paysans des--Artaud : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",1
+"Artaud (les). Paysans des--Artaud : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",1
+"Artaud (les). Paysans des--Artaud : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",1
+"Artaud (les). Paysans des--Artaud : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",1
+"Babet. Jeune paysanne des Artaud : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",3
+"Babet. Jeune paysanne des Artaud : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",15
+"Babet. Jeune paysanne des Artaud : ","Rousse (la). Jeune paysanne des Artaud: ",15
+"Babet. Jeune paysanne des Artaud : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",15
+"Babet. Jeune paysanne des Artaud : ","Bambousse (Catherine). Fille cadette de Bambousse : ",14
+"Babet. Jeune paysanne des Artaud : ","Brichet (Vincent). Second fils des Brichet : ",11
+"Babet. Jeune paysanne des Artaud : ","Lisa. Jeune paysanne des Artaud : ",14
+"Babet. Jeune paysanne des Artaud : ","Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ",13
+"Babet. Jeune paysanne des Artaud : ","Miette. Paysanne des Artaud : ",4
+"Babet. Jeune paysanne des Artaud : ","Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ",11
+"Babet. Jeune paysanne des Artaud : ","Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ",5
+"Babet. Jeune paysanne des Artaud : ","Son enfant : ",8
+"Babet. Jeune paysanne des Artaud : ","Brichet (la mère). Épouse du précédent : ",4
+"Babet. Jeune paysanne des Artaud : ","Laurent. Paysan des Artaud :",2
+"Babet. Jeune paysanne des Artaud : ","Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ",4
+"Babet. Jeune paysanne des Artaud : ","Miette. Autre paysanne des Artaud : ",2
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ",29
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",34
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Bambousse (Catherine). Fille cadette de Bambousse : ",14
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Brichet (Artaud, dit). Vieux paysan des Artaud : ",13
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Brichet (la mère). Épouse du précédent : ",19
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ",24
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Brichet (Vincent). Second fils des Brichet : ",16
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",17
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",23
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",6
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Son enfant : ",9
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ",12
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Lisa. Jeune paysanne des Artaud : ",7
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Rousse (la). Jeune paysanne des Artaud: ",7
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Laurent. Paysan des Artaud :",2
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Miette. Autre paysanne des Artaud : ",1
+"Bambousse (Artaud, dit). Cultivateur. Maire des Artaud : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",3
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",24
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",52
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",38
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Bambousse (Catherine). Fille cadette de Bambousse : ",26
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Brichet (Artaud, dit). Vieux paysan des Artaud : ",14
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Brichet (la mère). Épouse du précédent : ",22
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ",40
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Brichet (Vincent). Second fils des Brichet : ",25
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",7
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Son enfant : ",16
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",4
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Lisa. Jeune paysanne des Artaud : ",17
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Rousse (la). Jeune paysanne des Artaud: ",17
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ",15
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Miette. Paysanne des Artaud : ",4
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Laurent. Paysan des Artaud :",2
+"Bambousse (Rosalie). Fille aînée du précédent. Épouse Fortuné Brichet: ","Miette. Autre paysanne des Artaud : ",2
+"Son enfant : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",5
+"Son enfant : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",17
+"Son enfant : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",2
+"Son enfant : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",12
+"Son enfant : ","Bambousse (Catherine). Fille cadette de Bambousse : ",13
+"Son enfant : ","Brichet (la mère). Épouse du précédent : ",9
+"Son enfant : ","Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ",15
+"Son enfant : ","Brichet (Vincent). Second fils des Brichet : ",11
+"Son enfant : ","Lisa. Jeune paysanne des Artaud : ",11
+"Son enfant : ","Rousse (la). Jeune paysanne des Artaud: ",11
+"Son enfant : ","Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ",8
+"Son enfant : ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",2
+"Son enfant : ","Laurent. Paysan des Artaud :",2
+"Son enfant : ","Miette. Autre paysanne des Artaud : ",2
+"Son enfant : ","Brichet (Artaud, dit). Vieux paysan des Artaud : ",2
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Brichet (Artaud, dit). Vieux paysan des Artaud : ",5
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Brichet (la mère). Épouse du précédent : ",14
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ",24
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Brichet (Vincent). Second fils des Brichet : ",23
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",10
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",28
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",22
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Lisa. Jeune paysanne des Artaud : ",19
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Rousse (la). Jeune paysanne des Artaud: ",19
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ",12
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",4
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Miette. Paysanne des Artaud : ",4
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Laurent. Paysan des Artaud :",2
+"Bambousse (Catherine). Fille cadette de Bambousse : ","Miette. Autre paysanne des Artaud : ",2
+"*Bellarmin. Théologien |","*Bouvier (Jean-Bapti§te). Théologien français du xixe' siècle : ",2
+"*Bellarmin. Théologien |","*Gousset (Thomas). Théologien français du xixe siècle : ",2
+"*Bellarmin. Théologien |","*Liguori. Théologien:",2
+"*Bellarmin. Théologien |","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"*Bellarmin. Théologien |","*Rorbacher (René-François). Théologien français : ",2
+"*Bellarmin. Théologien |","*Suarez (François). Théologien espagnol : ",2
+"*Bellarmin. Théologien |","*Thomas d'Aquin (saint). Théologien : ",2
+"*Bouvier (Jean-Bapti§te). Théologien français du xixe' siècle : ","*Gousset (Thomas). Théologien français du xixe siècle : ",2
+"*Bouvier (Jean-Bapti§te). Théologien français du xixe' siècle : ","*Liguori. Théologien:",2
+"*Bouvier (Jean-Bapti§te). Théologien français du xixe' siècle : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"*Bouvier (Jean-Bapti§te). Théologien français du xixe' siècle : ","*Rorbacher (René-François). Théologien français : ",2
+"*Bouvier (Jean-Bapti§te). Théologien français du xixe' siècle : ","*Suarez (François). Théologien espagnol : ",2
+"*Bouvier (Jean-Bapti§te). Théologien français du xixe' siècle : ","*Thomas d'Aquin (saint). Théologien : ",2
+"Brichet (Artaud, dit). Vieux paysan des Artaud : ","Brichet (la mère). Épouse du précédent : ",18
+"Brichet (Artaud, dit). Vieux paysan des Artaud : ","Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ",12
+"Brichet (Artaud, dit). Vieux paysan des Artaud : ","Brichet (Vincent). Second fils des Brichet : ",9
+"Brichet (Artaud, dit). Vieux paysan des Artaud : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",12
+"Brichet (Artaud, dit). Vieux paysan des Artaud : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",18
+"Brichet (Artaud, dit). Vieux paysan des Artaud : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",11
+"Brichet (Artaud, dit). Vieux paysan des Artaud : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",2
+"Brichet (Artaud, dit). Vieux paysan des Artaud : ","Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ",9
+"Brichet (Artaud, dit). Vieux paysan des Artaud : ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",3
+"Brichet (la mère). Épouse du précédent : ","Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ",21
+"Brichet (la mère). Épouse du précédent : ","Brichet (Vincent). Second fils des Brichet : ",18
+"Brichet (la mère). Épouse du précédent : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",16
+"Brichet (la mère). Épouse du précédent : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",27
+"Brichet (la mère). Épouse du précédent : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",18
+"Brichet (la mère). Épouse du précédent : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",2
+"Brichet (la mère). Épouse du précédent : ","Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ",14
+"Brichet (la mère). Épouse du précédent : ","Lisa. Jeune paysanne des Artaud : ",9
+"Brichet (la mère). Épouse du précédent : ","Rousse (la). Jeune paysanne des Artaud: ",9
+"Brichet (la mère). Épouse du précédent : ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",6
+"Brichet (la mère). Épouse du précédent : ","Laurent. Paysan des Artaud :",1
+"Brichet (la mère). Épouse du précédent : ","Miette. Autre paysanne des Artaud : ",1
+"Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ","Brichet (Vincent). Second fils des Brichet : ",23
+"Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",16
+"Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",41
+"Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",29
+"Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",6
+"Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ","Lisa. Jeune paysanne des Artaud : ",16
+"Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ","Rousse (la). Jeune paysanne des Artaud: ",16
+"Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ","Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ",12
+"Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ","Miette. Paysanne des Artaud : ",2
+"Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ","Laurent. Paysan des Artaud :",2
+"Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ","Miette. Autre paysanne des Artaud : ",2
+"Brichet (Fortuné). Fils aîné des Brichet. Épouse Rosalie Bambousse : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",2
+"Brichet (Vincent). Second fils des Brichet : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",21
+"Brichet (Vincent). Second fils des Brichet : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",43
+"Brichet (Vincent). Second fils des Brichet : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",34
+"Brichet (Vincent). Second fils des Brichet : ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",5
+"Brichet (Vincent). Second fils des Brichet : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",2
+"Brichet (Vincent). Second fils des Brichet : ","Lisa. Jeune paysanne des Artaud : ",16
+"Brichet (Vincent). Second fils des Brichet : ","Rousse (la). Jeune paysanne des Artaud: ",16
+"Brichet (Vincent). Second fils des Brichet : ","Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ",16
+"Brichet (Vincent). Second fils des Brichet : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",2
+"Brichet (Vincent). Second fils des Brichet : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",2
+"Brichet (Vincent). Second fils des Brichet : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",1
+"Brichet (Vincent). Second fils des Brichet : ","Miette. Paysanne des Artaud : ",3
+"Brichet (Vincent). Second fils des Brichet : ","Laurent. Paysan des Artaud :",2
+"Brichet (Vincent). Second fils des Brichet : ","Miette. Autre paysanne des Artaud : ",1
+"Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",13
+"Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",20
+"Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",34
+"Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",24
+"Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ","Guyot (abbé). Prêtre à Saint-Eutrope : ",2
+"Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",7
+"Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ","Lisa. Jeune paysanne des Artaud : ",8
+"Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ","Rousse (la). Jeune paysanne des Artaud: ",8
+"Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ","Miette. Autre paysanne des Artaud : ",2
+"Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",2
+"Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",2
+"Caffin (abbé). Prédécesseur de l'abbé Mouret à la cure des Artaud : ","Corbière (comte de). Ancien propriétaire du Paradou : ",2
+"Corbière (comte de). Ancien propriétaire du Paradou : ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",2
+"Corbière (comte de). Ancien propriétaire du Paradou : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"Corbière (comte de). Ancien propriétaire du Paradou : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",2
+"*Gousset (Thomas). Théologien français du xixe siècle : ","*Liguori. Théologien:",2
+"*Gousset (Thomas). Théologien français du xixe siècle : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"*Gousset (Thomas). Théologien français du xixe siècle : ","*Rorbacher (René-François). Théologien français : ",2
+"*Gousset (Thomas). Théologien français du xixe siècle : ","*Suarez (François). Théologien espagnol : ",2
+"*Gousset (Thomas). Théologien français du xixe siècle : ","*Thomas d'Aquin (saint). Théologien : ",2
+"Guyot (abbé). Prêtre à Saint-Eutrope : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",1
+"Guyot (abbé). Prêtre à Saint-Eutrope : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"Guyot (abbé). Prêtre à Saint-Eutrope : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",2
+"Guyot (abbé). Prêtre à Saint-Eutrope : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",2
+"Guyot (abbé). Prêtre à Saint-Eutrope : ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",1
+"*Holbach (baron d'). Philosophe français du xvme siècle : ","Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ",2
+"*Holbach (baron d'). Philosophe français du xvme siècle : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"*Holbach (baron d'). Philosophe français du xvme siècle : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",2
+"*Holbach (baron d'). Philosophe français du xvme siècle : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",1
+"Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",19
+"Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",45
+"Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",26
+"Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",21
+"Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ","Lisa. Jeune paysanne des Artaud : ",3
+"Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ","Rousse (la). Jeune paysanne des Artaud: ",3
+"Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Jeanbernat. Frère de lait du comte de Corbière. Oncle d'Albinè. Intendant du Pa-radou : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Laurent. Paysan des Artaud :","Lisa. Jeune paysanne des Artaud : ",2
+"Laurent. Paysan des Artaud :","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"Laurent. Paysan des Artaud :","Rousse (la). Jeune paysanne des Artaud: ",2
+"Laurent. Paysan des Artaud :","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",2
+"*Liguori. Théologien:","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"*Liguori. Théologien:","*Rorbacher (René-François). Théologien français : ",2
+"*Liguori. Théologien:","*Suarez (François). Théologien espagnol : ",2
+"*Liguori. Théologien:","*Thomas d'Aquin (saint). Théologien : ",2
+"Lisa. Jeune paysanne des Artaud : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",5
+"Lisa. Jeune paysanne des Artaud : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",19
+"Lisa. Jeune paysanne des Artaud : ","Rousse (la). Jeune paysanne des Artaud: ",19
+"Lisa. Jeune paysanne des Artaud : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",17
+"Lisa. Jeune paysanne des Artaud : ","Miette. Paysanne des Artaud : ",4
+"Lisa. Jeune paysanne des Artaud : ","Miette. Autre paysanne des Artaud : ",2
+"Miette. Paysanne des Artaud : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",4
+"Miette. Paysanne des Artaud : ","Rousse (la). Jeune paysanne des Artaud: ",4
+"Miette. Paysanne des Artaud : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",4
+"Miette. Autre paysanne des Artaud : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"Miette. Autre paysanne des Artaud : ","Rousse (la). Jeune paysanne des Artaud: ",2
+"Miette. Autre paysanne des Artaud : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",2
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",94
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",19
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",67
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rousse (la). Jeune paysanne des Artaud: ",6
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",4
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",4
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",3
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",1
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",1
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",4
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",4
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",2
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",6
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",2
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",4
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",2
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",1
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",40
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",101
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rousse (la). Jeune paysanne des Artaud: ",20
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","*Rorbacher (René-François). Théologien français : ",2
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","*Suarez (François). Théologien espagnol : ",2
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","*Thomas d'Aquin (saint). Théologien : ",2
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"*Rorbacher (René-François). Théologien français : ","*Suarez (François). Théologien espagnol : ",2
+"*Rorbacher (René-François). Théologien français : ","*Thomas d'Aquin (saint). Théologien : ",2
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",2
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",1
+"Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",21
+"Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",1
+"Rousse (la). Jeune paysanne des Artaud: ","Teuse (la). Vieille servante de l'abbé Cafïin, puis de l'abbé Mouret : ",18
+"*Suarez (François). Théologien espagnol : ","*Thomas d'Aquin (saint). Théologien : ",2

@@ -1,0 +1,588 @@
+"from","to","weight"
+"Aubry. Père de Séverine.;, Jardinier : ","Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ",2
+"Aubry. Père de Séverine.;, Jardinier : ","Dauvergne (Sophie). Fille aînée de Dauvergne : ",2
+"Aubry. Père de Séverine.;, Jardinier : ","Dauvergne (Claire). Fille cadette de Dauvergne : ",2
+"Aubry. Père de Séverine.;, Jardinier : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",8
+"Aubry. Père de Séverine.;, Jardinier : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",7
+"Aubry. Père de Séverine.;, Jardinier : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",3
+"Aubry. Père de Séverine.;, Jardinier : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",8
+"Aubry. Père de Séverine.;, Jardinier : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",8
+"Aubry. Père de Séverine.;, Jardinier : ","Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ",3
+"Aubry. Père de Séverine.;, Jardinier : ","Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ",2
+"Aubry. Père de Séverine.;, Jardinier : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",3
+"Bessière. Chef de gare de Barentin : ","Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ",6
+"Bessière. Chef de gare de Barentin : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",14
+"Bessière. Chef de gare de Barentin : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",15
+"Bessière. Chef de gare de Barentin : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",6
+"Bessière. Chef de gare de Barentin : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",2
+"Bessière. Chef de gare de Barentin : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",12
+"Bessière. Chef de gare de Barentin : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",15
+"Bessière. Chef de gare de Barentin : ","Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ",8
+"Bessière. Chef de gare de Barentin : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",1
+"Bessière. Chef de gare de Barentin : ","Caughe. Commissaire de surveillance administrative à la gare du Havre : ",4
+"Bessière. Chef de gare de Barentin : ","Dabadie. Chef de gare au Havre : ",4
+"Bessière. Chef de gare de Barentin : ","Lebleu (Mme). Femme du précédent : ",2
+"Bessière. Chef de gare de Barentin : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",7
+"Bessière. Chef de gare de Barentin : ","Sauvagnat (Philomène). Sœur du précédent : ",2
+"Bessière. Chef de gare de Barentin : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",5
+"Bessière. Chef de gare de Barentin : ","Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ",7
+"Bessière. Chef de gare de Barentin : ","Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ",4
+"Bessière. Chef de gare de Barentin : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",4
+"Bessière. Chef de gare de Barentin : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",3
+"Bessière. Chef de gare de Barentin : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",1
+"Bessière. Chef de gare de Barentin : ","Cabuche. Carrier à Bécourt : ",4
+"Bessière. Chef de gare de Barentin : ","Camy-Lamotte. Secrétaire général du ministère de la Justice : ",2
+"Bessière. Chef de gare de Barentin : ","Moulin. Sous-chef de gare au Havre : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Cabuche. Carrier à Bécourt : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Camy-Lamotte. Secrétaire général du ministère de la Justice : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Dabadie. Chef de gare au Havre : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ",5
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",5
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",5
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Moulin. Sous-chef de gare au Havre : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",5
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",5
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Caughe. Commissaire de surveillance administrative à la gare du Havre : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lebleu (Mme). Femme du précédent : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Sauvagnat (Philomène). Sœur du précédent : ",1
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ",21
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",34
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",24
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",23
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",27
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",25
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ",5
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",14
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",12
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",10
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Caughe. Commissaire de surveillance administrative à la gare du Havre : ",5
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Dabadie. Chef de gare au Havre : ",4
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Lebleu (Mme). Femme du précédent : ",3
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",6
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Sauvagnat (Philomène). Sœur du précédent : ",4
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",7
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ",5
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Cabuche. Carrier à Bécourt : ",18
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",3
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Louis. Cousin de Cabuche. Carrier à Bécourt : ",3
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",8
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Chaumette (père). Conseiller à la Cour de Rouen : ",6
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ",4
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ",6
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Leboucq. Conseiller à la Cour de Rouen : ",6
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Leboucq (Mme). Femme du précédent : ",6
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Camy-Lamotte. Secrétaire général du ministère de la Justice : ",1
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Moulin. Sous-chef de gare au Havre : ",1
+"Bonnehon (Mme). Veuve du manufacturier Bonnehon, Sœur du président Grandmo-rin. Châtelaine de Doin ville : ","Leboucq (fils). Fils des précédents : ",2
+"Cabuche. Carrier à Bécourt : ","Camy-Lamotte. Secrétaire général du ministère de la Justice : ",11
+"Cabuche. Carrier à Bécourt : ","Dabadie. Chef de gare au Havre : ",4
+"Cabuche. Carrier à Bécourt : ","Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ",41
+"Cabuche. Carrier à Bécourt : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",51
+"Cabuche. Carrier à Bécourt : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",79
+"Cabuche. Carrier à Bécourt : ","Moulin. Sous-chef de gare au Havre : ",4
+"Cabuche. Carrier à Bécourt : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",52
+"Cabuche. Carrier à Bécourt : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",79
+"Cabuche. Carrier à Bécourt : ","Caughe. Commissaire de surveillance administrative à la gare du Havre : ",4
+"Cabuche. Carrier à Bécourt : ","Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ",27
+"Cabuche. Carrier à Bécourt : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",15
+"Cabuche. Carrier à Bécourt : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",4
+"Cabuche. Carrier à Bécourt : ","Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ",37
+"Cabuche. Carrier à Bécourt : ","Louis. Cousin de Cabuche. Carrier à Bécourt : ",4
+"Cabuche. Carrier à Bécourt : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",25
+"Cabuche. Carrier à Bécourt : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",27
+"Cabuche. Carrier à Bécourt : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",14
+"Cabuche. Carrier à Bécourt : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",47
+"Cabuche. Carrier à Bécourt : ","Chaumette (père). Conseiller à la Cour de Rouen : ",4
+"Cabuche. Carrier à Bécourt : ","Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ",2
+"Cabuche. Carrier à Bécourt : ","Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ",4
+"Cabuche. Carrier à Bécourt : ","Leboucq. Conseiller à la Cour de Rouen : ",4
+"Cabuche. Carrier à Bécourt : ","Leboucq (Mme). Femme du précédent : ",4
+"Cabuche. Carrier à Bécourt : ","Leboucq (fils). Fils des précédents : ",2
+"Cabuche. Carrier à Bécourt : ","Mélanie. Domestique de Denizet : ",2
+"Cabuche. Carrier à Bécourt : ","Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ",8
+"Cabuche. Carrier à Bécourt : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",27
+"Cabuche. Carrier à Bécourt : ","Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ",2
+"Cabuche. Carrier à Bécourt : ","Dauvergne (Sophie). Fille aînée de Dauvergne : ",5
+"Cabuche. Carrier à Bécourt : ","Dauvergne (Claire). Fille cadette de Dauvergne : ",5
+"Cabuche. Carrier à Bécourt : ","Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ",4
+"Cabuche. Carrier à Bécourt : ","Sauvagnat (Philomène). Sœur du précédent : ",8
+"Cabuche. Carrier à Bécourt : ","Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ",2
+"Cabuche. Carrier à Bécourt : ","Lebleu (Mme). Femme du précédent : ",2
+"Cabuche. Carrier à Bécourt : ","Moulin (Mme). Épouse du précédent : ",2
+"Cabuche. Carrier à Bécourt : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",5
+"Cabuche. Carrier à Bécourt : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",4
+"Cabuche. Carrier à Bécourt : ","Colin (Me). Notaire au l Havre : ",2
+"Cabuche. Carrier à Bécourt : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",1
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Dabadie. Chef de gare au Havre : ",4
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ",21
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",23
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",17
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Moulin. Sous-chef de gare au Havre : ",2
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",24
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",26
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ",1
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",1
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",1
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",2
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",1
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",4
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Mélanie. Domestique de Denizet : ",2
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Lebleu (Mme). Femme du précédent : ",2
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",3
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Sauvagnat (Philomène). Sœur du précédent : ",2
+"Camy-Lamotte. Secrétaire général du ministère de la Justice : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",2
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Dabadie. Chef de gare au Havre : ",13
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",12
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Lebleu (Mme). Femme du précédent : ",11
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",10
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",20
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",20
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Sauvagnat (Philomène). Sœur du précédent : ",13
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",4
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ",2
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",1
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",9
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ",3
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ",2
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Moulin. Sous-chef de gare au Havre : ",2
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Moulin (Mme). Épouse du précédent : ",2
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",1
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",1
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Dabadie (la fille de) : ",1
+"Caughe. Commissaire de surveillance administrative à la gare du Havre : ","Lebleu. Caissier à la gare du Havre : ",1
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ",4
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ",5
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ",6
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",5
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",6
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",6
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Leboucq. Conseiller à la Cour de Rouen : ",6
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Leboucq (Mme). Femme du précédent : ",6
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",6
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",5
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ",1
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Leboucq (fils). Fils des précédents : ",2
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",2
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",2
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",1
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",3
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",1
+"Chaumette (père). Conseiller à la Cour de Rouen : ","Sauvagnat (Philomène). Sœur du précédent : ",1
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ",4
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ",4
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",4
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",4
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",4
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Leboucq. Conseiller à la Cour de Rouen : ",4
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Leboucq (Mme). Femme du précédent : ",4
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",4
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",4
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ",1
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Leboucq (fils). Fils des précédents : ",2
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",2
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",1
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",1
+"Chaumette. Fils du précédent. Substitut à Rouen. Protégé de Mme Botinehon, puis de Mme Leboucq : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",1
+"Colin (Me). Notaire au l Havre : ","Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ",2
+"Colin (Me). Notaire au l Havre : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",2
+"Colin (Me). Notaire au l Havre : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",2
+"Colin (Me). Notaire au l Havre : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",2
+"Colin (Me). Notaire au l Havre : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",2
+"Dabadie. Chef de gare au Havre : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",16
+"Dabadie. Chef de gare au Havre : ","Lebleu (Mme). Femme du précédent : ",29
+"Dabadie. Chef de gare au Havre : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",22
+"Dabadie. Chef de gare au Havre : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",37
+"Dabadie. Chef de gare au Havre : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",37
+"Dabadie. Chef de gare au Havre : ","Sauvagnat (Philomène). Sœur du précédent : ",28
+"Dabadie. Chef de gare au Havre : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",3
+"Dabadie. Chef de gare au Havre : ","Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ",5
+"Dabadie. Chef de gare au Havre : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",22
+"Dabadie. Chef de gare au Havre : ","Moulin. Sous-chef de gare au Havre : ",14
+"Dabadie. Chef de gare au Havre : ","Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ",1
+"Dabadie. Chef de gare au Havre : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",1
+"Dabadie. Chef de gare au Havre : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",1
+"Dabadie. Chef de gare au Havre : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",2
+"Dabadie. Chef de gare au Havre : ","Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ",16
+"Dabadie. Chef de gare au Havre : ","Moulin (Mme). Épouse du précédent : ",8
+"Dabadie. Chef de gare au Havre : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",7
+"Dabadie. Chef de gare au Havre : ","Dabadie (la fille de) : ",2
+"Dabadie. Chef de gare au Havre : ","Lebleu. Caissier à la gare du Havre : ",13
+"Dabadie. Chef de gare au Havre : ","Simon (la mère). Femme de ménage des Roubaud : ",3
+"Dabadie. Chef de gare au Havre : ","Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ",1
+"Dabadie. Chef de gare au Havre : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",1
+"Dabadie. Chef de gare au Havre : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",1
+"Dabadie (la fille de) : ","Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ",2
+"Dabadie (la fille de) : ","Lebleu. Caissier à la gare du Havre : ",2
+"Dabadie (la fille de) : ","Lebleu (Mme). Femme du précédent : ",2
+"Dabadie (la fille de) : ","Moulin. Sous-chef de gare au Havre : ",2
+"Dabadie (la fille de) : ","Moulin (Mme). Épouse du précédent : ",2
+"Dabadie (la fille de) : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",2
+"Dabadie (la fille de) : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",2
+"Dabadie (la fille de) : ","Sauvagnat (Philomène). Sœur du précédent : ",2
+"Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ","Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ",7
+"Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ","Dauvergne (Sophie). Fille aînée de Dauvergne : ",5
+"Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ","Dauvergne (Claire). Fille cadette de Dauvergne : ",5
+"Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ","Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ",2
+"Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",4
+"Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",7
+"Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",6
+"Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",1
+"Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",4
+"Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",3
+"Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",2
+"Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",3
+"Dauvergne. Chef adjoint des grandes lignes à la gare Saint-Lazare : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",1
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Dauvergne (Sophie). Fille aînée de Dauvergne : ",11
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Dauvergne (Claire). Fille cadette de Dauvergne : ",11
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",17
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",5
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",8
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",32
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",62
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ",4
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",5
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",61
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",9
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",31
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",30
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Moulin. Sous-chef de gare au Havre : ",1
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ",1
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Leboucq. Conseiller à la Cour de Rouen : ",1
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Leboucq (Mme). Femme du précédent : ",1
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Leboucq (fils). Fils des précédents : ",1
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",4
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ",33
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ",8
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",18
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ",2
+"Dauvergne (Henri). Fils de Dauvergne. Conduâeur-chef à la Compagnie de l'OueSt : ","Sauvagnat (Philomène). Sœur du précédent : ",2
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Dauvergne (Claire). Fille cadette de Dauvergne : ",21
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",9
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",1
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",6
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",19
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",19
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ",5
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",12
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",2
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ",1
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",1
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",5
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",1
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",1
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ",1
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",1
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",1
+"Dauvergne (Sophie). Fille aînée de Dauvergne : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",1
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",9
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",1
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",6
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",19
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",19
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ",5
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",12
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",2
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ",1
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",1
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",5
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",1
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",1
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ",1
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",1
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",1
+"Dauvergne (Claire). Fille cadette de Dauvergne : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",1
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",57
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",24
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",23
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",56
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",57
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",42
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",4
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Moulin. Sous-chef de gare au Havre : ",3
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Lebleu (Mme). Femme du précédent : ",3
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",10
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Sauvagnat (Philomène). Sœur du précédent : ",8
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ",5
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Leboucq. Conseiller à la Cour de Rouen : ",5
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Leboucq (Mme). Femme du précédent : ",5
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",14
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",9
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",15
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ",1
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Leboucq (fils). Fils des précédents : ",2
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Louis. Cousin de Cabuche. Carrier à Bécourt : ",2
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Mélanie. Domestique de Denizet : ",2
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ",1
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Moulin (Mme). Épouse du précédent : ",1
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",4
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",5
+"Denizet. Juge d'inStruc-tion à Rouen. Instruit l'affaire du meurtre du président Grandmorin : ","Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ",1
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",5
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",6
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",6
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Leboucq. Conseiller à la Cour de Rouen : ",6
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Leboucq (Mme). Femme du précédent : ",6
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",6
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",5
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Leboucq (fils). Fils des précédents : ",2
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",2
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",2
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",1
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",3
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",1
+"Desbazeilles. Conseiller à la Cour de Rouen. Ami de Mme Bonnehon. Préside la Cour d'assises lors du procès Roubaud. — : ","Sauvagnat (Philomène). Sœur du précédent : ",1
+"Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ","Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ",2
+"Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",6
+"Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",2
+"Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",6
+"Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",5
+"Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",5
+"Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",4
+"Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",1
+"Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",1
+"Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",1
+"Ducloux (la). Vieille femme des environs de la Croix-de-Maufras. Compagne de Misard après la mort de Phasie : ","Sauvagnat (Philomène). Sœur du précédent : ",2
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ",23
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",82
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",67
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",54
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",20
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",64
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",18
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",22
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Louis. Cousin de Cabuche. Carrier à Bécourt : ",3
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",1
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",1
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ",15
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",3
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",5
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",4
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",2
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ",1
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Lebleu (Mme). Femme du précédent : ",1
+"Flore. Fille aînée de Pha-sie Misard. Garde-barrière à la Croix-de-Maufras : ","Simon (la mère). Femme de ménage des Roubaud : ",1
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",34
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",16
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",126
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",131
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Lachesnaye (de). Conseiller à la Cour de Rouen : ",31
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",92
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",32
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",21
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",22
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Lebleu (Mme). Femme du précédent : ",14
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",22
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Sauvagnat (Philomène). Sœur du précédent : ",21
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",11
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Moulin. Sous-chef de gare au Havre : ",3
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Louis. Cousin de Cabuche. Carrier à Bécourt : ",4
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Leboucq. Conseiller à la Cour de Rouen : ",5
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Leboucq (Mme). Femme du précédent : ",5
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Leboucq (fils). Fils des précédents : ",2
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Mélanie. Domestique de Denizet : ",2
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",6
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ",2
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Lebleu. Caissier à la gare du Havre : ",2
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",1
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ",3
+"Grandmorin (président). Premier président (en retraite) de la Cour de Rouen. Parrain et tuteur de Séverine Aubry. Tué par Roubaud : ","Simon (la mère). Femme de ménage des Roubaud : ",2
+"Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",11
+"Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ","Lebleu (Mme). Femme du précédent : ",16
+"Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ","Moulin. Sous-chef de gare au Havre : ",11
+"Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ","Moulin (Mme). Épouse du précédent : ",8
+"Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",8
+"Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",15
+"Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",3
+"Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ","Sauvagnat (Philomène). Sœur du précédent : ",13
+"Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",15
+"Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ","Lebleu. Caissier à la gare du Havre : ",13
+"Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ","Simon (la mère). Femme de ménage des Roubaud : ",3
+"Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",1
+"Guichon (Mlle). Buraliste à la gare du Havre. Passe pour être la maîtresse de M. Dabadie : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",1
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ",30
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",28
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",27
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",14
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",5
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",3
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",4
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Leboucq. Conseiller à la Cour de Rouen : ",6
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Leboucq (Mme). Femme du précédent : ",6
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",7
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",5
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",7
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Moulin. Sous-chef de gare au Havre : ",1
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Leboucq (fils). Fils des précédents : ",2
+"Lachesnaye (de). Conseiller à la Cour de Rouen : ","Sauvagnat (Philomène). Sœur du précédent : ",2
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",5
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",32
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",31
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",12
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",4
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",3
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Leboucq. Conseiller à la Cour de Rouen : ",6
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Leboucq (Mme). Femme du précédent : ",6
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",7
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",4
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",6
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Moulin. Sous-chef de gare au Havre : ",1
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Leboucq (fils). Fils des précédents : ",2
+"Lachesnaye (Mme de). Fille du président Grand-morin. Épouse du précédent : ","Sauvagnat (Philomène). Sœur du précédent : ",1
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",4
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",4
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",85
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",58
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",148
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",217
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",25
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",6
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",90
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Moulin. Sous-chef de gare au Havre : ",11
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Lebleu (Mme). Femme du précédent : ",21
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Sauvagnat (Philomène). Sœur du précédent : ",44
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Louis. Cousin de Cabuche. Carrier à Bécourt : ",4
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Leboucq. Conseiller à la Cour de Rouen : ",3
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Leboucq (Mme). Femme du précédent : ",3
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Leboucq (fils). Fils des précédents : ",1
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Mélanie. Domestique de Denizet : ",1
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ",17
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Moulin (Mme). Épouse du précédent : ",6
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",23
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",14
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Lebleu. Caissier à la gare du Havre : ",9
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Simon (la mère). Femme de ménage des Roubaud : ",4
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",5
+"Lantier (Jacques). Second fils de Gervaise  cquart et d'AuguSte Lantier. Mécanicien à la Compagnie de l'OueSt. Amant, puis meurtrier de Séverine Aubry : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",2
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Lebleu. Caissier à la gare du Havre : ","Lebleu (Mme). Femme du précédent : ",14
+"Lebleu. Caissier à la gare du Havre : ","Moulin. Sous-chef de gare au Havre : ",9
+"Lebleu. Caissier à la gare du Havre : ","Moulin (Mme). Épouse du précédent : ",6
+"Lebleu. Caissier à la gare du Havre : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",13
+"Lebleu. Caissier à la gare du Havre : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",14
+"Lebleu. Caissier à la gare du Havre : ","Sauvagnat (Philomène). Sœur du précédent : ",11
+"Lebleu. Caissier à la gare du Havre : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",6
+"Lebleu. Caissier à la gare du Havre : ","Simon (la mère). Femme de ménage des Roubaud : ",2
+"Lebleu. Caissier à la gare du Havre : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",1
+"Lebleu (Mme). Femme du précédent : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",21
+"Lebleu (Mme). Femme du précédent : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",30
+"Lebleu (Mme). Femme du précédent : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",31
+"Lebleu (Mme). Femme du précédent : ","Sauvagnat (Philomène). Sœur du précédent : ",28
+"Lebleu (Mme). Femme du précédent : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",2
+"Lebleu (Mme). Femme du précédent : ","Moulin. Sous-chef de gare au Havre : ",11
+"Lebleu (Mme). Femme du précédent : ","Moulin (Mme). Épouse du précédent : ",8
+"Lebleu (Mme). Femme du précédent : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",7
+"Lebleu (Mme). Femme du précédent : ","Simon (la mère). Femme de ménage des Roubaud : ",3
+"Lebleu (Mme). Femme du précédent : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",1
+"Lebleu (Mme). Femme du précédent : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",1
+"Lebleu (Mme). Femme du précédent : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",2
+"Leboucq. Conseiller à la Cour de Rouen : ","Leboucq (Mme). Femme du précédent : ",6
+"Leboucq. Conseiller à la Cour de Rouen : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",6
+"Leboucq. Conseiller à la Cour de Rouen : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",5
+"Leboucq. Conseiller à la Cour de Rouen : ","Leboucq (fils). Fils des précédents : ",2
+"Leboucq. Conseiller à la Cour de Rouen : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",2
+"Leboucq. Conseiller à la Cour de Rouen : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",2
+"Leboucq. Conseiller à la Cour de Rouen : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",1
+"Leboucq. Conseiller à la Cour de Rouen : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",1
+"Leboucq. Conseiller à la Cour de Rouen : ","Sauvagnat (Philomène). Sœur du précédent : ",1
+"Leboucq (Mme). Femme du précédent : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",6
+"Leboucq (Mme). Femme du précédent : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",5
+"Leboucq (Mme). Femme du précédent : ","Leboucq (fils). Fils des précédents : ",2
+"Leboucq (Mme). Femme du précédent : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",2
+"Leboucq (Mme). Femme du précédent : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",2
+"Leboucq (Mme). Femme du précédent : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",1
+"Leboucq (Mme). Femme du précédent : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",1
+"Leboucq (Mme). Femme du précédent : ","Sauvagnat (Philomène). Sœur du précédent : ",1
+"Leboucq (fils). Fils des précédents : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",2
+"Leboucq (fils). Fils des précédents : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",1
+"Leboucq (fils). Fils des précédents : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",2
+"Leboucq (fils). Fils des précédents : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",2
+"Leboucq (fils). Fils des précédents : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",1
+"Louis. Cousin de Cabuche. Carrier à Bécourt : ","Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ",3
+"Louis. Cousin de Cabuche. Carrier à Bécourt : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",5
+"Louis. Cousin de Cabuche. Carrier à Bécourt : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",4
+"Louis. Cousin de Cabuche. Carrier à Bécourt : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",1
+"Louis. Cousin de Cabuche. Carrier à Bécourt : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",1
+"Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",19
+"Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",18
+"Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",13
+"Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",21
+"Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",1
+"Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ","Mélanie. Domestique de Denizet : ",1
+"Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",3
+"Louisette. Fille cadette de Phasie Misard. Femme de chambre de Mme Bonnehon : ","Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",1
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",2
+"Mélanie. Domestique de Denizet : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",1
+"Mélanie. Domestique de Denizet : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",2
+"Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",61
+"Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",35
+"Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",75
+"Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ","Moulin. Sous-chef de gare au Havre : ",1
+"Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",3
+"Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ","Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ",10
+"Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",27
+"Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ","Sauvagnat (Philomène). Sœur du précédent : ",6
+"Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",2
+"Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",2
+"Misard. Stationnaire de la Compagnie de POueSt, à la Croix-de-Maufras : ","Simon (la mère). Femme de ménage des Roubaud : ",2
+"Moulin. Sous-chef de gare au Havre : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",16
+"Moulin. Sous-chef de gare au Havre : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",14
+"Moulin. Sous-chef de gare au Havre : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",1
+"Moulin. Sous-chef de gare au Havre : ","Moulin (Mme). Épouse du précédent : ",6
+"Moulin. Sous-chef de gare au Havre : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",6
+"Moulin. Sous-chef de gare au Havre : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",3
+"Moulin. Sous-chef de gare au Havre : ","Sauvagnat (Philomène). Sœur du précédent : ",9
+"Moulin (Mme). Épouse du précédent : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",5
+"Moulin (Mme). Épouse du précédent : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",7
+"Moulin (Mme). Épouse du précédent : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",3
+"Moulin (Mme). Épouse du précédent : ","Sauvagnat (Philomène). Sœur du précédent : ",8
+"Moulin (Mme). Épouse du précédent : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",7
+"Moulin (Mme). Épouse du précédent : ","Simon (la mère). Femme de ménage des Roubaud : ",1
+"Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ","Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ",8
+"Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",15
+"Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",8
+"Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",2
+"Ozil. Aiguilleur à l'embranchement de Dieppe, sur la ligne de Paris au Havre : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",4
+"Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",50
+"Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",80
+"Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ","Sauvagnat (Philomène). Sœur du précédent : ",41
+"Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",4
+"Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ","Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ",13
+"Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",12
+"Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",18
+"Pecqueux. Chauffeur de la Compagnie de l'OueSt. Compagnon de Jacques Lantier : ","Simon (la mère). Femme de ménage des Roubaud : ",1
+"Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",25
+"Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",23
+"Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ","Sauvagnat (Philomène). Sœur du précédent : ",6
+"Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",5
+"Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",2
+"Pecqueux (Viétoire), dite la mère Vi&oire. Femme du précédent. Ancienne nourrice de Séverine Aubry. Gardienne des cabinets de luxe à la gare Saint-Lazare : ","Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ",2
+"Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ","Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ",16
+"Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",47
+"Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ","Sauvagnat (Philomène). Sœur du précédent : ",2
+"Phasie (tante). Femme de Misard. Mère de Flore et de Louisette : ","Simon (la mère). Femme de ménage des Roubaud : ",2
+"Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ","Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ",209
+"Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ","Sauvagnat (Philomène). Sœur du précédent : ",43
+"Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",11
+"Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",19
+"Roubaud. Mari de Séverine Aubry. Sous-chef de gare au Havre. Meurtrier du président Grandmorin : ","Simon (la mère). Femme de ménage des Roubaud : ",6
+"Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ","Sauvagnat (Philomène). Sœur du précédent : ",46
+"Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",11
+"Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ","Sauvagnat. Chef de dépôt à la gare du Havre : ",21
+"Roubaud ( Séverine). Fille d'Aubry. Épouse de Roubaud. Maîtresse de Jacques Lantier : ","Simon (la mère). Femme de ménage des Roubaud : ",6
+"Sauvagnat. Chef de dépôt à la gare du Havre : ","Sauvagnat (Philomène). Sœur du précédent : ",23
+"Sauvagnat (Philomène). Sœur du précédent : ","Vandorpe. Chef de gare au chemin de fer du Havre, à Paris : ",2
+"Sauvagnat (Philomène). Sœur du précédent : ","Simon (la mère). Femme de ménage des Roubaud : ",2

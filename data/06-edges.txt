@@ -1,0 +1,1143 @@
+"from","to","weight"
+"Amélie. Ancienne maîtresse de Du Poizat : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",2
+"Amélie. Ancienne maîtresse de Du Poizat : ","Charbonnel (Mme). Épouse du précédent : ",2
+"Amélie. Ancienne maîtresse de Du Poizat : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",2
+"Amélie. Ancienne maîtresse de Du Poizat : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",2
+"Amélie. Ancienne maîtresse de Du Poizat : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",2
+"Amélie. Ancienne maîtresse de Du Poizat : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Balbi (comtesse Lenora). Intrigante italienne : ",9
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ",22
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",14
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",22
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Sanquirino (duchesse). Aristocrate italienne : ",1
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",12
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",8
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",2
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",2
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",1
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",1
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",4
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Reuthlinguer (de). Banquier à Paris : ",3
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Béjuin (Léon). Député. Protégé d'Eugène Rougon : ",7
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Brambilla. Réfugié vénitien : ",3
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",8
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Staderino. Réfugié politique vénitien : ",2
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Viscardi. Réfugié politique vénitien : ",2
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Billecoq (Herminie). Protégée de Mme Correur : ",2
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",9
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Jobelin (Auguste). Fils du précédent : ",4
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Martineau (Mme). Femme du précédent : ",2
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ",2
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Flaminio. Domestique de la comtesse Balbi : ",3
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","La Rouquette. Frère de Mme de Llorentz. Député : ",2
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ",2
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ",1
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",1
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Béjuin (Mme). Epouse du précédent : ",1
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Kahn (Mme). Épouse du précédent : ",1
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",1
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",1
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Charbonnel (Mme). Épouse du précédent : ",1
+"Antonia. Femme de chambre italienne de Clo-rinde Balbi : ","Chevassu. Avoué à Fave-rolles : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ",43
+"Balbi (comtesse Lenora). Intrigante italienne : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",15
+"Balbi (comtesse Lenora). Intrigante italienne : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",40
+"Balbi (comtesse Lenora). Intrigante italienne : ","Sanquirino (duchesse). Aristocrate italienne : ",2
+"Balbi (comtesse Lenora). Intrigante italienne : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",3
+"Balbi (comtesse Lenora). Intrigante italienne : ","Reuthlinguer (de). Banquier à Paris : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ",8
+"Balbi (comtesse Lenora). Intrigante italienne : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",11
+"Balbi (comtesse Lenora). Intrigante italienne : ","Flaminio. Domestique de la comtesse Balbi : ",8
+"Balbi (comtesse Lenora). Intrigante italienne : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",12
+"Balbi (comtesse Lenora). Intrigante italienne : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",16
+"Balbi (comtesse Lenora). Intrigante italienne : ","La Rouquette. Frère de Mme de Llorentz. Député : ",14
+"Balbi (comtesse Lenora). Intrigante italienne : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",19
+"Balbi (comtesse Lenora). Intrigante italienne : ","Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ",4
+"Balbi (comtesse Lenora). Intrigante italienne : ","Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",13
+"Balbi (comtesse Lenora). Intrigante italienne : ","Béjuin (Léon). Député. Protégé d'Eugène Rougon : ",10
+"Balbi (comtesse Lenora). Intrigante italienne : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",14
+"Balbi (comtesse Lenora). Intrigante italienne : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",5
+"Balbi (comtesse Lenora). Intrigante italienne : ","Charbonnel (Mme). Épouse du précédent : ",5
+"Balbi (comtesse Lenora). Intrigante italienne : ","Legrain (général). Député : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Combelot (de). Chambellan de Napoléon III : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Nougarède (de). Sénateur : ",2
+"Balbi (comtesse Lenora). Intrigante italienne : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",11
+"Balbi (comtesse Lenora). Intrigante italienne : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",5
+"Balbi (comtesse Lenora). Intrigante italienne : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Brambilla. Réfugié vénitien : ",8
+"Balbi (comtesse Lenora). Intrigante italienne : ","Staderino. Réfugié politique vénitien : ",8
+"Balbi (comtesse Lenora). Intrigante italienne : ","Viscardi. Réfugié politique vénitien : ",8
+"Balbi (comtesse Lenora). Intrigante italienne : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",4
+"Balbi (comtesse Lenora). Intrigante italienne : ","*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Campenon. Préfet. Protégé de de Marsy : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",4
+"Balbi (comtesse Lenora). Intrigante italienne : ","Jobelin (Auguste). Fils du précédent : ",3
+"Balbi (comtesse Lenora). Intrigante italienne : ","Escorailles (marquis d'). Aristocrate de Plassans : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Escorailles (marquise d'). Épouse du précédent : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Martineau (Mme). Femme du précédent : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Chevassu. Avoué à Fave-rolles : ",1
+"Balbi (comtesse Lenora). Intrigante italienne : ","Rodriguez. Armateur : ",1
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",93
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",195
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Sanquirino (duchesse). Aristocrate italienne : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",72
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",37
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",38
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",81
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",26
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",22
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",51
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Reuthlinguer (de). Banquier à Paris : ",3
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Béjuin (Léon). Député. Protégé d'Eugène Rougon : ",57
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Brambilla. Réfugié vénitien : ",12
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",54
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Staderino. Réfugié politique vénitien : ",11
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Viscardi. Réfugié politique vénitien : ",11
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Billecoq (Herminie). Protégée de Mme Correur : ",3
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",58
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Jobelin (Auguste). Fils du précédent : ",16
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Martineau (Mme). Femme du précédent : ",10
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ",33
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Flaminio. Domestique de la comtesse Balbi : ",8
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","La Rouquette. Frère de Mme de Llorentz. Député : ",60
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ",28
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ",21
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",28
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Charbonnel (Mme). Épouse du précédent : ",29
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Legrain (général). Député : ",1
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Combelot (de). Chambellan de Napoléon III : ",19
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Nougarède (de). Sénateur : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",33
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",30
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",14
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",55
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ",6
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Campenon. Préfet. Protégé de de Marsy : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Escorailles (marquis d'). Aristocrate de Plassans : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Escorailles (marquise d'). Épouse du précédent : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",14
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",6
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Béjuin (Mme). Epouse du précédent : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Kahn (Mme). Épouse du précédent : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",4
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",4
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Langlade (de). Préfet des Deux-Sèvres : ",3
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Du Poizat (père). Ancien huissier à Coulonges : ",4
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ",23
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Gaston. Fils d'un général : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Firmin. Maître d'équipage de l'Empereur, à Compiègne : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ",16
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :",6
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Guyot - Laplançhe. Homme considérable du Second Empire : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Lebeau. Personnage influent du Second Empire : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Salneuve (de). Personnage influent du Second Empire : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Chevassu. Avoué à Fave-rolles : ",3
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Rochart (Mgr). Évêque de Faverolles : ",2
+"Balbi (Clorinde). Fille de la précédente. Intrigante italienne. Épouse DeleStang : ","Rodriguez. Armateur : ",1
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Brambilla. Réfugié vénitien : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",45
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",31
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",74
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Reuthlinguer (de). Banquier à Paris : ",1
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",75
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Staderino. Réfugié politique vénitien : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Viscardi. Réfugié politique vénitien : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Billecoq (Herminie). Protégée de Mme Correur : ",4
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",60
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Jobelin (Auguste). Fils du précédent : ",16
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Martineau (Mme). Femme du précédent : ",8
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",38
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",23
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Charbonnel (Mme). Épouse du précédent : ",25
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","La Rouquette. Frère de Mme de Llorentz. Député : ",30
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Legrain (général). Député : ",1
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Combelot (de). Chambellan de Napoléon III : ",11
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",5
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Nougarède (de). Sénateur : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",3
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ",13
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ",4
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Campenon. Préfet. Protégé de de Marsy : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",29
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",10
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",22
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",5
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Flaminio. Domestique de la comtesse Balbi : ",4
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",10
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ",34
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Escorailles (marquis d'). Aristocrate de Plassans : ",3
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Escorailles (marquise d'). Épouse du précédent : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",37
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Béjuin (Mme). Epouse du précédent : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Kahn (Mme). Épouse du précédent : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ",12
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Langlade (de). Préfet des Deux-Sèvres : ",3
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",3
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Du Poizat (père). Ancien huissier à Coulonges : ",4
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",3
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",15
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ",12
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :",3
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Chevassu. Avoué à Fave-rolles : ",3
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Rochart (Mgr). Évêque de Faverolles : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ",4
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Rodriguez. Armateur : ",3
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Huguenin. Inspecteur au ministère de l'Intérieur : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Gaudibert (Isidore). Maire de Barbeville. Compose des vers en l'honr de l'Empereur : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Jusselin (Pierre-François). Protégé de de Marsy : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Chardon (Mme). Protégée de Mme Correur : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Jalaguier (Mme). Protégée de Mme Correur : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Testaniere (Mme). Protégée de Mme Correur. — : ",2
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Blachet. Député. — : ",1
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Buquin-Lecomte. Député. — : ",1
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Lamberthon (de). Député : ",1
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","La Villardière (de). Député au Corps législatif : ",1
+"Béjuin (Léon). Député. Protégé d'Eugène Rougon : ","Florence. Petite aCtrice du Théâtre des Bouffes. Protégée de de Marsy: ",1
+"Béjuin (Mme). Epouse du précédent : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",2
+"Béjuin (Mme). Epouse du précédent : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",2
+"Béjuin (Mme). Epouse du précédent : ","Kahn (Mme). Épouse du précédent : ",2
+"Béjuin (Mme). Epouse du précédent : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",2
+"Béjuin (Mme). Epouse du précédent : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Béjuin (Mme). Epouse du précédent : ","Combelot (de). Chambellan de Napoléon III : ",1
+"Béjuin (Mme). Epouse du précédent : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",1
+"Béjuin (Mme). Epouse du précédent : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",1
+"Béjuin (Mme). Epouse du précédent : ","La Rouquette. Frère de Mme de Llorentz. Député : ",1
+"Béjuin (Mme). Epouse du précédent : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",1
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ",11
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",21
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",15
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",16
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",19
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",34
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",23
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ",5
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Campenon. Préfet. Protégé de de Marsy : ",2
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",9
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",12
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",9
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Jobelin (Auguste). Fils du précédent : ",5
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",15
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",4
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",5
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Charbonnel (Mme). Épouse du précédent : ",6
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ",4
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","La Rouquette. Frère de Mme de Llorentz. Député : ",16
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",11
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ",8
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",10
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Combelot (de). Chambellan de Napoléon III : ",8
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",5
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",2
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ",2
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Flaminio. Domestique de la comtesse Balbi : ",1
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",3
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Jusselin (Pierre-François). Protégé de de Marsy : ",1
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Lamberthon (de). Député : ",1
+"Beulin-d'Orchère. Premier président de la Cour d'appel de Paris. Beau-frère d'Eugène Rougon : ","Lamberthon (Mme de). Épouse du précédent : ",1
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",17
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",15
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",15
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",6
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",28
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",13
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",11
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",16
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ",5
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Campenon. Préfet. Protégé de de Marsy : ",1
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Jobelin (Auguste). Fils du précédent : ",8
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",8
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",7
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Charbonnel (Mme). Épouse du précédent : ",8
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",1
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",1
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ",8
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",7
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Langlade (de). Préfet des Deux-Sèvres : ",2
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","La Rouquette. Frère de Mme de Llorentz. Député : ",7
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",2
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",2
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Martineau (Mme). Femme du précédent : ",2
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Du Poizat (père). Ancien huissier à Coulonges : ",2
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",3
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",5
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",2
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ",2
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Combelot (de). Chambellan de Napoléon III : ",2
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Gaston. Fils d'un général : ",2
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ",1
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :",1
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",2
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Lamberthon (de). Député : ",1
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Lamberthon (Mme de). Épouse du précédent : ",1
+"Beulin-d'Orchère (Véronique). Sœur du précédent. Épouse Eugène Rougon : ","Eulalie. Maîtresse de Gil-quin. Ouvrière repasseuse : ",1
+"Billecoq (Herminie). Protégée de Mme Correur : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",21
+"Billecoq (Herminie). Protégée de Mme Correur : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",4
+"Billecoq (Herminie). Protégée de Mme Correur : ","Jobelin (Auguste). Fils du précédent : ",4
+"Billecoq (Herminie). Protégée de Mme Correur : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",8
+"Billecoq (Herminie). Protégée de Mme Correur : ","Martineau (Mme). Femme du précédent : ",13
+"Billecoq (Herminie). Protégée de Mme Correur : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",21
+"Billecoq (Herminie). Protégée de Mme Correur : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",3
+"Billecoq (Herminie). Protégée de Mme Correur : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",10
+"Billecoq (Herminie). Protégée de Mme Correur : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",9
+"Billecoq (Herminie). Protégée de Mme Correur : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",15
+"Billecoq (Herminie). Protégée de Mme Correur : ","Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ",3
+"Billecoq (Herminie). Protégée de Mme Correur : ","Chardon (Mme). Protégée de Mme Correur : ",6
+"Billecoq (Herminie). Protégée de Mme Correur : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",1
+"Billecoq (Herminie). Protégée de Mme Correur : ","Jalaguier (Mme). Protégée de Mme Correur : ",6
+"Billecoq (Herminie). Protégée de Mme Correur : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",6
+"Billecoq (Herminie). Protégée de Mme Correur : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",4
+"Billecoq (Herminie). Protégée de Mme Correur : ","Testaniere (Mme). Protégée de Mme Correur. — : ",6
+"Billecoq (Herminie). Protégée de Mme Correur : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",3
+"Billecoq (Herminie). Protégée de Mme Correur : ","Charbonnel (Mme). Épouse du précédent : ",3
+"Billecoq (Herminie). Protégée de Mme Correur : ","Chevassu. Avoué à Fave-rolles : ",1
+"Billecoq (Herminie). Protégée de Mme Correur : ","Rochart (Mgr). Évêque de Faverolles : ",1
+"Billecoq (Herminie). Protégée de Mme Correur : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Billecoq (Herminie). Protégée de Mme Correur : ","Jalaguier (fils). Fils de la précédente : ",2
+"Billecoq (Herminie). Protégée de Mme Correur : ","Du Poizat (père). Ancien huissier à Coulonges : ",1
+"Billecoq (Herminie). Protégée de Mme Correur : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",3
+"Blachet. Député. — : ","Buquin-Lecomte. Député. — : ",2
+"Blachet. Député. — : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",2
+"Blachet. Député. — : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",2
+"Blachet. Député. — : ","Lamberthon (de). Député : ",2
+"Blachet. Député. — : ","La Rouquette. Frère de Mme de Llorentz. Député : ",2
+"Blachet. Député. — : ","La Villardière (de). Député au Corps législatif : ",2
+"Blachet. Député. — : ","Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ",1
+"Blachet. Député. — : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",1
+"Blachet. Député. — : ","Charbonnel (Mme). Épouse du précédent : ",1
+"Blachet. Député. — : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",1
+"Blachet. Député. — : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",1
+"Blachet. Député. — : ","Legrain (général). Député : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",62
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",28
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",18
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",33
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",125
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",19
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Charbonnel (Mme). Épouse du précédent : ",23
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",38
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",47
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","La Rouquette. Frère de Mme de Llorentz. Député : ",38
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Legrain (général). Député : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Combelot (de). Chambellan de Napoléon III : ",20
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Nougarède (de). Sénateur : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",17
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ",21
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",25
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",43
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",44
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",7
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ",16
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Campenon. Préfet. Protégé de de Marsy : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",35
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Jobelin (Auguste). Fils du précédent : ",13
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",17
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Du Poizat (père). Ancien huissier à Coulonges : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ",19
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Gaston. Fils d'un général : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Firmin. Maître d'équipage de l'Empereur, à Compiègne : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",13
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ",7
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Flaminio. Domestique de la comtesse Balbi : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Martineau (Mme). Femme du précédent : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rodriguez. Armateur : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Langlade (de). Préfet des Deux-Sèvres : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Gaudibert (Isidore). Maire de Barbeville. Compose des vers en l'honr de l'Empereur : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Huguenin. Inspecteur au ministère de l'Intérieur : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Jusselin (Pierre-François). Protégé de de Marsy : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",5
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Eulalie. Maîtresse de Gil-quin. Ouvrière repasseuse : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Escorailles (marquis d'). Aristocrate de Plassans : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Escorailles (marquise d'). Épouse du précédent : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lamberthon (de). Député : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lamberthon (Mme de). Épouse du précédent : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Jules. Garçon de café : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Florence. Petite aCtrice du Théâtre des Bouffes. Protégée de de Marsy: ",1
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Campenon. Préfet. Protégé de de Marsy : ",2
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",11
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",3
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",8
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",9
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",8
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Jobelin (Auguste). Fils du précédent : ",5
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",4
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",6
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",5
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",11
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Combelot (de). Chambellan de Napoléon III : ",3
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ",2
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Gaston. Fils d'un général : ",2
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","La Rouquette. Frère de Mme de Llorentz. Député : ",6
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",3
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",1
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ",4
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",4
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Gaudibert (Isidore). Maire de Barbeville. Compose des vers en l'honr de l'Empereur : ",2
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Huguenin. Inspecteur au ministère de l'Intérieur : ",1
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Jusselin (Pierre-François). Protégé de de Marsy : ",1
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",7
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Charbonnel (Mme). Épouse du précédent : ",7
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",7
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Lamberthon (de). Député : ",2
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Lamberthon (Mme de). Épouse du précédent : ",2
+"*Bonaparte (Napoléon-Louis). Fils de Napoléon III et de l'impératrice Eugénie. Dit le Prince Impérial : ","Jules. Garçon de café : ",3
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :",6
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",11
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",6
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",20
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",8
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",12
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",7
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",6
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",17
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",16
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ",12
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Flaminio. Domestique de la comtesse Balbi : ",1
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Jobelin (Auguste). Fils du précédent : ",3
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","La Rouquette. Frère de Mme de Llorentz. Député : ",8
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",8
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",1
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Escorailles (marquis d'). Aristocrate de Plassans : ",1
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Escorailles (marquise d'). Épouse du précédent : ",1
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Martineau (Mme). Femme du précédent : ",3
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",5
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Charbonnel (Mme). Épouse du précédent : ",5
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Chevassu. Avoué à Fave-rolles : ",2
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",2
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",2
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Rochart (Mgr). Évêque de Faverolles : ",1
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Du Poizat (père). Ancien huissier à Coulonges : ",2
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",2
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ",3
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Combelot (de). Chambellan de Napoléon III : ",2
+"Bouchard. Chef de bureau au ministère de l'Intérieur. Protégé d'Eugène Rougon : ","Rodriguez. Armateur : ",2
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",44
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",25
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Flaminio. Domestique de la comtesse Balbi : ",5
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",50
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",48
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","La Rouquette. Frère de Mme de Llorentz. Député : ",31
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",4
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",58
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",28
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Charbonnel (Mme). Épouse du précédent : ",32
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",48
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",21
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",13
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Escorailles (marquis d'). Aristocrate de Plassans : ",2
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Escorailles (marquise d'). Épouse du précédent : ",2
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",17
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Martineau (Mme). Femme du précédent : ",4
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",6
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Jobelin (Auguste). Fils du précédent : ",13
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",4
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",6
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Langlade (de). Préfet des Deux-Sèvres : ",3
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Du Poizat (père). Ancien huissier à Coulonges : ",1
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Combelot (de). Chambellan de Napoléon III : ",6
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",3
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",1
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :",2
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Chevassu. Avoué à Fave-rolles : ",1
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",4
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Rochart (Mgr). Évêque de Faverolles : ",2
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ",8
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Rodriguez. Armateur : ",2
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Gaudibert (Isidore). Maire de Barbeville. Compose des vers en l'honr de l'Empereur : ",2
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Huguenin. Inspecteur au ministère de l'Intérieur : ",1
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Jusselin (Pierre-François). Protégé de de Marsy : ",1
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Chardon (Mme). Protégée de Mme Correur : ",3
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Jalaguier (Mme). Protégée de Mme Correur : ",3
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",3
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Testaniere (Mme). Protégée de Mme Correur. — : ",3
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Legrain (général). Député : ",2
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Jules. Garçon de café : ",1
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Buquin-Lecomte. Député. — : ",1
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","Lamberthon (de). Député : ",1
+"Bouchard (Adèle). Née Adèle Des vignes. Épouse du précédent : ","La Villardière (de). Député au Corps législatif : ",1
+"Brambilla. Réfugié vénitien : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",2
+"Brambilla. Réfugié vénitien : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",4
+"Brambilla. Réfugié vénitien : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",2
+"Brambilla. Réfugié vénitien : ","Reuthlinguer (de). Banquier à Paris : ",1
+"Brambilla. Réfugié vénitien : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",12
+"Brambilla. Réfugié vénitien : ","Staderino. Réfugié politique vénitien : ",11
+"Brambilla. Réfugié vénitien : ","Viscardi. Réfugié politique vénitien : ",11
+"Brambilla. Réfugié vénitien : ","La Rouquette. Frère de Mme de Llorentz. Député : ",8
+"Brambilla. Réfugié vénitien : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",10
+"Brambilla. Réfugié vénitien : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",10
+"Brambilla. Réfugié vénitien : ","Flaminio. Domestique de la comtesse Balbi : ",2
+"Brambilla. Réfugié vénitien : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",1
+"Brambilla. Réfugié vénitien : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",1
+"Brambilla. Réfugié vénitien : ","Jobelin (Auguste). Fils du précédent : ",1
+"Buquin-Lecomte. Député. — : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",2
+"Buquin-Lecomte. Député. — : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",2
+"Buquin-Lecomte. Député. — : ","Lamberthon (de). Député : ",2
+"Buquin-Lecomte. Député. — : ","La Rouquette. Frère de Mme de Llorentz. Député : ",2
+"Buquin-Lecomte. Député. — : ","La Villardière (de). Député au Corps législatif : ",2
+"Buquin-Lecomte. Député. — : ","Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ",1
+"Buquin-Lecomte. Député. — : ","Charbonnel (Mme). Épouse du précédent : ",1
+"Buquin-Lecomte. Député. — : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",1
+"Buquin-Lecomte. Député. — : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",1
+"Buquin-Lecomte. Député. — : ","Legrain (général). Député : ",1
+"Campenon. Préfet. Protégé de de Marsy : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",2
+"Campenon. Préfet. Protégé de de Marsy : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",2
+"Campenon. Préfet. Protégé de de Marsy : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",2
+"Campenon. Préfet. Protégé de de Marsy : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",1
+"Campenon. Préfet. Protégé de de Marsy : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",2
+"Campenon. Préfet. Protégé de de Marsy : ","Jobelin (Auguste). Fils du précédent : ",2
+"Campenon. Préfet. Protégé de de Marsy : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",2
+"Campenon. Préfet. Protégé de de Marsy : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",2
+"Campenon. Préfet. Protégé de de Marsy : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",1
+"Campenon. Préfet. Protégé de de Marsy : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Charbonnel (Mme). Épouse du précédent : ",67
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",44
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",24
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",23
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",55
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",35
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","La Rouquette. Frère de Mme de Llorentz. Député : ",17
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Legrain (général). Député : ",3
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",24
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",31
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",20
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",12
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Jobelin (Auguste). Fils du précédent : ",8
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",3
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",6
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",8
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Langlade (de). Préfet des Deux-Sèvres : ",2
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Martineau (Mme). Femme du précédent : ",2
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Du Poizat (père). Ancien huissier à Coulonges : ",4
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Combelot (de). Chambellan de Napoléon III : ",4
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",6
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",2
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",2
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Chevassu. Avoué à Fave-rolles : ",11
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",8
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Rochart (Mgr). Évêque de Faverolles : ",9
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",7
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Chardon (Mme). Protégée de Mme Correur : ",3
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Jalaguier (Mme). Protégée de Mme Correur : ",3
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",3
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Testaniere (Mme). Protégée de Mme Correur. — : ",3
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Jules. Garçon de café : ",4
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Lamberthon (de). Député : ",1
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","La Villardière (de). Député au Corps législatif : ",1
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ",5
+"Charbonnel. Protégé d'Eugène Rougon. Ancien marchand d'huile à Plassans : ","Jalaguier (fils). Fils de la précédente : ",1
+"Charbonnel (Mme). Épouse du précédent : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",48
+"Charbonnel (Mme). Épouse du précédent : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",26
+"Charbonnel (Mme). Épouse du précédent : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",24
+"Charbonnel (Mme). Épouse du précédent : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",58
+"Charbonnel (Mme). Épouse du précédent : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",37
+"Charbonnel (Mme). Épouse du précédent : ","La Rouquette. Frère de Mme de Llorentz. Député : ",18
+"Charbonnel (Mme). Épouse du précédent : ","Legrain (général). Député : ",3
+"Charbonnel (Mme). Épouse du précédent : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",27
+"Charbonnel (Mme). Épouse du précédent : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",33
+"Charbonnel (Mme). Épouse du précédent : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",21
+"Charbonnel (Mme). Épouse du précédent : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",12
+"Charbonnel (Mme). Épouse du précédent : ","Jobelin (Auguste). Fils du précédent : ",9
+"Charbonnel (Mme). Épouse du précédent : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",3
+"Charbonnel (Mme). Épouse du précédent : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",10
+"Charbonnel (Mme). Épouse du précédent : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",6
+"Charbonnel (Mme). Épouse du précédent : ","Langlade (de). Préfet des Deux-Sèvres : ",2
+"Charbonnel (Mme). Épouse du précédent : ","Martineau (Mme). Femme du précédent : ",2
+"Charbonnel (Mme). Épouse du précédent : ","Du Poizat (père). Ancien huissier à Coulonges : ",4
+"Charbonnel (Mme). Épouse du précédent : ","Combelot (de). Chambellan de Napoléon III : ",4
+"Charbonnel (Mme). Épouse du précédent : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",6
+"Charbonnel (Mme). Épouse du précédent : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",2
+"Charbonnel (Mme). Épouse du précédent : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",2
+"Charbonnel (Mme). Épouse du précédent : ","Chevassu. Avoué à Fave-rolles : ",11
+"Charbonnel (Mme). Épouse du précédent : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",8
+"Charbonnel (Mme). Épouse du précédent : ","Rochart (Mgr). Évêque de Faverolles : ",9
+"Charbonnel (Mme). Épouse du précédent : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",7
+"Charbonnel (Mme). Épouse du précédent : ","Chardon (Mme). Protégée de Mme Correur : ",3
+"Charbonnel (Mme). Épouse du précédent : ","Jalaguier (Mme). Protégée de Mme Correur : ",3
+"Charbonnel (Mme). Épouse du précédent : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",3
+"Charbonnel (Mme). Épouse du précédent : ","Testaniere (Mme). Protégée de Mme Correur. — : ",3
+"Charbonnel (Mme). Épouse du précédent : ","Jules. Garçon de café : ",4
+"Charbonnel (Mme). Épouse du précédent : ","Lamberthon (de). Député : ",1
+"Charbonnel (Mme). Épouse du précédent : ","La Villardière (de). Député au Corps législatif : ",1
+"Charbonnel (Mme). Épouse du précédent : ","Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ",5
+"Charbonnel (Mme). Épouse du précédent : ","Jalaguier (fils). Fils de la précédente : ",1
+"Chardon (Mme). Protégée de Mme Correur : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",6
+"Chardon (Mme). Protégée de Mme Correur : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",1
+"Chardon (Mme). Protégée de Mme Correur : ","Jalaguier (Mme). Protégée de Mme Correur : ",6
+"Chardon (Mme). Protégée de Mme Correur : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",6
+"Chardon (Mme). Protégée de Mme Correur : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",4
+"Chardon (Mme). Protégée de Mme Correur : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",6
+"Chardon (Mme). Protégée de Mme Correur : ","Testaniere (Mme). Protégée de Mme Correur. — : ",6
+"Chardon (Mme). Protégée de Mme Correur : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",2
+"Chardon (Mme). Protégée de Mme Correur : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",3
+"Chardon (Mme). Protégée de Mme Correur : ","Chevassu. Avoué à Fave-rolles : ",1
+"Chardon (Mme). Protégée de Mme Correur : ","Rochart (Mgr). Évêque de Faverolles : ",1
+"Chardon (Mme). Protégée de Mme Correur : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Chardon (Mme). Protégée de Mme Correur : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",2
+"Chardon (Mme). Protégée de Mme Correur : ","Jobelin (Auguste). Fils du précédent : ",2
+"Chardon (Mme). Protégée de Mme Correur : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",1
+"Chardon (Mme). Protégée de Mme Correur : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",1
+"Chardon (Mme). Protégée de Mme Correur : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",1
+"Chardon (Mme). Protégée de Mme Correur : ","Jalaguier (fils). Fils de la précédente : ",1
+"Chardon (Mme). Protégée de Mme Correur : ","Martineau (Mme). Femme du précédent : ",1
+"Chevassu. Avoué à Fave-rolles : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",4
+"Chevassu. Avoué à Fave-rolles : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",5
+"Chevassu. Avoué à Fave-rolles : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",2
+"Chevassu. Avoué à Fave-rolles : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",11
+"Chevassu. Avoué à Fave-rolles : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",3
+"Chevassu. Avoué à Fave-rolles : ","Du Poizat (père). Ancien huissier à Coulonges : ",2
+"Chevassu. Avoué à Fave-rolles : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",4
+"Chevassu. Avoué à Fave-rolles : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",2
+"Chevassu. Avoué à Fave-rolles : ","Jobelin (Auguste). Fils du précédent : ",1
+"Chevassu. Avoué à Fave-rolles : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",2
+"Chevassu. Avoué à Fave-rolles : ","Rochart (Mgr). Évêque de Faverolles : ",6
+"Chevassu. Avoué à Fave-rolles : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",5
+"Chevassu. Avoué à Fave-rolles : ","Jalaguier (Mme). Protégée de Mme Correur : ",1
+"Chevassu. Avoué à Fave-rolles : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",1
+"Chevassu. Avoué à Fave-rolles : ","Testaniere (Mme). Protégée de Mme Correur. — : ",1
+"Chevassu. Avoué à Fave-rolles : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",2
+"Chevassu. Avoué à Fave-rolles : ","Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ",2
+"Combelot (de). Chambellan de Napoléon III : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",12
+"Combelot (de). Chambellan de Napoléon III : ","La Rouquette. Frère de Mme de Llorentz. Député : ",29
+"Combelot (de). Chambellan de Napoléon III : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",9
+"Combelot (de). Chambellan de Napoléon III : ","Nougarède (de). Sénateur : ",1
+"Combelot (de). Chambellan de Napoléon III : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",8
+"Combelot (de). Chambellan de Napoléon III : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",14
+"Combelot (de). Chambellan de Napoléon III : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",6
+"Combelot (de). Chambellan de Napoléon III : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",10
+"Combelot (de). Chambellan de Napoléon III : ","Kahn (Mme). Épouse du précédent : ",1
+"Combelot (de). Chambellan de Napoléon III : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",17
+"Combelot (de). Chambellan de Napoléon III : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",3
+"Combelot (de). Chambellan de Napoléon III : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",28
+"Combelot (de). Chambellan de Napoléon III : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",1
+"Combelot (de). Chambellan de Napoléon III : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",1
+"Combelot (de). Chambellan de Napoléon III : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",1
+"Combelot (de). Chambellan de Napoléon III : ","Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ",7
+"Combelot (de). Chambellan de Napoléon III : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",3
+"Combelot (de). Chambellan de Napoléon III : ","Gaston. Fils d'un général : ",2
+"Combelot (de). Chambellan de Napoléon III : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",12
+"Combelot (de). Chambellan de Napoléon III : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",8
+"Combelot (de). Chambellan de Napoléon III : ","Rodriguez. Armateur : ",2
+"Combelot (de). Chambellan de Napoléon III : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",2
+"Combelot (de). Chambellan de Napoléon III : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",2
+"Combelot (de). Chambellan de Napoléon III : ","Florence. Petite aCtrice du Théâtre des Bouffes. Protégée de de Marsy: ",2
+"Combelot (de). Chambellan de Napoléon III : ","Lamberthon (de). Député : ",1
+"Combelot (de). Chambellan de Napoléon III : ","Lamberthon (Mme de). Épouse du précédent : ",1
+"Combelot (de). Chambellan de Napoléon III : ","La Villardière (de). Député au Corps législatif : ",2
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",15
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",8
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Jobelin (Auguste). Fils du précédent : ",1
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",13
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",15
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",29
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",11
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",8
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Gaston. Fils d'un général : ",1
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","La Rouquette. Frère de Mme de Llorentz. Député : ",18
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Firmin. Maître d'équipage de l'Empereur, à Compiègne : ",2
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",6
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ",5
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",6
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",5
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",2
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :",1
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Martineau (Mme). Femme du précédent : ",1
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Rochart (Mgr). Évêque de Faverolles : ",1
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",1
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",2
+"Combelot (Henriette de). Femme du précédent. Sœur de DeleStang : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",1
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",39
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",29
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",90
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ",30
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",63
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Reuthlinguer (de). Banquier à Paris : ",1
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Staderino. Réfugié politique vénitien : ",2
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Viscardi. Réfugié politique vénitien : ",2
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",60
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Jobelin (Auguste). Fils du précédent : ",19
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Martineau (Mme). Femme du précédent : ",20
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",9
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Flaminio. Domestique de la comtesse Balbi : ",6
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","La Rouquette. Frère de Mme de Llorentz. Député : ",24
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Legrain (général). Député : ",3
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",33
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",13
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",11
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",19
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",3
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Escorailles (marquis d'). Aristocrate de Plassans : ",3
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Escorailles (marquise d'). Épouse du précédent : ",3
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",19
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",5
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Langlade (de). Préfet des Deux-Sèvres : ",3
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Du Poizat (père). Ancien huissier à Coulonges : ",4
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :",3
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Rochart (Mgr). Évêque de Faverolles : ",3
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Jalaguier (Mme). Protégée de Mme Correur : ",6
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",6
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Testaniere (Mme). Protégée de Mme Correur. — : ",6
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",3
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Jalaguier (fils). Fils de la précédente : ",2
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Jules. Garçon de café : ",3
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","Lamberthon (de). Député : ",1
+"Correur (Mélanie). Née Martineau. Vieille amie et protégée d'Eugène Rougon : ","La Villardière (de). Député au Corps législatif : ",1
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",125
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Sanquirino (duchesse). Aristocrate italienne : ",2
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",47
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",16
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",13
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",25
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Reuthlinguer (de). Banquier à Paris : ",2
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",57
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Staderino. Réfugié politique vénitien : ",3
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Viscardi. Réfugié politique vénitien : ",3
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Flaminio. Domestique de la comtesse Balbi : ",4
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",41
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","La Rouquette. Frère de Mme de Llorentz. Député : ",30
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",9
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",25
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",24
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Jobelin (Auguste). Fils du précédent : ",11
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",36
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",17
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Escorailles (marquis d'). Aristocrate de Plassans : ",1
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Escorailles (marquise d'). Épouse du précédent : ",1
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Martineau (Mme). Femme du précédent : ",6
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",5
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",7
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Kahn (Mme). Épouse du précédent : ",1
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",3
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",6
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",3
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Langlade (de). Préfet des Deux-Sèvres : ",4
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Firmin. Maître d'équipage de l'Empereur, à Compiègne : ",1
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :",3
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Jalaguier (Mme). Protégée de Mme Correur : ",2
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",2
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Testaniere (Mme). Protégée de Mme Correur. — : ",2
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Rochart (Mgr). Évêque de Faverolles : ",2
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Florence. Petite aCtrice du Théâtre des Bouffes. Protégée de de Marsy: ",2
+"Delestang. Conseiller d'État. Épouse Clorinde Balbi. Remplace Eugène Rougon au ministère de l'In-térieur : ","Du Poizat (père). Ancien huissier à Coulonges : ",3
+"Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",3
+"Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",2
+"Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",6
+"Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",4
+"Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",4
+"Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :","La Rouquette. Frère de Mme de Llorentz. Député : ",2
+"Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",4
+"Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :","Escorailles (marquis d'). Aristocrate de Plassans : ",1
+"Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :","Escorailles (marquise d'). Épouse du précédent : ",1
+"Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :","Martineau (Mme). Femme du précédent : ",3
+"Duchesne (Georges). Commis principal au ministère de l'Intérieur. Amant de Mme Bouchard :","*Eugénie (impératrice); Épouse de Napoléon III. A : ",2
+"Du Poizat (père). Ancien huissier à Coulonges : ","Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ",11
+"Du Poizat (père). Ancien huissier à Coulonges : ","Jobelin (Auguste). Fils du précédent : ",2
+"Du Poizat (père). Ancien huissier à Coulonges : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",7
+"Du Poizat (père). Ancien huissier à Coulonges : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",11
+"Du Poizat (père). Ancien huissier à Coulonges : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",3
+"Du Poizat (père). Ancien huissier à Coulonges : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",6
+"Du Poizat (père). Ancien huissier à Coulonges : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",1
+"Du Poizat (père). Ancien huissier à Coulonges : ","Martineau (Mme). Femme du précédent : ",1
+"Du Poizat (père). Ancien huissier à Coulonges : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",1
+"Du Poizat (père). Ancien huissier à Coulonges : ","Rochart (Mgr). Évêque de Faverolles : ",1
+"Du Poizat (père). Ancien huissier à Coulonges : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",3
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",33
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",99
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",27
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",50
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",67
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",18
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",7
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Jobelin (Auguste). Fils du précédent : ",21
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",22
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",4
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",14
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Kahn (Mme). Épouse du précédent : ",2
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",5
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","La Rouquette. Frère de Mme de Llorentz. Député : ",11
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",4
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",3
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",3
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",1
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Langlade (de). Préfet des Deux-Sèvres : ",4
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Martineau (Mme). Femme du précédent : ",9
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",3
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Escorailles (marquis d'). Aristocrate de Plassans : ",4
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Huguenin. Inspecteur au ministère de l'Intérieur : ",2
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Gaudibert (Isidore). Maire de Barbeville. Compose des vers en l'honr de l'Empereur : ",1
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Escorailles (marquise d'). Épouse du précédent : ",2
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Jules. Garçon de café : ",2
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Rochart (Mgr). Évêque de Faverolles : ",2
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Florence. Petite aCtrice du Théâtre des Bouffes. Protégée de de Marsy: ",2
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Jalaguier (Mme). Protégée de Mme Correur : ",1
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",1
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Testaniere (Mme). Protégée de Mme Correur. — : ",1
+"Du Poizat (Léopold). Fils | [• du précédent. Protégé d'Eugène Rougon. Devient préfet des Deux-Sèvres : ","Eulalie. Maîtresse de Gil-quin. Ouvrière repasseuse : ",2
+"Escorailles (marquis d'). Aristocrate de Plassans : ","Escorailles (marquise d'). Épouse du précédent : ",8
+"Escorailles (marquis d'). Aristocrate de Plassans : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",10
+"Escorailles (marquis d'). Aristocrate de Plassans : ","Flaminio. Domestique de la comtesse Balbi : ",1
+"Escorailles (marquis d'). Aristocrate de Plassans : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",4
+"Escorailles (marquis d'). Aristocrate de Plassans : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",3
+"Escorailles (marquis d'). Aristocrate de Plassans : ","La Rouquette. Frère de Mme de Llorentz. Député : ",2
+"Escorailles (marquis d'). Aristocrate de Plassans : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",2
+"Escorailles (marquis d'). Aristocrate de Plassans : ","Martineau (Mme). Femme du précédent : ",2
+"Escorailles (marquis d'). Aristocrate de Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",10
+"Escorailles (marquis d'). Aristocrate de Plassans : ","Huguenin. Inspecteur au ministère de l'Intérieur : ",1
+"Escorailles (marquis d'). Aristocrate de Plassans : ","Jobelin (Auguste). Fils du précédent : ",1
+"Escorailles (marquis d'). Aristocrate de Plassans : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",1
+"Escorailles (marquis d'). Aristocrate de Plassans : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",4
+"Escorailles (marquis d'). Aristocrate de Plassans : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",1
+"Escorailles (marquise d'). Épouse du précédent : ","Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ",8
+"Escorailles (marquise d'). Épouse du précédent : ","Flaminio. Domestique de la comtesse Balbi : ",1
+"Escorailles (marquise d'). Épouse du précédent : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",3
+"Escorailles (marquise d'). Épouse du précédent : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",2
+"Escorailles (marquise d'). Épouse du précédent : ","La Rouquette. Frère de Mme de Llorentz. Député : ",2
+"Escorailles (marquise d'). Épouse du précédent : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",2
+"Escorailles (marquise d'). Épouse du précédent : ","Martineau (Mme). Femme du précédent : ",2
+"Escorailles (marquise d'). Épouse du précédent : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",8
+"Escorailles (marquise d'). Épouse du précédent : ","Jobelin (Auguste). Fils du précédent : ",1
+"Escorailles (marquise d'). Épouse du précédent : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",1
+"Escorailles (marquise d'). Épouse du précédent : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",4
+"Escorailles (marquise d'). Épouse du précédent : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",1
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",52
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",49
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",64
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",19
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Flaminio. Domestique de la comtesse Balbi : ",2
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","La Rouquette. Frère de Mme de Llorentz. Député : ",31
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",22
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Martineau (Mme). Femme du précédent : ",4
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",4
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Jobelin (Auguste). Fils du précédent : ",8
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",3
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Kahn (Mme). Épouse du précédent : ",1
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",5
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",8
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",1
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",1
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",1
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Langlade (de). Préfet des Deux-Sèvres : ",3
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",2
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",2
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","*Eugénie (impératrice); Épouse de Napoléon III. A : ",4
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Rodriguez. Armateur : ",2
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Huguenin. Inspecteur au ministère de l'Intérieur : ",2
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Gaudibert (Isidore). Maire de Barbeville. Compose des vers en l'honr de l'Empereur : ",2
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Jusselin (Pierre-François). Protégé de de Marsy : ",2
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Jalaguier (Mme). Protégée de Mme Correur : ",1
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",1
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Testaniere (Mme). Protégée de Mme Correur. — : ",1
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Legrain (général). Député : ",2
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Jules. Garçon de café : ",1
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","Lamberthon (de). Député : ",1
+"Escorailles (Jules d'). Fils des précédents. Auditeur au Conseil d'État. Protégé d'Eugène Rougbn : ","La Villardière (de). Député au Corps législatif : ",1
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",9
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",16
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",28
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",9
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Jobelin (Auguste). Fils du précédent : ",3
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",11
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",13
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",10
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","La Rouquette. Frère de Mme de Llorentz. Député : ",10
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",7
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Gaston. Fils d'un général : ",1
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",1
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Rochart (Mgr). Évêque de Faverolles : ",2
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Martineau (Mme). Femme du précédent : ",2
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Rodriguez. Armateur : ",2
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Gaudibert (Isidore). Maire de Barbeville. Compose des vers en l'honr de l'Empereur : ",2
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Huguenin. Inspecteur au ministère de l'Intérieur : ",1
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Jusselin (Pierre-François). Protégé de de Marsy : ",1
+"*Eugénie (impératrice); Épouse de Napoléon III. A : ","Jules. Garçon de café : ",2
+"Eulalie. Maîtresse de Gil-quin. Ouvrière repasseuse : ","Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ",4
+"Eulalie. Maîtresse de Gil-quin. Ouvrière repasseuse : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",4
+"Eulalie. Maîtresse de Gil-quin. Ouvrière repasseuse : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",2
+"Eulalie. Maîtresse de Gil-quin. Ouvrière repasseuse : ","Jobelin (Auguste). Fils du précédent : ",1
+"Firmin. Maître d'équipage de l'Empereur, à Compiègne : ","La Rouquette. Frère de Mme de Llorentz. Député : ",2
+"Firmin. Maître d'équipage de l'Empereur, à Compiègne : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",2
+"Firmin. Maître d'équipage de l'Empereur, à Compiègne : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Firmin. Maître d'équipage de l'Empereur, à Compiègne : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",2
+"Flaminio. Domestique de la comtesse Balbi : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",6
+"Flaminio. Domestique de la comtesse Balbi : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",6
+"Flaminio. Domestique de la comtesse Balbi : ","La Rouquette. Frère de Mme de Llorentz. Député : ",6
+"Flaminio. Domestique de la comtesse Balbi : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",6
+"Flaminio. Domestique de la comtesse Balbi : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",8
+"Flaminio. Domestique de la comtesse Balbi : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",2
+"Flaminio. Domestique de la comtesse Balbi : ","Staderino. Réfugié politique vénitien : ",2
+"Flaminio. Domestique de la comtesse Balbi : ","Viscardi. Réfugié politique vénitien : ",2
+"Flaminio. Domestique de la comtesse Balbi : ","Jobelin (Auguste). Fils du précédent : ",2
+"Flaminio. Domestique de la comtesse Balbi : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",2
+"Flaminio. Domestique de la comtesse Balbi : ","Martineau (Mme). Femme du précédent : ",1
+"Florence. Petite aCtrice du Théâtre des Bouffes. Protégée de de Marsy: ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",2
+"Florence. Petite aCtrice du Théâtre des Bouffes. Protégée de de Marsy: ","La Rouquette. Frère de Mme de Llorentz. Député : ",1
+"Florence. Petite aCtrice du Théâtre des Bouffes. Protégée de de Marsy: ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",2
+"Florence. Petite aCtrice du Théâtre des Bouffes. Protégée de de Marsy: ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Gaston. Fils d'un général : ","La Rouquette. Frère de Mme de Llorentz. Député : ",2
+"Gaston. Fils d'un général : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",1
+"Gaston. Fils d'un général : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",2
+"Gaston. Fils d'un général : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",2
+"Gaston. Fils d'un général : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Gaudibert (Isidore). Maire de Barbeville. Compose des vers en l'honr de l'Empereur : ","Huguenin. Inspecteur au ministère de l'Intérieur : ",1
+"Gaudibert (Isidore). Maire de Barbeville. Compose des vers en l'honr de l'Empereur : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",2
+"Gaudibert (Isidore). Maire de Barbeville. Compose des vers en l'honr de l'Empereur : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",2
+"Gaudibert (Isidore). Maire de Barbeville. Compose des vers en l'honr de l'Empereur : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Gaudibert (Isidore). Maire de Barbeville. Compose des vers en l'honr de l'Empereur : ","Jusselin (Pierre-François). Protégé de de Marsy : ",1
+"Gaudibert (Isidore). Maire de Barbeville. Compose des vers en l'honr de l'Empereur : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",1
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",49
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",13
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Jobelin (Auguste). Fils du précédent : ",8
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",16
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",14
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",4
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",2
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","La Rouquette. Frère de Mme de Llorentz. Député : ",3
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",1
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",4
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Martineau (Mme). Femme du précédent : ",10
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Jules. Garçon de café : ",4
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",1
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Rochart (Mgr). Évêque de Faverolles : ",1
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Jalaguier (Mme). Protégée de Mme Correur : ",1
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",1
+"Gilquin (Théodore). Ami et protégé d'Eugène Rougon. Indicateur de police : ","Testaniere (Mme). Protégée de Mme Correur. — : ",1
+"Guyot - Laplançhe. Homme considérable du Second Empire : ","Lebeau. Personnage influent du Second Empire : ",2
+"Guyot - Laplançhe. Homme considérable du Second Empire : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",2
+"Guyot - Laplançhe. Homme considérable du Second Empire : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",2
+"Guyot - Laplançhe. Homme considérable du Second Empire : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Guyot - Laplançhe. Homme considérable du Second Empire : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",2
+"Guyot - Laplançhe. Homme considérable du Second Empire : ","Salneuve (de). Personnage influent du Second Empire : ",2
+"Huguenin. Inspecteur au ministère de l'Intérieur : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",2
+"Huguenin. Inspecteur au ministère de l'Intérieur : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",2
+"Huguenin. Inspecteur au ministère de l'Intérieur : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Jalaguier (Mme). Protégée de Mme Correur : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",6
+"Jalaguier (Mme). Protégée de Mme Correur : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",4
+"Jalaguier (Mme). Protégée de Mme Correur : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",6
+"Jalaguier (Mme). Protégée de Mme Correur : ","Testaniere (Mme). Protégée de Mme Correur. — : ",6
+"Jalaguier (Mme). Protégée de Mme Correur : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",3
+"Jalaguier (Mme). Protégée de Mme Correur : ","Rochart (Mgr). Évêque de Faverolles : ",1
+"Jalaguier (Mme). Protégée de Mme Correur : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Jalaguier (Mme). Protégée de Mme Correur : ","Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ",2
+"Jalaguier (Mme). Protégée de Mme Correur : ","Jobelin (Auguste). Fils du précédent : ",2
+"Jalaguier (Mme). Protégée de Mme Correur : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",1
+"Jalaguier (Mme). Protégée de Mme Correur : ","Jalaguier (fils). Fils de la précédente : ",1
+"Jalaguier (Mme). Protégée de Mme Correur : ","Martineau (Mme). Femme du précédent : ",1
+"Jalaguier (fils). Fils de la précédente : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",2
+"Jalaguier (fils). Fils de la précédente : ","Martineau (Mme). Femme du précédent : ",2
+"Jalaguier (fils). Fils de la précédente : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Jalaguier (fils). Fils de la précédente : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",1
+"Jalaguier (fils). Fils de la précédente : ","Testaniere (Mme). Protégée de Mme Correur. — : ",1
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Jobelin (Auguste). Fils du précédent : ",30
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",81
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Martineau (Mme). Femme du précédent : ",9
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",96
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",10
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","La Rouquette. Frère de Mme de Llorentz. Député : ",29
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",5
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",20
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",29
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",7
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",7
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Langlade (de). Préfet des Deux-Sèvres : ",4
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",1
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Staderino. Réfugié politique vénitien : ",1
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Viscardi. Réfugié politique vénitien : ",1
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Rodriguez. Armateur : ",2
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Jusselin (Pierre-François). Protégé de de Marsy : ",2
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Rochart (Mgr). Évêque de Faverolles : ",1
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",3
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",2
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Testaniere (Mme). Protégée de Mme Correur. — : ",2
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Lamberthon (de). Député : ",2
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","La Villardière (de). Député au Corps législatif : ",2
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Jules. Garçon de café : ",1
+"Jobelin. Colonel en retraite, protégé d'Eugène Rougon : ","Legrain (général). Député : ",1
+"Jobelin (Auguste). Fils du précédent : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",21
+"Jobelin (Auguste). Fils du précédent : ","Martineau (Mme). Femme du précédent : ",3
+"Jobelin (Auguste). Fils du précédent : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",30
+"Jobelin (Auguste). Fils du précédent : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",5
+"Jobelin (Auguste). Fils du précédent : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",3
+"Jobelin (Auguste). Fils du précédent : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",6
+"Jobelin (Auguste). Fils du précédent : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",5
+"Jobelin (Auguste). Fils du précédent : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",8
+"Jobelin (Auguste). Fils du précédent : ","La Rouquette. Frère de Mme de Llorentz. Député : ",3
+"Jobelin (Auguste). Fils du précédent : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",2
+"Jobelin (Auguste). Fils du précédent : ","Staderino. Réfugié politique vénitien : ",1
+"Jobelin (Auguste). Fils du précédent : ","Viscardi. Réfugié politique vénitien : ",1
+"Jobelin (Auguste). Fils du précédent : ","Rochart (Mgr). Évêque de Faverolles : ",1
+"Jobelin (Auguste). Fils du précédent : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Jobelin (Auguste). Fils du précédent : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",2
+"Jobelin (Auguste). Fils du précédent : ","Testaniere (Mme). Protégée de Mme Correur. — : ",2
+"Jobelin (Auguste). Fils du précédent : ","Jules. Garçon de café : ",1
+"Jobelin (Auguste). Fils du précédent : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",2
+"Jules. Garçon de café : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",1
+"Jusselin (Pierre-François). Protégé de de Marsy : ","Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ",2
+"Jusselin (Pierre-François). Protégé de de Marsy : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",2
+"Jusselin (Pierre-François). Protégé de de Marsy : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Jusselin (Pierre-François). Protégé de de Marsy : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",1
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",13
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",128
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Reuthlinguer (de). Banquier à Paris : ",1
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Staderino. Réfugié politique vénitien : ",2
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Viscardi. Réfugié politique vénitien : ",2
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Martineau (Mme). Femme du précédent : ",12
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","La Rouquette. Frère de Mme de Llorentz. Député : ",39
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",8
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Legrain (général). Député : ",3
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",6
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Nougarède (de). Sénateur : ",2
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",4
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",22
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",31
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",14
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Kahn (Mme). Épouse du précédent : ",2
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Langlade (de). Préfet des Deux-Sèvres : ",4
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Rochart (Mgr). Évêque de Faverolles : ",3
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Rodriguez. Armateur : ",3
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Lamberthon (de). Député : ",2
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","La Villardière (de). Député au Corps législatif : ",2
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",2
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ",1
+"Kahn. Député des Deux-Sèvres, protégé d'Eugène Rougon : ","Testaniere (Mme). Protégée de Mme Correur. — : ",1
+"Kahn (Mme). Épouse du précédent : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",2
+"Kahn (Mme). Épouse du précédent : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Kahn (Mme). Épouse du précédent : ","La Rouquette. Frère de Mme de Llorentz. Député : ",1
+"Kahn (Mme). Épouse du précédent : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",1
+"Lamberthon (de). Député : ","La Rouquette. Frère de Mme de Llorentz. Député : ",6
+"Lamberthon (de). Député : ","La Villardière (de). Député au Corps législatif : ",2
+"Lamberthon (de). Député : ","Lamberthon (Mme de). Épouse du précédent : ",4
+"Lamberthon (de). Député : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",2
+"Lamberthon (de). Député : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",4
+"Lamberthon (de). Député : ","Legrain (général). Député : ",1
+"Lamberthon (Mme de). Épouse du précédent : ","La Rouquette. Frère de Mme de Llorentz. Député : ",4
+"Lamberthon (Mme de). Épouse du précédent : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",2
+"Lamberthon (Mme de). Épouse du précédent : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",4
+"Langlade (de). Préfet des Deux-Sèvres : ","La Rouquette. Frère de Mme de Llorentz. Député : ",2
+"Langlade (de). Préfet des Deux-Sèvres : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",1
+"Langlade (de). Préfet des Deux-Sèvres : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",3
+"Langlade (de). Préfet des Deux-Sèvres : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",2
+"Langlade (de). Préfet des Deux-Sèvres : ","Martineau (Mme). Femme du précédent : ",2
+"Langlade (de). Préfet des Deux-Sèvres : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",4
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",13
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",76
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Legrain (général). Député : ",3
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ",17
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Nougarède (de). Sénateur : ",2
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",24
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Staderino. Réfugié politique vénitien : ",7
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Viscardi. Réfugié politique vénitien : ",7
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",32
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Martineau (Mme). Femme du précédent : ",4
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",1
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",1
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",1
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",2
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",21
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Rochart (Mgr). Évêque de Faverolles : ",2
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",5
+"La Rouquette. Frère de Mme de Llorentz. Député : ","Rodriguez. Armateur : ",3
+"La Rouquette. Frère de Mme de Llorentz. Député : ","La Villardière (de). Député au Corps législatif : ",4
+"La Villardière (de). Député au Corps législatif : ","Legrain (général). Député : ",1
+"La Villardière (de). Député au Corps législatif : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",1
+"La Villardière (de). Député au Corps législatif : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Lebeau. Personnage influent du Second Empire : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",2
+"Lebeau. Personnage influent du Second Empire : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",2
+"Lebeau. Personnage influent du Second Empire : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Lebeau. Personnage influent du Second Empire : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",2
+"Lebeau. Personnage influent du Second Empire : ","Salneuve (de). Personnage influent du Second Empire : ",2
+"Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",4
+"Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",6
+"Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ","Testaniere (Mme). Protégée de Mme Correur. — : ",6
+"Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",3
+"Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ","Rochart (Mgr). Évêque de Faverolles : ",1
+"Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Leturc (Mme). Veuve d'un capitaine. Protégée de Mme Correur : ","Martineau (Mme). Femme du précédent : ",1
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",17
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",22
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Nougarède (de). Sénateur : ",1
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",6
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ",16
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",2
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",2
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",1
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Martineau (Mme). Femme du précédent : ",1
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Rochart (Mgr). Évêque de Faverolles : ",2
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Rodriguez. Armateur : ",1
+"Llorentz (Mme de). Sœur de La Rouquette. Veuve d'un général. Maîtresse de de Marsy : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",2
+"Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ","Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ",22
+"Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",8
+"Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",76
+"Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ","Martineau (Mme). Femme du précédent : ",5
+"Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",2
+"Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",3
+"Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",3
+"Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ","Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ",1
+"Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",13
+"Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ","Salneuve (de). Personnage influent du Second Empire : ",2
+"Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",5
+"Marsy (de). Président du Corps législatif. Rival d'Eugène Rougon : ","Rodriguez. Armateur : ",2
+"Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ","Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ",4
+"Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",27
+"Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ","Martineau (Mme). Femme du précédent : ",18
+"Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",1
+"Martineau. Notaire à Coulonges. Frère de Méla-nie Correur : ","Testaniere (Mme). Protégée de Mme Correur. — : ",3
+"Martineau (Mme). Femme du précédent : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",24
+"Martineau (Mme). Femme du précédent : ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",1
+"Martineau (Mme). Femme du précédent : ","Testaniere (Mme). Protégée de Mme Correur. — : ",1
+"Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",46
+"Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ","Rochart (Mgr). Évêque de Faverolles : ",3
+"Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",3
+"Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ","Testaniere (Mme). Protégée de Mme Correur. — : ",4
+"Merle. Huissier d'Eugène Rougon. Protégé de Mme Gorreur : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",1
+"Nougarède (de). Sénateur : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",2
+"Nougarède (de). Sénateur : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",50
+"Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ","Pozzo (Luigi). Secrétaire de la légation d'Italie : ",11
+"Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",17
+"Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ","Staderino. Réfugié politique vénitien : ",1
+"Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ","Viscardi. Réfugié politique vénitien : ",1
+"Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ","Salneuve (de). Personnage influent du Second Empire : ",2
+"Plouguern (de). Sénateur. Ancien amant de la comtesse Balbi: ","Rochart (Mgr). Évêque de Faverolles : ",2
+"Pozzo (Luigi). Secrétaire de la légation d'Italie : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",37
+"Pozzo (Luigi). Secrétaire de la légation d'Italie : ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",11
+"Pozzo (Luigi). Secrétaire de la légation d'Italie : ","Staderino. Réfugié politique vénitien : ",10
+"Pozzo (Luigi). Secrétaire de la légation d'Italie : ","Viscardi. Réfugié politique vénitien : ",10
+"Pozzo (Luigi). Secrétaire de la légation d'Italie : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",2
+"Pozzo (Luigi). Secrétaire de la légation d'Italie : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Pozzo (Luigi). Secrétaire de la légation d'Italie : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Reuthlinguer (de). Banquier à Paris : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",3
+"Reuthlinguer (de). Banquier à Paris : ","Staderino. Réfugié politique vénitien : ",1
+"Reuthlinguer (de). Banquier à Paris : ","Viscardi. Réfugié politique vénitien : ",1
+"Rochart (Mgr). Évêque de Faverolles : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",9
+"Rochart (Mgr). Évêque de Faverolles : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",5
+"Rochart (Mgr). Évêque de Faverolles : ","Testaniere (Mme). Protégée de Mme Correur. — : ",1
+"Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",4
+"Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Sanquirino (duchesse). Aristocrate italienne : ",2
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Staderino. Réfugié politique vénitien : ",11
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Viscardi. Réfugié politique vénitien : ",11
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ",32
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",11
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",4
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Salneuve (de). Personnage influent du Second Empire : ",2
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Testaniere (Mme). Protégée de Mme Correur. — : ",6
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",4
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Testaniere (Mme). Protégée de Mme Correur. — : ",2
+"Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ","Staderino. Réfugié politique vénitien : ",9
+"Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ","Viscardi. Réfugié politique vénitien : ",9
+"Rusconi (chevalier). Légat d'Italie. —Son Excellence Eugène Rougon : ","Salneuve (de). Personnage influent du Second Empire : ",2
+"Staderino. Réfugié politique vénitien : ","Viscardi. Réfugié politique vénitien : ",11

@@ -1,0 +1,634 @@
+"from","to","weight"
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ",15
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Godeboeuf. Marchand d'herbes cuites : ",1
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Lacaille. Marchand des quatre-saisons aux Halles : ",14
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",8
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Lebigre. Marchand de vin, rue Rambuteau : ",9
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",4
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",5
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","*Murillq (Bartolomé Es-teban, dit). Peintre espagnol: ",1
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",5
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",6
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",1
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Charvet. Professeur libre. Fait partie du groupe Ga-vard : ",10
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ",9
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ",12
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",5
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Logre. Crieur à la marée. Indicateur de police : ",12
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",12
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Rose. Fille de comptoir chez Lebigre : ",5
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",5
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",3
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ",2
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ",4
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",2
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",2
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Manoury. Fa&eur aux Halles : ",1
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",1
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ",1
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Jules. Porteur aux Halles, amant de la Sarriette : ",1
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ",1
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Lehudier (le petit). Jeune élève de Charvet : ",1
+"Alexandre. Fort des Halles, fait partie du groupe Gavard : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",1
+"*Baratte. Restaurant des Halles : ","Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ",2
+"*Baratte. Restaurant des Halles : ","Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ",3
+"*Baratte. Restaurant des Halles : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"*Baratte. Restaurant des Halles : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",2
+"*Baratte. Restaurant des Halles : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",2
+"*Baratte. Restaurant des Halles : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",2
+"*Baratte. Restaurant des Halles : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"*Baratte. Restaurant des Halles : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",4
+"*Baratte. Restaurant des Halles : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",2
+"*Baratte. Restaurant des Halles : ","Muche. Fils de Louise Méhudin : ",2
+"*Baratte. Restaurant des Halles : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",2
+"*Baratte. Restaurant des Halles : ","Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ",1
+"*Baratte. Restaurant des Halles : ","*Rubens (Peter Paul). Peintre flamand : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Charvet. Professeur libre. Fait partie du groupe Ga-vard : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ",11
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ",9
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lacaille. Marchand des quatre-saisons aux Halles : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Logre. Crieur à la marée. Indicateur de police : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rose. Fille de comptoir chez Lebigre : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",5
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","*Morny (duc de). Président du Corps législatif sous le Second Empire : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",8
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",9
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Verlaque. Inspecteur à la marée : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Jules. Porteur aux Halles, amant de la Sarriette : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lebigre. Marchand de vin, rue Rambuteau : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Muche. Fils de Louise Méhudin : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",1
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Charvet. Professeur libre. Fait partie du groupe Ga-vard : ",2
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ",2
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ",16
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ",4
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ",5
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Lacaille. Marchand des quatre-saisons aux Halles : ",2
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",28
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Lebigre. Marchand de vin, rue Rambuteau : ",4
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",4
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Logre. Crieur à la marée. Indicateur de police : ",2
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",44
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",2
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",4
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",3
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",15
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",20
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",2
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",9
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",4
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ",14
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","*Rubens (Peter Paul). Peintre flamand : ",2
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Jules. Porteur aux Halles, amant de la Sarriette : ",2
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Taboureau (Mme). Boulangère rue Turbigo: ",2
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Thérèse (la grande). Femme du quartier des Halles : ",2
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Léon. Apprenti charcutier chez Quenu: ",4
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",3
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ",2
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Muche. Fils de Louise Méhudin : ",2
+"Cadine. Fillette recueillie par la mère Chantemesse, compagne de Marjolin : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",2
+"Cécile (Mlle). Fille d'un boucher du quartier des Halles : ","Hutin (Mme). Habitante du quartier des Halles : ",2
+"Cécile (Mlle). Fille d'un boucher du quartier des Halles : ","Lebigre. Marchand de vin, rue Rambuteau : ",1
+"Cécile (Mlle). Fille d'un boucher du quartier des Halles : ","Logre. Crieur à la marée. Indicateur de police : ",1
+"Cécile (Mlle). Fille d'un boucher du quartier des Halles : ","Loret (Mme). Habitante du quartier des Halles : ",2
+"Cécile (Mlle). Fille d'un boucher du quartier des Halles : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Cécile (Mlle). Fille d'un boucher du quartier des Halles : ","Rose. Fille de comptoir chez Lebigre : ",1
+"Cécile (Mlle). Fille d'un boucher du quartier des Halles : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",2
+"Cécile (Mlle). Fille d'un boucher du quartier des Halles : ","Taboureau (Mme). Boulangère rue Turbigo: ",1
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ",9
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",6
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",14
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","*Rubens (Peter Paul). Peintre flamand : ",2
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",3
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",4
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Thérèse (la grande). Femme du quartier des Halles : ",2
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Léon. Apprenti charcutier chez Quenu: ",2
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ",7
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Jules. Porteur aux Halles, amant de la Sarriette : ",2
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ",1
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Lebigre. Marchand de vin, rue Rambuteau : ",1
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",2
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",2
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",1
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",2
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Muche. Fils de Louise Méhudin : ",1
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",1
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",2
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",2
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Lacaille. Marchand des quatre-saisons aux Halles : ",2
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ",1
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Logre. Crieur à la marée. Indicateur de police : ",1
+"Chantemesse (la mère). Vendeuse « au petit tas , aux Halles : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",1
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ",17
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ",20
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ",19
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Lacaille. Marchand des quatre-saisons aux Halles : ",14
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",4
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Logre. Crieur à la marée. Indicateur de police : ",19
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",17
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Rose. Fille de comptoir chez Lebigre : ",11
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",9
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",4
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Lebigre. Marchand de vin, rue Rambuteau : ",14
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",3
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",5
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",4
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",5
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ",2
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",4
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",2
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",4
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Manoury. Fa&eur aux Halles : ",3
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ",2
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Lehudier (le petit). Jeune élève de Charvet : ",2
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",1
+"Charvet. Professeur libre. Fait partie du groupe Ga-vard : ","Jules. Porteur aux Halles, amant de la Sarriette : ",1
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ",19
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ",18
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Lacaille. Marchand des quatre-saisons aux Halles : ",12
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",6
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Logre. Crieur à la marée. Indicateur de police : ",16
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",17
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Rose. Fille de comptoir chez Lebigre : ",9
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",9
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",6
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Lebigre. Marchand de vin, rue Rambuteau : ",12
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",4
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",5
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",3
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",6
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ",2
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",4
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",2
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",4
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Manoury. Fa&eur aux Halles : ",3
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ",1
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Lehudier (le petit). Jeune élève de Charvet : ",2
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",1
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Jules. Porteur aux Halles, amant de la Sarriette : ",1
+"Clémence. Compagne de Charve. Tablettière à la criée aux poissons : ","Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ",1
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Godeboeuf. Marchand d'herbes cuites : ",2
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Lacaille. Marchand des quatre-saisons aux Halles : ",26
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",41
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Lebigre. Marchand de vin, rue Rambuteau : ",29
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",57
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",33
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","*Murillq (Bartolomé Es-teban, dit). Peintre espagnol: ",2
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",113
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",49
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ",72
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",27
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Logre. Crieur à la marée. Indicateur de police : ",34
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",25
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Rose. Fille de comptoir chez Lebigre : ",16
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",33
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",36
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ",32
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",21
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",94
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Manoury. Fa&eur aux Halles : ",4
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",28
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ",32
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","*Morny (duc de). Président du Corps législatif sous le Second Empire : ",4
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Verlaque. Inspecteur à la marée : ",17
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Jules. Porteur aux Halles, amant de la Sarriette : ",15
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","*Rubens (Peter Paul). Peintre flamand : ",2
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Taboureau (Mme). Boulangère rue Turbigo: ",8
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",7
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Lehudier (le petit). Jeune élève de Charvet : ",2
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Marcel. Marchand de fruits en gros aux Halles : ",2
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Guillout (Maison). Pâtisserie dans le quartier des Halles: ",2
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Quenu (père). Père de Que-nu, mari de Lisa Macquart : ",3
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ",4
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ",20
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",2
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",2
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Laquerrière (Florent). Compagnon de bagne de Florent : ",2
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Léon. Apprenti charcutier chez Quenu: ",15
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Sarriet (Mme). Sœur de Mme Lecœur. Belle-sœur de Qavard. Mère de la Sarriette: ",2
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Robine (Mme). Épouse du précédent : ",2
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Muche. Fils de Louise Méhudin : ",18
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Verlaque (Mme). Épouse du précédent : ",5
+"Florent. Demhfrère aîné de Quenu. Déporté à Cayenne après le coup d'État, évadé et devenu inspecteur à la marée aux Halles : ","Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ",5
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ",6
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Lacaille. Marchand des quatre-saisons aux Halles : ",8
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",17
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Lebigre. Marchand de vin, rue Rambuteau : ",3
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",4
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Logre. Crieur à la marée. Indicateur de police : ",4
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",6
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",4
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",4
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",5
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",5
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",10
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",4
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",5
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",6
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",3
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Jules. Porteur aux Halles, amant de la Sarriette : ",4
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ",2
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Muche. Fils de Louise Méhudin : ",1
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Marcel. Marchand de fruits en gros aux Halles : ",2
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Verlaque (Mme). Épouse du précédent : ",1
+"François (Mme). Maraîchère à Nanterre. Vient toutes les nuits aux Halles : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",2
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Lacaille. Marchand des quatre-saisons aux Halles : ",15
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",27
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Logre. Crieur à la marée. Indicateur de police : ",27
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",24
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Rose. Fille de comptoir chez Lebigre : ",16
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",33
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",28
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Lebigre. Marchand de vin, rue Rambuteau : ",23
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",12
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",21
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",11
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",51
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",10
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",12
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",43
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Manoury. Fa&eur aux Halles : ",4
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",10
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ",11
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","*Morny (duc de). Président du Corps législatif sous le Second Empire : ",2
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Verlaque. Inspecteur à la marée : ",9
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Jules. Porteur aux Halles, amant de la Sarriette : ",11
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Lehudier (le petit). Jeune élève de Charvet : ",2
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Quenu (père). Père de Que-nu, mari de Lisa Macquart : ",1
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ",2
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ",5
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Sarriet (Mme). Sœur de Mme Lecœur. Belle-sœur de Qavard. Mère de la Sarriette: ",2
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Léon. Apprenti charcutier chez Quenu: ",2
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Robine (Mme). Épouse du précédent : ",2
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Muche. Fils de Louise Méhudin : ",2
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Verlaque (Mme). Épouse du précédent : ",4
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",2
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ",8
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Palette (la mère). Marchande de volailles aux Halles : ",2
+"Gavard. Marchand de volailles aux Halles. Beau-frère de Mme Lecœur, oncle de la Sarriette. Anime un groupe républicain : ","Taboureau (Mme). Boulangère rue Turbigo: ",1
+"Godeboeuf. Marchand d'herbes cuites : ","Lacaille. Marchand des quatre-saisons aux Halles : ",1
+"Godeboeuf. Marchand d'herbes cuites : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Godeboeuf. Marchand d'herbes cuites : ","Lebigre. Marchand de vin, rue Rambuteau : ",1
+"Godeboeuf. Marchand d'herbes cuites : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",2
+"Godeboeuf. Marchand d'herbes cuites : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",2
+"Godeboeuf. Marchand d'herbes cuites : ","*Murillq (Bartolomé Es-teban, dit). Peintre espagnol: ",2
+"Godeboeuf. Marchand d'herbes cuites : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Godeboeuf. Marchand d'herbes cuites : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",2
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",20
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",2
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",2
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",17
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Laquerrière (Florent). Compagnon de bagne de Florent : ",1
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Léon. Apprenti charcutier chez Quenu: ",1
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",5
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Verlaque. Inspecteur à la marée : ",1
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",2
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Muche. Fils de Louise Méhudin : ",2
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",1
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Lacaille. Marchand des quatre-saisons aux Halles : ",2
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Logre. Crieur à la marée. Indicateur de police : ",2
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",2
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ",2
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",2
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",1
+"Guillout (Maison). Pâtisserie dans le quartier des Halles: ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Hutin (Mme). Habitante du quartier des Halles : ","Lebigre. Marchand de vin, rue Rambuteau : ",1
+"Hutin (Mme). Habitante du quartier des Halles : ","Logre. Crieur à la marée. Indicateur de police : ",1
+"Hutin (Mme). Habitante du quartier des Halles : ","Loret (Mme). Habitante du quartier des Halles : ",2
+"Hutin (Mme). Habitante du quartier des Halles : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Hutin (Mme). Habitante du quartier des Halles : ","Rose. Fille de comptoir chez Lebigre : ",1
+"Hutin (Mme). Habitante du quartier des Halles : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",2
+"Hutin (Mme). Habitante du quartier des Halles : ","Taboureau (Mme). Boulangère rue Turbigo: ",1
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",5
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",5
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",5
+"Jules. Porteur aux Halles, amant de la Sarriette : ","*Morny (duc de). Président du Corps législatif sous le Second Empire : ",2
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",19
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",4
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",13
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ",2
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Lebigre. Marchand de vin, rue Rambuteau : ",4
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",11
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",3
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Muche. Fils de Louise Méhudin : ",3
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",2
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",11
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Lacaille. Marchand des quatre-saisons aux Halles : ",3
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Logre. Crieur à la marée. Indicateur de police : ",4
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",2
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Marcel. Marchand de fruits en gros aux Halles : ",2
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Sarriet (Mme). Sœur de Mme Lecœur. Belle-sœur de Qavard. Mère de la Sarriette: ",2
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",9
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Verlaque. Inspecteur à la marée : ",3
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Verlaque (Mme). Épouse du précédent : ",2
+"Jules. Porteur aux Halles, amant de la Sarriette : ","Rose. Fille de comptoir chez Lebigre : ",1
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",10
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Lebigre. Marchand de vin, rue Rambuteau : ",12
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",5
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",6
+"Lacaille. Marchand des quatre-saisons aux Halles : ","*Murillq (Bartolomé Es-teban, dit). Peintre espagnol: ",1
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",8
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",10
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",5
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Logre. Crieur à la marée. Indicateur de police : ",17
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",16
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Rose. Fille de comptoir chez Lebigre : ",7
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",6
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",3
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",2
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",6
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Manoury. Fa&eur aux Halles : ",1
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",1
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ",2
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Lehudier (le petit). Jeune élève de Charvet : ",1
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Marcel. Marchand de fruits en gros aux Halles : ",1
+"Lacaille. Marchand des quatre-saisons aux Halles : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",2
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","*Morny (duc de). Président du Corps législatif sous le Second Empire : ",2
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",27
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",31
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",12
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Verlaque. Inspecteur à la marée : ",2
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",5
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Lebigre. Marchand de vin, rue Rambuteau : ",9
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",7
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",4
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",5
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",7
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Muche. Fils de Louise Méhudin : ",7
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",23
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",11
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",7
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Logre. Crieur à la marée. Indicateur de police : ",2
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",2
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Rose. Fille de comptoir chez Lebigre : ",2
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Laquerrière (Florent). Compagnon de bagne de Florent : ",1
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Léon. Apprenti charcutier chez Quenu: ",14
+"Landois (Auguste). Garçon charcutier chez Quenu. -  ouse Auguste Landois, son cousin : ","Verlaque (Mme). Épouse du précédent : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Lebigre. Marchand de vin, rue Rambuteau : ",7
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",14
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",11
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Murillq (Bartolomé Es-teban, dit). Peintre espagnol: ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",29
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",11
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",6
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Logre. Crieur à la marée. Indicateur de police : ",6
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",31
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Méhudin (la mère). Vieille poissonnière aux Halles : ",10
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",21
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",6
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",7
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",5
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Morny (duc de). Président du Corps législatif sous le Second Empire : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Rubens (Peter Paul). Peintre flamand : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Taboureau (Mme). Boulangère rue Turbigo: ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Léon. Apprenti charcutier chez Quenu: ",4
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",3
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Muche. Fils de Louise Méhudin : ",4
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Verlaque. Inspecteur à la marée : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Verlaque (Mme). Épouse du précédent : ",1
+"Laquerrière (Florent). Compagnon de bagne de Florent : ","Léon. Apprenti charcutier chez Quenu: ",2
+"Laquerrière (Florent). Compagnon de bagne de Florent : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",2
+"Laquerrière (Florent). Compagnon de bagne de Florent : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Lebigre. Marchand de vin, rue Rambuteau : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",16
+"Lebigre. Marchand de vin, rue Rambuteau : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",11
+"Lebigre. Marchand de vin, rue Rambuteau : ","*Murillq (Bartolomé Es-teban, dit). Peintre espagnol: ",1
+"Lebigre. Marchand de vin, rue Rambuteau : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",20
+"Lebigre. Marchand de vin, rue Rambuteau : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",22
+"Lebigre. Marchand de vin, rue Rambuteau : ","Logre. Crieur à la marée. Indicateur de police : ",20
+"Lebigre. Marchand de vin, rue Rambuteau : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",8
+"Lebigre. Marchand de vin, rue Rambuteau : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",12
+"Lebigre. Marchand de vin, rue Rambuteau : ","Rose. Fille de comptoir chez Lebigre : ",13
+"Lebigre. Marchand de vin, rue Rambuteau : ","Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ",12
+"Lebigre. Marchand de vin, rue Rambuteau : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",4
+"Lebigre. Marchand de vin, rue Rambuteau : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",15
+"Lebigre. Marchand de vin, rue Rambuteau : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",11
+"Lebigre. Marchand de vin, rue Rambuteau : ","Manoury. Fa&eur aux Halles : ",2
+"Lebigre. Marchand de vin, rue Rambuteau : ","Muche. Fils de Louise Méhudin : ",4
+"Lebigre. Marchand de vin, rue Rambuteau : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",6
+"Lebigre. Marchand de vin, rue Rambuteau : ","Loret (Mme). Habitante du quartier des Halles : ",1
+"Lebigre. Marchand de vin, rue Rambuteau : ","Lehudier (le petit). Jeune élève de Charvet : ",2
+"Lebigre. Marchand de vin, rue Rambuteau : ","Léon. Apprenti charcutier chez Quenu: ",2
+"Lebigre. Marchand de vin, rue Rambuteau : ","Verlaque. Inspecteur à la marée : ",1
+"Lebigre. Marchand de vin, rue Rambuteau : ","Robine (Mme). Épouse du précédent : ",1
+"Lebigre. Marchand de vin, rue Rambuteau : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",1
+"Lebigre. Marchand de vin, rue Rambuteau : ","Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ",2
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Logre. Crieur à la marée. Indicateur de police : ",9
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",7
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Rose. Fille de comptoir chez Lebigre : ",3
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",48
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",48
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",6
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",8
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",17
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",9
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",26
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",37
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Muche. Fils de Louise Méhudin : ",3
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",7
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Sarriet (Mme). Sœur de Mme Lecœur. Belle-sœur de Qavard. Mère de la Sarriette: ",2
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Taboureau (Mme). Boulangère rue Turbigo: ",3
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",1
+"Lecœur (Mme). Marchande de beurre, œufs et fromages aux Halles : ","Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ",8
+"Lehudier (le petit). Jeune élève de Charvet : ","Logre. Crieur à la marée. Indicateur de police : ",2
+"Lehudier (le petit). Jeune élève de Charvet : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",1
+"Lehudier (le petit). Jeune élève de Charvet : ","Rose. Fille de comptoir chez Lebigre : ",2
+"Lehudier (le petit). Jeune élève de Charvet : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",1
+"Léon. Apprenti charcutier chez Quenu: ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",4
+"Léon. Apprenti charcutier chez Quenu: ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",19
+"Léon. Apprenti charcutier chez Quenu: ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",18
+"Léon. Apprenti charcutier chez Quenu: ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",13
+"Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ","Logre. Crieur à la marée. Indicateur de police : ",2
+"Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",9
+"Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",8
+"Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",1
+"Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",1
+"Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",1
+"Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",4
+"Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",2
+"Léonce (Mme). Concierge de Gavard, rue de la Cosson-tierie : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",1
+"Logre. Crieur à la marée. Indicateur de police : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",21
+"Logre. Crieur à la marée. Indicateur de police : ","Rose. Fille de comptoir chez Lebigre : ",15
+"Logre. Crieur à la marée. Indicateur de police : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",18
+"Logre. Crieur à la marée. Indicateur de police : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",9
+"Logre. Crieur à la marée. Indicateur de police : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",8
+"Logre. Crieur à la marée. Indicateur de police : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",13
+"Logre. Crieur à la marée. Indicateur de police : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",9
+"Logre. Crieur à la marée. Indicateur de police : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",19
+"Logre. Crieur à la marée. Indicateur de police : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",2
+"Logre. Crieur à la marée. Indicateur de police : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",11
+"Logre. Crieur à la marée. Indicateur de police : ","Manoury. Fa&eur aux Halles : ",4
+"Logre. Crieur à la marée. Indicateur de police : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",1
+"Logre. Crieur à la marée. Indicateur de police : ","Loret (Mme). Habitante du quartier des Halles : ",1
+"Logre. Crieur à la marée. Indicateur de police : ","Verlaque. Inspecteur à la marée : ",3
+"Logre. Crieur à la marée. Indicateur de police : ","Robine (Mme). Épouse du précédent : ",1
+"Logre. Crieur à la marée. Indicateur de police : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",3
+"Logre. Crieur à la marée. Indicateur de police : ","Taboureau (Mme). Boulangère rue Turbigo: ",1
+"Logre. Crieur à la marée. Indicateur de police : ","Verlaque (Mme). Épouse du précédent : ",1
+"Loret (Mme). Habitante du quartier des Halles : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Loret (Mme). Habitante du quartier des Halles : ","Rose. Fille de comptoir chez Lebigre : ",1
+"Loret (Mme). Habitante du quartier des Halles : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",2
+"Loret (Mme). Habitante du quartier des Halles : ","Taboureau (Mme). Boulangère rue Turbigo: ",1
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",2
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",1
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Taboureau (Mme). Boulangère rue Turbigo: ",1
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ",1
+"Manoury. Fa&eur aux Halles : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",3
+"Manoury. Fa&eur aux Halles : ","Rose. Fille de comptoir chez Lebigre : ",2
+"Manoury. Fa&eur aux Halles : ","Robine (Mme). Épouse du précédent : ",1
+"Marcel. Marchand de fruits en gros aux Halles : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",2
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Méhudin (la mère). Vieille poissonnière aux Halles : ",3
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",5
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",3
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",20
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",31
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",2
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",8
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",6
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","*Rubens (Peter Paul). Peintre flamand : ",2
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Thérèse (la grande). Femme du quartier des Halles : ",2
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",3
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Taboureau (Mme). Boulangère rue Turbigo: ",2
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Muche. Fils de Louise Méhudin : ",3
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",3
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Sarriet (Mme). Sœur de Mme Lecœur. Belle-sœur de Qavard. Mère de la Sarriette: ",2
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Verlaque (Mme). Épouse du précédent : ",1
+"Marjolin. Jeune orphelin, compagnon de Cadine. Employé chez Gavard : ","Palette (la mère). Marchande de volailles aux Halles : ",3
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ",43
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",32
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",29
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",7
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Rose. Fille de comptoir chez Lebigre : ",3
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",17
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",14
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",10
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","*Morny (duc de). Président du Corps législatif sous le Second Empire : ",2
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Muche. Fils de Louise Méhudin : ",15
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",2
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Verlaque. Inspecteur à la marée : ",4
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Taboureau (Mme). Boulangère rue Turbigo: ",3
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Verlaque (Mme). Épouse du précédent : ",2
+"Méhudin (la mère). Vieille poissonnière aux Halles : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",2
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ",38
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","*Murillq (Bartolomé Es-teban, dit). Peintre espagnol: ",2
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",53
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",28
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",8
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","Rose. Fille de comptoir chez Lebigre : ",6
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",29
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",17
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","Verlaque. Inspecteur à la marée : ",8
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","*Morny (duc de). Président du Corps législatif sous le Second Empire : ",2
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","Muche. Fils de Louise Méhudin : ",20
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",6
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","Taboureau (Mme). Boulangère rue Turbigo: ",5
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","Verlaque (Mme). Épouse du précédent : ",2
+"Méhudin (Louise), dite la belle Normande. Fille aînée de la mère Méhudin. Poissonnière aux Halles : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",6
+"Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ","*Murillq (Bartolomé Es-teban, dit). Peintre espagnol: ",2
+"Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",29
+"Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",17
+"Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",6
+"Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ","Rose. Fille de comptoir chez Lebigre : ",3
+"Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",14
+"Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",8
+"Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",4
+"Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ","Muche. Fils de Louise Méhudin : ",10
+"Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ","Verlaque. Inspecteur à la marée : ",3
+"Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ","Taboureau (Mme). Boulangère rue Turbigo: ",4
+"Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ","Verlaque (Mme). Épouse du précédent : ",1
+"Méhudin (Claire). Seconde fille de la mère Méhudin. Poissonnière aux Halles : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",4
+"*Morny (duc de). Président du Corps législatif sous le Second Empire : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",3
+"*Morny (duc de). Président du Corps législatif sous le Second Empire : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",3
+"*Morny (duc de). Président du Corps législatif sous le Second Empire : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",2
+"*Morny (duc de). Président du Corps législatif sous le Second Empire : ","Muche. Fils de Louise Méhudin : ",1
+"Muche. Fils de Louise Méhudin : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",13
+"Muche. Fils de Louise Méhudin : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",12
+"Muche. Fils de Louise Méhudin : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",18
+"Muche. Fils de Louise Méhudin : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",4
+"Muche. Fils de Louise Méhudin : ","Verlaque. Inspecteur à la marée : ",1
+"Muche. Fils de Louise Méhudin : ","Verlaque (Mme). Épouse du précédent : ",1
+"Muche. Fils de Louise Méhudin : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",9
+"Muche. Fils de Louise Méhudin : ","Rose. Fille de comptoir chez Lebigre : ",1
+"*Murillq (Bartolomé Es-teban, dit). Peintre espagnol: ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"*Murillq (Bartolomé Es-teban, dit). Peintre espagnol: ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",2
+"Palette (la mère). Marchande de volailles aux Halles : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",3
+"Quenu (père). Père de Que-nu, mari de Lisa Macquart : ","Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ",3
+"Quenu (père). Père de Que-nu, mari de Lisa Macquart : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",3
+"Quenu (père). Père de Que-nu, mari de Lisa Macquart : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Quenu (père). Père de Que-nu, mari de Lisa Macquart : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",2
+"Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",4
+"Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",2
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",117
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",8
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",41
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",27
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",29
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Verlaque. Inspecteur à la marée : ",7
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Taboureau (Mme). Boulangère rue Turbigo: ",7
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",3
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Rose. Fille de comptoir chez Lebigre : ",7
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Verlaque (Mme). Épouse du précédent : ",4
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",60
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",9
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Rose. Fille de comptoir chez Lebigre : ",7
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",39
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",34
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Verlaque. Inspecteur à la marée : ",7
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Taboureau (Mme). Boulangère rue Turbigo: ",10
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",10
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Sarriet (Mme). Sœur de Mme Lecœur. Belle-sœur de Qavard. Mère de la Sarriette: ",1
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Verlaque (Mme). Épouse du précédent : ",4
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ",1
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",14
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",7
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Verlaque (Mme). Épouse du précédent : ",2
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",1
+"Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ","Rose. Fille de comptoir chez Lebigre : ",14
+"Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",10
+"Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",7
+"Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ","Robine (Mme). Épouse du précédent : ",2
+"Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ","Roustan (abbé). Vicaire à l'église Saint-EuStache : ",1
+"Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ","Verlaque. Inspecteur à la marée : ",2
+"Robine. Habitant de la rue Saint-Denis. Un des amis de Gavard: ","Verlaque (Mme). Épouse du précédent : ",2
+"Robine (Mme). Épouse du précédent : ","Rose. Fille de comptoir chez Lebigre : ",2
+"Rose. Fille de comptoir chez Lebigre : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",8
+"Rose. Fille de comptoir chez Lebigre : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",3
+"Rose. Fille de comptoir chez Lebigre : ","Verlaque. Inspecteur à la marée : ",2
+"Rose. Fille de comptoir chez Lebigre : ","Verlaque (Mme). Épouse du précédent : ",2
+"Roustan (abbé). Vicaire à l'église Saint-EuStache : ","Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ",3
+"Roustan (abbé). Vicaire à l'église Saint-EuStache : ","Taboureau (Mme). Boulangère rue Turbigo: ",1
+"Roustan (abbé). Vicaire à l'église Saint-EuStache : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",1
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",49
+"Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ","Taboureau (Mme). Boulangère rue Turbigo: ",7
+"Saget (Mlle). Petite vieille habitant le quartier des Halles, rue Pirouette : ","Verlaque. Inspecteur à la marée : ",2
+"Sarriet (Mme). Sœur de Mme Lecœur. Belle-sœur de Qavard. Mère de la Sarriette: ","Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ",2
+"Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ","Verlaque. Inspecteur à la marée : ",1
+"Sarriette (la). Nièce de Mme Lecœur et de Gavard. Marchande de fruits aux Halles : ","Taboureau (Mme). Boulangère rue Turbigo: ",3
+"Verlaque. Inspecteur à la marée : ","Verlaque (Mme). Épouse du précédent : ",4

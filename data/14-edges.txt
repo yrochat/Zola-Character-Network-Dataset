@@ -1,0 +1,1258 @@
+"from","to","weight"
+"Angèle (soeur) : ","Dubuche (Mme). Boulangère à Plassans : ",1
+"Angèle (soeur) : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",2
+"Angèle (soeur) : ","Galissard (Mlle). Fille d'un mercier de Plassans : ",2
+"Angèle (soeur) : ","Hermeline. Elève de rhétorique au collège de Plassans : ",2
+"Angèle (soeur) : ","Lalubie. Professeur de sixième au collège de Plassans : ",2
+"Angèle (soeur) : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Angèle (soeur) : ","Pifard. Censeur du collège de Plassans. — : ",2
+"Angèle (soeur) : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",2
+"Angèle (soeur) : ","Rhadamante. Surnom d'un professeur du collège de Plassans : ",2
+"Angèle (soeur) : ","Sandoz. Père de Pierre Sandoz : ",1
+"Angèle (soeur) : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Angèle (soeur) : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Angèle (soeur) : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",2
+"Angèle (soeur) : ","Chantecaille. Professeur au collège de Plassans : ",1
+"Angèle (soeur) : ","Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ",1
+"Angèle (soeur) : ","Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ",1
+"Angèle (soeur) : ","PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ",1
+"Angèle (soeur) : ","Spontini. Répétiteur du collège de Plassans : ",1
+"*Balzac (Honoré de). Écrivain français: ","*Courbet (Gustave). Peintre français : ",2
+"*Balzac (Honoré de). Écrivain français: ","*Delacroix (Eugène). Peintre français : ",2
+"*Balzac (Honoré de). Écrivain français: ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",2
+"*Balzac (Honoré de). Écrivain français: ","*Hugo (Victor). Écrivain français : ",2
+"*Balzac (Honoré de). Écrivain français: ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"*Balzac (Honoré de). Écrivain français: ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"*Balzac (Honoré de). Écrivain français: ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",1
+"Baudequin. Café où se réunissent les peintres : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",11
+"Baudequin. Café où se réunissent les peintres : ","*Favre (Jules). Homme politique français : ",1
+"Baudequin. Café où se réunissent les peintres : ","Gagnière. Ami de Claude Lânder. Peintre : ",13
+"Baudequin. Café où se réunissent les peintres : ","Jory (Édouard). Fils du précédent. Critique d'art : ",9
+"Baudequin. Café où se réunissent les peintres : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",13
+"Baudequin. Café où se réunissent les peintres : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",9
+"Baudequin. Café où se réunissent les peintres : ","*Rouher (Eugène). Homme politique français : ",1
+"Baudequin. Café où se réunissent les peintres : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",13
+"Baudequin. Café où se réunissent les peintres : ","Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ",7
+"Baudequin. Café où se réunissent les peintres : ","Sandoz (Mme). Mère de Pierre Sandoz : ",2
+"Baudequin. Café où se réunissent les peintres : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",8
+"Baudequin. Café où se réunissent les peintres : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",3
+"Baudequin. Café où se réunissent les peintres : ","Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ",3
+"Baudequin. Café où se réunissent les peintres : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",3
+"Baudequin. Café où se réunissent les peintres : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",2
+"Baudequin. Café où se réunissent les peintres : ","*Haydn (Franz). Compositeur autrichien : ",2
+"Baudequin. Café où se réunissent les peintres : ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",2
+"Baudequin. Café où se réunissent les peintres : ","Sandoz (Henriette). Épouse du précédent : ",3
+"Baudequin. Café où se réunissent les peintres : ","*Wagner (Richard). Compositeur allemand : ",1
+"Baudequin. Café où se réunissent les peintres : ","Fagerolles (père). Fabricant de zinc d'art : ",1
+"Baudequin. Café où se réunissent les peintres : ","Chaîne. Peintre : ",1
+"Baudequin. Café où se réunissent les peintres : ","*Beethoven (Ludwig van). Compositeur allemand : ",1
+"Baudequin. Café où se réunissent les peintres : ","*Berlioz (Heélor). Compositeur français : ",1
+"Baudequin. Café où se réunissent les peintres : ","*Meyerbeer (Giacomo). Compositeur allemand : ",1
+"Baudequin. Café où se réunissent les peintres : ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",1
+"Baudequin. Café où se réunissent les peintres : ","*Rossini (Gioacchino). Compositeur italien : ",1
+"Baudequin. Café où se réunissent les peintres : ","*Schubert (Franz). Compositeur autrichien : ",1
+"Baudequin. Café où se réunissent les peintres : ","*Weber (Carl von). Compositeur allemand ",1
+"Baudequin. Café où se réunissent les peintres : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",1
+"Baudequin. Café où se réunissent les peintres : ","Hallegrain (Mme). Épouse du précédent : ",1
+"Beauchamp (Flore). Modèle : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",5
+"Beauchamp (Flore). Modèle : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",2
+"Beauchamp (Flore). Modèle : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",5
+"Beauchamp (Flore). Modèle : ","Piédefer (Zoé). Modèle : ",2
+"Beauchamp (Flore). Modèle : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",5
+"Beauchamp (Flore). Modèle : ","Vaquez (Judith). Modèle : ",2
+"Beauchamp (Flore). Modèle : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",3
+"Beauchamp (Flore). Modèle : ","Gagnière. Ami de Claude Lânder. Peintre : ",3
+"Beauchamp (Flore). Modèle : ","Jory (Édouard). Fils du précédent. Critique d'art : ",3
+"Beauchamp (Flore). Modèle : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",3
+"Beauchamp (Flore). Modèle : ","Mazel. Peintre. Président du jury du Salon : ",3
+"Beauchamp (Flore). Modèle : ","Sandoz (Mme). Mère de Pierre Sandoz : ",2
+"Beauchamp (Flore). Modèle : ","Dequersonnière. Architecte : - ",1
+"Bécot (père). Père d'irma Bécot. Épicier dans la rue Montorgueil : ","Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ",2
+"Bécot (père). Père d'irma Bécot. Épicier dans la rue Montorgueil : ","Fagerolles (père). Fabricant de zinc d'art : ",1
+"Bécot (père). Père d'irma Bécot. Épicier dans la rue Montorgueil : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",2
+"Bécot (père). Père d'irma Bécot. Épicier dans la rue Montorgueil : ","Gagnière. Ami de Claude Lânder. Peintre : ",1
+"Bécot (père). Père d'irma Bécot. Épicier dans la rue Montorgueil : ","Jory (Édouard). Fils du précédent. Critique d'art : ",2
+"Bécot (père). Père d'irma Bécot. Épicier dans la rue Montorgueil : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Bécot (père). Père d'irma Bécot. Épicier dans la rue Montorgueil : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",2
+"Bécot (père). Père d'irma Bécot. Épicier dans la rue Montorgueil : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",33
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Gagnière. Ami de Claude Lânder. Peintre : ",21
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Jory (Édouard). Fils du précédent. Critique d'art : ",29
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",44
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",16
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",27
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",12
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",20
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ",4
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",4
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",3
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Fagerolles (père). Fabricant de zinc d'art : ",2
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Chaîne. Peintre : ",9
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Bongrand. Grand peintre : ",7
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","*Courbet (Gustave). Peintre français : ",4
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","*Delacroix (Eugène). Peintre français : ",4
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","*Pasdeloup (Concerts) : ",2
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","*Wagner (Richard). Compositeur allemand : ",2
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Chambouvard. Sculpteur célèbre : ",1
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Faucheur (le père). Aubergiste à Bennecourt : ",1
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Faucheur (la mère). Épouse du précédent : ",1
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Jabouille. Herboriste : ",2
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",8
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",3
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Jory (père). Magistrat à Plassans : ",3
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","*Titien (Tiziano Vecellio, dit le). Peintre italien : ",4
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",2
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Hue. Amateur de tableaux. — : ",1
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Louis. Maître d'hôtel d'Irma Bécot : ",2
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Naudet. Marchand de tableaux : ",3
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Sandoz (Henriette). Épouse du précédent : ",2
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",1
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Dequersonnière. Architecte : - ",1
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Malgras (le père). Marchand de tableaux : ",1
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",1
+"Bécot (Irma). Fille du précédent. Maîtresse de Fa-gerolles : ","Hallegrain (Mme). Épouse du précédent : ",1
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Berlioz (Heélor). Compositeur français : ",4
+"*Beethoven (Ludwig van). Compositeur allemand : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",1
+"*Beethoven (Ludwig van). Compositeur allemand : ","Gagnière. Ami de Claude Lânder. Peintre : ",5
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Haydn (Franz). Compositeur autrichien : ",1
+"*Beethoven (Ludwig van). Compositeur allemand : ","Jory (Édouard). Fils du précédent. Critique d'art : ",4
+"*Beethoven (Ludwig van). Compositeur allemand : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",5
+"*Beethoven (Ludwig van). Compositeur allemand : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",4
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Meyerbeer (Giacomo). Compositeur allemand : ",4
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",2
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",1
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Rossini (Gioacchino). Compositeur italien : ",2
+"*Beethoven (Ludwig van). Compositeur allemand : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",4
+"*Beethoven (Ludwig van). Compositeur allemand : ","Sandoz (Henriette). Épouse du précédent : ",4
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Schubert (Franz). Compositeur autrichien : ",2
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Weber (Carl von). Compositeur allemand ",2
+"*Beethoven (Ludwig van). Compositeur allemand : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",1
+"*Beethoven (Ludwig van). Compositeur allemand : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",3
+"*Beethoven (Ludwig van). Compositeur allemand : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",3
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Véronèse (Paolo Caliari, dit). Peintre italien : ",2
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Schumann. Compositeur allemand : ",3
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Wagner (Richard). Compositeur allemand : ",3
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Chopin (Frédéric). Compositeur polonais : ",1
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Delacroix (Eugène). Peintre français : ",1
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Gœt  (Wolfgang). Écrivain allemand. — : ",1
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Mendelssohn (Félix). Compositeur allemand : ",1
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Shakespeare (William). Écrivain anglais : ",1
+"*Beethoven (Ludwig van). Compositeur allemand : ","*Virgile. Poète latin : ",1
+"Belloque (le père). Premier maître de dessin de Claude Lantier : ","Berthou. Peintre, dont Claude Lantier a fréquenté l'atelier : ",2
+"Belloque (le père). Premier maître de dessin de Claude Lantier : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",2
+"Belloque (le père). Premier maître de dessin de Claude Lantier : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",1
+"Belloque (le père). Premier maître de dessin de Claude Lantier : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",2
+"Belloque (le père). Premier maître de dessin de Claude Lantier : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Belloque (le père). Premier maître de dessin de Claude Lantier : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Belloque (le père). Premier maître de dessin de Claude Lantier : ","Malgras (le père). Marchand de tableaux : ",1
+"Belloque (le père). Premier maître de dessin de Claude Lantier : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Belloque (le père). Premier maître de dessin de Claude Lantier : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Belloque (le père). Premier maître de dessin de Claude Lantier : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Belloque (le père). Premier maître de dessin de Claude Lantier : ","Boutin. Ancien modèle qui tient un atelier libre de peinture : ",1
+"Belloque (le père). Premier maître de dessin de Claude Lantier : ","*Ingres (Dominique). Peintre français : ",1
+"*Berlioz (Heélor). Compositeur français : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",1
+"*Berlioz (Heélor). Compositeur français : ","Gagnière. Ami de Claude Lânder. Peintre : ",4
+"*Berlioz (Heélor). Compositeur français : ","*Haydn (Franz). Compositeur autrichien : ",1
+"*Berlioz (Heélor). Compositeur français : ","Jory (Édouard). Fils du précédent. Critique d'art : ",3
+"*Berlioz (Heélor). Compositeur français : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",4
+"*Berlioz (Heélor). Compositeur français : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",3
+"*Berlioz (Heélor). Compositeur français : ","*Meyerbeer (Giacomo). Compositeur allemand : ",4
+"*Berlioz (Heélor). Compositeur français : ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",2
+"*Berlioz (Heélor). Compositeur français : ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",1
+"*Berlioz (Heélor). Compositeur français : ","*Rossini (Gioacchino). Compositeur italien : ",2
+"*Berlioz (Heélor). Compositeur français : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",3
+"*Berlioz (Heélor). Compositeur français : ","Sandoz (Henriette). Épouse du précédent : ",3
+"*Berlioz (Heélor). Compositeur français : ","*Schubert (Franz). Compositeur autrichien : ",2
+"*Berlioz (Heélor). Compositeur français : ","*Weber (Carl von). Compositeur allemand ",2
+"*Berlioz (Heélor). Compositeur français : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",1
+"*Berlioz (Heélor). Compositeur français : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",2
+"*Berlioz (Heélor). Compositeur français : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",2
+"*Berlioz (Heélor). Compositeur français : ","*Véronèse (Paolo Caliari, dit). Peintre italien : ",2
+"*Berlioz (Heélor). Compositeur français : ","*Schumann. Compositeur allemand : ",2
+"*Berlioz (Heélor). Compositeur français : ","*Wagner (Richard). Compositeur allemand : ",2
+"*Berlioz (Heélor). Compositeur français : ","*Chopin (Frédéric). Compositeur polonais : ",1
+"*Berlioz (Heélor). Compositeur français : ","*Delacroix (Eugène). Peintre français : ",1
+"*Berlioz (Heélor). Compositeur français : ","*Gœt  (Wolfgang). Écrivain allemand. — : ",1
+"*Berlioz (Heélor). Compositeur français : ","*Mendelssohn (Félix). Compositeur allemand : ",1
+"*Berlioz (Heélor). Compositeur français : ","*Shakespeare (William). Écrivain anglais : ",1
+"*Berlioz (Heélor). Compositeur français : ","*Virgile. Poète latin : ",1
+"Berthou. Peintre, dont Claude Lantier a fréquenté l'atelier : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",2
+"Berthou. Peintre, dont Claude Lantier a fréquenté l'atelier : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",1
+"Berthou. Peintre, dont Claude Lantier a fréquenté l'atelier : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",2
+"Berthou. Peintre, dont Claude Lantier a fréquenté l'atelier : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Berthou. Peintre, dont Claude Lantier a fréquenté l'atelier : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Berthou. Peintre, dont Claude Lantier a fréquenté l'atelier : ","Malgras (le père). Marchand de tableaux : ",1
+"Berthou. Peintre, dont Claude Lantier a fréquenté l'atelier : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Berthou. Peintre, dont Claude Lantier a fréquenté l'atelier : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Berthou. Peintre, dont Claude Lantier a fréquenté l'atelier : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Berthou. Peintre, dont Claude Lantier a fréquenté l'atelier : ","Boutin. Ancien modèle qui tient un atelier libre de peinture : ",1
+"Berthou. Peintre, dont Claude Lantier a fréquenté l'atelier : ","*Ingres (Dominique). Peintre français : ",1
+"*Bignon. Restaurant célèbre de Paris: ","Bongrand. Grand peintre : ",2
+"*Bignon. Restaurant célèbre de Paris: ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",2
+"*Bignon. Restaurant célèbre de Paris: ","Jory (Édouard). Fils du précédent. Critique d'art : ",2
+"*Bignon. Restaurant célèbre de Paris: ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"*Bignon. Restaurant célèbre de Paris: ","Malgras (le père). Marchand de tableaux : ",2
+"*Bignon. Restaurant célèbre de Paris: ","Naudet. Marchand de tableaux : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Bongrand. Grand peintre : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",6
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Chaîne. Peintre : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Gagnière. Ami de Claude Lânder. Peintre : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Jory (Édouard). Fils du précédent. Critique d'art : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Mazel. Peintre. Président du jury du Salon : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Courajod. Peintre célèbre : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Faucheur (le père). Aubergiste à Bennecourt : ",1
+"Bongrand. Grand peintre : ","Chaîne. Peintre : ",7
+"Bongrand. Grand peintre : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",39
+"Bongrand. Grand peintre : ","Gagnière. Ami de Claude Lânder. Peintre : ",17
+"Bongrand. Grand peintre : ","Jory (Édouard). Fils du précédent. Critique d'art : ",29
+"Bongrand. Grand peintre : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",57
+"Bongrand. Grand peintre : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",36
+"Bongrand. Grand peintre : ","Chambouvard. Sculpteur célèbre : ",7
+"Bongrand. Grand peintre : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",14
+"Bongrand. Grand peintre : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",17
+"Bongrand. Grand peintre : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",11
+"Bongrand. Grand peintre : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",1
+"Bongrand. Grand peintre : ","Malgras (le père). Marchand de tableaux : ",6
+"Bongrand. Grand peintre : ","Naudet. Marchand de tableaux : ",8
+"Bongrand. Grand peintre : ","Sandoz (Mme). Mère de Pierre Sandoz : ",5
+"Bongrand. Grand peintre : ","*Courbet (Gustave). Peintre français : ",4
+"Bongrand. Grand peintre : ","*Delacroix (Eugène). Peintre français : ",4
+"Bongrand. Grand peintre : ","Courajod. Peintre célèbre : ",2
+"Bongrand. Grand peintre : ","Faucheur (le père). Aubergiste à Bennecourt : ",1
+"Bongrand. Grand peintre : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",3
+"Bongrand. Grand peintre : ","*Rembrandt (Harmens-zoon Van Ryn, dit). Peintre hollandais : ",2
+"Bongrand. Grand peintre : ","Sandoz (Henriette). Épouse du précédent : ",2
+"Bongrand. Grand peintre : ","Mazel. Peintre. Président du jury du Salon : ",6
+"Bongrand. Grand peintre : ","*Millet (François). Peintre français : ",2
+"Bongrand. Grand peintre : ","*Rousseau (Théodore). Peintre français du xixe siècle, ",2
+"Bongrand. Grand peintre : ","Fagerolles (père). Fabricant de zinc d'art : ",2
+"Bongrand. Grand peintre : ","*Ledoyen. Restaurant : ",2
+"Bongrand. Grand peintre : ","Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ",2
+"Bongrand. Grand peintre : ","Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ",2
+"Bongrand. Grand peintre : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",6
+"Bongrand. Grand peintre : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",3
+"Bongrand. Grand peintre : ","Boutin. Ancien modèle qui tient un atelier libre de peinture : ",2
+"Bongrand. Grand peintre : ","Françoise. Domestique de Sandoz : ",1
+"Bongrand. Grand peintre : ","Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ",1
+"Bongrand. Grand peintre : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",1
+"Bongrand. Grand peintre : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",1
+"Bongrand. Grand peintre : ","Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ",1
+"Bongrand. Grand peintre : ","Jory (père). Magistrat à Plassans : ",1
+"Bongrand. Grand peintre : ","Joseph (Mme). Concierge de Claude Lantier : ",1
+"Bongrand. Grand peintre : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",1
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Gagnière. Ami de Claude Lânder. Peintre : ",1
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",6
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",12
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",1
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Malgras (le père). Marchand de tableaux : ",6
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",1
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",1
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",6
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","*Delacroix (Eugène). Peintre français : ",4
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",1
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","*Ingres (Dominique). Peintre français : ",2
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",1
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",1
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",1
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",2
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",1
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Hallegrain (Mme). Épouse du précédent : ",1
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Hue. Amateur de tableaux. — : ",2
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",2
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Naudet. Marchand de tableaux : ",2
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","*Courbet (Gustave). Peintre français : ",1
+"Boutin. Ancien modèle qui tient un atelier libre de peinture : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",1
+"Chaîne. Peintre : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",13
+"Chaîne. Peintre : ","Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ",2
+"Chaîne. Peintre : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",12
+"Chaîne. Peintre : ","Gagnière. Ami de Claude Lânder. Peintre : ",14
+"Chaîne. Peintre : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",31
+"Chaîne. Peintre : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",3
+"Chaîne. Peintre : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",1
+"Chaîne. Peintre : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",26
+"Chaîne. Peintre : ","Jory (Édouard). Fils du précédent. Critique d'art : ",22
+"Chaîne. Peintre : ","Chambouvard. Sculpteur célèbre : ",5
+"Chaîne. Peintre : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",27
+"Chaîne. Peintre : ","Faucheur (le père). Aubergiste à Bennecourt : ",3
+"Chaîne. Peintre : ","Faucheur (la mère). Épouse du précédent : ",1
+"Chaîne. Peintre : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",7
+"Chaîne. Peintre : ","Jabouille. Herboriste : ",7
+"Chaîne. Peintre : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",18
+"Chaîne. Peintre : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",3
+"Chaîne. Peintre : ","Jory (père). Magistrat à Plassans : ",4
+"Chaîne. Peintre : ","Courajod. Peintre célèbre : ",3
+"Chaîne. Peintre : ","Giraud (Tata). Maîtresse de pension à Plassans : ",2
+"Chaîne. Peintre : ","Malgras (le père). Marchand de tableaux : ",2
+"Chaîne. Peintre : ","*Mantegna (André); Peintre italien : ",4
+"Chaîne. Peintre : ","Dequersonnière. Architecte : - ",1
+"Chaîne. Peintre : ","Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ",1
+"Chaîne. Peintre : ","Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ",1
+"Chaîne. Peintre : ","Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ",1
+"Chambouvard. Sculpteur célèbre : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",5
+"Chambouvard. Sculpteur célèbre : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",5
+"Chambouvard. Sculpteur célèbre : ","Gagnière. Ami de Claude Lânder. Peintre : ",5
+"Chambouvard. Sculpteur célèbre : ","Jory (Édouard). Fils du précédent. Critique d'art : ",8
+"Chambouvard. Sculpteur célèbre : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",9
+"Chambouvard. Sculpteur célèbre : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",5
+"Chambouvard. Sculpteur célèbre : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",7
+"Chambouvard. Sculpteur célèbre : ","Courajod. Peintre célèbre : ",2
+"Chambouvard. Sculpteur célèbre : ","Faucheur (le père). Aubergiste à Bennecourt : ",1
+"Chambouvard. Sculpteur célèbre : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",2
+"Chambouvard. Sculpteur célèbre : ","Françoise. Domestique de Sandoz : ",2
+"Chambouvard. Sculpteur célèbre : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",1
+"Chambouvard. Sculpteur célèbre : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Chambouvard. Sculpteur célèbre : ","Sandoz (Henriette). Épouse du précédent : ",2
+"Chambouvard. Sculpteur célèbre : ","Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ",1
+"Chantecaille. Professeur au collège de Plassans : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",2
+"Chantecaille. Professeur au collège de Plassans : ","Galissard (Mlle). Fille d'un mercier de Plassans : ",1
+"Chantecaille. Professeur au collège de Plassans : ","Hermeline. Elève de rhétorique au collège de Plassans : ",1
+"Chantecaille. Professeur au collège de Plassans : ","Lalubie. Professeur de sixième au collège de Plassans : ",1
+"Chantecaille. Professeur au collège de Plassans : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Chantecaille. Professeur au collège de Plassans : ","Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ",2
+"Chantecaille. Professeur au collège de Plassans : ","Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ",2
+"Chantecaille. Professeur au collège de Plassans : ","PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ",2
+"Chantecaille. Professeur au collège de Plassans : ","Pifard. Censeur du collège de Plassans. — : ",1
+"Chantecaille. Professeur au collège de Plassans : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",2
+"Chantecaille. Professeur au collège de Plassans : ","Rhadamante. Surnom d'un professeur du collège de Plassans : ",1
+"Chantecaille. Professeur au collège de Plassans : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Chantecaille. Professeur au collège de Plassans : ","Spontini. Répétiteur du collège de Plassans : ",2
+"Chantecaille. Professeur au collège de Plassans : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",2
+"*Chopin (Frédéric). Compositeur polonais : ","*Delacroix (Eugène). Peintre français : ",2
+"*Chopin (Frédéric). Compositeur polonais : ","Gagnière. Ami de Claude Lânder. Peintre : ",2
+"*Chopin (Frédéric). Compositeur polonais : ","*Gœt  (Wolfgang). Écrivain allemand. — : ",2
+"*Chopin (Frédéric). Compositeur polonais : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"*Chopin (Frédéric). Compositeur polonais : ","*Mendelssohn (Félix). Compositeur allemand : ",2
+"*Chopin (Frédéric). Compositeur polonais : ","*Meyerbeer (Giacomo). Compositeur allemand : ",1
+"*Chopin (Frédéric). Compositeur polonais : ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",1
+"*Chopin (Frédéric). Compositeur polonais : ","*Rossini (Gioacchino). Compositeur italien : ",1
+"*Chopin (Frédéric). Compositeur polonais : ","*Schubert (Franz). Compositeur autrichien : ",1
+"*Chopin (Frédéric). Compositeur polonais : ","*Schumann. Compositeur allemand : ",2
+"*Chopin (Frédéric). Compositeur polonais : ","*Shakespeare (William). Écrivain anglais : ",2
+"*Chopin (Frédéric). Compositeur polonais : ","*Virgile. Poète latin : ",2
+"*Chopin (Frédéric). Compositeur polonais : ","*Wagner (Richard). Compositeur allemand : ",2
+"*Chopin (Frédéric). Compositeur polonais : ","*Weber (Carl von). Compositeur allemand ",1
+"*Chopin (Frédéric). Compositeur polonais : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",1
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",3
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",4
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",4
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",4
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Malgras (le père). Marchand de tableaux : ",1
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Sandoz (Mme). Mère de Pierre Sandoz : ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",4
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","*Ingres (Dominique). Peintre français : ",1
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",1
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Dubuche (Mme). Boulangère à Plassans : ",1
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Lalubie. Professeur de sixième au collège de Plassans : ",1
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",1
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Sandoz. Père de Pierre Sandoz : ",1
+"Courajod. Peintre célèbre : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",3
+"Courajod. Peintre célèbre : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",3
+"Courajod. Peintre célèbre : ","Faucheur (le père). Aubergiste à Bennecourt : ",2
+"Courajod. Peintre célèbre : ","Gagnière. Ami de Claude Lânder. Peintre : ",3
+"Courajod. Peintre célèbre : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",2
+"Courajod. Peintre célèbre : ","Jory (Édouard). Fils du précédent. Critique d'art : ",3
+"Courajod. Peintre célèbre : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",6
+"Courajod. Peintre célèbre : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",3
+"Courajod. Peintre célèbre : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",6
+"Courajod. Peintre célèbre : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",3
+"Courajod. Peintre célèbre : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",1
+"Courajod. Peintre célèbre : ","Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ",1
+"Courajod. Peintre célèbre : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Courajod. Peintre célèbre : ","Sandoz (Henriette). Épouse du précédent : ",1
+"*Courbet (Gustave). Peintre français : ","*Delacroix (Eugène). Peintre français : ",11
+"*Courbet (Gustave). Peintre français : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",6
+"*Courbet (Gustave). Peintre français : ","*Hugo (Victor). Écrivain français : ",2
+"*Courbet (Gustave). Peintre français : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",15
+"*Courbet (Gustave). Peintre français : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",9
+"*Courbet (Gustave). Peintre français : ","Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ",1
+"*Courbet (Gustave). Peintre français : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",8
+"*Courbet (Gustave). Peintre français : ","Gagnière. Ami de Claude Lânder. Peintre : ",5
+"*Courbet (Gustave). Peintre français : ","Jory (Édouard). Fils du précédent. Critique d'art : ",6
+"*Courbet (Gustave). Peintre français : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",1
+"*Courbet (Gustave). Peintre français : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",1
+"*Courbet (Gustave). Peintre français : ","*Pasdeloup (Concerts) : ",2
+"*Courbet (Gustave). Peintre français : ","*Wagner (Richard). Compositeur allemand : ",2
+"*Courbet (Gustave). Peintre français : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",4
+"*Courbet (Gustave). Peintre français : ","*Titien (Tiziano Vecellio, dit le). Peintre italien : ",2
+"*Courbet (Gustave). Peintre français : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",2
+"*Courbet (Gustave). Peintre français : ","Malgras (le père). Marchand de tableaux : ",2
+"*Courbet (Gustave). Peintre français : ","*Millet (François). Peintre français : ",2
+"*Courbet (Gustave). Peintre français : ","Naudet. Marchand de tableaux : ",2
+"*Courbet (Gustave). Peintre français : ","*Rousseau (Théodore). Peintre français du xixe siècle, ",2
+"*Courbet (Gustave). Peintre français : ","Fagerolles (père). Fabricant de zinc d'art : ",1
+"*Courbet (Gustave). Peintre français : ","*Ingres (Dominique). Peintre français : ",2
+"*Delacroix (Eugène). Peintre français : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",6
+"*Delacroix (Eugène). Peintre français : ","*Hugo (Victor). Écrivain français : ",2
+"*Delacroix (Eugène). Peintre français : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",19
+"*Delacroix (Eugène). Peintre français : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",11
+"*Delacroix (Eugène). Peintre français : ","Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ",1
+"*Delacroix (Eugène). Peintre français : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",6
+"*Delacroix (Eugène). Peintre français : ","Gagnière. Ami de Claude Lânder. Peintre : ",8
+"*Delacroix (Eugène). Peintre français : ","Jory (Édouard). Fils du précédent. Critique d'art : ",6
+"*Delacroix (Eugène). Peintre français : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",1
+"*Delacroix (Eugène). Peintre français : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",1
+"*Delacroix (Eugène). Peintre français : ","*Pasdeloup (Concerts) : ",2
+"*Delacroix (Eugène). Peintre français : ","*Wagner (Richard). Compositeur allemand : ",4
+"*Delacroix (Eugène). Peintre français : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",9
+"*Delacroix (Eugène). Peintre français : ","*Titien (Tiziano Vecellio, dit le). Peintre italien : ",2
+"*Delacroix (Eugène). Peintre français : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",2
+"*Delacroix (Eugène). Peintre français : ","Malgras (le père). Marchand de tableaux : ",5
+"*Delacroix (Eugène). Peintre français : ","Hue. Amateur de tableaux. — : ",3
+"*Delacroix (Eugène). Peintre français : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",2
+"*Delacroix (Eugène). Peintre français : ","Naudet. Marchand de tableaux : ",2
+"*Delacroix (Eugène). Peintre français : ","*Gœt  (Wolfgang). Écrivain allemand. — : ",2
+"*Delacroix (Eugène). Peintre français : ","*Mendelssohn (Félix). Compositeur allemand : ",2
+"*Delacroix (Eugène). Peintre français : ","*Meyerbeer (Giacomo). Compositeur allemand : ",1
+"*Delacroix (Eugène). Peintre français : ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",1
+"*Delacroix (Eugène). Peintre français : ","*Rossini (Gioacchino). Compositeur italien : ",1
+"*Delacroix (Eugène). Peintre français : ","*Schubert (Franz). Compositeur autrichien : ",1
+"*Delacroix (Eugène). Peintre français : ","*Schumann. Compositeur allemand : ",2
+"*Delacroix (Eugène). Peintre français : ","*Shakespeare (William). Écrivain anglais : ",2
+"*Delacroix (Eugène). Peintre français : ","*Virgile. Poète latin : ",2
+"*Delacroix (Eugène). Peintre français : ","*Weber (Carl von). Compositeur allemand ",1
+"*Delacroix (Eugène). Peintre français : ","*Ingres (Dominique). Peintre français : ",2
+"*Delacroix (Eugène). Peintre français : ","Gomard. Marchand de vin chez qui Claude Lantier prend ses repas : ",1
+"Dequersonnière. Architecte : - ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",8
+"Dequersonnière. Architecte : - ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",5
+"Dequersonnière. Architecte : - ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",8
+"Dequersonnière. Architecte : - ","Piédefer (Zoé). Modèle : ",1
+"Dequersonnière. Architecte : - ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",7
+"Dequersonnière. Architecte : - ","Vaquez (Judith). Modèle : ",1
+"Dequersonnière. Architecte : - ","Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ",4
+"Dequersonnière. Architecte : - ","Faucheur (la mère). Épouse du précédent : ",2
+"Dequersonnière. Architecte : - ","Malgras (le père). Marchand de tableaux : ",1
+"Dequersonnière. Architecte : - ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",4
+"Dequersonnière. Architecte : - ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",2
+"Dequersonnière. Architecte : - ","Poirette (le père). Paysan de Bennecourt : ",1
+"Dequersonnière. Architecte : - ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",3
+"Dequersonnière. Architecte : - ","Gagnière. Ami de Claude Lânder. Peintre : ",3
+"Dequersonnière. Architecte : - ","Jabouille. Herboriste : ",1
+"Dequersonnière. Architecte : - ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",1
+"Dequersonnière. Architecte : - ","Jory (Édouard). Fils du précédent. Critique d'art : ",2
+"Dequersonnière. Architecte : - ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",3
+"Dequersonnière. Architecte : - ","Dubuche (Mme). Boulangère à Plassans : ",1
+"Dequersonnière. Architecte : - ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",1
+"Dequersonnière. Architecte : - ","Godemard. Élève-archi-te&e à l'École des Beaux-Arts : ",1
+"Dequersonnière. Architecte : - ","Gorju. Élève-archite&e à TÉcole des Beaux-Arts : ",1
+"Dequersonnière. Architecte : - ","Faucheur (le père). Aubergiste à Bennecourt : ",1
+"Dequersonnière. Architecte : - ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",2
+"Dubuche (Mme). Boulangère à Plassans : ","Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ",6
+"Dubuche (Mme). Boulangère à Plassans : ","Galissard (Mlle). Fille d'un mercier de Plassans : ",1
+"Dubuche (Mme). Boulangère à Plassans : ","Hermeline. Elève de rhétorique au collège de Plassans : ",1
+"Dubuche (Mme). Boulangère à Plassans : ","Lalubie. Professeur de sixième au collège de Plassans : ",2
+"Dubuche (Mme). Boulangère à Plassans : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",6
+"Dubuche (Mme). Boulangère à Plassans : ","Pifard. Censeur du collège de Plassans. — : ",1
+"Dubuche (Mme). Boulangère à Plassans : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",4
+"Dubuche (Mme). Boulangère à Plassans : ","Rhadamante. Surnom d'un professeur du collège de Plassans : ",1
+"Dubuche (Mme). Boulangère à Plassans : ","Sandoz. Père de Pierre Sandoz : ",2
+"Dubuche (Mme). Boulangère à Plassans : ","Sandoz (Mme). Mère de Pierre Sandoz : ",2
+"Dubuche (Mme). Boulangère à Plassans : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",6
+"Dubuche (Mme). Boulangère à Plassans : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",1
+"Dubuche (Mme). Boulangère à Plassans : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",1
+"Dubuche (Mme). Boulangère à Plassans : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",1
+"Dubuche (Mme). Boulangère à Plassans : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",2
+"Dubuche (Mme). Boulangère à Plassans : ","Gagnière. Ami de Claude Lânder. Peintre : ",2
+"Dubuche (Mme). Boulangère à Plassans : ","Jory (Édouard). Fils du précédent. Critique d'art : ",2
+"Dubuche (Mme). Boulangère à Plassans : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",2
+"Dubuche (Mme). Boulangère à Plassans : ","Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ",2
+"Dubuche (Mme). Boulangère à Plassans : ","Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ",2
+"Dubuche (Mme). Boulangère à Plassans : ","Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ",2
+"Dubuche (Mme). Boulangère à Plassans : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",2
+"Dubuche (Mme). Boulangère à Plassans : ","Faucheur (le père). Aubergiste à Bennecourt : ",1
+"Dubuche (Mme). Boulangère à Plassans : ","Faucheur (la mère). Épouse du précédent : ",1
+"Dubuche (Mme). Boulangère à Plassans : ","Mélie. Nièce des Faucheur : ",1
+"Dubuche (Mme). Boulangère à Plassans : ","Poirette (le père). Paysan de Bennecourt : ",1
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Galissard (Mlle). Fille d'un mercier de Plassans : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Hermeline. Elève de rhétorique au collège de Plassans : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Lalubie. Professeur de sixième au collège de Plassans : ",3
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",95
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Pifard. Censeur du collège de Plassans. — : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",8
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Rhadamante. Surnom d'un professeur du collège de Plassans : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Sandoz. Père de Pierre Sandoz : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Sandoz (Mme). Mère de Pierre Sandoz : ",12
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",91
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",3
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","*Hugo (Victor). Écrivain français : ",5
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",48
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Gagnière. Ami de Claude Lânder. Peintre : ",46
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",37
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Jory (Édouard). Fils du précédent. Critique d'art : ",44
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",43
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ",23
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",24
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",11
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","*Haydn (Franz). Compositeur autrichien : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Sandoz (Henriette). Épouse du précédent : ",10
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","*Wagner (Richard). Compositeur allemand : ",6
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Piédefer (Zoé). Modèle : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Vaquez (Judith). Modèle : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Mazel. Peintre. Président du jury du Salon : ",3
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","*Pasdeloup (Concerts) : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","*Meyerbeer (Giacomo). Compositeur allemand : ",1
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",1
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","*Rossini (Gioacchino). Compositeur italien : ",1
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","*Schubert (Franz). Compositeur autrichien : ",1
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","*Weber (Carl von). Compositeur allemand ",1
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",3
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",3
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Malgras (le père). Marchand de tableaux : ",13
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",1
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Faucheur (le père). Aubergiste à Bennecourt : ",8
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",11
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ",12
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ",14
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",10
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","*Mantegna (André); Peintre italien : ",1
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Spontini. Répétiteur du collège de Plassans : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Faucheur (la mère). Épouse du précédent : ",8
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Poirette (le père). Paysan de Bennecourt : ",4
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Jabouille. Herboriste : ",1
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","*Musset (Alfred de). Poète français : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Godemard. Élève-archi-te&e à l'École des Beaux-Arts : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Gorju. Élève-archite&e à TÉcole des Beaux-Arts : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Joseph (Mme). Concierge de Claude Lantier : ",4
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Françoise. Domestique de Sandoz : ",2
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Mélie. Nièce des Faucheur : ",4
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Fagerolles (père). Fabricant de zinc d'art : ",1
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Gomard. Marchand de vin chez qui Claude Lantier prend ses repas : ",1
+"Dubuche (Louis). Fils de la précédente. Camarade de Claude Lantier et de Pierre Sandoz. Élève architecte : ","Hallegrain (Mme). Épouse du précédent : ",1
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",9
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Gagnière. Ami de Claude Lânder. Peintre : ",8
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",24
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",24
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",12
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",22
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","*Haydn (Franz). Compositeur autrichien : ",1
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Jory (Édouard). Fils du précédent. Critique d'art : ",4
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",5
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",1
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Sandoz (Henriette). Épouse du précédent : ",3
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","*Wagner (Richard). Compositeur allemand : ",4
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","*Pasdeloup (Concerts) : ",1
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Faucheur (la mère). Épouse du précédent : ",7
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",13
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Malgras (le père). Marchand de tableaux : ",3
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Poirette (le père). Paysan de Bennecourt : ",2
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Jabouille. Herboriste : ",1
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",2
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ",8
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ",8
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Faucheur (le père). Aubergiste à Bennecourt : ",6
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",8
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Dubuche (Régine). Fille des Margaillan. Épouse du précédent : ","Mélie. Nièce des Faucheur : ",4
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ",12
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",3
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",7
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Jory (Édouard). Fils du précédent. Critique d'art : ",2
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",12
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",12
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Gagnière. Ami de Claude Lânder. Peintre : ",2
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",2
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",9
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",1
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",2
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","*Wagner (Richard). Compositeur allemand : ",1
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",2
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Faucheur (le père). Aubergiste à Bennecourt : ",2
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Faucheur (la mère). Épouse du précédent : ",2
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Mélie. Nièce des Faucheur : ",2
+"Dubuche (Gaston). Premier enfant de Louis Dubuche et de Régine Margaillan : ","Poirette (le père). Paysan de Bennecourt : ",2
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",5
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",9
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Jory (Édouard). Fils du précédent. Critique d'art : ",4
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",14
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",14
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Gagnière. Ami de Claude Lânder. Peintre : ",4
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",4
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",9
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",3
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",2
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","*Wagner (Richard). Compositeur allemand : ",1
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",2
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Faucheur (le père). Aubergiste à Bennecourt : ",2
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Faucheur (la mère). Épouse du précédent : ",2
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Mélie. Nièce des Faucheur : ",2
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Poirette (le père). Paysan de Bennecourt : ",2
+"Dubuche (Alice). Fille de ï Louis Dubuche et de Régine } Margaillan : ","Sandoz (Henriette). Épouse du précédent : ",2
+"Fagerolles (père). Fabricant de zinc d'art : ","Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ",10
+"Fagerolles (père). Fabricant de zinc d'art : ","Gagnière. Ami de Claude Lânder. Peintre : ",4
+"Fagerolles (père). Fabricant de zinc d'art : ","Jory (Édouard). Fils du précédent. Critique d'art : ",4
+"Fagerolles (père). Fabricant de zinc d'art : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",10
+"Fagerolles (père). Fabricant de zinc d'art : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",5
+"Fagerolles (père). Fabricant de zinc d'art : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",7
+"Fagerolles (père). Fabricant de zinc d'art : ","*Millet (François). Peintre français : ",1
+"Fagerolles (père). Fabricant de zinc d'art : ","Naudet. Marchand de tableaux : ",2
+"Fagerolles (père). Fabricant de zinc d'art : ","*Rousseau (Théodore). Peintre français du xixe siècle, ",1
+"Fagerolles (père). Fabricant de zinc d'art : ","Gomard. Marchand de vin chez qui Claude Lantier prend ses repas : ",2
+"Fagerolles (père). Fabricant de zinc d'art : ","Sandoz (Mme). Mère de Pierre Sandoz : ",4
+"Fagerolles (père). Fabricant de zinc d'art : ","Françoise. Domestique de Sandoz : ",1
+"Fagerolles (père). Fabricant de zinc d'art : ","Sandoz (Henriette). Épouse du précédent : ",2
+"Fagerolles (père). Fabricant de zinc d'art : ","Vernier. Critique d'art : ",1
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","*Favre (Jules). Homme politique français : ",1
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Gagnière. Ami de Claude Lânder. Peintre : ",67
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Jory (Édouard). Fils du précédent. Critique d'art : ",78
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",119
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",64
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","*Rouher (Eugène). Homme politique français : ",1
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",89
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Sandoz (Mme). Mère de Pierre Sandoz : ",13
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",34
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",9
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",4
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","*Haydn (Franz). Compositeur autrichien : ",1
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",1
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Sandoz (Henriette). Épouse du précédent : ",22
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","*Wagner (Richard). Compositeur allemand : ",6
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Mazel. Peintre. Président du jury du Salon : ",10
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","*Pasdeloup (Concerts) : ",2
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Faucheur (le père). Aubergiste à Bennecourt : ",3
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Faucheur (la mère). Épouse du précédent : ",1
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Jabouille. Herboriste : ",2
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",21
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",7
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","*Titien (Tiziano Vecellio, dit le). Peintre italien : ",3
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",1
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Naudet. Marchand de tableaux : ",14
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Jory (père). Magistrat à Plassans : ",3
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","*Meyerbeer (Giacomo). Compositeur allemand : ",1
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","*Véronèse (Paolo Caliari, dit). Peintre italien : ",1
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Malgras (le père). Marchand de tableaux : ",6
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","*Rembrandt (Harmens-zoon Van Ryn, dit). Peintre hollandais : ",1
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","*Millet (François). Peintre français : ",2
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","*Rousseau (Théodore). Peintre français du xixe siècle, ",2
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","*Ledoyen. Restaurant : ",4
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",4
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ",2
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Françoise. Domestique de Sandoz : ",6
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Gomard. Marchand de vin chez qui Claude Lantier prend ses repas : ",2
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Vernier. Critique d'art : ",2
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Hallegrain (Mme). Épouse du précédent : ",1
+"Fagerolles (Henri). Fils du précédent. Peintre. Amant d'irma Bécot : ","Joseph (Mme). Concierge de Claude Lantier : ",2
+"Faucheur (le père). Aubergiste à Bennecourt : ","Faucheur (la mère). Épouse du précédent : ",13
+"Faucheur (le père). Aubergiste à Bennecourt : ","Gagnière. Ami de Claude Lânder. Peintre : ",3
+"Faucheur (le père). Aubergiste à Bennecourt : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",13
+"Faucheur (le père). Aubergiste à Bennecourt : ","Jabouille. Herboriste : ",1
+"Faucheur (le père). Aubergiste à Bennecourt : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",2
+"Faucheur (le père). Aubergiste à Bennecourt : ","Jory (Édouard). Fils du précédent. Critique d'art : ",3
+"Faucheur (le père). Aubergiste à Bennecourt : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",16
+"Faucheur (le père). Aubergiste à Bennecourt : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",6
+"Faucheur (le père). Aubergiste à Bennecourt : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",4
+"Faucheur (le père). Aubergiste à Bennecourt : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",11
+"Faucheur (le père). Aubergiste à Bennecourt : ","Malgras (le père). Marchand de tableaux : ",3
+"Faucheur (le père). Aubergiste à Bennecourt : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",6
+"Faucheur (le père). Aubergiste à Bennecourt : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",4
+"Faucheur (le père). Aubergiste à Bennecourt : ","Mélie. Nièce des Faucheur : ",7
+"Faucheur (le père). Aubergiste à Bennecourt : ","Poirette (le père). Paysan de Bennecourt : ",4
+"Faucheur (le père). Aubergiste à Bennecourt : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",3
+"Faucheur (la mère). Épouse du précédent : ","Gagnière. Ami de Claude Lânder. Peintre : ",1
+"Faucheur (la mère). Épouse du précédent : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",16
+"Faucheur (la mère). Épouse du précédent : ","Jabouille. Herboriste : ",1
+"Faucheur (la mère). Épouse du précédent : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",1
+"Faucheur (la mère). Épouse du précédent : ","Jory (Édouard). Fils du précédent. Critique d'art : ",1
+"Faucheur (la mère). Épouse du précédent : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",17
+"Faucheur (la mère). Épouse du précédent : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",6
+"Faucheur (la mère). Épouse du précédent : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",2
+"Faucheur (la mère). Épouse du précédent : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",9
+"Faucheur (la mère). Épouse du précédent : ","Malgras (le père). Marchand de tableaux : ",5
+"Faucheur (la mère). Épouse du précédent : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",7
+"Faucheur (la mère). Épouse du précédent : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",5
+"Faucheur (la mère). Épouse du précédent : ","Poirette (le père). Paysan de Bennecourt : ",7
+"Faucheur (la mère). Épouse du précédent : ","Mélie. Nièce des Faucheur : ",7
+"Faucheur (la mère). Épouse du précédent : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",4
+"*Favre (Jules). Homme politique français : ","Gagnière. Ami de Claude Lânder. Peintre : ",1
+"*Favre (Jules). Homme politique français : ","Jory (Édouard). Fils du précédent. Critique d'art : ",2
+"*Favre (Jules). Homme politique français : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"*Favre (Jules). Homme politique français : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",2
+"*Favre (Jules). Homme politique français : ","*Rouher (Eugène). Homme politique français : ",2
+"*Favre (Jules). Homme politique français : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ","Gagnière. Ami de Claude Lânder. Peintre : ",2
+"Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",1
+"Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ","Jory (Édouard). Fils du précédent. Critique d'art : ",2
+"Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",2
+"Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",1
+"Foucart. Restaurant à vingt-cinq sous, fréquenté par Jory et Mahoudeau : ","Joseph (Mme). Concierge de Claude Lantier : ",1
+"Françoise. Domestique de Sandoz : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",1
+"Françoise. Domestique de Sandoz : ","Jory (Édouard). Fils du précédent. Critique d'art : ",7
+"Françoise. Domestique de Sandoz : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",8
+"Françoise. Domestique de Sandoz : ","Sandoz (Mme). Mère de Pierre Sandoz : ",2
+"Françoise. Domestique de Sandoz : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",8
+"Françoise. Domestique de Sandoz : ","Sandoz (Henriette). Épouse du précédent : ",8
+"Françoise. Domestique de Sandoz : ","Gagnière. Ami de Claude Lânder. Peintre : ",6
+"Françoise. Domestique de Sandoz : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",6
+"Françoise. Domestique de Sandoz : ","Vernier. Critique d'art : ",2
+"Françoise. Domestique de Sandoz : ","Naudet. Marchand de tableaux : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","Jory (Édouard). Fils du précédent. Critique d'art : ",70
+"Gagnière. Ami de Claude Lânder. Peintre : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",85
+"Gagnière. Ami de Claude Lânder. Peintre : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",68
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Rouher (Eugène). Homme politique français : ",1
+"Gagnière. Ami de Claude Lânder. Peintre : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",79
+"Gagnière. Ami de Claude Lânder. Peintre : ","Sandoz (Mme). Mère de Pierre Sandoz : ",9
+"Gagnière. Ami de Claude Lânder. Peintre : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",38
+"Gagnière. Ami de Claude Lânder. Peintre : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",8
+"Gagnière. Ami de Claude Lânder. Peintre : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",3
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Haydn (Franz). Compositeur autrichien : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","Sandoz (Henriette). Épouse du précédent : ",26
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Wagner (Richard). Compositeur allemand : ",10
+"Gagnière. Ami de Claude Lânder. Peintre : ","Mazel. Peintre. Président du jury du Salon : ",3
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Pasdeloup (Concerts) : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","Jabouille. Herboriste : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",25
+"Gagnière. Ami de Claude Lânder. Peintre : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",8
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Meyerbeer (Giacomo). Compositeur allemand : ",4
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Rossini (Gioacchino). Compositeur italien : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Schubert (Franz). Compositeur autrichien : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Weber (Carl von). Compositeur allemand ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Véronèse (Paolo Caliari, dit). Peintre italien : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Schumann. Compositeur allemand : ",4
+"Gagnière. Ami de Claude Lânder. Peintre : ","Malgras (le père). Marchand de tableaux : ",5
+"Gagnière. Ami de Claude Lânder. Peintre : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Gœt  (Wolfgang). Écrivain allemand. — : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Mendelssohn (Félix). Compositeur allemand : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Shakespeare (William). Écrivain anglais : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","*Virgile. Poète latin : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","Gomard. Marchand de vin chez qui Claude Lantier prend ses repas : ",1
+"Gagnière. Ami de Claude Lânder. Peintre : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",4
+"Gagnière. Ami de Claude Lânder. Peintre : ","Vernier. Critique d'art : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","Naudet. Marchand de tableaux : ",4
+"Gagnière. Ami de Claude Lânder. Peintre : ","Hue. Amateur de tableaux. — : ",2
+"Gagnière. Ami de Claude Lânder. Peintre : ","Hallegrain (Mme). Épouse du précédent : ",1
+"Gagnière. Ami de Claude Lânder. Peintre : ","Joseph (Mme). Concierge de Claude Lantier : ",2
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","Hermeline. Elève de rhétorique au collège de Plassans : ",2
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","Lalubie. Professeur de sixième au collège de Plassans : ",2
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","Pifard. Censeur du collège de Plassans. — : ",2
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",2
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","Rhadamante. Surnom d'un professeur du collège de Plassans : ",2
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","Sandoz. Père de Pierre Sandoz : ",1
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",2
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ",1
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ",1
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ",1
+"Galissard (Mlle). Fille d'un mercier de Plassans : ","Spontini. Répétiteur du collège de Plassans : ",1
+"Giraud (Tata). Maîtresse de pension à Plassans : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",2
+"Giraud (Tata). Maîtresse de pension à Plassans : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Giraud (Tata). Maîtresse de pension à Plassans : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",2
+"Giraud (Tata). Maîtresse de pension à Plassans : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Giraud (Tata). Maîtresse de pension à Plassans : ","Jory (Édouard). Fils du précédent. Critique d'art : ",1
+"Godemard. Élève-archi-te&e à l'École des Beaux-Arts : ","Gorju. Élève-archite&e à TÉcole des Beaux-Arts : ",2
+"Godemard. Élève-archi-te&e à l'École des Beaux-Arts : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Godemard. Élève-archi-te&e à l'École des Beaux-Arts : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",1
+"*Gœt  (Wolfgang). Écrivain allemand. — : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"*Gœt  (Wolfgang). Écrivain allemand. — : ","*Mendelssohn (Félix). Compositeur allemand : ",2
+"*Gœt  (Wolfgang). Écrivain allemand. — : ","*Meyerbeer (Giacomo). Compositeur allemand : ",1
+"*Gœt  (Wolfgang). Écrivain allemand. — : ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",1
+"*Gœt  (Wolfgang). Écrivain allemand. — : ","*Rossini (Gioacchino). Compositeur italien : ",1
+"*Gœt  (Wolfgang). Écrivain allemand. — : ","*Schubert (Franz). Compositeur autrichien : ",1
+"*Gœt  (Wolfgang). Écrivain allemand. — : ","*Schumann. Compositeur allemand : ",2
+"*Gœt  (Wolfgang). Écrivain allemand. — : ","*Shakespeare (William). Écrivain anglais : ",2
+"*Gœt  (Wolfgang). Écrivain allemand. — : ","*Virgile. Poète latin : ",2
+"*Gœt  (Wolfgang). Écrivain allemand. — : ","*Wagner (Richard). Compositeur allemand : ",2
+"*Gœt  (Wolfgang). Écrivain allemand. — : ","*Weber (Carl von). Compositeur allemand ",1
+"*Gœt  (Wolfgang). Écrivain allemand. — : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",1
+"Gomard. Marchand de vin chez qui Claude Lantier prend ses repas : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",2
+"Gomard. Marchand de vin chez qui Claude Lantier prend ses repas : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",4
+"Gomard. Marchand de vin chez qui Claude Lantier prend ses repas : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",1
+"Gorju. Élève-archite&e à TÉcole des Beaux-Arts : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Gorju. Élève-archite&e à TÉcole des Beaux-Arts : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",1
+"Hallegrain (Capitaine). Père de Christine. Officier en retraite : ","Hallegrain (Mme). Épouse du précédent : ",5
+"Hallegrain (Capitaine). Père de Christine. Officier en retraite : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",5
+"Hallegrain (Capitaine). Père de Christine. Officier en retraite : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",5
+"Hallegrain (Capitaine). Père de Christine. Officier en retraite : ","Saints-Anges (la mère des). Religieuse : ",3
+"Hallegrain (Capitaine). Père de Christine. Officier en retraite : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",5
+"Hallegrain (Mme). Épouse du précédent : ","Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ",11
+"Hallegrain (Mme). Épouse du précédent : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",11
+"Hallegrain (Mme). Épouse du précédent : ","Saints-Anges (la mère des). Religieuse : ",5
+"Hallegrain (Mme). Épouse du précédent : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",9
+"Hallegrain (Mme). Épouse du précédent : ","Joseph (Mme). Concierge de Claude Lantier : ",1
+"Hallegrain (Mme). Épouse du précédent : ","Jory (Édouard). Fils du précédent. Critique d'art : ",1
+"Hallegrain (Mme). Épouse du précédent : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",1
+"Hallegrain (Mme). Épouse du précédent : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",1
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Jory (Édouard). Fils du précédent. Critique d'art : ",42
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",199
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",43
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",99
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Piédefer (Zoé). Modèle : ",6
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Vaquez (Judith). Modèle : ",4
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Jabouille. Herboriste : ",2
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",26
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",46
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Jory (père). Magistrat à Plassans : ",1
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","*Titien (Tiziano Vecellio, dit le). Peintre italien : ",6
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",26
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Hue. Amateur de tableaux. — : ",5
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Louis. Maître d'hôtel d'Irma Bécot : ",2
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Sandoz (Henriette). Épouse du précédent : ",26
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","*Meyerbeer (Giacomo). Compositeur allemand : ",2
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","*Véronèse (Paolo Caliari, dit). Peintre italien : ",2
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","*Schumann. Compositeur allemand : ",3
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","*Wagner (Richard). Compositeur allemand : ",5
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Naudet. Marchand de tableaux : ",5
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","*Rembrandt (Harmens-zoon Van Ryn, dit). Peintre hollandais : ",1
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Sandoz (Mme). Mère de Pierre Sandoz : ",10
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",3
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",3
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Malgras (le père). Marchand de tableaux : ",10
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","*Mantegna (André); Peintre italien : ",1
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",1
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",1
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",14
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",7
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Poirette (le père). Paysan de Bennecourt : ",7
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","*Hugo (Victor). Écrivain français : ",1
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Joseph (Mme). Concierge de Claude Lantier : ",14
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Mélie. Nièce des Faucheur : ",12
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",2
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","*Mendelssohn (Félix). Compositeur allemand : ",1
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","*Shakespeare (William). Écrivain anglais : ",1
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","*Virgile. Poète latin : ",1
+"Hallegrain (Christine). Fille des précédents. Maîtresse, puis épouse de Claude Lantier : ","Saints-Anges (la mère des). Religieuse : ",5
+"*Haydn (Franz). Compositeur autrichien : ","Jory (Édouard). Fils du précédent. Critique d'art : ",2
+"*Haydn (Franz). Compositeur autrichien : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"*Haydn (Franz). Compositeur autrichien : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",2
+"*Haydn (Franz). Compositeur autrichien : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",1
+"*Haydn (Franz). Compositeur autrichien : ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",2
+"*Haydn (Franz). Compositeur autrichien : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"*Haydn (Franz). Compositeur autrichien : ","Sandoz (Henriette). Épouse du précédent : ",2
+"*Haydn (Franz). Compositeur autrichien : ","*Wagner (Richard). Compositeur allemand : ",1
+"*Haydn (Franz). Compositeur autrichien : ","*Meyerbeer (Giacomo). Compositeur allemand : ",1
+"*Haydn (Franz). Compositeur autrichien : ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",1
+"*Haydn (Franz). Compositeur autrichien : ","*Rossini (Gioacchino). Compositeur italien : ",1
+"*Haydn (Franz). Compositeur autrichien : ","*Schubert (Franz). Compositeur autrichien : ",1
+"*Haydn (Franz). Compositeur autrichien : ","*Weber (Carl von). Compositeur allemand ",1
+"Hermeline. Elève de rhétorique au collège de Plassans : ","Lalubie. Professeur de sixième au collège de Plassans : ",2
+"Hermeline. Elève de rhétorique au collège de Plassans : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Hermeline. Elève de rhétorique au collège de Plassans : ","Pifard. Censeur du collège de Plassans. — : ",2
+"Hermeline. Elève de rhétorique au collège de Plassans : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",2
+"Hermeline. Elève de rhétorique au collège de Plassans : ","Rhadamante. Surnom d'un professeur du collège de Plassans : ",2
+"Hermeline. Elève de rhétorique au collège de Plassans : ","Sandoz. Père de Pierre Sandoz : ",1
+"Hermeline. Elève de rhétorique au collège de Plassans : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Hermeline. Elève de rhétorique au collège de Plassans : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Hermeline. Elève de rhétorique au collège de Plassans : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",2
+"Hermeline. Elève de rhétorique au collège de Plassans : ","Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ",1
+"Hermeline. Elève de rhétorique au collège de Plassans : ","Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ",1
+"Hermeline. Elève de rhétorique au collège de Plassans : ","PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ",1
+"Hermeline. Elève de rhétorique au collège de Plassans : ","Spontini. Répétiteur du collège de Plassans : ",1
+"Hue. Amateur de tableaux. — : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",5
+"Hue. Amateur de tableaux. — : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",4
+"Hue. Amateur de tableaux. — : ","Malgras (le père). Marchand de tableaux : ",2
+"Hue. Amateur de tableaux. — : ","Naudet. Marchand de tableaux : ",2
+"*Hugo (Victor). Écrivain français : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",5
+"*Hugo (Victor). Écrivain français : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",5
+"*Hugo (Victor). Écrivain français : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",1
+"*Hugo (Victor). Écrivain français : ","*Musset (Alfred de). Poète français : ",2
+"*Ingres (Dominique). Peintre français : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",1
+"*Ingres (Dominique). Peintre français : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",3
+"*Ingres (Dominique). Peintre français : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",1
+"*Ingres (Dominique). Peintre français : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",1
+"*Ingres (Dominique). Peintre français : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",3
+"Jabouille. Herboriste : ","Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ",7
+"Jabouille. Herboriste : ","Jory (Édouard). Fils du précédent. Critique d'art : ",6
+"Jabouille. Herboriste : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",7
+"Jabouille. Herboriste : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",1
+"Jabouille. Herboriste : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",7
+"Jabouille. Herboriste : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",6
+"Jabouille. Herboriste : ","Jory (père). Magistrat à Plassans : ",2
+"Jabouille. Herboriste : ","Malgras (le père). Marchand de tableaux : ",1
+"Jabouille. Herboriste : ","*Mantegna (André); Peintre italien : ",2
+"Jabouille. Herboriste : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",1
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","Jory (Édouard). Fils du précédent. Critique d'art : ",36
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",46
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",5
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",43
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",40
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","Jory (père). Magistrat à Plassans : ",7
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","Sandoz (Henriette). Épouse du précédent : ",18
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","*Meyerbeer (Giacomo). Compositeur allemand : ",2
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","*Véronèse (Paolo Caliari, dit). Peintre italien : ",2
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","*Schumann. Compositeur allemand : ",2
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","*Wagner (Richard). Compositeur allemand : ",4
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","Malgras (le père). Marchand de tableaux : ",2
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","*Mantegna (André); Peintre italien : ",2
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",2
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","*Ledoyen. Restaurant : ",1
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","Naudet. Marchand de tableaux : ",2
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",2
+"Jabouille (Mathilde). Épouse, puis veuve du précédent. Maîtresse de Mahou-deau et de Chaîne. Épouse Édouard Jory : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Jory (père). Magistrat à Plassans : ","Jory (Édouard). Fils du précédent. Critique d'art : ",8
+"Jory (père). Magistrat à Plassans : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",8
+"Jory (père). Magistrat à Plassans : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",6
+"Jory (père). Magistrat à Plassans : ","*Titien (Tiziano Vecellio, dit le). Peintre italien : ",1
+"Jory (père). Magistrat à Plassans : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",6
+"Jory (père). Magistrat à Plassans : ","Malgras (le père). Marchand de tableaux : ",2
+"Jory (père). Magistrat à Plassans : ","*Ledoyen. Restaurant : ",1
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",106
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",79
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Rouher (Eugène). Homme politique français : ",2
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",93
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Sandoz (Mme). Mère de Pierre Sandoz : ",12
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",4
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",2
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Sandoz (Henriette). Épouse du précédent : ",30
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Wagner (Richard). Compositeur allemand : ",6
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Mazel. Peintre. Président du jury du Salon : ",3
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",1
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Pasdeloup (Concerts) : ",2
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",4
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Titien (Tiziano Vecellio, dit le). Peintre italien : ",4
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",2
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Meyerbeer (Giacomo). Compositeur allemand : ",3
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",1
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Rossini (Gioacchino). Compositeur italien : ",1
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Schubert (Franz). Compositeur autrichien : ",1
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Weber (Carl von). Compositeur allemand ",1
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Véronèse (Paolo Caliari, dit). Peintre italien : ",2
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Schumann. Compositeur allemand : ",2
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Malgras (le père). Marchand de tableaux : ",8
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Naudet. Marchand de tableaux : ",8
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Rembrandt (Harmens-zoon Van Ryn, dit). Peintre hollandais : ",2
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Ledoyen. Restaurant : ",2
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Jory (Édouard). Fils du précédent. Critique d'art : ","*Mantegna (André); Peintre italien : ",1
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",4
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Vernier. Critique d'art : ",2
+"Jory (Édouard). Fils du précédent. Critique d'art : ","Joseph (Mme). Concierge de Claude Lantier : ",2
+"Joseph (Mme). Concierge de Claude Lantier : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",14
+"Joseph (Mme). Concierge de Claude Lantier : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",6
+"Joseph (Mme). Concierge de Claude Lantier : ","Sandoz (Mme). Mère de Pierre Sandoz : ",2
+"Joseph (Mme). Concierge de Claude Lantier : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",3
+"Joseph (Mme). Concierge de Claude Lantier : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",2
+"Joseph (Mme). Concierge de Claude Lantier : ","Piédefer (Zoé). Modèle : ",2
+"Lalubie. Professeur de sixième au collège de Plassans : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",3
+"Lalubie. Professeur de sixième au collège de Plassans : ","Pifard. Censeur du collège de Plassans. — : ",2
+"Lalubie. Professeur de sixième au collège de Plassans : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",3
+"Lalubie. Professeur de sixième au collège de Plassans : ","Rhadamante. Surnom d'un professeur du collège de Plassans : ",2
+"Lalubie. Professeur de sixième au collège de Plassans : ","Sandoz. Père de Pierre Sandoz : ",2
+"Lalubie. Professeur de sixième au collège de Plassans : ","Sandoz (Mme). Mère de Pierre Sandoz : ",2
+"Lalubie. Professeur de sixième au collège de Plassans : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",3
+"Lalubie. Professeur de sixième au collège de Plassans : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",2
+"Lalubie. Professeur de sixième au collège de Plassans : ","Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ",1
+"Lalubie. Professeur de sixième au collège de Plassans : ","Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ",1
+"Lalubie. Professeur de sixième au collège de Plassans : ","PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ",1
+"Lalubie. Professeur de sixième au collège de Plassans : ","Spontini. Répétiteur du collège de Plassans : ",1
+"Lalubie. Professeur de sixième au collège de Plassans : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",1
+"Lalubie. Professeur de sixième au collège de Plassans : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",1
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",4
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",4
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Malgras (le père). Marchand de tableaux : ",1
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Sandoz (Mme). Mère de Pierre Sandoz : ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",4
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",1
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Sandoz. Père de Pierre Sandoz : ",1
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Pifard. Censeur du collège de Plassans. — : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",10
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Rhadamante. Surnom d'un professeur du collège de Plassans : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Sandoz. Père de Pierre Sandoz : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Sandoz (Mme). Mère de Pierre Sandoz : ",28
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",211
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",3
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",101
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Rouher (Eugène). Homme politique français : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",25
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",12
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Sandoz (Henriette). Épouse du précédent : ",39
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Wagner (Richard). Compositeur allemand : ",10
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Piédefer (Zoé). Modèle : ",6
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Vaquez (Judith). Modèle : ",4
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Mazel. Peintre. Président du jury du Salon : ",10
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Pasdeloup (Concerts) : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ",49
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Titien (Tiziano Vecellio, dit le). Peintre italien : ",6
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",26
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Louis. Maître d'hôtel d'Irma Bécot : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Naudet. Marchand de tableaux : ",17
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Meyerbeer (Giacomo). Compositeur allemand : ",4
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Rossini (Gioacchino). Compositeur italien : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Schubert (Franz). Compositeur autrichien : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Weber (Carl von). Compositeur allemand ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Véronèse (Paolo Caliari, dit). Peintre italien : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Schumann. Compositeur allemand : ",4
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",4
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Malgras (le père). Marchand de tableaux : ",24
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Rembrandt (Harmens-zoon Van Ryn, dit). Peintre hollandais : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Millet (François). Peintre français : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Rousseau (Théodore). Peintre français du xixe siècle, ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Ledoyen. Restaurant : ",4
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",6
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",3
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Mantegna (André); Peintre italien : ",4
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Spontini. Répétiteur du collège de Plassans : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Mendelssohn (Félix). Compositeur allemand : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Shakespeare (William). Écrivain anglais : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Virgile. Poète latin : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Poirette (le père). Paysan de Bennecourt : ",8
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","*Musset (Alfred de). Poète français : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Mélie. Nièce des Faucheur : ",13
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Vernier. Critique d'art : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Saints-Anges (la mère des). Religieuse : ",5
+"Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ","Mahoudeau. Sculpteun Ami de Claude Lantier : ",11
+"Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",23
+"Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ","Malgras (le père). Marchand de tableaux : ",2
+"Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ","Naudet. Marchand de tableaux : ",3
+"Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",8
+"Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",3
+"Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ","*Wagner (Richard). Compositeur allemand : ",2
+"Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ","Mélie. Nièce des Faucheur : ",5
+"Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ","Sandoz (Henriette). Épouse du précédent : ",2
+"Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ","*Titien (Tiziano Vecellio, dit le). Peintre italien : ",2
+"Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",4
+"Lantier (Jacques-Louis). Fils de Claude Lantier et de Christine Hallegrain : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"*Ledoyen. Restaurant : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",4
+"*Ledoyen. Restaurant : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"*Ledoyen. Restaurant : ","Sandoz (Henriette). Épouse du précédent : ",1
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Malgras (le père). Marchand de tableaux : ",1
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Sandoz (Mme). Mère de Pierre Sandoz : ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",4
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",1
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Sandoz. Père de Pierre Sandoz : ",1
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","*Rouher (Eugène). Homme politique français : ",2
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",90
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","Sandoz (Mme). Mère de Pierre Sandoz : ",13
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",5
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",2
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","Sandoz (Henriette). Épouse du précédent : ",27
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","*Wagner (Richard). Compositeur allemand : ",6
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","Mazel. Peintre. Président du jury du Salon : ",3
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","*Meyerbeer (Giacomo). Compositeur allemand : ",3
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",1
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","*Rossini (Gioacchino). Compositeur italien : ",1
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","*Schubert (Franz). Compositeur autrichien : ",1
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","*Weber (Carl von). Compositeur allemand ",1
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","*Véronèse (Paolo Caliari, dit). Peintre italien : ",2
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","*Schumann. Compositeur allemand : ",2
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","Malgras (le père). Marchand de tableaux : ",5
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","*Mantegna (André); Peintre italien : ",4
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",4
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","Vernier. Critique d'art : ",2
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","Naudet. Marchand de tableaux : ",4
+"Mahoudeau. Sculpteun Ami de Claude Lantier : ","Mélie. Nièce des Faucheur : ",1
+"Malgras (le père). Marchand de tableaux : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",1
+"Malgras (le père). Marchand de tableaux : ","Sandoz (Mme). Mère de Pierre Sandoz : ",3
+"Malgras (le père). Marchand de tableaux : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",16
+"Malgras (le père). Marchand de tableaux : ","Naudet. Marchand de tableaux : ",4
+"Malgras (le père). Marchand de tableaux : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",1
+"Malgras (le père). Marchand de tableaux : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",1
+"Malgras (le père). Marchand de tableaux : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",1
+"Malgras (le père). Marchand de tableaux : ","Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ",3
+"Malgras (le père). Marchand de tableaux : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",3
+"Malgras (le père). Marchand de tableaux : ","Poirette (le père). Paysan de Bennecourt : ",4
+"Malgras (le père). Marchand de tableaux : ","*Pasdeloup (Concerts) : ",1
+"Malgras (le père). Marchand de tableaux : ","*Wagner (Richard). Compositeur allemand : ",1
+"Malgras (le père). Marchand de tableaux : ","Mélie. Nièce des Faucheur : ",3
+"Malgras (le père). Marchand de tableaux : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",2
+"*Mantegna (André); Peintre italien : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",3
+"Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ","Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ",12
+"Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",23
+"Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",1
+"Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ","Sandoz (Henriette). Épouse du précédent : ",3
+"Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ","*Wagner (Richard). Compositeur allemand : ",4
+"Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ","*Pasdeloup (Concerts) : ",1
+"Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ","Poirette (le père). Paysan de Bennecourt : ",2
+"Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Margaillan. Entrepreneur de maçonnerie. Beau-père de Dubuche : ","Mélie. Nièce des Faucheur : ",4
+"Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",11
+"Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ","*Pasdeloup (Concerts) : ",1
+"Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ","*Wagner (Richard). Compositeur allemand : ",1
+"Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ","Poirette (le père). Paysan de Bennecourt : ",1
+"Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ","Mélie. Nièce des Faucheur : ",2
+"Margaillan (Mme). Épouse du précédent. Mère de Régine Margaillan : ","Sandoz (Henriette). Épouse du précédent : ",1
+"Mazel. Peintre. Président du jury du Salon : ","Sandoz (Mme). Mère de Pierre Sandoz : ",2
+"Mazel. Peintre. Président du jury du Salon : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",3
+"Mélie. Nièce des Faucheur : ","Poirette (le père). Paysan de Bennecourt : ",4
+"Mélie. Nièce des Faucheur : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",6
+"Mélie. Nièce des Faucheur : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",2
+"Mélie. Nièce des Faucheur : ","Sandoz (Henriette). Épouse du précédent : ",2
+"Mélie. Nièce des Faucheur : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"*Mendelssohn (Félix). Compositeur allemand : ","*Meyerbeer (Giacomo). Compositeur allemand : ",1
+"*Mendelssohn (Félix). Compositeur allemand : ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",1
+"*Mendelssohn (Félix). Compositeur allemand : ","*Rossini (Gioacchino). Compositeur italien : ",1
+"*Mendelssohn (Félix). Compositeur allemand : ","*Schubert (Franz). Compositeur autrichien : ",1
+"*Mendelssohn (Félix). Compositeur allemand : ","*Schumann. Compositeur allemand : ",2
+"*Mendelssohn (Félix). Compositeur allemand : ","*Shakespeare (William). Écrivain anglais : ",2
+"*Mendelssohn (Félix). Compositeur allemand : ","*Virgile. Poète latin : ",2
+"*Mendelssohn (Félix). Compositeur allemand : ","*Wagner (Richard). Compositeur allemand : ",2
+"*Mendelssohn (Félix). Compositeur allemand : ","*Weber (Carl von). Compositeur allemand ",1
+"*Meyerbeer (Giacomo). Compositeur allemand : ","*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ",2
+"*Meyerbeer (Giacomo). Compositeur allemand : ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",1
+"*Meyerbeer (Giacomo). Compositeur allemand : ","*Rossini (Gioacchino). Compositeur italien : ",2
+"*Meyerbeer (Giacomo). Compositeur allemand : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",3
+"*Meyerbeer (Giacomo). Compositeur allemand : ","Sandoz (Henriette). Épouse du précédent : ",3
+"*Meyerbeer (Giacomo). Compositeur allemand : ","*Schubert (Franz). Compositeur autrichien : ",2
+"*Meyerbeer (Giacomo). Compositeur allemand : ","*Weber (Carl von). Compositeur allemand ",2
+"*Meyerbeer (Giacomo). Compositeur allemand : ","*Véronèse (Paolo Caliari, dit). Peintre italien : ",2
+"*Meyerbeer (Giacomo). Compositeur allemand : ","*Schumann. Compositeur allemand : ",2
+"*Meyerbeer (Giacomo). Compositeur allemand : ","*Wagner (Richard). Compositeur allemand : ",2
+"*Meyerbeer (Giacomo). Compositeur allemand : ","*Shakespeare (William). Écrivain anglais : ",1
+"*Meyerbeer (Giacomo). Compositeur allemand : ","*Virgile. Poète latin : ",1
+"*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ","*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ",1
+"*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ","*Rossini (Gioacchino). Compositeur italien : ",2
+"*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",1
+"*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ","Sandoz (Henriette). Épouse du précédent : ",1
+"*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ","*Schubert (Franz). Compositeur autrichien : ",2
+"*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ","*Weber (Carl von). Compositeur allemand ",2
+"*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ","*Schumann. Compositeur allemand : ",1
+"*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ","*Shakespeare (William). Écrivain anglais : ",1
+"*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ","*Virgile. Poète latin : ",1
+"*Michel-Ange (Michel-Ange Buonarroti). Peintre italien : ","*Wagner (Richard). Compositeur allemand : ",1
+"*Millet (François). Peintre français : ","Naudet. Marchand de tableaux : ",2
+"*Millet (François). Peintre français : ","*Rousseau (Théodore). Peintre français du xixe siècle, ",2
+"Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ","Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ",2
+"Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ","PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ",2
+"Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ","Pifard. Censeur du collège de Plassans. — : ",1
+"Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",2
+"Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ","Rhadamante. Surnom d'un professeur du collège de Plassans : ",1
+"Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ","Spontini. Répétiteur du collège de Plassans : ",2
+"Mimi-la-Mort, dit Squelette-Externe. Un élève du collège de Plassans : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",2
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",3
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",6
+"*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ","Sandoz (Henriette). Épouse du précédent : ",2
+"*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ","*Wagner (Richard). Compositeur allemand : ",1
+"*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ","*Rossini (Gioacchino). Compositeur italien : ",1
+"*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ","*Schubert (Franz). Compositeur autrichien : ",1
+"*Mozart (Wolfgang-Amadeus). Compositeur autrichien : ","*Weber (Carl von). Compositeur allemand ",1
+"*Musset (Alfred de). Poète français : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Naudet. Marchand de tableaux : ","*Rembrandt (Harmens-zoon Van Ryn, dit). Peintre hollandais : ",2
+"Naudet. Marchand de tableaux : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Naudet. Marchand de tableaux : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",5
+"Naudet. Marchand de tableaux : ","Sandoz (Henriette). Épouse du précédent : ",5
+"Naudet. Marchand de tableaux : ","*Rousseau (Théodore). Peintre français du xixe siècle, ",2
+"Naudet. Marchand de tableaux : ","Vernier. Critique d'art : ",1
+"Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ","PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ",2
+"Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ","Pifard. Censeur du collège de Plassans. — : ",1
+"Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",2
+"Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ","Rhadamante. Surnom d'un professeur du collège de Plassans : ",1
+"Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ","Spontini. Répétiteur du collège de Plassans : ",2
+"Paraboulomenos. Surnom d'un marmiton du collège de Plassans : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",2
+"PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ","Pifard. Censeur du collège de Plassans. — : ",1
+"PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",2
+"PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ","Rhadamante. Surnom d'un professeur du collège de Plassans : ",1
+"PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ","Spontini. Répétiteur du collège de Plassans : ",2
+"PARALLELUCA. Surnom d'une laveuse d'assiettes du collège de Plassans : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",2
+"*Pasdeloup (Concerts) : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"*Pasdeloup (Concerts) : ","*Wagner (Richard). Compositeur allemand : ",2
+"Piédefer (Zoé). Modèle : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Piédefer (Zoé). Modèle : ","Vaquez (Judith). Modèle : ",4
+"Pifard. Censeur du collège de Plassans. — : ","Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ",2
+"Pifard. Censeur du collège de Plassans. — : ","Rhadamante. Surnom d'un professeur du collège de Plassans : ",2
+"Pifard. Censeur du collège de Plassans. — : ","Sandoz. Père de Pierre Sandoz : ",1
+"Pifard. Censeur du collège de Plassans. — : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Pifard. Censeur du collège de Plassans. — : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Pifard. Censeur du collège de Plassans. — : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",2
+"Pifard. Censeur du collège de Plassans. — : ","Spontini. Répétiteur du collège de Plassans : ",1
+"Poirette (le père). Paysan de Bennecourt : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Poirette (le père). Paysan de Bennecourt : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",4
+"Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ","Rhadamante. Surnom d'un professeur du collège de Plassans : ",2
+"Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ","Sandoz. Père de Pierre Sandoz : ",2
+"Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ","Sandoz (Mme). Mère de Pierre Sandoz : ",2
+"Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",10
+"Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",3
+"Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ","Spontini. Répétiteur du collège de Plassans : ",2
+"Pouillaud. Condisciple de Claude Lantier au collège de Plassans : ","Sandoz (Henriette). Épouse du précédent : ",2
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"*Rembrandt (Harmens-zoon Van Ryn, dit). Peintre hollandais : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"*Rembrandt (Harmens-zoon Van Ryn, dit). Peintre hollandais : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",1
+"*Rembrandt (Harmens-zoon Van Ryn, dit). Peintre hollandais : ","Sandoz (Henriette). Épouse du précédent : ",1
+"Rhadamante. Surnom d'un professeur du collège de Plassans : ","Sandoz. Père de Pierre Sandoz : ",1
+"Rhadamante. Surnom d'un professeur du collège de Plassans : ","Sandoz (Mme). Mère de Pierre Sandoz : ",1
+"Rhadamante. Surnom d'un professeur du collège de Plassans : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Rhadamante. Surnom d'un professeur du collège de Plassans : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",2
+"Rhadamante. Surnom d'un professeur du collège de Plassans : ","Spontini. Répétiteur du collège de Plassans : ",1
+"*Rossini (Gioacchino). Compositeur italien : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",1
+"*Rossini (Gioacchino). Compositeur italien : ","Sandoz (Henriette). Épouse du précédent : ",1
+"*Rossini (Gioacchino). Compositeur italien : ","*Schubert (Franz). Compositeur autrichien : ",2
+"*Rossini (Gioacchino). Compositeur italien : ","*Weber (Carl von). Compositeur allemand ",2
+"*Rossini (Gioacchino). Compositeur italien : ","*Schumann. Compositeur allemand : ",1
+"*Rossini (Gioacchino). Compositeur italien : ","*Shakespeare (William). Écrivain anglais : ",1
+"*Rossini (Gioacchino). Compositeur italien : ","*Virgile. Poète latin : ",1
+"*Rossini (Gioacchino). Compositeur italien : ","*Wagner (Richard). Compositeur allemand : ",1
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",3
+"*Rouher (Eugène). Homme politique français : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Saints-Anges (la mère des). Religieuse : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",5
+"Sandoz. Père de Pierre Sandoz : ","Sandoz (Mme). Mère de Pierre Sandoz : ",2
+"Sandoz. Père de Pierre Sandoz : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",2
+"Sandoz. Père de Pierre Sandoz : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",1
+"Sandoz (Mme). Mère de Pierre Sandoz : ","Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ",28
+"Sandoz (Mme). Mère de Pierre Sandoz : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",1
+"Sandoz (Mme). Mère de Pierre Sandoz : ","Sandoz (Henriette). Épouse du précédent : ",12
+"Sandoz (Mme). Mère de Pierre Sandoz : ","*Wagner (Richard). Compositeur allemand : ",1
+"Sandoz (Mme). Mère de Pierre Sandoz : ","Vernier. Critique d'art : ",1
+"Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",3
+"Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ","Sandoz (Henriette). Épouse du précédent : ",39
+"Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ","*Wagner (Richard). Compositeur allemand : ",8
+"Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ","Vaquez (Judith). Modèle : ",2
+"Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ","*Schubert (Franz). Compositeur autrichien : ",1
+"Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ","*Weber (Carl von). Compositeur allemand ",1
+"Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ","*Véronèse (Paolo Caliari, dit). Peintre italien : ",2
+"Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ","*Schumann. Compositeur allemand : ",2
+"Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ","Spontini. Répétiteur du collège de Plassans : ",2
+"Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ","Vernier. Critique d'art : ",2
+"Sandoz (Pierre). Ecrivain. Ami d'enfance de Claude Lantier : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",1
+"Sandoz (Henriette). Épouse du précédent : ","*Wagner (Richard). Compositeur allemand : ",4
+"Sandoz (Henriette). Épouse du précédent : ","*Schubert (Franz). Compositeur autrichien : ",1
+"Sandoz (Henriette). Épouse du précédent : ","*Weber (Carl von). Compositeur allemand ",1
+"Sandoz (Henriette). Épouse du précédent : ","*Véronèse (Paolo Caliari, dit). Peintre italien : ",2
+"Sandoz (Henriette). Épouse du précédent : ","*Schumann. Compositeur allemand : ",2
+"Sandoz (Henriette). Épouse du précédent : ","Vernier. Critique d'art : ",2
+"*Schubert (Franz). Compositeur autrichien : ","*Weber (Carl von). Compositeur allemand ",2
+"*Schubert (Franz). Compositeur autrichien : ","*Schumann. Compositeur allemand : ",1
+"*Schubert (Franz). Compositeur autrichien : ","*Shakespeare (William). Écrivain anglais : ",1
+"*Schubert (Franz). Compositeur autrichien : ","*Virgile. Poète latin : ",1
+"*Schubert (Franz). Compositeur autrichien : ","*Wagner (Richard). Compositeur allemand : ",1
+"*Schumann. Compositeur allemand : ","*Véronèse (Paolo Caliari, dit). Peintre italien : ",1
+"*Schumann. Compositeur allemand : ","*Wagner (Richard). Compositeur allemand : ",4
+"*Schumann. Compositeur allemand : ","*Shakespeare (William). Écrivain anglais : ",2
+"*Schumann. Compositeur allemand : ","*Virgile. Poète latin : ",2
+"*Schumann. Compositeur allemand : ","*Weber (Carl von). Compositeur allemand ",1
+"*Shakespeare (William). Écrivain anglais : ","*Virgile. Poète latin : ",2
+"*Shakespeare (William). Écrivain anglais : ","*Wagner (Richard). Compositeur allemand : ",2
+"*Shakespeare (William). Écrivain anglais : ","*Weber (Carl von). Compositeur allemand ",1
+"Spontini. Répétiteur du collège de Plassans : ","Tu-m'as-trompé-Adèle. Surnom d'un professeur de physique du collège de Plassans : ",2
+"*Titien (Tiziano Vecellio, dit le). Peintre italien : ","Vanzade (Mme). Veuve d'un général, dont Christine Hallegrain eSt demoiselle de compagnie : ",3
+"*Véronèse (Paolo Caliari, dit). Peintre italien : ","*Wagner (Richard). Compositeur allemand : ",1
+"*Virgile. Poète latin : ","*Wagner (Richard). Compositeur allemand : ",2
+"*Virgile. Poète latin : ","*Weber (Carl von). Compositeur allemand ",1
+"*Wagner (Richard). Compositeur allemand : ","*Weber (Carl von). Compositeur allemand ",1

@@ -1,0 +1,645 @@
+"from","to","weight"
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Bodin (Docteur). Vieux médecin de Passy : ",1
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Deberle. Père du Docteur Deberle : ",1
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ",23
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ",27
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",27
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Grandjean (Jeanne). Fille de la précédente : ",18
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Pierre. Valet de chambre des Deberle : ",11
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Deberle (Lucien). Fils des précédents : ",14
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",2
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Noémi. A&rice du Théâtre du Vaudeville: ",5
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Chermette (Mme de). Amie de Mme Deberle : ",8
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ",3
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Tissot (Mme). Amie de Mme Deberle: ",5
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",4
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Manguelin (Mme). Protégée de Mme Deberle : ",2
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",5
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Berthier (Mme). Amie de Mme Deberle : ",4
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",7
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Levasseur (Juliette). Amie de Mme Deberle : ",7
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",16
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Guiraud (de). Magistrat : ",3
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Lecomte (Mme). Amie de Malignon : ",2
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",8
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Letellier (Pauline). Sœur de Juliette Deberle : ",18
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Robinot (Mme). Amie de Malignon : ",2
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",2
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Berthier (le petit). Fils de Mme Berthier : ",1
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Guiraud (la petite). Fille des de Guiraud : ",4
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Guiraud (le petit). Fils des de Guiraud : ",2
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Berthier (Blanche). Fille de la précédente : ",4
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Berthier (Sophie). Seconde fille de Mme Berthier : ",4
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Chermette (Valentine de). Fille de la précédente : ",4
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Levasseur (Mlles). Filles des précédents : ",5
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Tissot (le fils). Fils de Mme Tissot : ",4
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Sa sœur : ",3
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Levasseur. Mari de Juliette Levasseur : ",2
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",1
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",1
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","Tissot (Marguerite). Fille de la précédente : ",3
+"Aurélie (Mlle). Vieille amie de Mme Deberle : ","*Balzac (Honoré de). Écrivain français: ",1
+"*Balzac (Honoré de). Écrivain français: ","Chermette (Mme de). Amie de Mme Deberle : ",1
+"*Balzac (Honoré de). Écrivain français: ","Chermette (Valentine de). Fille de la précédente : ",1
+"*Balzac (Honoré de). Écrivain français: ","Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ",2
+"*Balzac (Honoré de). Écrivain français: ","Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ",2
+"*Balzac (Honoré de). Écrivain français: ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",2
+"*Balzac (Honoré de). Écrivain français: ","Guiraud (de). Magistrat : ",2
+"*Balzac (Honoré de). Écrivain français: ","Sa sœur : ",1
+"*Balzac (Honoré de). Écrivain français: ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",2
+"*Balzac (Honoré de). Écrivain français: ","Letellier (Pauline). Sœur de Juliette Deberle : ",2
+"*Balzac (Honoré de). Écrivain français: ","Levasseur. Mari de Juliette Levasseur : ",1
+"*Balzac (Honoré de). Écrivain français: ","Levasseur (Juliette). Amie de Mme Deberle : ",1
+"*Balzac (Honoré de). Écrivain français: ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",2
+"*Balzac (Honoré de). Écrivain français: ","Tissot (Mme). Amie de Mme Deberle: ",2
+"*Balzac (Honoré de). Écrivain français: ","Tissot (le fils). Fils de Mme Tissot : ",2
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Bodin (Docteur). Vieux médecin de Passy : ",7
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",14
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Grandjean (Jeanne). Fille de la précédente : ",14
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",10
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ",10
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Deberle (Lucien). Fils des précédents : ",6
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",1
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Letellier (Pauline). Sœur de Juliette Deberle : ",7
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",8
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",6
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ",6
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",2
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ",2
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Levasseur (Mlles). Filles des précédents : ",2
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",2
+"Bergeret (Mme). Concierge de la maison où habite Hélène Grandjean : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",1
+"Berthier (Mme). Amie de Mme Deberle : ","Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ",13
+"Berthier (Mme). Amie de Mme Deberle : ","Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ",18
+"Berthier (Mme). Amie de Mme Deberle : ","Deberle (Lucien). Fils des précédents : ",8
+"Berthier (Mme). Amie de Mme Deberle : ","Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ",1
+"Berthier (Mme). Amie de Mme Deberle : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",18
+"Berthier (Mme). Amie de Mme Deberle : ","Grandjean (Jeanne). Fille de la précédente : ",12
+"Berthier (Mme). Amie de Mme Deberle : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",15
+"Berthier (Mme). Amie de Mme Deberle : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",5
+"Berthier (Mme). Amie de Mme Deberle : ","Levasseur (Juliette). Amie de Mme Deberle : ",7
+"Berthier (Mme). Amie de Mme Deberle : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",11
+"Berthier (Mme). Amie de Mme Deberle : ","Manguelin (Mme). Protégée de Mme Deberle : ",1
+"Berthier (Mme). Amie de Mme Deberle : ","Noémi. A&rice du Théâtre du Vaudeville: ",2
+"Berthier (Mme). Amie de Mme Deberle : ","Pierre. Valet de chambre des Deberle : ",6
+"Berthier (Mme). Amie de Mme Deberle : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",6
+"Berthier (Mme). Amie de Mme Deberle : ","Guiraud (de). Magistrat : ",3
+"Berthier (Mme). Amie de Mme Deberle : ","Lecomte (Mme). Amie de Malignon : ",2
+"Berthier (Mme). Amie de Mme Deberle : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",3
+"Berthier (Mme). Amie de Mme Deberle : ","Letellier (Pauline). Sœur de Juliette Deberle : ",8
+"Berthier (Mme). Amie de Mme Deberle : ","Robinot (Mme). Amie de Malignon : ",2
+"Berthier (Mme). Amie de Mme Deberle : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",1
+"Berthier (Mme). Amie de Mme Deberle : ","Chermette (Mme de). Amie de Mme Deberle : ",3
+"Berthier (Mme). Amie de Mme Deberle : ","Tissot (le fils). Fils de Mme Tissot : ",2
+"Berthier (Mme). Amie de Mme Deberle : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",4
+"Berthier (Mme). Amie de Mme Deberle : ","Berthier (Blanche). Fille de la précédente : ",4
+"Berthier (Mme). Amie de Mme Deberle : ","Berthier (Sophie). Seconde fille de Mme Berthier : ",4
+"Berthier (Mme). Amie de Mme Deberle : ","Guiraud (la petite). Fille des de Guiraud : ",4
+"Berthier (Mme). Amie de Mme Deberle : ","Levasseur (Mlles). Filles des précédents : ",5
+"Berthier (Mme). Amie de Mme Deberle : ","Tissot (Marguerite). Fille de la précédente : ",4
+"Berthier (Mme). Amie de Mme Deberle : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",2
+"Berthier (Blanche). Fille de la précédente : ","Berthier (Sophie). Seconde fille de Mme Berthier : ",15
+"Berthier (Blanche). Fille de la précédente : ","Chermette (Valentine de). Fille de la précédente : ",6
+"Berthier (Blanche). Fille de la précédente : ","Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ",9
+"Berthier (Blanche). Fille de la précédente : ","Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ",15
+"Berthier (Blanche). Fille de la précédente : ","Deberle (Lucien). Fils des précédents : ",12
+"Berthier (Blanche). Fille de la précédente : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",15
+"Berthier (Blanche). Fille de la précédente : ","Grandjean (Jeanne). Fille de la précédente : ",15
+"Berthier (Blanche). Fille de la précédente : ","Letellier (Pauline). Sœur de Juliette Deberle : ",13
+"Berthier (Blanche). Fille de la précédente : ","Levasseur (Mlles). Filles des précédents : ",15
+"Berthier (Blanche). Fille de la précédente : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",4
+"Berthier (Blanche). Fille de la précédente : ","Guiraud (la petite). Fille des de Guiraud : ",12
+"Berthier (Blanche). Fille de la précédente : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",4
+"Berthier (Blanche). Fille de la précédente : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",5
+"Berthier (Blanche). Fille de la précédente : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",9
+"Berthier (Blanche). Fille de la précédente : ","Tissot (Marguerite). Fille de la précédente : ",12
+"Berthier (Blanche). Fille de la précédente : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",2
+"Berthier (Blanche). Fille de la précédente : ","Levasseur (Juliette). Amie de Mme Deberle : ",2
+"Berthier (Blanche). Fille de la précédente : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",4
+"Berthier (Blanche). Fille de la précédente : ","Chermette (Mme de). Amie de Mme Deberle : ",2
+"Berthier (Blanche). Fille de la précédente : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",3
+"Berthier (Blanche). Fille de la précédente : ","Pierre. Valet de chambre des Deberle : ",1
+"Berthier (Blanche). Fille de la précédente : ","Berthier (le petit). Fils de Mme Berthier : ",1
+"Berthier (Blanche). Fille de la précédente : ","Guiraud (le petit). Fils des de Guiraud : ",2
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Chermette (Valentine de). Fille de la précédente : ",6
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ",11
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ",15
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Deberle (Lucien). Fils des précédents : ",13
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",17
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Grandjean (Jeanne). Fille de la précédente : ",17
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Letellier (Pauline). Sœur de Juliette Deberle : ",15
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Levasseur (Mlles). Filles des précédents : ",17
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",4
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Guiraud (la petite). Fille des de Guiraud : ",12
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",4
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",5
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",9
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Tissot (Marguerite). Fille de la précédente : ",13
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",2
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Levasseur (Juliette). Amie de Mme Deberle : ",2
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",4
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Chermette (Mme de). Amie de Mme Deberle : ",2
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",3
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Pierre. Valet de chambre des Deberle : ",1
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Guiraud (le petit). Fils des de Guiraud : ",3
+"Berthier (Sophie). Seconde fille de Mme Berthier : ","Berthier (le petit). Fils de Mme Berthier : ",1
+"Berthier (le petit). Fils de Mme Berthier : ","Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ",1
+"Berthier (le petit). Fils de Mme Berthier : ","Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ",2
+"Berthier (le petit). Fils de Mme Berthier : ","Deberle (Lucien). Fils des précédents : ",2
+"Berthier (le petit). Fils de Mme Berthier : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",2
+"Berthier (le petit). Fils de Mme Berthier : ","Grandjean (Jeanne). Fille de la précédente : ",2
+"Berthier (le petit). Fils de Mme Berthier : ","Guiraud (la petite). Fille des de Guiraud : ",2
+"Berthier (le petit). Fils de Mme Berthier : ","Guiraud (le petit). Fils des de Guiraud : ",2
+"Berthier (le petit). Fils de Mme Berthier : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",2
+"Berthier (le petit). Fils de Mme Berthier : ","Letellier (Pauline). Sœur de Juliette Deberle : ",2
+"Berthier (le petit). Fils de Mme Berthier : ","Chermette (Mme de). Amie de Mme Deberle : ",1
+"Berthier (le petit). Fils de Mme Berthier : ","Chermette (Valentine de). Fille de la précédente : ",1
+"Berthier (le petit). Fils de Mme Berthier : ","Levasseur (Mlles). Filles des précédents : ",1
+"Berthier (le petit). Fils de Mme Berthier : ","Tissot (Marguerite). Fille de la précédente : ",1
+"*Bignon. Restaurant célèbre de Paris: ","Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ",2
+"*Bignon. Restaurant célèbre de Paris: ","Deberle (Lucien). Fils des précédents : ",2
+"*Bignon. Restaurant célèbre de Paris: ","Florence. ACirice du Théâtre des Variétés : ",1
+"*Bignon. Restaurant célèbre de Paris: ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",2
+"*Bignon. Restaurant célèbre de Paris: ","Grandjean (Jeanne). Fille de la précédente : ",2
+"*Bignon. Restaurant célèbre de Paris: ","Letellier (Pauline). Sœur de Juliette Deberle : ",2
+"*Bignon. Restaurant célèbre de Paris: ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",2
+"Bodin (Docteur). Vieux médecin de Passy : ","Deberle. Père du Docteur Deberle : ",2
+"Bodin (Docteur). Vieux médecin de Passy : ","Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ",25
+"Bodin (Docteur). Vieux médecin de Passy : ","Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ",14
+"Bodin (Docteur). Vieux médecin de Passy : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",30
+"Bodin (Docteur). Vieux médecin de Passy : ","Grandjean (Jeanne). Fille de la précédente : ",28
+"Bodin (Docteur). Vieux médecin de Passy : ","Pierre. Valet de chambre des Deberle : ",2
+"Bodin (Docteur). Vieux médecin de Passy : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",17
+"Bodin (Docteur). Vieux médecin de Passy : ","Deberle (Lucien). Fils des précédents : ",6
+"Bodin (Docteur). Vieux médecin de Passy : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",12
+"Bodin (Docteur). Vieux médecin de Passy : ","Letellier (Pauline). Sœur de Juliette Deberle : ",7
+"Bodin (Docteur). Vieux médecin de Passy : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",20
+"Bodin (Docteur). Vieux médecin de Passy : ","Levasseur (Mlles). Filles des précédents : ",2
+"Bodin (Docteur). Vieux médecin de Passy : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",5
+"Bodin (Docteur). Vieux médecin de Passy : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",2
+"Bodin (Docteur). Vieux médecin de Passy : ","Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ",2
+"Bodin (Docteur). Vieux médecin de Passy : ","Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ",2
+"Bodin (Docteur). Vieux médecin de Passy : ","Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ",1
+"Bodin (Docteur). Vieux médecin de Passy : ","Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :",2
+"Bodin (Docteur). Vieux médecin de Passy : ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",2
+"Bodin (Docteur). Vieux médecin de Passy : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",2
+"Bodin (Docteur). Vieux médecin de Passy : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",1
+"Bodin (Docteur). Vieux médecin de Passy : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",1
+"Canivet (le père). Vieux paysan beauceron : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",2
+"Canivet (le père). Vieux paysan beauceron : ","Grandjean (Jeanne). Fille de la précédente : ",2
+"Canivet (le père). Vieux paysan beauceron : ","Guignard (les). Paysans beaucerons : ",2
+"Canivet (le père). Vieux paysan beauceron : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",2
+"Canivet (le père). Vieux paysan beauceron : ","Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ",2
+"Canivet (le père). Vieux paysan beauceron : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",2
+"Canivet (le père). Vieux paysan beauceron : ","Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ",1
+"Chermette (Mme de). Amie de Mme Deberle : ","Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ",18
+"Chermette (Mme de). Amie de Mme Deberle : ","Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ",1
+"Chermette (Mme de). Amie de Mme Deberle : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",18
+"Chermette (Mme de). Amie de Mme Deberle : ","Noémi. A&rice du Théâtre du Vaudeville: ",2
+"Chermette (Mme de). Amie de Mme Deberle : ","Pierre. Valet de chambre des Deberle : ",5
+"Chermette (Mme de). Amie de Mme Deberle : ","Tissot (Mme). Amie de Mme Deberle: ",5
+"Chermette (Mme de). Amie de Mme Deberle : ","Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ",12
+"Chermette (Mme de). Amie de Mme Deberle : ","Grandjean (Jeanne). Fille de la précédente : ",8
+"Chermette (Mme de). Amie de Mme Deberle : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",7
+"Chermette (Mme de). Amie de Mme Deberle : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",5
+"Chermette (Mme de). Amie de Mme Deberle : ","Letellier (Pauline). Sœur de Juliette Deberle : ",8
+"Chermette (Mme de). Amie de Mme Deberle : ","Levasseur (Juliette). Amie de Mme Deberle : ",5
+"Chermette (Mme de). Amie de Mme Deberle : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",9
+"Chermette (Mme de). Amie de Mme Deberle : ","Tissot (le fils). Fils de Mme Tissot : ",3
+"Chermette (Mme de). Amie de Mme Deberle : ","Chermette (Valentine de). Fille de la précédente : ",6
+"Chermette (Mme de). Amie de Mme Deberle : ","Sa sœur : ",2
+"Chermette (Mme de). Amie de Mme Deberle : ","Levasseur. Mari de Juliette Levasseur : ",2
+"Chermette (Mme de). Amie de Mme Deberle : ","Guiraud (de). Magistrat : ",1
+"Chermette (Mme de). Amie de Mme Deberle : ","Deberle (Lucien). Fils des précédents : ",4
+"Chermette (Mme de). Amie de Mme Deberle : ","Levasseur (Mlles). Filles des précédents : ",2
+"Chermette (Mme de). Amie de Mme Deberle : ","Tissot (Marguerite). Fille de la précédente : ",2
+"Chermette (Mme de). Amie de Mme Deberle : ","Guiraud (la petite). Fille des de Guiraud : ",1
+"Chermette (Mme de). Amie de Mme Deberle : ","Guiraud (le petit). Fils des de Guiraud : ",1
+"Chermette (Mme de). Amie de Mme Deberle : ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",1
+"Chermette (Mme de). Amie de Mme Deberle : ","Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ",1
+"Chermette (Mme de). Amie de Mme Deberle : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",3
+"Chermette (Mme de). Amie de Mme Deberle : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",2
+"Chermette (Mme de). Amie de Mme Deberle : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",2
+"Chermette (Valentine de). Fille de la précédente : ","Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ",7
+"Chermette (Valentine de). Fille de la précédente : ","Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ",10
+"Chermette (Valentine de). Fille de la précédente : ","Deberle (Lucien). Fils des précédents : ",6
+"Chermette (Valentine de). Fille de la précédente : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",10
+"Chermette (Valentine de). Fille de la précédente : ","Grandjean (Jeanne). Fille de la précédente : ",8
+"Chermette (Valentine de). Fille de la précédente : ","Letellier (Pauline). Sœur de Juliette Deberle : ",9
+"Chermette (Valentine de). Fille de la précédente : ","Levasseur (Mlles). Filles des précédents : ",6
+"Chermette (Valentine de). Fille de la précédente : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",6
+"Chermette (Valentine de). Fille de la précédente : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",1
+"Chermette (Valentine de). Fille de la précédente : ","Sa sœur : ",2
+"Chermette (Valentine de). Fille de la précédente : ","Levasseur. Mari de Juliette Levasseur : ",2
+"Chermette (Valentine de). Fille de la précédente : ","Levasseur (Juliette). Amie de Mme Deberle : ",2
+"Chermette (Valentine de). Fille de la précédente : ","Guiraud (de). Magistrat : ",1
+"Chermette (Valentine de). Fille de la précédente : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",4
+"Chermette (Valentine de). Fille de la précédente : ","Tissot (Mme). Amie de Mme Deberle: ",1
+"Chermette (Valentine de). Fille de la précédente : ","Tissot (le fils). Fils de Mme Tissot : ",1
+"Chermette (Valentine de). Fille de la précédente : ","Pierre. Valet de chambre des Deberle : ",1
+"Chermette (Valentine de). Fille de la précédente : ","Tissot (Marguerite). Fille de la précédente : ",4
+"Chermette (Valentine de). Fille de la précédente : ","Guiraud (la petite). Fille des de Guiraud : ",3
+"Chermette (Valentine de). Fille de la précédente : ","Guiraud (le petit). Fils des de Guiraud : ",2
+"Chermette (Valentine de). Fille de la précédente : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",1
+"Deberle. Père du Docteur Deberle : ","Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ",4
+"Deberle. Père du Docteur Deberle : ","Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ",1
+"Deberle. Père du Docteur Deberle : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",4
+"Deberle. Père du Docteur Deberle : ","Grandjean (Jeanne). Fille de la précédente : ",4
+"Deberle. Père du Docteur Deberle : ","Pierre. Valet de chambre des Deberle : ",2
+"Deberle. Père du Docteur Deberle : ","Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ",2
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ",110
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",169
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Grandjean (Jeanne). Fille de la précédente : ",143
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Pierre. Valet de chambre des Deberle : ",20
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Deberle (Lucien). Fils des précédents : ",50
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",3
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Noémi. A&rice du Théâtre du Vaudeville: ",3
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ",4
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",17
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",39
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Levasseur (Juliette). Amie de Mme Deberle : ",12
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",48
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Manguelin (Mme). Protégée de Mme Deberle : ",1
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",61
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Guiraud (de). Magistrat : ",5
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Lecomte (Mme). Amie de Malignon : ",1
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",15
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Letellier (Pauline). Sœur de Juliette Deberle : ",57
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Robinot (Mme). Amie de Malignon : ",1
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",3
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Guiraud (la petite). Fille des de Guiraud : ",8
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Guiraud (le petit). Fils des de Guiraud : ",4
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Levasseur (Mlles). Filles des précédents : ",16
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Tissot (le fils). Fils de Mme Tissot : ",6
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Sa sœur : ",3
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Levasseur. Mari de Juliette Levasseur : ",2
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Tissot (Mme). Amie de Mme Deberle: ",4
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",13
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",58
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Tissot (Marguerite). Fille de la précédente : ",9
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ",19
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :",2
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",4
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ",3
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Guignard (les). Paysans beaucerons : ",2
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Morizot (le grand). Illusionniste amateur : ",1
+"Deberle (Henri). Médecin de Passy. Devient l'amant d'Hélène Grand) ean : ","Perdiguet. Chanteur amateur : ",1
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",146
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Grandjean (Jeanne). Fille de la précédente : ",121
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Pierre. Valet de chambre des Deberle : ",24
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Deberle (Lucien). Fils des précédents : ",69
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",2
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Noémi. A&rice du Théâtre du Vaudeville: ",5
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ",3
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Tissot (Mme). Amie de Mme Deberle: ",6
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",27
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Manguelin (Mme). Protégée de Mme Deberle : ",2
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",51
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",22
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Levasseur (Juliette). Amie de Mme Deberle : ",13
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",66
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Guiraud (de). Magistrat : ",6
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Lecomte (Mme). Amie de Malignon : ",2
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",19
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Letellier (Pauline). Sœur de Juliette Deberle : ",75
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Robinot (Mme). Amie de Malignon : ",2
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",4
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Guiraud (la petite). Fille des de Guiraud : ",13
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Guiraud (le petit). Fils des de Guiraud : ",6
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Levasseur (Mlles). Filles des précédents : ",20
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Tissot (le fils). Fils de Mme Tissot : ",6
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Sa sœur : ",3
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Levasseur. Mari de Juliette Levasseur : ",2
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",13
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",44
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Tissot (Marguerite). Fille de la précédente : ",13
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ",18
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Florence. ACirice du Théâtre des Variétés : ",3
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ",2
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Morizot (le grand). Illusionniste amateur : ",2
+"Deberle (Juliette). Fille de M. Letellier. Épouse du précédent : ","Perdiguet. Chanteur amateur : ",2
+"Deberle (Lucien). Fils des précédents : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",72
+"Deberle (Lucien). Fils des précédents : ","Grandjean (Jeanne). Fille de la précédente : ",70
+"Deberle (Lucien). Fils des précédents : ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",2
+"Deberle (Lucien). Fils des précédents : ","Noémi. A&rice du Théâtre du Vaudeville: ",4
+"Deberle (Lucien). Fils des précédents : ","Pierre. Valet de chambre des Deberle : ",13
+"Deberle (Lucien). Fils des précédents : ","Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ",1
+"Deberle (Lucien). Fils des précédents : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",9
+"Deberle (Lucien). Fils des précédents : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",11
+"Deberle (Lucien). Fils des précédents : ","Levasseur (Juliette). Amie de Mme Deberle : ",8
+"Deberle (Lucien). Fils des précédents : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",33
+"Deberle (Lucien). Fils des précédents : ","Manguelin (Mme). Protégée de Mme Deberle : ",1
+"Deberle (Lucien). Fils des précédents : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",30
+"Deberle (Lucien). Fils des précédents : ","Guiraud (de). Magistrat : ",2
+"Deberle (Lucien). Fils des précédents : ","Lecomte (Mme). Amie de Malignon : ",2
+"Deberle (Lucien). Fils des précédents : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",13
+"Deberle (Lucien). Fils des précédents : ","Letellier (Pauline). Sœur de Juliette Deberle : ",51
+"Deberle (Lucien). Fils des précédents : ","Robinot (Mme). Amie de Malignon : ",2
+"Deberle (Lucien). Fils des précédents : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",4
+"Deberle (Lucien). Fils des précédents : ","Guiraud (la petite). Fille des de Guiraud : ",10
+"Deberle (Lucien). Fils des précédents : ","Guiraud (le petit). Fils des de Guiraud : ",8
+"Deberle (Lucien). Fils des précédents : ","Levasseur (Mlles). Filles des précédents : ",18
+"Deberle (Lucien). Fils des précédents : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",10
+"Deberle (Lucien). Fils des précédents : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",16
+"Deberle (Lucien). Fils des précédents : ","Tissot (Marguerite). Fille de la précédente : ",12
+"Deberle (Lucien). Fils des précédents : ","Florence. ACirice du Théâtre des Variétés : ",3
+"Deberle (Lucien). Fils des précédents : ","Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ",1
+"Deberle (Lucien). Fils des précédents : ","Tissot (Mme). Amie de Mme Deberle: ",1
+"Deberle (Lucien). Fils des précédents : ","Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ",3
+"Deberle (Lucien). Fils des précédents : ","Morizot (le grand). Illusionniste amateur : ",2
+"Deberle (Lucien). Fils des précédents : ","Perdiguet. Chanteur amateur : ",2
+"Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",31
+"Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ","Grandjean (Jeanne). Fille de la précédente : ",25
+"Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",11
+"Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",8
+"Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",6
+"Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",8
+"Fétu (la mère). Vieille pauvresse de Passy, protégée de l'abbé Jouve, secourue par Hélène Grand jean: ","Letellier (Pauline). Sœur de Juliette Deberle : ",2
+"Florence. ACirice du Théâtre des Variétés : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",3
+"Florence. ACirice du Théâtre des Variétés : ","Grandjean (Jeanne). Fille de la précédente : ",3
+"Florence. ACirice du Théâtre des Variétés : ","Letellier (Pauline). Sœur de Juliette Deberle : ",3
+"Florence. ACirice du Théâtre des Variétés : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",3
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",2
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Grandjean (Jeanne). Fille de la précédente : ",2
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",2
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",2
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",10
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Noémi. A&rice du Théâtre du Vaudeville: ",2
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Pierre. Valet de chambre des Deberle : ",3
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Tissot (Mme). Amie de Mme Deberle: ",1
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Grandjean (Jeanne). Fille de la précédente : ",6
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",2
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Manguelin (Mme). Protégée de Mme Deberle : ",2
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",2
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",1
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Levasseur (Juliette). Amie de Mme Deberle : ",1
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",1
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",2
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",3
+"Grandjean (Charles). Premier époux d'Hélène Mouret. Père de Jeanne Grandjean. Rafïineur à Marseille : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",3
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Grandjean (Jeanne). Fille de la précédente : ",243
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Pierre. Valet de chambre des Deberle : ",25
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",7
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Noémi. A&rice du Théâtre du Vaudeville: ",5
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Tissot (Mme). Amie de Mme Deberle: ",6
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",64
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Manguelin (Mme). Protégée de Mme Deberle : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",100
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",22
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Levasseur (Juliette). Amie de Mme Deberle : ",13
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",73
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Guiraud (de). Magistrat : ",6
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Lecomte (Mme). Amie de Malignon : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",19
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Letellier (Pauline). Sœur de Juliette Deberle : ",78
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Robinot (Mme). Amie de Malignon : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",4
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Guiraud (la petite). Fille des de Guiraud : ",13
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Guiraud (le petit). Fils des de Guiraud : ",8
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Levasseur (Mlles). Filles des précédents : ",22
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Tissot (le fils). Fils de Mme Tissot : ",6
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Sa sœur : ",3
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Levasseur. Mari de Juliette Levasseur : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",40
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",109
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Tissot (Marguerite). Fille de la précédente : ",15
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ",10
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",7
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Guignard (les). Paysans beaucerons : ",4
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Morizot (le grand). Illusionniste amateur : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Perdiguet. Chanteur amateur : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Lacour (lés). Paysans beaucerons. Parents du précédent : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Pichon (les). Parents de Rosalie Pichon : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Rouvet (le père). Vieux paysan beauceron. — : ",3
+"Grandjean (Jeanne). Fille de la précédente : ","Pierre. Valet de chambre des Deberle : ",19
+"Grandjean (Jeanne). Fille de la précédente : ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",6
+"Grandjean (Jeanne). Fille de la précédente : ","Noémi. A&rice du Théâtre du Vaudeville: ",4
+"Grandjean (Jeanne). Fille de la précédente : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",63
+"Grandjean (Jeanne). Fille de la précédente : ","Manguelin (Mme). Protégée de Mme Deberle : ",2
+"Grandjean (Jeanne). Fille de la précédente : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",98
+"Grandjean (Jeanne). Fille de la précédente : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",13
+"Grandjean (Jeanne). Fille de la précédente : ","Levasseur (Juliette). Amie de Mme Deberle : ",11
+"Grandjean (Jeanne). Fille de la précédente : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",48
+"Grandjean (Jeanne). Fille de la précédente : ","Guiraud (de). Magistrat : ",4
+"Grandjean (Jeanne). Fille de la précédente : ","Lecomte (Mme). Amie de Malignon : ",2
+"Grandjean (Jeanne). Fille de la précédente : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",15
+"Grandjean (Jeanne). Fille de la précédente : ","Letellier (Pauline). Sœur de Juliette Deberle : ",66
+"Grandjean (Jeanne). Fille de la précédente : ","Robinot (Mme). Amie de Malignon : ",2
+"Grandjean (Jeanne). Fille de la précédente : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",4
+"Grandjean (Jeanne). Fille de la précédente : ","Guiraud (la petite). Fille des de Guiraud : ",13
+"Grandjean (Jeanne). Fille de la précédente : ","Guiraud (le petit). Fils des de Guiraud : ",8
+"Grandjean (Jeanne). Fille de la précédente : ","Levasseur (Mlles). Filles des précédents : ",22
+"Grandjean (Jeanne). Fille de la précédente : ","Tissot (le fils). Fils de Mme Tissot : ",2
+"Grandjean (Jeanne). Fille de la précédente : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",33
+"Grandjean (Jeanne). Fille de la précédente : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",101
+"Grandjean (Jeanne). Fille de la précédente : ","Tissot (Marguerite). Fille de la précédente : ",15
+"Grandjean (Jeanne). Fille de la précédente : ","Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ",8
+"Grandjean (Jeanne). Fille de la précédente : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",6
+"Grandjean (Jeanne). Fille de la précédente : ","Guignard (les). Paysans beaucerons : ",3
+"Grandjean (Jeanne). Fille de la précédente : ","Tissot (Mme). Amie de Mme Deberle: ",1
+"Grandjean (Jeanne). Fille de la précédente : ","Morizot (le grand). Illusionniste amateur : ",2
+"Grandjean (Jeanne). Fille de la précédente : ","Perdiguet. Chanteur amateur : ",2
+"Grandjean (Jeanne). Fille de la précédente : ","Lacour (lés). Paysans beaucerons. Parents du précédent : ",1
+"Grandjean (Jeanne). Fille de la précédente : ","Pichon (les). Parents de Rosalie Pichon : ",1
+"Guignard (les). Paysans beaucerons : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",4
+"Guignard (les). Paysans beaucerons : ","Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ",4
+"Guignard (les). Paysans beaucerons : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",4
+"Guignard (les). Paysans beaucerons : ","Rouvet (le père). Vieux paysan beauceron. — : ",1
+"Guiraud (de). Magistrat : ","Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ",2
+"Guiraud (de). Magistrat : ","Lecomte (Mme). Amie de Malignon : ",2
+"Guiraud (de). Magistrat : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",4
+"Guiraud (de). Magistrat : ","Letellier (Pauline). Sœur de Juliette Deberle : ",6
+"Guiraud (de). Magistrat : ","Levasseur (Juliette). Amie de Mme Deberle : ",4
+"Guiraud (de). Magistrat : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",5
+"Guiraud (de). Magistrat : ","Noémi. A&rice du Théâtre du Vaudeville: ",1
+"Guiraud (de). Magistrat : ","Pierre. Valet de chambre des Deberle : ",2
+"Guiraud (de). Magistrat : ","Robinot (Mme). Amie de Malignon : ",2
+"Guiraud (de). Magistrat : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",1
+"Guiraud (de). Magistrat : ","Sa sœur : ",1
+"Guiraud (de). Magistrat : ","Levasseur. Mari de Juliette Levasseur : ",1
+"Guiraud (de). Magistrat : ","Tissot (Mme). Amie de Mme Deberle: ",2
+"Guiraud (de). Magistrat : ","Tissot (le fils). Fils de Mme Tissot : ",3
+"Guiraud (de). Magistrat : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",1
+"Guiraud (de). Magistrat : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",1
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",5
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Levasseur (Juliette). Amie de Mme Deberle : ",9
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",14
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Manguelin (Mme). Protégée de Mme Deberle : ",1
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Noémi. A&rice du Théâtre du Vaudeville: ",2
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Pierre. Valet de chambre des Deberle : ",6
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",8
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Lecomte (Mme). Amie de Malignon : ",2
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",4
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Letellier (Pauline). Sœur de Juliette Deberle : ",10
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Robinot (Mme). Amie de Malignon : ",2
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",2
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Tissot (le fils). Fils de Mme Tissot : ",2
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Sa sœur : ",2
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Levasseur. Mari de Juliette Levasseur : ",1
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",4
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Guiraud (la petite). Fille des de Guiraud : ",2
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Levasseur (Mlles). Filles des précédents : ",4
+"Guiraud (Mme de). Épouse du précédent. Amie de Mme Deberle : ","Tissot (Marguerite). Fille de la précédente : ",3
+"Sa sœur : ","Letellier (Pauline). Sœur de Juliette Deberle : ",3
+"Sa sœur : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",3
+"Sa sœur : ","Levasseur. Mari de Juliette Levasseur : ",2
+"Sa sœur : ","Levasseur (Juliette). Amie de Mme Deberle : ",2
+"Sa sœur : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",1
+"Sa sœur : ","Tissot (Mme). Amie de Mme Deberle: ",1
+"Sa sœur : ","Tissot (le fils). Fils de Mme Tissot : ",1
+"Guiraud (la petite). Fille des de Guiraud : ","Guiraud (le petit). Fils des de Guiraud : ",3
+"Guiraud (la petite). Fille des de Guiraud : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",3
+"Guiraud (la petite). Fille des de Guiraud : ","Letellier (Pauline). Sœur de Juliette Deberle : ",11
+"Guiraud (la petite). Fille des de Guiraud : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",4
+"Guiraud (la petite). Fille des de Guiraud : ","Levasseur (Mlles). Filles des précédents : ",12
+"Guiraud (la petite). Fille des de Guiraud : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",5
+"Guiraud (la petite). Fille des de Guiraud : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",9
+"Guiraud (la petite). Fille des de Guiraud : ","Tissot (Marguerite). Fille de la précédente : ",11
+"Guiraud (la petite). Fille des de Guiraud : ","Levasseur (Juliette). Amie de Mme Deberle : ",2
+"Guiraud (la petite). Fille des de Guiraud : ","Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ",4
+"Guiraud (la petite). Fille des de Guiraud : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",2
+"Guiraud (le petit). Fils des de Guiraud : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",4
+"Guiraud (le petit). Fils des de Guiraud : ","Letellier (Pauline). Sœur de Juliette Deberle : ",7
+"Guiraud (le petit). Fils des de Guiraud : ","Levasseur (Mlles). Filles des précédents : ",5
+"Guiraud (le petit). Fils des de Guiraud : ","Tissot (Marguerite). Fille de la précédente : ",4
+"Guiraud (le petit). Fils des de Guiraud : ","Levasseur (Juliette). Amie de Mme Deberle : ",2
+"Guiraud (le petit). Fils des de Guiraud : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",2
+"Guiraud (le petit). Fils des de Guiraud : ","Morizot (le grand). Illusionniste amateur : ",1
+"Guiraud (le petit). Fils des de Guiraud : ","Perdiguet. Chanteur amateur : ",1
+"Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ","Manguelin (Mme). Protégée de Mme Deberle : ",2
+"Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ","Pierre. Valet de chambre des Deberle : ",2
+"Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",53
+"Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ","Levasseur (Juliette). Amie de Mme Deberle : ",4
+"Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",1
+"Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ","Noémi. A&rice du Théâtre du Vaudeville: ",1
+"Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ","Letellier (Pauline). Sœur de Juliette Deberle : ",13
+"Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",26
+"Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ","Levasseur (Mlles). Filles des précédents : ",5
+"Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ","Tissot (Marguerite). Fille de la précédente : ",4
+"Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ","Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ",6
+"Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ","Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ",2
+"Jouve (abbé). Demi-frère de Rambaud. Ami et conseiller d'Hélène Grandjean. Vicaire à l'église Notre-Dame-de-Grâce, à Passy : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",1
+"Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ","Levasseur (Mlles). Filles des précédents : ",4
+"Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",40
+"Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",9
+"Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ","Tissot (Marguerite). Fille de la précédente : ",3
+"Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ","Letellier (Pauline). Sœur de Juliette Deberle : ",6
+"Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ","Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ",8
+"Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",3
+"Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",2
+"Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ","Pierre. Valet de chambre des Deberle : ",3
+"Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ","Lacour (lés). Paysans beaucerons. Parents du précédent : ",2
+"Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ","Pichon (les). Parents de Rosalie Pichon : ",2
+"Lacour (Zéphirin). Fiancé de Rosalie Pichon. Soldat d'inf terie: ","Rouvet (le père). Vieux paysan beauceron. — : ",3
+"Lacour (lés). Paysans beaucerons. Parents du précédent : ","Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ",2
+"Lacour (lés). Paysans beaucerons. Parents du précédent : ","Pichon (les). Parents de Rosalie Pichon : ",2
+"Lacour (lés). Paysans beaucerons. Parents du précédent : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",2
+"Lecomte (Mme). Amie de Malignon : ","Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ",2
+"Lecomte (Mme). Amie de Malignon : ","Letellier (Pauline). Sœur de Juliette Deberle : ",2
+"Lecomte (Mme). Amie de Malignon : ","Levasseur (Juliette). Amie de Mme Deberle : ",2
+"Lecomte (Mme). Amie de Malignon : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",2
+"Lecomte (Mme). Amie de Malignon : ","Noémi. A&rice du Théâtre du Vaudeville: ",1
+"Lecomte (Mme). Amie de Malignon : ","Pierre. Valet de chambre des Deberle : ",2
+"Lecomte (Mme). Amie de Malignon : ","Robinot (Mme). Amie de Malignon : ",2
+"Lecomte (Mme). Amie de Malignon : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",1
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Letellier (Pauline). Sœur de Juliette Deberle : ",19
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Levasseur (Juliette). Amie de Mme Deberle : ",4
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",12
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Noémi. A&rice du Théâtre du Vaudeville: ",1
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Pierre. Valet de chambre des Deberle : ",6
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Robinot (Mme). Amie de Malignon : ",2
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",2
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Tissot (le fils). Fils de Mme Tissot : ",4
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Levasseur. Mari de Juliette Levasseur : ",1
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Tissot (Mme). Amie de Mme Deberle: ",2
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Levasseur (Mlles). Filles des précédents : ",3
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Tissot (Marguerite). Fille de la précédente : ",3
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",4
+"Letellier. Père de sJuliette Déberle et de sa sœur Pauline. Négociant en soirie : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",2
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Levasseur (Juliette). Amie de Mme Deberle : ",8
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",41
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Noémi. A&rice du Théâtre du Vaudeville: ",1
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Pierre. Valet de chambre des Deberle : ",9
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Robinot (Mme). Amie de Malignon : ",2
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",4
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Levasseur (Mlles). Filles des précédents : ",19
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Tissot (le fils). Fils de Mme Tissot : ",6
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Levasseur. Mari de Juliette Levasseur : ",2
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Tissot (Mme). Amie de Mme Deberle: ",3
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",14
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",30
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Tissot (Marguerite). Fille de la précédente : ",13
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ",1
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Morizot (le grand). Illusionniste amateur : ",2
+"Letellier (Pauline). Sœur de Juliette Deberle : ","Perdiguet. Chanteur amateur : ",2
+"Levasseur. Mari de Juliette Levasseur : ","Levasseur (Juliette). Amie de Mme Deberle : ",2
+"Levasseur. Mari de Juliette Levasseur : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",2
+"Levasseur. Mari de Juliette Levasseur : ","Tissot (Mme). Amie de Mme Deberle: ",1
+"Levasseur. Mari de Juliette Levasseur : ","Tissot (le fils). Fils de Mme Tissot : ",1
+"Levasseur (Juliette). Amie de Mme Deberle : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",8
+"Levasseur (Juliette). Amie de Mme Deberle : ","Manguelin (Mme). Protégée de Mme Deberle : ",1
+"Levasseur (Juliette). Amie de Mme Deberle : ","Noémi. A&rice du Théâtre du Vaudeville: ",2
+"Levasseur (Juliette). Amie de Mme Deberle : ","Pierre. Valet de chambre des Deberle : ",3
+"Levasseur (Juliette). Amie de Mme Deberle : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",5
+"Levasseur (Juliette). Amie de Mme Deberle : ","Robinot (Mme). Amie de Malignon : ",2
+"Levasseur (Juliette). Amie de Mme Deberle : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",1
+"Levasseur (Juliette). Amie de Mme Deberle : ","Tissot (le fils). Fils de Mme Tissot : ",3
+"Levasseur (Juliette). Amie de Mme Deberle : ","Tissot (Mme). Amie de Mme Deberle: ",1
+"Levasseur (Juliette). Amie de Mme Deberle : ","Levasseur (Mlles). Filles des précédents : ",4
+"Levasseur (Juliette). Amie de Mme Deberle : ","Tissot (Marguerite). Fille de la précédente : ",2
+"Levasseur (Juliette). Amie de Mme Deberle : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",2
+"Levasseur (Juliette). Amie de Mme Deberle : ","Morizot (le grand). Illusionniste amateur : ",1
+"Levasseur (Juliette). Amie de Mme Deberle : ","Perdiguet. Chanteur amateur : ",1
+"Levasseur (Mlles). Filles des précédents : ","Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ",7
+"Levasseur (Mlles). Filles des précédents : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",6
+"Levasseur (Mlles). Filles des précédents : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",12
+"Levasseur (Mlles). Filles des précédents : ","Tissot (Marguerite). Fille de la précédente : ",14
+"Levasseur (Mlles). Filles des précédents : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",2
+"Levasseur (Mlles). Filles des précédents : ","Pierre. Valet de chambre des Deberle : ",1
+"Levasseur (Mlles). Filles des précédents : ","Morizot (le grand). Illusionniste amateur : ",1
+"Levasseur (Mlles). Filles des précédents : ","Perdiguet. Chanteur amateur : ",1
+"Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ","Manguelin (Mme). Protégée de Mme Deberle : ",1
+"Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ","Noémi. A&rice du Théâtre du Vaudeville: ",2
+"Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ","Pierre. Valet de chambre des Deberle : ",11
+"Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",20
+"Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ","Robinot (Mme). Amie de Malignon : ",2
+"Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",4
+"Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ","Tissot (le fils). Fils de Mme Tissot : ",6
+"Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ","Tissot (Mme). Amie de Mme Deberle: ",4
+"Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",14
+"Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ","Tissot (Marguerite). Fille de la précédente : ",2
+"Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ","Morizot (le grand). Illusionniste amateur : ",2
+"Malignon. Ami des De-berle. Amoureux de Juliette Deberle: ","Perdiguet. Chanteur amateur : ",2
+"Manguelin (Mme). Protégée de Mme Deberle : ","Pierre. Valet de chambre des Deberle : ",2
+"Manguelin (Mme). Protégée de Mme Deberle : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",2
+"Manguelin (Mme). Protégée de Mme Deberle : ","Noémi. A&rice du Théâtre du Vaudeville: ",1
+"Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",10
+"Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",2
+"Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ","Pichon (les). Parents de Rosalie Pichon : ",2
+"Marguerite (la tante). Tante de Rosalie (la domestique d'Hélène Grandjean) : ","Rouvet (le père). Vieux paysan beauceron. — : ",1
+"Morizot (le grand). Illusionniste amateur : ","Perdiguet. Chanteur amateur : ",2
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Noémi. A&rice du Théâtre du Vaudeville: ",2
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Pierre. Valet de chambre des Deberle : ",2
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",5
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Tissot (Mme). Amie de Mme Deberle: ",1
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",1
+"Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",3
+"Noémi. A&rice du Théâtre du Vaudeville: ","Pierre. Valet de chambre des Deberle : ",5
+"Noémi. A&rice du Théâtre du Vaudeville: ","Tissot (Mme). Amie de Mme Deberle: ",2
+"Noémi. A&rice du Théâtre du Vaudeville: ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",1
+"Noémi. A&rice du Théâtre du Vaudeville: ","Robinot (Mme). Amie de Malignon : ",1
+"Pichon (les). Parents de Rosalie Pichon : ","Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ",2
+"Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",41
+"Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ","Tissot (Marguerite). Fille de la précédente : ",4
+"Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",1
+"Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ","Pierre. Valet de chambre des Deberle : ",5
+"Pichon (Rosalie). Domestique de Mme Grandjean. Fiancée de Zéphirin Lacour: ","Rouvet (le père). Vieux paysan beauceron. — : ",3
+"Pierre. Valet de chambre des Deberle : ","Tissot (Mme). Amie de Mme Deberle: ",4
+"Pierre. Valet de chambre des Deberle : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",2
+"Pierre. Valet de chambre des Deberle : ","Robinot (Mme). Amie de Malignon : ",2
+"Pierre. Valet de chambre des Deberle : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",1
+"Pierre. Valet de chambre des Deberle : ","Tissot (Marguerite). Fille de la précédente : ",1
+"Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ","Tissot (Marguerite). Fille de la précédente : ",9
+"Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",2
+"Robinot (Mme). Amie de Malignon : ","Smithson (Mlle). Gouvernante anglaise employée chez les Deberle : ",1
+"Tissot (Mme). Amie de Mme Deberle: ","Tissot (le fils). Fils de Mme Tissot : ",2

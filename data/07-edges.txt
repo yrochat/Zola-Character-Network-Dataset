@@ -1,0 +1,1181 @@
+"from","to","weight"
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",26
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",11
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",15
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",27
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Boche (Mme). Epouse du précédent : ",13
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Fauconnier (Mme). Blanchisseuse : ",3
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",22
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Charles. Garçon de lavoir : ",6
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",2
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ",5
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ",2
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Colombe (le père). Propriétaire de l'Assommoir : ",2
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",5
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Goujet (Mme). Mère du précédent : ",1
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",6
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Augustine. Apprentie blanchisseuse : ",2
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Clémence. Ouvrière re- 'f passeuse : ",5
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",6
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",1
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Putois (Mme). Ouvrière blanchisseuse: ",5
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Bru (le père). Ancien ouvrier peintrey : ",1
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",2
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",1
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",1
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",2
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",1
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Célestine. Amie de la grande Clémence : ",1
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ",1
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Vigouroux (Mme). Épouse du précédent : ",1
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",1
+"Adèle. Sœur de Virginie. Maîtresse d'AuguSte Lantier. Brunisseuse : ","Marsoullier. Tenancier de l'hôtel Boncœur : ",1
+"Amanda (Mlle). Chanteuse de café-concert : ","Baquet (la mère). Marchande de vin à La Chapelle : ",3
+"Amanda (Mlle). Chanteuse de café-concert : ","Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ",3
+"Amanda (Mlle). Chanteuse de café-concert : ","Colombe (le père). Propriétaire de l'Assommoir : ",1
+"Amanda (Mlle). Chanteuse de café-concert : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",2
+"Amanda (Mlle). Chanteuse de café-concert : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",3
+"Amanda (Mlle). Chanteuse de café-concert : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",3
+"Amanda (Mlle). Chanteuse de café-concert : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",3
+"Amanda (Mlle). Chanteuse de café-concert : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",2
+"Amanda (Mlle). Chanteuse de café-concert : ","Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ",2
+"Amanda (Mlle). Chanteuse de café-concert : ","Boche (Mme). Epouse du précédent : ",2
+"Amanda (Mlle). Chanteuse de café-concert : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",2
+"Auguste. Marchand de vin traiteur : ","Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ",2
+"Auguste. Marchand de vin traiteur : ","Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ",2
+"Auguste. Marchand de vin traiteur : ","Boche (Mme). Epouse du précédent : ",2
+"Auguste. Marchand de vin traiteur : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",2
+"Auguste. Marchand de vin traiteur : ","Fauconnier (Mme). Blanchisseuse : ",2
+"Auguste. Marchand de vin traiteur : ","Gaudron. Mari de Mme Gaudron: : ",1
+"Auguste. Marchand de vin traiteur : ","Gaudron (Mme). Car-deuse de matelas : ",1
+"Auguste. Marchand de vin traiteur : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Auguste. Marchand de vin traiteur : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",2
+"Auguste. Marchand de vin traiteur : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",2
+"Auguste. Marchand de vin traiteur : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",1
+"Auguste. Marchand de vin traiteur : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Auguste. Marchand de vin traiteur : ","Mes-Bottes. Camarade de Coupeau : ",1
+"Auguste. Marchand de vin traiteur : ","Remanjou (Mlle). Voisine des Lorilleux : ",1
+"Auguste. Marchand de vin traiteur : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",1
+"Auguste. Marchand de vin traiteur : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",1
+"Auguste. Marchand de vin traiteur : ","Madinier. Patron d'un atelier de cartonnages : ",1
+"Augustine. Apprentie blanchisseuse : ","Clémence. Ouvrière re- 'f passeuse : ",38
+"Augustine. Apprentie blanchisseuse : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",24
+"Augustine. Apprentie blanchisseuse : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",11
+"Augustine. Apprentie blanchisseuse : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",15
+"Augustine. Apprentie blanchisseuse : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",43
+"Augustine. Apprentie blanchisseuse : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",20
+"Augustine. Apprentie blanchisseuse : ","Putois (Mme). Ouvrière blanchisseuse: ",38
+"Augustine. Apprentie blanchisseuse : ","Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ",22
+"Augustine. Apprentie blanchisseuse : ","Boche (Mme). Epouse du précédent : ",26
+"Augustine. Apprentie blanchisseuse : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",33
+"Augustine. Apprentie blanchisseuse : ","Cudorge (Mmes). Marchandes de parapluies: ",2
+"Augustine. Apprentie blanchisseuse : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",19
+"Augustine. Apprentie blanchisseuse : ","Madinier. Patron d'un atelier de cartonnages : ",6
+"Augustine. Apprentie blanchisseuse : ","Remanjou (Mlle). Voisine des Lorilleux : ",6
+"Augustine. Apprentie blanchisseuse : ","Vigouroux (Mme). Épouse du précédent : ",6
+"Augustine. Apprentie blanchisseuse : ","Bijard (Mme). Epouse du précédent : ",7
+"Augustine. Apprentie blanchisseuse : ","Pied-de-Céleri. Ami de Coupeau : ",2
+"Augustine. Apprentie blanchisseuse : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",18
+"Augustine. Apprentie blanchisseuse : ","Goujet (Mme). Mère du précédent : ",6
+"Augustine. Apprentie blanchisseuse : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",17
+"Augustine. Apprentie blanchisseuse : ","Gaudron (Mme). Car-deuse de matelas : ",5
+"Augustine. Apprentie blanchisseuse : ","Bijard. Ouvrier serrurier : ",2
+"Augustine. Apprentie blanchisseuse : ","Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ",3
+"Augustine. Apprentie blanchisseuse : ","François. Marchand de vin : ",4
+"Augustine. Apprentie blanchisseuse : ","Josse (Mlle). Maîtresse de pension : ",2
+"Augustine. Apprentie blanchisseuse : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",15
+"Augustine. Apprentie blanchisseuse : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",14
+"Augustine. Apprentie blanchisseuse : ","Fauconnier (Mme). Blanchisseuse : ",4
+"Augustine. Apprentie blanchisseuse : ","Célestine. Amie de la grande Clémence : ",2
+"Augustine. Apprentie blanchisseuse : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",14
+"Augustine. Apprentie blanchisseuse : ","Boche (Pauline). Fille des précédents : ",12
+"Augustine. Apprentie blanchisseuse : ","Fauconnier (Viâor). Fils de la précédente : ",12
+"Augustine. Apprentie blanchisseuse : ","Bru (le père). Ancien ouvrier peintrey : ",4
+"Augustine. Apprentie blanchisseuse : ","Colombe (le père). Propriétaire de l'Assommoir : ",1
+"Augustine. Apprentie blanchisseuse : ","Charles. Boucher. — : ",2
+"Augustine. Apprentie blanchisseuse : ","Coudeloup. Époux de la précédente : ",2
+"Augustine. Apprentie blanchisseuse : ","Lehongre. Épicier : ",3
+"Augustine. Apprentie blanchisseuse : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"Augustine. Apprentie blanchisseuse : ","Vigouroux. Charbonnier : ",3
+"Augustine. Apprentie blanchisseuse : ","Mes-Bottes. Camarade de Coupeau : ",1
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ",4
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Colombe (le père). Propriétaire de l'Assommoir : ",4
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",4
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",6
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",6
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",6
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",2
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ",4
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Boche (Mme). Epouse du précédent : ",4
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",4
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Clémence. Ouvrière re- 'f passeuse : ",2
+"Baquet (la mère). Marchande de vin à La Chapelle : ","François. Marchand de vin : ",2
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",2
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",2
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",2
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",2
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",2
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ",1
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Mes-Bottes. Camarade de Coupeau : ",1
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Goujet (Mme). Mère du précédent : ",1
+"Baquet (la mère). Marchande de vin à La Chapelle : ","Putois (Mme). Ouvrière blanchisseuse: ",1
+"Baudequin. Dessinateur : ","Bénard (les). Voisins des Lorilleux : ",2
+"Baudequin. Dessinateur : ","Clémence. Ouvrière re- 'f passeuse : ",2
+"Baudequin. Dessinateur : ","Coquet (les). Voisins des Lorilleux : ",2
+"Baudequin. Dessinateur : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",2
+"Baudequin. Dessinateur : ","Gaudron (Mme). Car-deuse de matelas : ",2
+"Baudequin. Dessinateur : ","Linguerlot (les). Voisins des Lorilleux : ",2
+"Baudequin. Dessinateur : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",2
+"Baudequin. Dessinateur : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",2
+"Baudequin. Dessinateur : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Baudequin. Dessinateur : ","Madinier. Patron d'un atelier de cartonnages : ",2
+"Baudequin. Dessinateur : ","Remanjou (Mlle). Voisine des Lorilleux : ",2
+"Bazouge (le père). Croque-mort : ","Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ",9
+"Bazouge (le père). Croque-mort : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",21
+"Bazouge (le père). Croque-mort : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",8
+"Bazouge (le père). Croque-mort : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",3
+"Bazouge (le père). Croque-mort : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",5
+"Bazouge (le père). Croque-mort : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",13
+"Bazouge (le père). Croque-mort : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",12
+"Bazouge (le père). Croque-mort : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",25
+"Bazouge (le père). Croque-mort : ","Mes-Bottes. Camarade de Coupeau : ",7
+"Bazouge (le père). Croque-mort : ","Fauconnier (Mme). Blanchisseuse : ",4
+"Bazouge (le père). Croque-mort : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",8
+"Bazouge (le père). Croque-mort : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",7
+"Bazouge (le père). Croque-mort : ","Gaudron (Mme). Car-deuse de matelas : ",4
+"Bazouge (le père). Croque-mort : ","Madinier. Patron d'un atelier de cartonnages : ",5
+"Bazouge (le père). Croque-mort : ","Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ",3
+"Bazouge (le père). Croque-mort : ","Boche (Mme). Epouse du précédent : ",3
+"Bazouge (le père). Croque-mort : ","Gaudron. Mari de Mme Gaudron: : ",2
+"Bazouge (le père). Croque-mort : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",5
+"Bazouge (le père). Croque-mort : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",9
+"Bazouge (le père). Croque-mort : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",6
+"Bazouge (le père). Croque-mort : ","Remanjou (Mlle). Voisine des Lorilleux : ",4
+"Bazouge (le père). Croque-mort : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",5
+"Bazouge (le père). Croque-mort : ","Bijard. Ouvrier serrurier : ",7
+"Bazouge (le père). Croque-mort : ","Bru (le père). Ancien ouvrier peintrey : ",6
+"Bazouge (le père). Croque-mort : ","Bijard (Mme). Epouse du précédent : ",2
+"Bazouge (le père). Croque-mort : ","Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ",5
+"Bazouge (le père). Croque-mort : ","Goujet (Mme). Mère du précédent : ",2
+"Bazouge (le père). Croque-mort : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",2
+"Bazouge (le père). Croque-mort : ","Bijard (Henriette). Seconde fille des Bijard : ",1
+"Bazouge (le père). Croque-mort : ","Bijard (Jules). Troisième enfant des Bijard : ",1
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ",14
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Colombe (le père). Propriétaire de l'Assommoir : ",13
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",18
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",10
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",27
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Mes-Bottes. Camarade de Coupeau : ",14
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",16
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",12
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Goujet (Mme). Mère du précédent : ",2
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Bijard. Ouvrier serrurier : ",5
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Bijard (Mme). Epouse du précédent : ",3
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Clémence. Ouvrière re- 'f passeuse : ",3
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Boche (Mme). Epouse du précédent : ",4
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",1
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",3
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Bourguignon. Éntrepre-neur de plomberie : ",3
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",3
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Louis (la mère). Marchande de vin à la Chapelle : ",3
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","François. Marchand de vin : ",2
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",2
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ",4
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Eulalie. Maîtresse de Bec-Salé, dit Boit-sans-soif. Marchande de poissons : ",2
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ",2
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Bijard (Henriette). Seconde fille des Bijard : ",2
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Bijard (Jules). Troisième enfant des Bijard : ",2
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",2
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",2
+"Bec-Salé (dit Boit-sans-soif). Ouvrier forgeron. Amant de la grosse Eulalie : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",2
+"Bénard (les). Voisins des Lorilleux : ","Clémence. Ouvrière re- 'f passeuse : ",2
+"Bénard (les). Voisins des Lorilleux : ","Coquet (les). Voisins des Lorilleux : ",2
+"Bénard (les). Voisins des Lorilleux : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",2
+"Bénard (les). Voisins des Lorilleux : ","Gaudron (Mme). Car-deuse de matelas : ",2
+"Bénard (les). Voisins des Lorilleux : ","Linguerlot (les). Voisins des Lorilleux : ",2
+"Bénard (les). Voisins des Lorilleux : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",2
+"Bénard (les). Voisins des Lorilleux : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",2
+"Bénard (les). Voisins des Lorilleux : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Bénard (les). Voisins des Lorilleux : ","Madinier. Patron d'un atelier de cartonnages : ",2
+"Bénard (les). Voisins des Lorilleux : ","Remanjou (Mlle). Voisine des Lorilleux : ",2
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Colombe (le père). Propriétaire de l'Assommoir : ",19
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",57
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",20
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",12
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",13
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",57
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",5
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",23
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",6
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ",38
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Boche (Mme). Epouse du précédent : ",20
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",7
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Fauconnier (Mme). Blanchisseuse : ",29
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Gaudron. Mari de Mme Gaudron: : ",28
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Gaudron (Mme). Car-deuse de matelas : ",28
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",38
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",32
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Mes-Bottes. Camarade de Coupeau : ",38
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Remanjou (Mlle). Voisine des Lorilleux : ",28
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",9
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",29
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Madinier. Patron d'un atelier de cartonnages : ",8
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Bijard. Ouvrier serrurier : ",4
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Bijard (Mme). Epouse du précédent : ",2
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Clémence. Ouvrière re- 'f passeuse : ",3
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Bourguignon. Éntrepre-neur de plomberie : ",6
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Louis (la mère). Marchande de vin à la Chapelle : ",3
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","François. Marchand de vin : ",2
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",2
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Eulalie. Maîtresse de Bec-Salé, dit Boit-sans-soif. Marchande de poissons : ",2
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ",2
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Bijard (Henriette). Seconde fille des Bijard : ",2
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Bijard (Jules). Troisième enfant des Bijard : ",2
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ",3
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",3
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Goujet (Mme). Mère du précédent : ",2
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",1
+"Bibi-la-Grillade. Ouvrier. Ami de Coupeau : ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",1
+"Bijard. Ouvrier serrurier : ","Bijard (Mme). Epouse du précédent : ",12
+"Bijard. Ouvrier serrurier : ","Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ",22
+"Bijard. Ouvrier serrurier : ","Clémence. Ouvrière re- 'f passeuse : ",6
+"Bijard. Ouvrier serrurier : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",16
+"Bijard. Ouvrier serrurier : ","Gaudron (Mme). Car-deuse de matelas : ",3
+"Bijard. Ouvrier serrurier : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",27
+"Bijard. Ouvrier serrurier : ","Putois (Mme). Ouvrière blanchisseuse: ",3
+"Bijard. Ouvrier serrurier : ","Remanjou (Mlle). Voisine des Lorilleux : ",3
+"Bijard. Ouvrier serrurier : ","Boche (Mme). Epouse du précédent : ",6
+"Bijard. Ouvrier serrurier : ","Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ",9
+"Bijard. Ouvrier serrurier : ","Bru (le père). Ancien ouvrier peintrey : ",6
+"Bijard. Ouvrier serrurier : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",2
+"Bijard. Ouvrier serrurier : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",9
+"Bijard. Ouvrier serrurier : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",7
+"Bijard. Ouvrier serrurier : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",5
+"Bijard. Ouvrier serrurier : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",6
+"Bijard. Ouvrier serrurier : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",8
+"Bijard. Ouvrier serrurier : ","Goujet (Mme). Mère du précédent : ",2
+"Bijard. Ouvrier serrurier : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",3
+"Bijard. Ouvrier serrurier : ","Colombe (le père). Propriétaire de l'Assommoir : ",4
+"Bijard. Ouvrier serrurier : ","Mes-Bottes. Camarade de Coupeau : ",5
+"Bijard. Ouvrier serrurier : ","Bijard (Henriette). Seconde fille des Bijard : ",15
+"Bijard. Ouvrier serrurier : ","Bijard (Jules). Troisième enfant des Bijard : ",13
+"Bijard. Ouvrier serrurier : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",5
+"Bijard. Ouvrier serrurier : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",5
+"Bijard. Ouvrier serrurier : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",1
+"Bijard (Mme). Epouse du précédent : ","Boche (Mme). Epouse du précédent : ",8
+"Bijard (Mme). Epouse du précédent : ","Clémence. Ouvrière re- 'f passeuse : ",11
+"Bijard (Mme). Epouse du précédent : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",12
+"Bijard (Mme). Epouse du précédent : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",17
+"Bijard (Mme). Epouse du précédent : ","Putois (Mme). Ouvrière blanchisseuse: ",8
+"Bijard (Mme). Epouse du précédent : ","Pied-de-Céleri. Ami de Coupeau : ",2
+"Bijard (Mme). Epouse du précédent : ","Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ",4
+"Bijard (Mme). Epouse du précédent : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",8
+"Bijard (Mme). Epouse du précédent : ","Goujet (Mme). Mère du précédent : ",3
+"Bijard (Mme). Epouse du précédent : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",3
+"Bijard (Mme). Epouse du précédent : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",3
+"Bijard (Mme). Epouse du précédent : ","Madinier. Patron d'un atelier de cartonnages : ",2
+"Bijard (Mme). Epouse du précédent : ","Gaudron (Mme). Car-deuse de matelas : ",3
+"Bijard (Mme). Epouse du précédent : ","Remanjou (Mlle). Voisine des Lorilleux : ",2
+"Bijard (Mme). Epouse du précédent : ","Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ",10
+"Bijard (Mme). Epouse du précédent : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",1
+"Bijard (Mme). Epouse du précédent : ","Colombe (le père). Propriétaire de l'Assommoir : ",2
+"Bijard (Mme). Epouse du précédent : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",6
+"Bijard (Mme). Epouse du précédent : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",2
+"Bijard (Mme). Epouse du précédent : ","Mes-Bottes. Camarade de Coupeau : ",2
+"Bijard (Mme). Epouse du précédent : ","Bijard (Henriette). Seconde fille des Bijard : ",5
+"Bijard (Mme). Epouse du précédent : ","Bru (le père). Ancien ouvrier peintrey : ",2
+"Bijard (Mme). Epouse du précédent : ","Bijard (Jules). Troisième enfant des Bijard : ",3
+"Bijard (Mme). Epouse du précédent : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",1
+"Bijard (Mme). Epouse du précédent : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",1
+"Bijard (Mme). Epouse du précédent : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",1
+"Bijard (Mme). Epouse du précédent : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",1
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Clémence. Ouvrière re- 'f passeuse : ",5
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",13
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Gaudron (Mme). Car-deuse de matelas : ",3
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",24
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Putois (Mme). Ouvrière blanchisseuse: ",4
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Remanjou (Mlle). Voisine des Lorilleux : ",1
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Boche (Mme). Epouse du précédent : ",6
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",5
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ",6
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",6
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Goujet (Mme). Mère du précédent : ",3
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",5
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",4
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",1
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Bijard (Henriette). Seconde fille des Bijard : ",16
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Bijard (Jules). Troisième enfant des Bijard : ",14
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Colombe (le père). Propriétaire de l'Assommoir : ",2
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",5
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",5
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Mes-Bottes. Camarade de Coupeau : ",3
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",3
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Bru (le père). Ancien ouvrier peintrey : ",4
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",1
+"Bijard (Eulalie, dite La-lie). Fille aînée des Bijard : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",1
+"Bijard (Henriette). Seconde fille des Bijard : ","Bijard (Jules). Troisième enfant des Bijard : ",14
+"Bijard (Henriette). Seconde fille des Bijard : ","Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ",4
+"Bijard (Henriette). Seconde fille des Bijard : ","Boche (Mme). Epouse du précédent : ",3
+"Bijard (Henriette). Seconde fille des Bijard : ","Colombe (le père). Propriétaire de l'Assommoir : ",2
+"Bijard (Henriette). Seconde fille des Bijard : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",8
+"Bijard (Henriette). Seconde fille des Bijard : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",4
+"Bijard (Henriette). Seconde fille des Bijard : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",4
+"Bijard (Henriette). Seconde fille des Bijard : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",16
+"Bijard (Henriette). Seconde fille des Bijard : ","Mes-Bottes. Camarade de Coupeau : ",3
+"Bijard (Henriette). Seconde fille des Bijard : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",3
+"Bijard (Henriette). Seconde fille des Bijard : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",3
+"Bijard (Henriette). Seconde fille des Bijard : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",3
+"Bijard (Henriette). Seconde fille des Bijard : ","Bru (le père). Ancien ouvrier peintrey : ",3
+"Bijard (Henriette). Seconde fille des Bijard : ","Clémence. Ouvrière re- 'f passeuse : ",2
+"Bijard (Henriette). Seconde fille des Bijard : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",4
+"Bijard (Henriette). Seconde fille des Bijard : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",4
+"Bijard (Henriette). Seconde fille des Bijard : ","Gaudron (Mme). Car-deuse de matelas : ",2
+"Bijard (Henriette). Seconde fille des Bijard : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",1
+"Bijard (Henriette). Seconde fille des Bijard : ","Goujet (Mme). Mère du précédent : ",2
+"Bijard (Henriette). Seconde fille des Bijard : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",1
+"Bijard (Henriette). Seconde fille des Bijard : ","Putois (Mme). Ouvrière blanchisseuse: ",1
+"Bijard (Jules). Troisième enfant des Bijard : ","Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ",3
+"Bijard (Jules). Troisième enfant des Bijard : ","Boche (Mme). Epouse du précédent : ",2
+"Bijard (Jules). Troisième enfant des Bijard : ","Colombe (le père). Propriétaire de l'Assommoir : ",2
+"Bijard (Jules). Troisième enfant des Bijard : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",6
+"Bijard (Jules). Troisième enfant des Bijard : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",3
+"Bijard (Jules). Troisième enfant des Bijard : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",3
+"Bijard (Jules). Troisième enfant des Bijard : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",14
+"Bijard (Jules). Troisième enfant des Bijard : ","Mes-Bottes. Camarade de Coupeau : ",3
+"Bijard (Jules). Troisième enfant des Bijard : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",3
+"Bijard (Jules). Troisième enfant des Bijard : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",2
+"Bijard (Jules). Troisième enfant des Bijard : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",2
+"Bijard (Jules). Troisième enfant des Bijard : ","Bru (le père). Ancien ouvrier peintrey : ",1
+"Bijard (Jules). Troisième enfant des Bijard : ","Gaudron (Mme). Car-deuse de matelas : ",2
+"Bijard (Jules). Troisième enfant des Bijard : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",2
+"Bijard (Jules). Troisième enfant des Bijard : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",2
+"Bijard (Jules). Troisième enfant des Bijard : ","Goujet (Mme). Mère du précédent : ",1
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Boche (Mme). Epouse du précédent : ",124
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Charles. Garçon de lavoir : ",1
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",70
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",15
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",34
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",166
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",73
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Bru (le père). Ancien ouvrier peintrey : ",21
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",150
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",51
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",112
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",115
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",6
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",78
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",17
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",72
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",56
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Fauconnier (Mme). Blanchisseuse : ",40
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Gaudron. Mari de Mme Gaudron: : ",27
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Gaudron (Mme). Car-deuse de matelas : ",36
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Mes-Bottes. Camarade de Coupeau : ",27
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Remanjou (Mlle). Voisine des Lorilleux : ",41
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Clémence. Ouvrière re- 'f passeuse : ",49
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Cudorge (Mmes). Marchandes de parapluies: ",4
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Madinier. Patron d'un atelier de cartonnages : ",12
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Putois (Mme). Ouvrière blanchisseuse: ",40
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Vigouroux (Mme). Épouse du précédent : ",10
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Goujet (Mme). Mère du précédent : ",15
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Pied-de-Céleri. Ami de Coupeau : ",1
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Boche (Pauline). Fille des précédents : ",25
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Fauconnier (Viâor). Fils de la précédente : ",17
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",86
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Colombe (le père). Propriétaire de l'Assommoir : ",10
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Charles. Boucher. — : ",3
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Coudeloup. Époux de la précédente : ",2
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","François. Marchand de vin : ",11
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Lehongre. Épicier : ",4
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Vigouroux. Charbonnier : ",5
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ",3
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",3
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Goujet (père). Mari décédé de la précédente : ",1
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Célestine. Amie de la grande Clémence : ",1
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Thomas. Restaurant de Montmartre: ",2
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Champion. Patron chapelier à Montrouge : ",2
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Gaudron (fils). Ouvrier menuisier : ",1
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Léonie. Ouvrière fleuriste : ",1
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Titreville (Mme). Fleuriste: ",3
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",1
+"Boche. Concierge de l'im-meuble habité par les Cou-peau, rue de la Goutte-d'Ot : ","Coudeloup (Mme). Boulangère : ",1
+"Boche (Mme). Epouse du précédent : ","Fauconnier (Mme). Blanchisseuse : ",28
+"Boche (Mme). Epouse du précédent : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",76
+"Boche (Mme). Epouse du précédent : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",23
+"Boche (Mme). Epouse du précédent : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",40
+"Boche (Mme). Epouse du précédent : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",163
+"Boche (Mme). Epouse du précédent : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",85
+"Boche (Mme). Epouse du précédent : ","Charles. Garçon de lavoir : ",9
+"Boche (Mme). Epouse du précédent : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",3
+"Boche (Mme). Epouse du précédent : ","Bru (le père). Ancien ouvrier peintrey : ",16
+"Boche (Mme). Epouse du précédent : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",137
+"Boche (Mme). Epouse du précédent : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",45
+"Boche (Mme). Epouse du précédent : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",91
+"Boche (Mme). Epouse du précédent : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",97
+"Boche (Mme). Epouse du précédent : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",3
+"Boche (Mme). Epouse du précédent : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",68
+"Boche (Mme). Epouse du précédent : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",14
+"Boche (Mme). Epouse du précédent : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",62
+"Boche (Mme). Epouse du précédent : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",57
+"Boche (Mme). Epouse du précédent : ","Gaudron. Mari de Mme Gaudron: : ",13
+"Boche (Mme). Epouse du précédent : ","Gaudron (Mme). Car-deuse de matelas : ",21
+"Boche (Mme). Epouse du précédent : ","Mes-Bottes. Camarade de Coupeau : ",18
+"Boche (Mme). Epouse du précédent : ","Remanjou (Mlle). Voisine des Lorilleux : ",23
+"Boche (Mme). Epouse du précédent : ","Clémence. Ouvrière re- 'f passeuse : ",54
+"Boche (Mme). Epouse du précédent : ","Cudorge (Mmes). Marchandes de parapluies: ",4
+"Boche (Mme). Epouse du précédent : ","Madinier. Patron d'un atelier de cartonnages : ",12
+"Boche (Mme). Epouse du précédent : ","Putois (Mme). Ouvrière blanchisseuse: ",46
+"Boche (Mme). Epouse du précédent : ","Vigouroux (Mme). Épouse du précédent : ",8
+"Boche (Mme). Epouse du précédent : ","Pied-de-Céleri. Ami de Coupeau : ",2
+"Boche (Mme). Epouse du précédent : ","Goujet (Mme). Mère du précédent : ",12
+"Boche (Mme). Epouse du précédent : ","Boche (Pauline). Fille des précédents : ",24
+"Boche (Mme). Epouse du précédent : ","Fauconnier (Viâor). Fils de la précédente : ",16
+"Boche (Mme). Epouse du précédent : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",67
+"Boche (Mme). Epouse du précédent : ","Colombe (le père). Propriétaire de l'Assommoir : ",11
+"Boche (Mme). Epouse du précédent : ","François. Marchand de vin : ",8
+"Boche (Mme). Epouse du précédent : ","*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ",3
+"Boche (Mme). Epouse du précédent : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",3
+"Boche (Mme). Epouse du précédent : ","Goujet (père). Mari décédé de la précédente : ",2
+"Boche (Mme). Epouse du précédent : ","Célestine. Amie de la grande Clémence : ",1
+"Boche (Mme). Epouse du précédent : ","Vigouroux. Charbonnier : ",4
+"Boche (Mme). Epouse du précédent : ","Thomas. Restaurant de Montmartre: ",2
+"Boche (Mme). Epouse du précédent : ","Champion. Patron chapelier à Montrouge : ",2
+"Boche (Mme). Epouse du précédent : ","Léonie. Ouvrière fleuriste : ",1
+"Boche (Mme). Epouse du précédent : ","Titreville (Mme). Fleuriste: ",2
+"Boche (Mme). Epouse du précédent : ","Zidore. Apprenti zingueur. Aide de Coupeau : ",5
+"Boche (Mme). Epouse du précédent : ","Charles. Boucher. — : ",1
+"Boche (Mme). Epouse du précédent : ","Coudeloup (Mme). Boulangère : ",1
+"Boche (Mme). Epouse du précédent : ","Lehongre. Épicier : ",2
+"Boche (Pauline). Fille des précédents : ","Clémence. Ouvrière re- 'f passeuse : ",13
+"Boche (Pauline). Fille des précédents : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",12
+"Boche (Pauline). Fille des précédents : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",29
+"Boche (Pauline). Fille des précédents : ","Fauconnier (Viâor). Fils de la précédente : ",18
+"Boche (Pauline). Fille des précédents : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",11
+"Boche (Pauline). Fille des précédents : ","Goujet (Mme). Mère du précédent : ",1
+"Boche (Pauline). Fille des précédents : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",13
+"Boche (Pauline). Fille des précédents : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",18
+"Boche (Pauline). Fille des précédents : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",19
+"Boche (Pauline). Fille des précédents : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",19
+"Boche (Pauline). Fille des précédents : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",31
+"Boche (Pauline). Fille des précédents : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",28
+"Boche (Pauline). Fille des précédents : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",17
+"Boche (Pauline). Fille des précédents : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",16
+"Boche (Pauline). Fille des précédents : ","Putois (Mme). Ouvrière blanchisseuse: ",13
+"Boche (Pauline). Fille des précédents : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",11
+"Boche (Pauline). Fille des précédents : ","Bru (le père). Ancien ouvrier peintrey : ",4
+"Boche (Pauline). Fille des précédents : ","Colombe (le père). Propriétaire de l'Assommoir : ",1
+"Boche (Pauline). Fille des précédents : ","Cudorge (Mmes). Marchandes de parapluies: ",1
+"Boche (Pauline). Fille des précédents : ","Vigouroux (Mme). Épouse du précédent : ",2
+"Boche (Pauline). Fille des précédents : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",4
+"Boche (Pauline). Fille des précédents : ","Fauconnier (Mme). Blanchisseuse : ",3
+"Boche (Pauline). Fille des précédents : ","Gaudron (Mme). Car-deuse de matelas : ",2
+"Boche (Pauline). Fille des précédents : ","Remanjou (Mlle). Voisine des Lorilleux : ",1
+"Boche (Pauline). Fille des précédents : ","Vigouroux. Charbonnier : ",1
+"Boche (Pauline). Fille des précédents : ","Thomas. Restaurant de Montmartre: ",1
+"Boche (Pauline). Fille des précédents : ","Gaudron (fils). Ouvrier menuisier : ",2
+"Boche (Pauline). Fille des précédents : ","Josse (Mlle). Maîtresse de pension : ",1
+"Boche (Pauline). Fille des précédents : ","Titreville (Mme). Fleuriste: ",3
+"Boche (Pauline). Fille des précédents : ","Caroline. Ouvrière fleuriste : ",1
+"Boche (Pauline). Fille des précédents : ","Léonie. Ouvrière fleuriste : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",9
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",13
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",15
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",13
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Bourguignon. Éntrepre-neur de plomberie : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Colombe (le père). Propriétaire de l'Assommoir : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","François. Marchand de vin : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Louis (la mère). Marchande de vin à la Chapelle : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Mes-Bottes. Camarade de Coupeau : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Clémence. Ouvrière re- 'f passeuse : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",8
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Putois (Mme). Ouvrière blanchisseuse: ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Cudorge (Mmes). Marchandes de parapluies: ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Vigouroux (Mme). Épouse du précédent : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lehongre. Épicier : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Vigouroux. Charbonnier : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",4
+"Bourguignon. Éntrepre-neur de plomberie : ","Colombe (le père). Propriétaire de l'Assommoir : ",6
+"Bourguignon. Éntrepre-neur de plomberie : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",6
+"Bourguignon. Éntrepre-neur de plomberie : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",3
+"Bourguignon. Éntrepre-neur de plomberie : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",6
+"Bourguignon. Éntrepre-neur de plomberie : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",3
+"Bourguignon. Éntrepre-neur de plomberie : ","Louis (la mère). Marchande de vin à la Chapelle : ",3
+"Bourguignon. Éntrepre-neur de plomberie : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",6
+"Bourguignon. Éntrepre-neur de plomberie : ","Mes-Bottes. Camarade de Coupeau : ",6
+"Bourguignon. Éntrepre-neur de plomberie : ","François. Marchand de vin : ",2
+"Bru (le père). Ancien ouvrier peintrey : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",21
+"Bru (le père). Ancien ouvrier peintrey : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",17
+"Bru (le père). Ancien ouvrier peintrey : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",14
+"Bru (le père). Ancien ouvrier peintrey : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",19
+"Bru (le père). Ancien ouvrier peintrey : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",17
+"Bru (le père). Ancien ouvrier peintrey : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",28
+"Bru (le père). Ancien ouvrier peintrey : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",19
+"Bru (le père). Ancien ouvrier peintrey : ","Clémence. Ouvrière re- 'f passeuse : ",15
+"Bru (le père). Ancien ouvrier peintrey : ","Colombe (le père). Propriétaire de l'Assommoir : ",2
+"Bru (le père). Ancien ouvrier peintrey : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",15
+"Bru (le père). Ancien ouvrier peintrey : ","Fauconnier (Viâor). Fils de la précédente : ",4
+"Bru (le père). Ancien ouvrier peintrey : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",4
+"Bru (le père). Ancien ouvrier peintrey : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",15
+"Bru (le père). Ancien ouvrier peintrey : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",10
+"Bru (le père). Ancien ouvrier peintrey : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",18
+"Bru (le père). Ancien ouvrier peintrey : ","Putois (Mme). Ouvrière blanchisseuse: ",14
+"Bru (le père). Ancien ouvrier peintrey : ","Cudorge (Mmes). Marchandes de parapluies: ",1
+"Bru (le père). Ancien ouvrier peintrey : ","Vigouroux (Mme). Épouse du précédent : ",3
+"Bru (le père). Ancien ouvrier peintrey : ","Remanjou (Mlle). Voisine des Lorilleux : ",2
+"Bru (le père). Ancien ouvrier peintrey : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",3
+"Bru (le père). Ancien ouvrier peintrey : ","Célestine. Amie de la grande Clémence : ",1
+"Bru (le père). Ancien ouvrier peintrey : ","François. Marchand de vin : ",3
+"Bru (le père). Ancien ouvrier peintrey : ","Goujet (Mme). Mère du précédent : ",3
+"Bru (le père). Ancien ouvrier peintrey : ","Thomas. Restaurant de Montmartre: ",2
+"Caroline. Ouvrière fleuriste : ","Léonie. Ouvrière fleuriste : ",2
+"Caroline. Ouvrière fleuriste : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",2
+"Caroline. Ouvrière fleuriste : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Caroline. Ouvrière fleuriste : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",2
+"Caroline. Ouvrière fleuriste : ","Titreville (Mme). Fleuriste: ",2
+"Célestine. Amie de la grande Clémence : ","Clémence. Ouvrière re- 'f passeuse : ",2
+"Célestine. Amie de la grande Clémence : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",2
+"Célestine. Amie de la grande Clémence : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",2
+"Célestine. Amie de la grande Clémence : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",1
+"Célestine. Amie de la grande Clémence : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Célestine. Amie de la grande Clémence : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",2
+"Célestine. Amie de la grande Clémence : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",2
+"Célestine. Amie de la grande Clémence : ","Putois (Mme). Ouvrière blanchisseuse: ",2
+"Célestine. Amie de la grande Clémence : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",1
+"Célestine. Amie de la grande Clémence : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",1
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",1
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",3
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Fauconnier (Mme). Blanchisseuse : ",3
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Gaudron. Mari de Mme Gaudron: : ",3
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Gaudron (Mme). Car-deuse de matelas : ",3
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",1
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",1
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",3
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",3
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",3
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",3
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Mes-Bottes. Camarade de Coupeau : ",3
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",3
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Remanjou (Mlle). Voisine des Lorilleux : ",3
+"Champion. Patron chapelier à Montrouge : ","Clémence. Ouvrière re- 'f passeuse : ",2
+"Champion. Patron chapelier à Montrouge : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",2
+"Champion. Patron chapelier à Montrouge : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",2
+"Champion. Patron chapelier à Montrouge : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",2
+"Champion. Patron chapelier à Montrouge : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",2
+"Champion. Patron chapelier à Montrouge : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",2
+"Champion. Patron chapelier à Montrouge : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Champion. Patron chapelier à Montrouge : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",2
+"Champion. Patron chapelier à Montrouge : ","Putois (Mme). Ouvrière blanchisseuse: ",2
+"Champion. Patron chapelier à Montrouge : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",1
+"Champion. Patron chapelier à Montrouge : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",1
+"Charles. Garçon de lavoir : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",6
+"Charles. Garçon de lavoir : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",2
+"Charles. Garçon de lavoir : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",9
+"Charles. Garçon de lavoir : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",8
+"Charles. Garçon de lavoir : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",6
+"Charles. Garçon de lavoir : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",6
+"Charles. Boucher. — : ","Clémence. Ouvrière re- 'f passeuse : ",3
+"Charles. Boucher. — : ","Coudeloup. Époux de la précédente : ",2
+"Charles. Boucher. — : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",3
+"Charles. Boucher. — : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",3
+"Charles. Boucher. — : ","François. Marchand de vin : ",4
+"Charles. Boucher. — : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",2
+"Charles. Boucher. — : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",2
+"Charles. Boucher. — : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",2
+"Charles. Boucher. — : ","Lehongre. Épicier : ",4
+"Charles. Boucher. — : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",3
+"Charles. Boucher. — : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",3
+"Charles. Boucher. — : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",3
+"Charles. Boucher. — : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",4
+"Charles. Boucher. — : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"Charles. Boucher. — : ","Vigouroux. Charbonnier : ",4
+"Charles. Boucher. — : ","Vigouroux (Mme). Épouse du précédent : ",4
+"Charles. Boucher. — : ","Coudeloup (Mme). Boulangère : ",2
+"Charles. Boucher. — : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",2
+"Clémence. Ouvrière re- 'f passeuse : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",48
+"Clémence. Ouvrière re- 'f passeuse : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",35
+"Clémence. Ouvrière re- 'f passeuse : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",42
+"Clémence. Ouvrière re- 'f passeuse : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",84
+"Clémence. Ouvrière re- 'f passeuse : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",48
+"Clémence. Ouvrière re- 'f passeuse : ","Putois (Mme). Ouvrière blanchisseuse: ",60
+"Clémence. Ouvrière re- 'f passeuse : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",23
+"Clémence. Ouvrière re- 'f passeuse : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",74
+"Clémence. Ouvrière re- 'f passeuse : ","Cudorge (Mmes). Marchandes de parapluies: ",3
+"Clémence. Ouvrière re- 'f passeuse : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",53
+"Clémence. Ouvrière re- 'f passeuse : ","Madinier. Patron d'un atelier de cartonnages : ",9
+"Clémence. Ouvrière re- 'f passeuse : ","Remanjou (Mlle). Voisine des Lorilleux : ",10
+"Clémence. Ouvrière re- 'f passeuse : ","Vigouroux (Mme). Épouse du précédent : ",10
+"Clémence. Ouvrière re- 'f passeuse : ","Pied-de-Céleri. Ami de Coupeau : ",2
+"Clémence. Ouvrière re- 'f passeuse : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",44
+"Clémence. Ouvrière re- 'f passeuse : ","Goujet (Mme). Mère du précédent : ",8
+"Clémence. Ouvrière re- 'f passeuse : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",51
+"Clémence. Ouvrière re- 'f passeuse : ","Gaudron (Mme). Car-deuse de matelas : ",8
+"Clémence. Ouvrière re- 'f passeuse : ","François. Marchand de vin : ",13
+"Clémence. Ouvrière re- 'f passeuse : ","Josse (Mlle). Maîtresse de pension : ",2
+"Clémence. Ouvrière re- 'f passeuse : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",20
+"Clémence. Ouvrière re- 'f passeuse : ","Fauconnier (Mme). Blanchisseuse : ",3
+"Clémence. Ouvrière re- 'f passeuse : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",36
+"Clémence. Ouvrière re- 'f passeuse : ","Fauconnier (Viâor). Fils de la précédente : ",13
+"Clémence. Ouvrière re- 'f passeuse : ","Colombe (le père). Propriétaire de l'Assommoir : ",6
+"Clémence. Ouvrière re- 'f passeuse : ","Coudeloup. Époux de la précédente : ",2
+"Clémence. Ouvrière re- 'f passeuse : ","Lehongre. Épicier : ",3
+"Clémence. Ouvrière re- 'f passeuse : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"Clémence. Ouvrière re- 'f passeuse : ","Vigouroux. Charbonnier : ",5
+"Clémence. Ouvrière re- 'f passeuse : ","Coquet (les). Voisins des Lorilleux : ",4
+"Clémence. Ouvrière re- 'f passeuse : ","Linguerlot (les). Voisins des Lorilleux : ",2
+"Clémence. Ouvrière re- 'f passeuse : ","Mes-Bottes. Camarade de Coupeau : ",5
+"Clémence. Ouvrière re- 'f passeuse : ","Gaudron. Mari de Mme Gaudron: : ",1
+"Clémence. Ouvrière re- 'f passeuse : ","Thomas. Restaurant de Montmartre: ",2
+"Clémence. Ouvrière re- 'f passeuse : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Clémence. Ouvrière re- 'f passeuse : ","Coudeloup (Mme). Boulangère : ",1
+"Clémence. Ouvrière re- 'f passeuse : ","Thérèse. Ancienne voisine des Lorilleux : ",1
+"Colombe (le père). Propriétaire de l'Assommoir : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",35
+"Colombe (le père). Propriétaire de l'Assommoir : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",20
+"Colombe (le père). Propriétaire de l'Assommoir : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",5
+"Colombe (le père). Propriétaire de l'Assommoir : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",7
+"Colombe (le père). Propriétaire de l'Assommoir : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",35
+"Colombe (le père). Propriétaire de l'Assommoir : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",9
+"Colombe (le père). Propriétaire de l'Assommoir : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",6
+"Colombe (le père). Propriétaire de l'Assommoir : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",7
+"Colombe (le père). Propriétaire de l'Assommoir : ","Fauconnier (Viâor). Fils de la précédente : ",1
+"Colombe (le père). Propriétaire de l'Assommoir : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",9
+"Colombe (le père). Propriétaire de l'Assommoir : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",5
+"Colombe (le père). Propriétaire de l'Assommoir : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",11
+"Colombe (le père). Propriétaire de l'Assommoir : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",10
+"Colombe (le père). Propriétaire de l'Assommoir : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",7
+"Colombe (le père). Propriétaire de l'Assommoir : ","Putois (Mme). Ouvrière blanchisseuse: ",3
+"Colombe (le père). Propriétaire de l'Assommoir : ","François. Marchand de vin : ",5
+"Colombe (le père). Propriétaire de l'Assommoir : ","Mes-Bottes. Camarade de Coupeau : ",21
+"Colombe (le père). Propriétaire de l'Assommoir : ","Louis (la mère). Marchande de vin à la Chapelle : ",3
+"Colombe (le père). Propriétaire de l'Assommoir : ","Eulalie. Maîtresse de Bec-Salé, dit Boit-sans-soif. Marchande de poissons : ",2
+"Colombe (le père). Propriétaire de l'Assommoir : ","Goujet (Mme). Mère du précédent : ",2
+"Colombe (le père). Propriétaire de l'Assommoir : ","Fauconnier (Mme). Blanchisseuse : ",2
+"Colombe (le père). Propriétaire de l'Assommoir : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",2
+"Colombe (le père). Propriétaire de l'Assommoir : ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",4
+"Colombe (le père). Propriétaire de l'Assommoir : ","Titreville (Mme). Fleuriste: ",1
+"Coquet (les). Voisins des Lorilleux : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",4
+"Coquet (les). Voisins des Lorilleux : ","Gaudron (Mme). Car-deuse de matelas : ",3
+"Coquet (les). Voisins des Lorilleux : ","Linguerlot (les). Voisins des Lorilleux : ",2
+"Coquet (les). Voisins des Lorilleux : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",4
+"Coquet (les). Voisins des Lorilleux : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",4
+"Coquet (les). Voisins des Lorilleux : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",4
+"Coquet (les). Voisins des Lorilleux : ","Madinier. Patron d'un atelier de cartonnages : ",3
+"Coquet (les). Voisins des Lorilleux : ","Remanjou (Mlle). Voisine des Lorilleux : ",4
+"Coudeloup (Mme). Boulangère : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",1
+"Coudeloup (Mme). Boulangère : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",1
+"Coudeloup (Mme). Boulangère : ","François. Marchand de vin : ",2
+"Coudeloup (Mme). Boulangère : ","Lehongre. Épicier : ",2
+"Coudeloup (Mme). Boulangère : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",1
+"Coudeloup (Mme). Boulangère : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",1
+"Coudeloup (Mme). Boulangère : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",1
+"Coudeloup (Mme). Boulangère : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Coudeloup (Mme). Boulangère : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",1
+"Coudeloup (Mme). Boulangère : ","Vigouroux. Charbonnier : ",2
+"Coudeloup (Mme). Boulangère : ","Vigouroux (Mme). Épouse du précédent : ",2
+"Coudeloup (Mme). Boulangère : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",1
+"Coudeloup (Mme). Boulangère : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",1
+"Coudeloup. Époux de la précédente : ","Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ",2
+"Coudeloup. Époux de la précédente : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",2
+"Coudeloup. Époux de la précédente : ","François. Marchand de vin : ",2
+"Coudeloup. Époux de la précédente : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",1
+"Coudeloup. Époux de la précédente : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",2
+"Coudeloup. Époux de la précédente : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",1
+"Coudeloup. Époux de la précédente : ","Lehongre. Épicier : ",2
+"Coudeloup. Époux de la précédente : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",2
+"Coudeloup. Époux de la précédente : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",2
+"Coudeloup. Époux de la précédente : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",2
+"Coudeloup. Époux de la précédente : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Coudeloup. Époux de la précédente : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"Coudeloup. Époux de la précédente : ","Vigouroux. Charbonnier : ",2
+"Coudeloup. Époux de la précédente : ","Vigouroux (Mme). Épouse du précédent : ",2
+"Coudeloup. Époux de la précédente : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",1
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",58
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",81
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",125
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",56
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Putois (Mme). Ouvrière blanchisseuse: ",41
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",30
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ",113
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",6
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",49
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",46
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Fauconnier (Mme). Blanchisseuse : ",25
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Vigouroux (Mme). Épouse du précédent : ",12
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Fauconnier (Viâor). Fils de la précédente : ",12
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",45
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Goujet (Mme). Mère du précédent : ",15
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",90
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",89
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Cudorge (Mmes). Marchandes de parapluies: ",3
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","François. Marchand de vin : ",10
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Lehongre. Épicier : ",5
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Vigouroux. Charbonnier : ",7
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Gaudron (Mme). Car-deuse de matelas : ",24
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Madinier. Patron d'un atelier de cartonnages : ",12
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Remanjou (Mlle). Voisine des Lorilleux : ",23
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Mes-Bottes. Camarade de Coupeau : ",17
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Gaudron. Mari de Mme Gaudron: : ",15
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",10
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",1
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Goujet (père). Mari décédé de la précédente : ",1
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Thomas. Restaurant de Montmartre: ",2
+"Coupeau (maman). Mère de Coupeau, de Mme Lerat et de Mme Lorilleux : ","Lehongre (Mme). Epouse du précédent : ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",117
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",30
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",68
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",318
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",88
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",81
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",163
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",169
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",18
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",76
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",104
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Fauconnier (Mme). Blanchisseuse : ",52
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Gaudron. Mari de Mme Gaudron: : ",28
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Gaudron (Mme). Car-deuse de matelas : ",44
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Mes-Bottes. Camarade de Coupeau : ",57
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Remanjou (Mlle). Voisine des Lorilleux : ",48
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Cudorge (Mmes). Marchandes de parapluies: ",4
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Madinier. Patron d'un atelier de cartonnages : ",19
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Putois (Mme). Ouvrière blanchisseuse: ",52
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Vigouroux (Mme). Épouse du précédent : ",9
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Pied-de-Céleri. Ami de Coupeau : ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Goujet (Mme). Mère du précédent : ",32
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","François. Marchand de vin : ",15
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Josse (Mlle). Maîtresse de pension : ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Fauconnier (Viâor). Fils de la précédente : ",18
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",112
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Lehongre. Épicier : ",5
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Vigouroux. Charbonnier : ",9
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Linguerlot (les). Voisins des Lorilleux : ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Louis (la mère). Marchande de vin à la Chapelle : ",3
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Eulalie. Maîtresse de Bec-Salé, dit Boit-sans-soif. Marchande de poissons : ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",3
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Goujet (père). Mari décédé de la précédente : ",5
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Thomas. Restaurant de Montmartre: ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Gaudron (fils). Ouvrier menuisier : ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Zidore. Apprenti zingueur. Aide de Coupeau : ",5
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Titreville (Mme). Fleuriste: ",6
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",6
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Lehongre (Mme). Epouse du précédent : ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Marsoullier. Tenancier de l'hôtel Boncœur : ",1
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Thérèse. Ancienne voisine des Lorilleux : ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Léonie. Ouvrière fleuriste : ",2
+"Coupeau (dit Cadet-Cassis). Époux de Gervaise Macquart. Père d'Anna. Frère de Mme Lerat et de Mme Lorilleux. Ouvrier zingueur. — : ","Sophie. Ouvrière fleuriste : ",1
+"Cudorge (Mmes). Marchandes de parapluies: ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",4
+"Cudorge (Mmes). Marchandes de parapluies: ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",4
+"Cudorge (Mmes). Marchandes de parapluies: ","Madinier. Patron d'un atelier de cartonnages : ",1
+"Cudorge (Mmes). Marchandes de parapluies: ","Putois (Mme). Ouvrière blanchisseuse: ",3
+"Cudorge (Mmes). Marchandes de parapluies: ","Remanjou (Mlle). Voisine des Lorilleux : ",1
+"Cudorge (Mmes). Marchandes de parapluies: ","Vigouroux (Mme). Épouse du précédent : ",4
+"Cudorge (Mmes). Marchandes de parapluies: ","Fauconnier (Viâor). Fils de la précédente : ",1
+"Cudorge (Mmes). Marchandes de parapluies: ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",2
+"Cudorge (Mmes). Marchandes de parapluies: ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",1
+"Cudorge (Mmes). Marchandes de parapluies: ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",3
+"Cudorge (Mmes). Marchandes de parapluies: ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",2
+"Cudorge (Mmes). Marchandes de parapluies: ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",1
+"Cudorge (Mmes). Marchandes de parapluies: ","Poisson. Sergent de ville. Épouse la grande Virginie : ",2
+"Cudorge (Mmes). Marchandes de parapluies: ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",2
+"Eulalie. Maîtresse de Bec-Salé, dit Boit-sans-soif. Marchande de poissons : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Eulalie. Maîtresse de Bec-Salé, dit Boit-sans-soif. Marchande de poissons : ","Mes-Bottes. Camarade de Coupeau : ",2
+"Fauconnier (Mme). Blanchisseuse : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",14
+"Fauconnier (Mme). Blanchisseuse : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",20
+"Fauconnier (Mme). Blanchisseuse : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",22
+"Fauconnier (Mme). Blanchisseuse : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",61
+"Fauconnier (Mme). Blanchisseuse : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",8
+"Fauconnier (Mme). Blanchisseuse : ","Gaudron. Mari de Mme Gaudron: : ",27
+"Fauconnier (Mme). Blanchisseuse : ","Gaudron (Mme). Car-deuse de matelas : ",33
+"Fauconnier (Mme). Blanchisseuse : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",39
+"Fauconnier (Mme). Blanchisseuse : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",42
+"Fauconnier (Mme). Blanchisseuse : ","Mes-Bottes. Camarade de Coupeau : ",18
+"Fauconnier (Mme). Blanchisseuse : ","Remanjou (Mlle). Voisine des Lorilleux : ",32
+"Fauconnier (Mme). Blanchisseuse : ","Putois (Mme). Ouvrière blanchisseuse: ",7
+"Fauconnier (Mme). Blanchisseuse : ","Vigouroux (Mme). Épouse du précédent : ",3
+"Fauconnier (Mme). Blanchisseuse : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",6
+"Fauconnier (Mme). Blanchisseuse : ","Goujet (Mme). Mère du précédent : ",2
+"Fauconnier (Mme). Blanchisseuse : ","Madinier. Patron d'un atelier de cartonnages : ",7
+"Fauconnier (Mme). Blanchisseuse : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",31
+"Fauconnier (Mme). Blanchisseuse : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",13
+"Fauconnier (Mme). Blanchisseuse : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",9
+"Fauconnier (Mme). Blanchisseuse : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",3
+"Fauconnier (Mme). Blanchisseuse : ","Fauconnier (Viâor). Fils de la précédente : ",4
+"Fauconnier (Mme). Blanchisseuse : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",3
+"Fauconnier (Mme). Blanchisseuse : ","Josse (Mlle). Maîtresse de pension : ",1
+"Fauconnier (Mme). Blanchisseuse : ","Lehongre. Épicier : ",1
+"Fauconnier (Mme). Blanchisseuse : ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",1
+"Fauconnier (Mme). Blanchisseuse : ","Goujet (père). Mari décédé de la précédente : ",1
+"Fauconnier (Viâor). Fils de la précédente : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",11
+"Fauconnier (Viâor). Fils de la précédente : ","Goujet (Mme). Mère du précédent : ",1
+"Fauconnier (Viâor). Fils de la précédente : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",13
+"Fauconnier (Viâor). Fils de la précédente : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",13
+"Fauconnier (Viâor). Fils de la précédente : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",13
+"Fauconnier (Viâor). Fils de la précédente : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",14
+"Fauconnier (Viâor). Fils de la précédente : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",19
+"Fauconnier (Viâor). Fils de la précédente : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",19
+"Fauconnier (Viâor). Fils de la précédente : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",14
+"Fauconnier (Viâor). Fils de la précédente : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",12
+"Fauconnier (Viâor). Fils de la précédente : ","Putois (Mme). Ouvrière blanchisseuse: ",13
+"Fauconnier (Viâor). Fils de la précédente : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",5
+"Fauconnier (Viâor). Fils de la précédente : ","Vigouroux (Mme). Épouse du précédent : ",2
+"Fauconnier (Viâor). Fils de la précédente : ","Gaudron (Mme). Car-deuse de matelas : ",2
+"Fauconnier (Viâor). Fils de la précédente : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",2
+"Fauconnier (Viâor). Fils de la précédente : ","Remanjou (Mlle). Voisine des Lorilleux : ",1
+"Fauconnier (Viâor). Fils de la précédente : ","Vigouroux. Charbonnier : ",1
+"Fauconnier (Viâor). Fils de la précédente : ","Thomas. Restaurant de Montmartre: ",1
+"Fauconnier (Viâor). Fils de la précédente : ","Gaudron (fils). Ouvrier menuisier : ",2
+"Fauconnier (Viâor). Fils de la précédente : ","Josse (Mlle). Maîtresse de pension : ",1
+"François. Marchand de vin : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",16
+"François. Marchand de vin : ","Putois (Mme). Ouvrière blanchisseuse: ",8
+"François. Marchand de vin : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",11
+"François. Marchand de vin : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",12
+"François. Marchand de vin : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",3
+"François. Marchand de vin : ","Lehongre. Épicier : ",4
+"François. Marchand de vin : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",10
+"François. Marchand de vin : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",10
+"François. Marchand de vin : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",10
+"François. Marchand de vin : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"François. Marchand de vin : ","Vigouroux. Charbonnier : ",4
+"François. Marchand de vin : ","Vigouroux (Mme). Épouse du précédent : ",4
+"François. Marchand de vin : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",8
+"François. Marchand de vin : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",7
+"François. Marchand de vin : ","Louis (la mère). Marchande de vin à la Chapelle : ",2
+"François. Marchand de vin : ","Mes-Bottes. Camarade de Coupeau : ",2
+"François. Marchand de vin : ","Goujet (Mme). Mère du précédent : ",2
+"François. Marchand de vin : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",2
+"Gaudron. Mari de Mme Gaudron: : ","Gaudron (Mme). Car-deuse de matelas : ",28
+"Gaudron. Mari de Mme Gaudron: : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",8
+"Gaudron. Mari de Mme Gaudron: : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",8
+"Gaudron. Mari de Mme Gaudron: : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",28
+"Gaudron. Mari de Mme Gaudron: : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",28
+"Gaudron. Mari de Mme Gaudron: : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",28
+"Gaudron. Mari de Mme Gaudron: : ","Mes-Bottes. Camarade de Coupeau : ",19
+"Gaudron. Mari de Mme Gaudron: : ","Remanjou (Mlle). Voisine des Lorilleux : ",28
+"Gaudron. Mari de Mme Gaudron: : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",2
+"Gaudron. Mari de Mme Gaudron: : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",26
+"Gaudron. Mari de Mme Gaudron: : ","Madinier. Patron d'un atelier de cartonnages : ",5
+"Gaudron. Mari de Mme Gaudron: : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",2
+"Gaudron. Mari de Mme Gaudron: : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",2
+"Gaudron. Mari de Mme Gaudron: : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",2
+"Gaudron. Mari de Mme Gaudron: : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",3
+"Gaudron (Mme). Car-deuse de matelas : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",8
+"Gaudron (Mme). Car-deuse de matelas : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",9
+"Gaudron (Mme). Car-deuse de matelas : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",41
+"Gaudron (Mme). Car-deuse de matelas : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",42
+"Gaudron (Mme). Car-deuse de matelas : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",49
+"Gaudron (Mme). Car-deuse de matelas : ","Mes-Bottes. Camarade de Coupeau : ",21
+"Gaudron (Mme). Car-deuse de matelas : ","Remanjou (Mlle). Voisine des Lorilleux : ",38
+"Gaudron (Mme). Car-deuse de matelas : ","Goujet, dit Gueule-d'Or. Ouvrier forgeron : ",6
+"Gaudron (Mme). Car-deuse de matelas : ","Goujet (Mme). Mère du précédent : ",3
+"Gaudron (Mme). Car-deuse de matelas : ","Madinier. Patron d'un atelier de cartonnages : ",15
+"Gaudron (Mme). Car-deuse de matelas : ","Putois (Mme). Ouvrière blanchisseuse: ",5
+"Gaudron (Mme). Car-deuse de matelas : ","Linguerlot (les). Voisins des Lorilleux : ",2
+"Gaudron (Mme). Car-deuse de matelas : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",32
+"Gaudron (Mme). Car-deuse de matelas : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",9
+"Gaudron (Mme). Car-deuse de matelas : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",2
+"Gaudron (Mme). Car-deuse de matelas : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",4
+"Gaudron (Mme). Car-deuse de matelas : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",3
+"Gaudron (Mme). Car-deuse de matelas : ","Goujet (père). Mari décédé de la précédente : ",1
+"Gaudron (Mme). Car-deuse de matelas : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",1
+"Gaudron (Mme). Car-deuse de matelas : ","Léonie. Ouvrière fleuriste : ",1
+"Gaudron (Mme). Car-deuse de matelas : ","Titreville (Mme). Fleuriste: ",2
+"Gaudron (Mme). Car-deuse de matelas : ","Josse (Mlle). Maîtresse de pension : ",1
+"Gaudron (Mme). Car-deuse de matelas : ","Lehongre. Épicier : ",1
+"Gaudron (Mme). Car-deuse de matelas : ","Vigouroux (Mme). Épouse du précédent : ",1
+"Gaudron (fils). Ouvrier menuisier : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Gaudron (fils). Ouvrier menuisier : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",2
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",44
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",53
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",52
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",105
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",42
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Goujet (Mme). Mère du précédent : ",42
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Madinier. Patron d'un atelier de cartonnages : ",6
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Pied-de-Céleri. Ami de Coupeau : ",1
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Putois (Mme). Ouvrière blanchisseuse: ",35
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Remanjou (Mlle). Voisine des Lorilleux : ",6
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Josse (Mlle). Maîtresse de pension : ",1
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",39
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",27
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",42
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",37
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Vigouroux (Mme). Épouse du précédent : ",6
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Lehongre. Épicier : ",2
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",1
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Vigouroux. Charbonnier : ",6
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Mes-Bottes. Camarade de Coupeau : ",11
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Louis (la mère). Marchande de vin à la Chapelle : ",1
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",2
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Thomas. Restaurant de Montmartre: ",2
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",1
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Lehongre (Mme). Epouse du précédent : ",1
+"Goujet, dit Gueule-d'Or. Ouvrier forgeron : ","Goujet (père). Mari décédé de la précédente : ",3
+"Goujet (Mme). Mère du précédent : ","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",12
+"Goujet (Mme). Mère du précédent : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",45
+"Goujet (Mme). Mère du précédent : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",9
+"Goujet (Mme). Mère du précédent : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",11
+"Goujet (Mme). Mère du précédent : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",18
+"Goujet (Mme). Mère du précédent : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",19
+"Goujet (Mme). Mère du précédent : ","Madinier. Patron d'un atelier de cartonnages : ",4
+"Goujet (Mme). Mère du précédent : ","Pied-de-Céleri. Ami de Coupeau : ",1
+"Goujet (Mme). Mère du précédent : ","Putois (Mme). Ouvrière blanchisseuse: ",7
+"Goujet (Mme). Mère du précédent : ","Remanjou (Mlle). Voisine des Lorilleux : ",2
+"Goujet (Mme). Mère du précédent : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",8
+"Goujet (Mme). Mère du précédent : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",8
+"Goujet (Mme). Mère du précédent : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",11
+"Goujet (Mme). Mère du précédent : ","Mes-Bottes. Camarade de Coupeau : ",4
+"Goujet (Mme). Mère du précédent : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",1
+"Goujet (Mme). Mère du précédent : ","Goujet (père). Mari décédé de la précédente : ",5
+"Goujet (Mme). Mère du précédent : ","Lehongre (Mme). Epouse du précédent : ",1
+"Goujet (Mme). Mère du précédent : ","Vigouroux. Charbonnier : ",2
+"Goujet (père). Mari décédé de la précédente : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",3
+"Goujet (père). Mari décédé de la précédente : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",3
+"Goujet (père). Mari décédé de la précédente : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",5
+"Goujet (père). Mari décédé de la précédente : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",3
+"Goujet (père). Mari décédé de la précédente : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",1
+"Josse (Mlle). Maîtresse de pension : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",2
+"Josse (Mlle). Maîtresse de pension : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Josse (Mlle). Maîtresse de pension : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",2
+"Josse (Mlle). Maîtresse de pension : ","Putois (Mme). Ouvrière blanchisseuse: ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",26
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",49
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",162
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",91
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",5
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",69
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",47
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Putois (Mme). Ouvrière blanchisseuse: ",23
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",54
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",56
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",9
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",53
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lehongre. Épicier : ",4
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Vigouroux. Charbonnier : ",5
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Vigouroux (Mme). Épouse du précédent : ",5
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Mes-Bottes. Camarade de Coupeau : ",16
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Madinier. Patron d'un atelier de cartonnages : ",3
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Remanjou (Mlle). Voisine des Lorilleux : ",11
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Louis (la mère). Marchande de vin à la Chapelle : ",3
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Thomas. Restaurant de Montmartre: ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lehongre (Mme). Epouse du précédent : ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Marsoullier. Tenancier de l'hôtel Boncœur : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",48
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",48
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",14
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",16
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",16
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Mes-Bottes. Camarade de Coupeau : ",9
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Remanjou (Mlle). Voisine des Lorilleux : ",8
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",9
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Madinier. Patron d'un atelier de cartonnages : ",4
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",1
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",4
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Putois (Mme). Ouvrière blanchisseuse: ",1
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",4
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Marsoullier. Tenancier de l'hôtel Boncœur : ",2
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",99
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",31
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Putois (Mme). Ouvrière blanchisseuse: ",17
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",2
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Poisson. Sergent de ville. Épouse la grande Virginie : ",17
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",34
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",33
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Mes-Bottes. Camarade de Coupeau : ",11
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Remanjou (Mlle). Voisine des Lorilleux : ",8
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",22
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",25
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Vigouroux (Mme). Épouse du précédent : ",4
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Lehongre. Épicier : ",2
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",1
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Vigouroux. Charbonnier : ",3
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Madinier. Patron d'un atelier de cartonnages : ",4
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",1
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Thomas. Restaurant de Montmartre: ",1
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",4
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",4
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Marsoullier. Tenancier de l'hôtel Boncœur : ",2
+"Lehongre. Épicier : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",3
+"Lehongre. Épicier : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",3
+"Lehongre. Épicier : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",3
+"Lehongre. Épicier : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",8
+"Lehongre. Épicier : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"Lehongre. Épicier : ","Vigouroux. Charbonnier : ",6
+"Lehongre. Épicier : ","Vigouroux (Mme). Épouse du précédent : ",6
+"Lehongre. Épicier : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",2
+"Lehongre. Épicier : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",2
+"Lehongre. Épicier : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",2
+"Lehongre. Épicier : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",2
+"Lehongre. Épicier : ","Madinier. Patron d'un atelier de cartonnages : ",1
+"Lehongre. Épicier : ","Putois (Mme). Ouvrière blanchisseuse: ",1
+"Lehongre. Épicier : ","Remanjou (Mlle). Voisine des Lorilleux : ",1
+"Lehongre (Mme). Epouse du précédent : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",1
+"Lehongre (Mme). Epouse du précédent : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",1
+"Lehongre (Mme). Epouse du précédent : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Lehongre (Mme). Epouse du précédent : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",1
+"Léonie. Ouvrière fleuriste : ","Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ",10
+"Léonie. Ouvrière fleuriste : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",1
+"Léonie. Ouvrière fleuriste : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",1
+"Léonie. Ouvrière fleuriste : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",10
+"Léonie. Ouvrière fleuriste : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",10
+"Léonie. Ouvrière fleuriste : ","Titreville (Mme). Fleuriste: ",6
+"Léonie. Ouvrière fleuriste : ","Sophie. Ouvrière fleuriste : ",5
+"Léonie. Ouvrière fleuriste : ","Lisa. Ouvrière fleuriste : ",4
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",122
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",53
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Putois (Mme). Ouvrière blanchisseuse: ",31
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",98
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",97
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",54
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",48
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Vigouroux (Mme). Épouse du précédent : ",8
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Vigouroux. Charbonnier : ",5
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Madinier. Patron d'un atelier de cartonnages : ",8
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Mes-Bottes. Camarade de Coupeau : ",21
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Remanjou (Mlle). Voisine des Lorilleux : ",30
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",6
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",3
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Thomas. Restaurant de Montmartre: ",2
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Titreville (Mme). Fleuriste: ",8
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Sophie. Ouvrière fleuriste : ",5
+"Lerat (Mme). Sœur aînée de Mme Lorilleux et de Cou-peau. Ouvrière fleuriste : ","Lisa. Ouvrière fleuriste : ",4
+"Linguerlot (les). Voisins des Lorilleux : ","Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ",2
+"Linguerlot (les). Voisins des Lorilleux : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",2
+"Linguerlot (les). Voisins des Lorilleux : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",2
+"Linguerlot (les). Voisins des Lorilleux : ","Madinier. Patron d'un atelier de cartonnages : ",2
+"Linguerlot (les). Voisins des Lorilleux : ","Remanjou (Mlle). Voisine des Lorilleux : ",2
+"Lisa. Ouvrière fleuriste : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",4
+"Lisa. Ouvrière fleuriste : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",4
+"Lisa. Ouvrière fleuriste : ","Sophie. Ouvrière fleuriste : ",4
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ",160
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",171
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",60
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Mes-Bottes. Camarade de Coupeau : ",29
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Remanjou (Mlle). Voisine des Lorilleux : ",41
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Madinier. Patron d'un atelier de cartonnages : ",16
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Pied-de-Céleri. Ami de Coupeau : ",1
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Putois (Mme). Ouvrière blanchisseuse: ",35
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",60
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",53
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Vigouroux (Mme). Épouse du précédent : ",7
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Vigouroux. Charbonnier : ",7
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",9
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Louis (la mère). Marchande de vin à la Chapelle : ",1
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",3
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Thomas. Restaurant de Montmartre: ",2
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Titreville (Mme). Fleuriste: ",2
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Zidore. Apprenti zingueur. Aide de Coupeau : ",1
+"Lorilleux. Beau-frère de Goupeau et de Mme Lerat. Ouvrier chaîniSte en chambre : ","Thérèse. Ancienne voisine des Lorilleux : ",2
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",176
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",63
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Mes-Bottes. Camarade de Coupeau : ",29
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Remanjou (Mlle). Voisine des Lorilleux : ",45
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Madinier. Patron d'un atelier de cartonnages : ",17
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Putois (Mme). Ouvrière blanchisseuse: ",37
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Vigouroux (Mme). Épouse du précédent : ",9
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Pied-de-Céleri. Ami de Coupeau : ",1
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",64
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",56
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Vigouroux. Charbonnier : ",7
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",3
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",8
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Thomas. Restaurant de Montmartre: ",2
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Titreville (Mme). Fleuriste: ",2
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Zidore. Apprenti zingueur. Aide de Coupeau : ",1
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",1
+"Lorilleux (Mme). Épouse du précédent. Sœur de Cou-peau et de Mme Lerat : ","Thérèse. Ancienne voisine des Lorilleux : ",2
+"Louis (la mère). Marchande de vin à la Chapelle : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",3
+"Louis (la mère). Marchande de vin à la Chapelle : ","Mes-Bottes. Camarade de Coupeau : ",3
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",5
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mes-Bottes. Camarade de Coupeau : ",1
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",6
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Mes-Bottes. Camarade de Coupeau : ",3
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",1
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",126
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",94
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Putois (Mme). Ouvrière blanchisseuse: ",64
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ",20
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",126
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Mes-Bottes. Camarade de Coupeau : ",57
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Remanjou (Mlle). Voisine des Lorilleux : ",50
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Madinier. Patron d'un atelier de cartonnages : ",21
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Vigouroux (Mme). Épouse du précédent : ",14
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Pied-de-Céleri. Ami de Coupeau : ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Meyer. Boulangerie viennoise du faubourg Poissonnière : ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Vigouroux. Charbonnier : ",12
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",3
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Thomas. Restaurant de Montmartre: ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Titreville (Mme). Fleuriste: ",10
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Zidore. Apprenti zingueur. Aide de Coupeau : ",5
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Marsoullier. Tenancier de l'hôtel Boncœur : ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Thérèse. Ancienne voisine des Lorilleux : ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Sophie. Ouvrière fleuriste : ",5
+"Madinier. Patron d'un atelier de cartonnages : ","Putois (Mme). Ouvrière blanchisseuse: ",6
+"Madinier. Patron d'un atelier de cartonnages : ","Remanjou (Mlle). Voisine des Lorilleux : ",14
+"Madinier. Patron d'un atelier de cartonnages : ","Vigouroux (Mme). Épouse du précédent : ",2
+"Madinier. Patron d'un atelier de cartonnages : ","Pied-de-Céleri. Ami de Coupeau : ",1
+"Madinier. Patron d'un atelier de cartonnages : ","Mes-Bottes. Camarade de Coupeau : ",9
+"Madinier. Patron d'un atelier de cartonnages : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",2
+"Madinier. Patron d'un atelier de cartonnages : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",2
+"Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",10
+"Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",8
+"Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",6
+"Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ","Remanjou (Mlle). Voisine des Lorilleux : ",5
+"Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ","Putois (Mme). Ouvrière blanchisseuse: ",1
+"Marescot. Propriétaire de la maison de la rue de la Goutte-d'Or où demeurent les Coupeau.i : ","Vigouroux. Charbonnier : ",2
+"Mes-Bottes. Camarade de Coupeau : ","Remanjou (Mlle). Voisine des Lorilleux : ",20
+"Mes-Bottes. Camarade de Coupeau : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",4
+"Mes-Bottes. Camarade de Coupeau : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",5
+"Mes-Bottes. Camarade de Coupeau : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",3
+"Mes-Bottes. Camarade de Coupeau : ","PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ",3
+"Mes-Bottes. Camarade de Coupeau : ","Putois (Mme). Ouvrière blanchisseuse: ",2
+"Meyer. Boulangerie viennoise du faubourg Poissonnière : ","Vigouroux. Charbonnier : ",2
+"Meyer. Boulangerie viennoise du faubourg Poissonnière : ","Vigouroux (Mme). Épouse du précédent : ",2
+"Meyer. Boulangerie viennoise du faubourg Poissonnière : ","Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ",1
+"Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ","Poisson. Sergent de ville. Épouse la grande Virginie : ",43
+"Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ","Putois (Mme). Ouvrière blanchisseuse: ",18
+"Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",42
+"Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ","Vigouroux (Mme). Épouse du précédent : ",5
+"Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ","Remanjou (Mlle). Voisine des Lorilleux : ",9
+"Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ","Vigouroux. Charbonnier : ",4
+"Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ","Thomas. Restaurant de Montmartre: ",2
+"Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ","Titreville (Mme). Fleuriste: ",10
+"Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ","Zidore. Apprenti zingueur. Aide de Coupeau : ",4
+"Nana (Anna Coupeau, dite). Fille de Coupeau et de Gervaise Macquart. Demi-sœur de Claude, Étienne et Jacques Lantier. Fille galante : ","Sophie. Ouvrière fleuriste : ",5
+"PÉQUiGNOT. Ami des Lo-rilleux. Marchand de meubles : ","Remanjou (Mlle). Voisine des Lorilleux : ",3
+"Pied-de-Céleri. Ami de Coupeau : ","Putois (Mme). Ouvrière blanchisseuse: ",2
+"Poisson. Sergent de ville. Épouse la grande Virginie : ","Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ",79
+"Poisson. Sergent de ville. Épouse la grande Virginie : ","Putois (Mme). Ouvrière blanchisseuse: ",32
+"Poisson. Sergent de ville. Épouse la grande Virginie : ","Vigouroux (Mme). Épouse du précédent : ",5
+"Poisson. Sergent de ville. Épouse la grande Virginie : ","Remanjou (Mlle). Voisine des Lorilleux : ",9
+"Poisson. Sergent de ville. Épouse la grande Virginie : ","Vigouroux. Charbonnier : ",5
+"Poisson. Sergent de ville. Épouse la grande Virginie : ","Thomas. Restaurant de Montmartre: ",2
+"Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ","Putois (Mme). Ouvrière blanchisseuse: ",42
+"Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ","Vigouroux (Mme). Épouse du précédent : ",6
+"Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ","Remanjou (Mlle). Voisine des Lorilleux : ",7
+"Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ","Vigouroux. Charbonnier : ",7
+"Poisson (Virginie). Ouvrière. Sœur d'Adèle. Épouse le sergent de ville Poisson. Maîtresse d'AuguSte Lantier : ","Thomas. Restaurant de Montmartre: ",2
+"Putois (Mme). Ouvrière blanchisseuse: ","Remanjou (Mlle). Voisine des Lorilleux : ",6
+"Putois (Mme). Ouvrière blanchisseuse: ","Vigouroux (Mme). Épouse du précédent : ",8
+"Putois (Mme). Ouvrière blanchisseuse: ","Vigouroux. Charbonnier : ",2
+"Putois (Mme). Ouvrière blanchisseuse: ","Thomas. Restaurant de Montmartre: ",2
+"Remanjou (Mlle). Voisine des Lorilleux : ","Vigouroux (Mme). Épouse du précédent : ",2
+"Sophie. Ouvrière fleuriste : ","Titreville (Mme). Fleuriste: ",1
+"Thomas. Restaurant de Montmartre: ","Vigouroux (Mme). Épouse du précédent : ",2
+"Vigouroux. Charbonnier : ","Vigouroux (Mme). Épouse du précédent : ",4

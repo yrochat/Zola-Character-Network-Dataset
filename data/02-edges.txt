@@ -1,0 +1,949 @@
+"from","to","weight"
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ",17
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ",18
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Céleste. Femme de chambre de Renée Saccard: ",3
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Charrier. Entrepreneur : ",4
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ",7
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",5
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",3
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",8
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Mignon. Entrepreneur. Associé de Charrier : ",4
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",5
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",19
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",25
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Baptiste. Valet de chambre des Saccard : ",2
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Gouraud (baron). Sénateur: ",4
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Haffner. Industriel de Colmar : ",1
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Hupel de la Noue. Ami des Saccard. Préfet : ",2
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",1
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Michelin (Mme). Épouse du précédent : ",1
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",9
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",13
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Saffré (de). Secrétaire d'Eugène Rougon : ",2
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",1
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Aurigny (Laure d'). Demi-mondaine : ",1
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Rougon (Clotilde). Fille d'Aristide Rougon et de sa première femme, Angèle Sicardot : ",1
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",1
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",2
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",5
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",1
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Worms. Illustre tailleur de Paris: ",2
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",1
+"Aubertot (Élisabeth). Veuve du notaire Aubertot. Sœur de Béraud du Châtel. Tante de Renée Saccard et de Christine : ","*Ristori (Adélaïde). Tragédienne italienne: ",2
+"Aurigny (Laure d'). Demi-mondaine : ","Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ",3
+"Aurigny (Laure d'). Demi-mondaine : ","*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ",8
+"Aurigny (Laure d'). Demi-mondaine : ","Gouraud (baron). Sénateur: ",3
+"Aurigny (Laure d'). Demi-mondaine : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",8
+"Aurigny (Laure d'). Demi-mondaine : ","Hupel de la Noue. Ami des Saccard. Préfet : ",4
+"Aurigny (Laure d'). Demi-mondaine : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",5
+"Aurigny (Laure d'). Demi-mondaine : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",3
+"Aurigny (Laure d'). Demi-mondaine : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",22
+"Aurigny (Laure d'). Demi-mondaine : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",33
+"Aurigny (Laure d'). Demi-mondaine : ","Saffré (de). Secrétaire d'Eugène Rougon : ",7
+"Aurigny (Laure d'). Demi-mondaine : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",22
+"Aurigny (Laure d'). Demi-mondaine : ","*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ",2
+"Aurigny (Laure d'). Demi-mondaine : ","Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ",4
+"Aurigny (Laure d'). Demi-mondaine : ","Daste (Mme). Femme du monde, vivant de galanterie : ",4
+"Aurigny (Laure d'). Demi-mondaine : ","Guende (Mme de). Grande mondaine. Amie des Saccard : ",4
+"Aurigny (Laure d'). Demi-mondaine : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",6
+"Aurigny (Laure d'). Demi-mondaine : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",4
+"Aurigny (Laure d'). Demi-mondaine : ","Rozan (duchesse de). Mère du précédent : ",4
+"Aurigny (Laure d'). Demi-mondaine : ","Selim-Pacha: ",2
+"Aurigny (Laure d'). Demi-mondaine : ","Simpson. Attaché d'ambassade. — : ",4
+"Aurigny (Laure d'). Demi-mondaine : ","Sternich (duchesse de). Mondaine du Second Empire : ",6
+"Aurigny (Laure d'). Demi-mondaine : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",12
+"Aurigny (Laure d'). Demi-mondaine : ","Teissière (Mme). Mondaine. Amie des Saccard : ",4
+"Aurigny (Laure d'). Demi-mondaine : ","Vanska (comtesse). Mondaine : ",4
+"Aurigny (Laure d'). Demi-mondaine : ","Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ",2
+"Aurigny (Laure d'). Demi-mondaine : ","Charrier. Entrepreneur : ",5
+"Aurigny (Laure d'). Demi-mondaine : ","Mignon. Entrepreneur. Associé de Charrier : ",5
+"Aurigny (Laure d'). Demi-mondaine : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",5
+"Aurigny (Laure d'). Demi-mondaine : ","Écrevisse (",2
+"Aurigny (Laure d'). Demi-mondaine : ","Muller (Blanche). Actrice des Variétés : ",4
+"Aurigny (Laure d'). Demi-mondaine : ","Céleste. Femme de chambre de Renée Saccard: ",2
+"Aurigny (Laure d'). Demi-mondaine : ","Worms. Illustre tailleur de Paris: ",6
+"Aurigny (Laure d'). Demi-mondaine : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",12
+"Aurigny (Laure d'). Demi-mondaine : ","Michelin (Mme). Épouse du précédent : ",3
+"Aurigny (Laure d'). Demi-mondaine : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Aurigny (Laure d'). Demi-mondaine : ","Baptistin. Employé de Larsonneau : ",2
+"Aurigny (Laure d'). Demi-mondaine : ","Haffner. Industriel de Colmar : ",1
+"Aurigny (Laure d'). Demi-mondaine : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",9
+"Aurigny (Laure d'). Demi-mondaine : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",3
+"Aurigny (Laure d'). Demi-mondaine : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",2
+"Aurigny (Laure d'). Demi-mondaine : ","Baptiste. Valet de chambre des Saccard : ",2
+"Aurigny (Laure d'). Demi-mondaine : ","Espanet (marquis d'). Aide de camp de l'Empereur : ",1
+"Baptiste. Valet de chambre des Saccard : ","Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ",4
+"Baptiste. Valet de chambre des Saccard : ","Charrier. Entrepreneur : ",9
+"Baptiste. Valet de chambre des Saccard : ","*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ",11
+"Baptiste. Valet de chambre des Saccard : ","Gouraud (baron). Sénateur: ",9
+"Baptiste. Valet de chambre des Saccard : ","Haffner. Industriel de Colmar : ",4
+"Baptiste. Valet de chambre des Saccard : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",9
+"Baptiste. Valet de chambre des Saccard : ","Hupel de la Noue. Ami des Saccard. Préfet : ",6
+"Baptiste. Valet de chambre des Saccard : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",5
+"Baptiste. Valet de chambre des Saccard : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",9
+"Baptiste. Valet de chambre des Saccard : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",3
+"Baptiste. Valet de chambre des Saccard : ","Michelin (Mme). Épouse du précédent : ",5
+"Baptiste. Valet de chambre des Saccard : ","Mignon. Entrepreneur. Associé de Charrier : ",9
+"Baptiste. Valet de chambre des Saccard : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",5
+"Baptiste. Valet de chambre des Saccard : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",14
+"Baptiste. Valet de chambre des Saccard : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",4
+"Baptiste. Valet de chambre des Saccard : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",11
+"Baptiste. Valet de chambre des Saccard : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",19
+"Baptiste. Valet de chambre des Saccard : ","Saffré (de). Secrétaire d'Eugène Rougon : ",7
+"Baptiste. Valet de chambre des Saccard : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",5
+"Baptiste. Valet de chambre des Saccard : ","Céleste. Femme de chambre de Renée Saccard: ",5
+"Baptiste. Valet de chambre des Saccard : ","Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ",2
+"Baptiste. Valet de chambre des Saccard : ","Espanet (marquis d'). Aide de camp de l'Empereur : ",2
+"Baptiste. Valet de chambre des Saccard : ","Daste (Mme). Femme du monde, vivant de galanterie : ",3
+"Baptiste. Valet de chambre des Saccard : ","Guende (Mme de). Grande mondaine. Amie des Saccard : ",3
+"Baptiste. Valet de chambre des Saccard : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",3
+"Baptiste. Valet de chambre des Saccard : ","Muller (Blanche). Actrice des Variétés : ",3
+"Baptiste. Valet de chambre des Saccard : ","*Ristori (Adélaïde). Tragédienne italienne: ",2
+"Baptiste. Valet de chambre des Saccard : ","Sternich (duchesse de). Mondaine du Second Empire : ",3
+"Baptiste. Valet de chambre des Saccard : ","Teissière (Mme). Mondaine. Amie des Saccard : ",3
+"Baptiste. Valet de chambre des Saccard : ","Vanska (comtesse). Mondaine : ",3
+"Baptiste. Valet de chambre des Saccard : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",2
+"Baptiste. Valet de chambre des Saccard : ","Lagache. Compatriote de Céleste. — : ",1
+"Baptiste. Valet de chambre des Saccard : ","Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ",1
+"Baptiste. Valet de chambre des Saccard : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",1
+"Baptiste. Valet de chambre des Saccard : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",1
+"Baptiste. Valet de chambre des Saccard : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",2
+"Baptiste. Valet de chambre des Saccard : ","Rozan (duchesse de). Mère du précédent : ",1
+"Baptiste. Valet de chambre des Saccard : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",1
+"Baptiste. Valet de chambre des Saccard : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Baptistin. Employé de Larsonneau : ","Haffner. Industriel de Colmar : ",2
+"Baptistin. Employé de Larsonneau : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",2
+"Baptistin. Employé de Larsonneau : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",4
+"Baptistin. Employé de Larsonneau : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",1
+"Baptistin. Employé de Larsonneau : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"Baptistin. Employé de Larsonneau : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",1
+"Baptistin. Employé de Larsonneau : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Baptistin. Employé de Larsonneau : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ",19
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Céleste. Femme de chambre de Renée Saccard: ",3
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Charrier. Entrepreneur : ",4
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ",5
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",3
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",1
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",4
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Mignon. Entrepreneur. Associé de Charrier : ",4
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",1
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",23
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",31
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Rougon (Clotilde). Fille d'Aristide Rougon et de sa première femme, Angèle Sicardot : ",1
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",1
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",10
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",3
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",5
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",10
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",1
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Worms. Illustre tailleur de Paris: ",4
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",3
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","*Ristori (Adélaïde). Tragédienne italienne: ",2
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Gouraud (baron). Sénateur: ",4
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",1
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",2
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Charles. Garçon du café Riche : ",1
+"Béraud du Châtel. Père de Renée Saccard et de Christine. Président de Chambre, démissionnaire lors du coup d'État : ","Michelin (Mme). Épouse du précédent : ",1
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Céleste. Femme de chambre de Renée Saccard: ",4
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Charrier. Entrepreneur : ",6
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ",9
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",7
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",3
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",9
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Mignon. Entrepreneur. Associé de Charrier : ",6
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",5
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",20
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",27
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Gouraud (baron). Sénateur: ",7
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Haffner. Industriel de Colmar : ",1
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Hupel de la Noue. Ami des Saccard. Préfet : ",2
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",1
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Michelin (Mme). Épouse du précédent : ",1
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",12
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",11
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Saffré (de). Secrétaire d'Eugène Rougon : ",2
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",1
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Rougon (Clotilde). Fille d'Aristide Rougon et de sa première femme, Angèle Sicardot : ",1
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",1
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",3
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Worms. Illustre tailleur de Paris: ",4
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",1
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","*Ristori (Adélaïde). Tragédienne italienne: ",2
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",3
+"Béraud du Châtel (Christine). Fille de Béraud : du Châtel. Sœur de Renée Saccard : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",2
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",1
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",4
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",2
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","*Charles X. Roi de France : ",2
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Gouraud (baron). Sénateur: ",2
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",1
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Michelin (Mme). Épouse du précédent : ",1
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",2
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",1
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",8
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",10
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",10
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Saffré (de). Secrétaire d'Eugène Rougon : ",6
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Gouraud (baron). Sénateur: ",9
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",12
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","*Charles X. Roi de France : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Michelin (Mme). Épouse du précédent : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",7
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Charrier. Entrepreneur : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ",5
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Hupel de la Noue. Ami des Saccard. Préfet : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Mignon. Entrepreneur. Associé de Charrier : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Haffner. Industriel de Colmar : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Worms. Illustre tailleur de Paris: ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Daste (Mme). Femme du monde, vivant de galanterie : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Céleste. Femme de chambre de Renée Saccard: ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Muller (Blanche). Actrice des Variétés : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Daste (Mme). Femme du monde, vivant de galanterie : ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Guende (Mme de). Grande mondaine. Amie des Saccard : ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Rozan (duchesse de). Mère du précédent : ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Selim-Pacha: ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Simpson. Attaché d'ambassade. — : ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Sternich (duchesse de). Mondaine du Second Empire : ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Teissière (Mme). Mondaine. Amie des Saccard : ",2
+"*Carlos (don). Don Carlos de Bourbon, prétendant au trône d'Espagne : ","Vanska (comtesse). Mondaine : ",2
+"Céleste. Femme de chambre de Renée Saccard: ","Charrier. Entrepreneur : ",2
+"Céleste. Femme de chambre de Renée Saccard: ","*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ",10
+"Céleste. Femme de chambre de Renée Saccard: ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",7
+"Céleste. Femme de chambre de Renée Saccard: ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",2
+"Céleste. Femme de chambre de Renée Saccard: ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",8
+"Céleste. Femme de chambre de Renée Saccard: ","Mignon. Entrepreneur. Associé de Charrier : ",2
+"Céleste. Femme de chambre de Renée Saccard: ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",2
+"Céleste. Femme de chambre de Renée Saccard: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",17
+"Céleste. Femme de chambre de Renée Saccard: ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",27
+"Céleste. Femme de chambre de Renée Saccard: ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",17
+"Céleste. Femme de chambre de Renée Saccard: ","Simpson. Attaché d'ambassade. — : ",5
+"Céleste. Femme de chambre de Renée Saccard: ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",2
+"Céleste. Femme de chambre de Renée Saccard: ","Worms. Illustre tailleur de Paris: ",4
+"Céleste. Femme de chambre de Renée Saccard: ","Lagache. Compatriote de Céleste. — : ",2
+"Céleste. Femme de chambre de Renée Saccard: ","Muller (Blanche). Actrice des Variétés : ",5
+"Céleste. Femme de chambre de Renée Saccard: ","Charles. Garçon du café Riche : ",2
+"Céleste. Femme de chambre de Renée Saccard: ","Saffré (de). Secrétaire d'Eugène Rougon : ",4
+"Céleste. Femme de chambre de Renée Saccard: ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",1
+"Céleste. Femme de chambre de Renée Saccard: ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",5
+"Céleste. Femme de chambre de Renée Saccard: ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",1
+"Céleste. Femme de chambre de Renée Saccard: ","Daste (Mme). Femme du monde, vivant de galanterie : ",1
+"Céleste. Femme de chambre de Renée Saccard: ","Guende (Mme de). Grande mondaine. Amie des Saccard : ",1
+"Céleste. Femme de chambre de Renée Saccard: ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",1
+"Céleste. Femme de chambre de Renée Saccard: ","*Ristori (Adélaïde). Tragédienne italienne: ",2
+"Céleste. Femme de chambre de Renée Saccard: ","Sternich (duchesse de). Mondaine du Second Empire : ",1
+"Céleste. Femme de chambre de Renée Saccard: ","Teissière (Mme). Mondaine. Amie des Saccard : ",1
+"Céleste. Femme de chambre de Renée Saccard: ","Vanska (comtesse). Mondaine : ",2
+"Céleste. Femme de chambre de Renée Saccard: ","Gouraud (baron). Sénateur: ",2
+"Céleste. Femme de chambre de Renée Saccard: ","Hupel de la Noue. Ami des Saccard. Préfet : ",1
+"Céleste. Femme de chambre de Renée Saccard: ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",2
+"Céleste. Femme de chambre de Renée Saccard: ","Michelin (Mme). Épouse du précédent : ",3
+"Céleste. Femme de chambre de Renée Saccard: ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",2
+"Céleste. Femme de chambre de Renée Saccard: ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Céleste. Femme de chambre de Renée Saccard: ","*Chaplin (Charles). Peintre français : ",1
+"*Chaplin (Charles). Peintre français : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"*Chaplin (Charles). Peintre français : ","Simpson. Attaché d'ambassade. — : ",2
+"*Chaplin (Charles). Peintre français : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",1
+"Charles. Garçon du café Riche : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",8
+"Charles. Garçon du café Riche : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",8
+"Charles. Garçon du café Riche : ","Saffré (de). Secrétaire d'Eugène Rougon : ",1
+"Charles. Garçon du café Riche : ","Simpson. Attaché d'ambassade. — : ",1
+"*Charles X. Roi de France : ","Gouraud (baron). Sénateur: ",2
+"*Charles X. Roi de France : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",1
+"*Charles X. Roi de France : ","Michelin (Mme). Épouse du précédent : ",1
+"*Charles X. Roi de France : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"*Charles X. Roi de France : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",2
+"*Charles X. Roi de France : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",1
+"Charrier. Entrepreneur : ","*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ",31
+"Charrier. Entrepreneur : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",20
+"Charrier. Entrepreneur : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",21
+"Charrier. Entrepreneur : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",23
+"Charrier. Entrepreneur : ","Mignon. Entrepreneur. Associé de Charrier : ",48
+"Charrier. Entrepreneur : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",10
+"Charrier. Entrepreneur : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",42
+"Charrier. Entrepreneur : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",30
+"Charrier. Entrepreneur : ","Gouraud (baron). Sénateur: ",24
+"Charrier. Entrepreneur : ","Haffner. Industriel de Colmar : ",12
+"Charrier. Entrepreneur : ","Hupel de la Noue. Ami des Saccard. Préfet : ",29
+"Charrier. Entrepreneur : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",15
+"Charrier. Entrepreneur : ","Michelin (Mme). Épouse du précédent : ",19
+"Charrier. Entrepreneur : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",19
+"Charrier. Entrepreneur : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",17
+"Charrier. Entrepreneur : ","Saffré (de). Secrétaire d'Eugène Rougon : ",15
+"Charrier. Entrepreneur : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",27
+"Charrier. Entrepreneur : ","Worms. Illustre tailleur de Paris: ",2
+"Charrier. Entrepreneur : ","Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ",3
+"Charrier. Entrepreneur : ","Daste (Mme). Femme du monde, vivant de galanterie : ",8
+"Charrier. Entrepreneur : ","Guende (Mme de). Grande mondaine. Amie des Saccard : ",6
+"Charrier. Entrepreneur : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",4
+"Charrier. Entrepreneur : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",8
+"Charrier. Entrepreneur : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",8
+"Charrier. Entrepreneur : ","Muller (Blanche). Actrice des Variétés : ",2
+"Charrier. Entrepreneur : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",3
+"Charrier. Entrepreneur : ","Rozan (duchesse de). Mère du précédent : ",2
+"Charrier. Entrepreneur : ","Sternich (duchesse de). Mondaine du Second Empire : ",2
+"Charrier. Entrepreneur : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",4
+"Charrier. Entrepreneur : ","Teissière (Mme). Mondaine. Amie des Saccard : ",7
+"Charrier. Entrepreneur : ","Vanska (comtesse). Mondaine : ",8
+"Charrier. Entrepreneur : ","Espanet (marquis d'). Aide de camp de l'Empereur : ",2
+"Charrier. Entrepreneur : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",11
+"Charrier. Entrepreneur : ","Simpson. Attaché d'ambassade. — : ",3
+"Charrier. Entrepreneur : ","Rougon (Clotilde). Fille d'Aristide Rougon et de sa première femme, Angèle Sicardot : ",1
+"Charrier. Entrepreneur : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",1
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Daste (Mme). Femme du monde, vivant de galanterie : ",6
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Guende (Mme de). Grande mondaine. Amie des Saccard : ",4
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",10
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",8
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",8
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Rozan (duchesse de). Mère du précédent : ",4
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",13
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Selim-Pacha: ",2
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Simpson. Attaché d'ambassade. — : ",7
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Sternich (duchesse de). Mondaine du Second Empire : ",6
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",7
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Teissière (Mme). Mondaine. Amie des Saccard : ",6
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Vanska (comtesse). Mondaine : ",8
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ",8
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",6
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Hupel de la Noue. Ami des Saccard. Préfet : ",3
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",4
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",3
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Michelin (Mme). Épouse du précédent : ",4
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Mignon. Entrepreneur. Associé de Charrier : ",3
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Muller (Blanche). Actrice des Variétés : ",4
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",8
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",11
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",8
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Saffré (de). Secrétaire d'Eugène Rougon : ",6
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",2
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Gouraud (baron). Sénateur: ",2
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Écrevisse (",3
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Gustave. — Perruquier de Maxime Saccard: ",2
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",1
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",2
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Chibray (comte de). Aide de camp de PEmpereur. Amant de Renée Saccard : ","Georges. Jeune employé. Amant occasionnel de Renée Saccard.— : ",1
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Guende (Mme de). Grande mondaine. Amie des Saccard : ",12
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",16
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",12
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",10
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Rozan (duchesse de). Mère du précédent : ",4
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",15
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Selim-Pacha: ",2
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Simpson. Attaché d'ambassade. — : ",2
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Sternich (duchesse de). Mondaine du Second Empire : ",8
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",4
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Teissière (Mme). Mondaine. Amie des Saccard : ",14
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Vanska (comtesse). Mondaine : ",14
+"Daste (Mme). Femme du monde, vivant de galanterie : ","*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ",13
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",14
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Hupel de la Noue. Ami des Saccard. Préfet : ",8
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",3
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",4
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Michelin (Mme). Épouse du précédent : ",5
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Mignon. Entrepreneur. Associé de Charrier : ",8
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Muller (Blanche). Actrice des Variétés : ",4
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",3
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",4
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",9
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Saffré (de). Secrétaire d'Eugène Rougon : ",8
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",5
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",7
+"Daste (Mme). Femme du monde, vivant de galanterie : ","*Ristori (Adélaïde). Tragédienne italienne: ",2
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Gouraud (baron). Sénateur: ",4
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",4
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Daste (Mme). Femme du monde, vivant de galanterie : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",3
+"Dusautoy. Tailleur renommé de Paris : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",2
+"Dusautoy. Tailleur renommé de Paris : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"Dusautoy. Tailleur renommé de Paris : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"Dusautoy. Tailleur renommé de Paris : ","Worms. Illustre tailleur de Paris: ",1
+"Écrevisse (","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",5
+"Écrevisse (","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",4
+"Écrevisse (","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",5
+"Écrevisse (","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",5
+"Écrevisse (","*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ",2
+"Écrevisse (","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",2
+"Écrevisse (","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",2
+"Écrevisse (","Muller (Blanche). Actrice des Variétés : ",2
+"Écrevisse (","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",2
+"Écrevisse (","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",3
+"Écrevisse (","Simpson. Attaché d'ambassade. — : ",3
+"Écrevisse (","Gustave. — Perruquier de Maxime Saccard: ",2
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ",4
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Gouraud (baron). Sénateur: ",2
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Haffner. Industriel de Colmar : ",2
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",3
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Hupel de la Noue. Ami des Saccard. Préfet : ",2
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",2
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",2
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Michelin (Mme). Épouse du précédent : ",2
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Mignon. Entrepreneur. Associé de Charrier : ",2
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",3
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",4
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Saffré (de). Secrétaire d'Eugène Rougon : ",2
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",2
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",3
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",1
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",1
+"Espanet (marquis d'). Aide de camp de l'Empereur : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",48
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",19
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",29
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Mignon. Entrepreneur. Associé de Charrier : ",32
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",17
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",51
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",60
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Gouraud (baron). Sénateur: ",26
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Haffner. Industriel de Colmar : ",14
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Hupel de la Noue. Ami des Saccard. Préfet : ",32
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",19
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Michelin (Mme). Épouse du précédent : ",23
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",46
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",26
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Saffré (de). Secrétaire d'Eugène Rougon : ",27
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",28
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",1
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Muller (Blanche). Actrice des Variétés : ",9
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Guende (Mme de). Grande mondaine. Amie des Saccard : ",9
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",3
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",19
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",15
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",8
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Rozan (duchesse de). Mère du précédent : ",2
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Sternich (duchesse de). Mondaine du Second Empire : ",9
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",8
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Teissière (Mme). Mondaine. Amie des Saccard : ",11
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Vanska (comtesse). Mondaine : ",17
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","*Ristori (Adélaïde). Tragédienne italienne: ",2
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",9
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Simpson. Attaché d'ambassade. — : ",5
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Worms. Illustre tailleur de Paris: ",5
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Gustave. — Perruquier de Maxime Saccard: ",1
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","*Léonard de Vinci. Peintre italien. — : ",2
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Mégot (Justine). Femme de Plassans. Séduite autrefois par Maxime Rougon (dit Saccard). Mère de Charles Rougon. Épouse du bourrelier Anselme Thomas : ",2
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Rougon (Charles), dit Saccard. Fils de Maxime Rougon, dit Saccard, et de Justine Mégot : ",2
+"*Espanet (marquise d'). Épouse du précédent. Amie de pension de Renée Sac-card : ","Georges. Jeune employé. Amant occasionnel de Renée Saccard.— : ",1
+"Georges. Jeune employé. Amant occasionnel de Renée Saccard.— : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",1
+"Georges. Jeune employé. Amant occasionnel de Renée Saccard.— : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",2
+"Georges. Jeune employé. Amant occasionnel de Renée Saccard.— : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",1
+"Georges. Jeune employé. Amant occasionnel de Renée Saccard.— : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Georges. Jeune employé. Amant occasionnel de Renée Saccard.— : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",2
+"Georges. Jeune employé. Amant occasionnel de Renée Saccard.— : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"Georges. Jeune employé. Amant occasionnel de Renée Saccard.— : ","Simpson. Attaché d'ambassade. — : ",1
+"Georges. Jeune employé. Amant occasionnel de Renée Saccard.— : ","Sternich (duchesse de). Mondaine du Second Empire : ",1
+"Georges. Jeune employé. Amant occasionnel de Renée Saccard.— : ","Vanska (comtesse). Mondaine : ",1
+"Georges. Jeune employé. Amant occasionnel de Renée Saccard.— : ","Lauwerens (de). inancier : ",1
+"Georges. Jeune employé. Amant occasionnel de Renée Saccard.— : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",1
+"Gouraud (baron). Sénateur: ","Haffner. Industriel de Colmar : ",15
+"Gouraud (baron). Sénateur: ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",18
+"Gouraud (baron). Sénateur: ","Hupel de la Noue. Ami des Saccard. Préfet : ",24
+"Gouraud (baron). Sénateur: ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",22
+"Gouraud (baron). Sénateur: ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",25
+"Gouraud (baron). Sénateur: ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",24
+"Gouraud (baron). Sénateur: ","Michelin (Mme). Épouse du précédent : ",24
+"Gouraud (baron). Sénateur: ","Mignon. Entrepreneur. Associé de Charrier : ",25
+"Gouraud (baron). Sénateur: ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",10
+"Gouraud (baron). Sénateur: ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",19
+"Gouraud (baron). Sénateur: ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",26
+"Gouraud (baron). Sénateur: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",43
+"Gouraud (baron). Sénateur: ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",31
+"Gouraud (baron). Sénateur: ","Saffré (de). Secrétaire d'Eugène Rougon : ",20
+"Gouraud (baron). Sénateur: ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",34
+"Gouraud (baron). Sénateur: ","Guende (Mme de). Grande mondaine. Amie des Saccard : ",2
+"Gouraud (baron). Sénateur: ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",5
+"Gouraud (baron). Sénateur: ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",4
+"Gouraud (baron). Sénateur: ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",3
+"Gouraud (baron). Sénateur: ","Muller (Blanche). Actrice des Variétés : ",1
+"Gouraud (baron). Sénateur: ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",2
+"Gouraud (baron). Sénateur: ","Rozan (duchesse de). Mère du précédent : ",1
+"Gouraud (baron). Sénateur: ","Sternich (duchesse de). Mondaine du Second Empire : ",1
+"Gouraud (baron). Sénateur: ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",3
+"Gouraud (baron). Sénateur: ","Teissière (Mme). Mondaine. Amie des Saccard : ",3
+"Gouraud (baron). Sénateur: ","Vanska (comtesse). Mondaine : ",6
+"Gouraud (baron). Sénateur: ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",10
+"Gouraud (baron). Sénateur: ","Worms. Illustre tailleur de Paris: ",3
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",12
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",10
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",8
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Rozan (duchesse de). Mère du précédent : ",4
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",10
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Selim-Pacha: ",2
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Simpson. Attaché d'ambassade. — : ",2
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Sternich (duchesse de). Mondaine du Second Empire : ",8
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",4
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Teissière (Mme). Mondaine. Amie des Saccard : ",12
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Vanska (comtesse). Mondaine : ",12
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",10
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Hupel de la Noue. Ami des Saccard. Préfet : ",6
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",2
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",2
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Michelin (Mme). Épouse du précédent : ",3
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Mignon. Entrepreneur. Associé de Charrier : ",6
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Muller (Blanche). Actrice des Variétés : ",4
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",3
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",2
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",5
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Saffré (de). Secrétaire d'Eugène Rougon : ",3
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",4
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",3
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","*Ristori (Adélaïde). Tragédienne italienne: ",2
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Guende (Mme de). Grande mondaine. Amie des Saccard : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Gustave. — Perruquier de Maxime Saccard: ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",1
+"Gustave. — Perruquier de Maxime Saccard: ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",1
+"Gustave. — Perruquier de Maxime Saccard: ","Muller (Blanche). Actrice des Variétés : ",1
+"Gustave. — Perruquier de Maxime Saccard: ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",1
+"Gustave. — Perruquier de Maxime Saccard: ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",2
+"Gustave. — Perruquier de Maxime Saccard: ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",2
+"Gustave. — Perruquier de Maxime Saccard: ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"Gustave. — Perruquier de Maxime Saccard: ","Simpson. Attaché d'ambassade. — : ",2
+"Gustave. — Perruquier de Maxime Saccard: ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",2
+"Gustave. — Perruquier de Maxime Saccard: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"Haffner. Industriel de Colmar : ","Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ",9
+"Haffner. Industriel de Colmar : ","Hupel de la Noue. Ami des Saccard. Préfet : ",15
+"Haffner. Industriel de Colmar : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",13
+"Haffner. Industriel de Colmar : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",8
+"Haffner. Industriel de Colmar : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",13
+"Haffner. Industriel de Colmar : ","Michelin (Mme). Épouse du précédent : ",10
+"Haffner. Industriel de Colmar : ","Mignon. Entrepreneur. Associé de Charrier : ",13
+"Haffner. Industriel de Colmar : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",4
+"Haffner. Industriel de Colmar : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",6
+"Haffner. Industriel de Colmar : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",8
+"Haffner. Industriel de Colmar : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",16
+"Haffner. Industriel de Colmar : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",9
+"Haffner. Industriel de Colmar : ","Saffré (de). Secrétaire d'Eugène Rougon : ",11
+"Haffner. Industriel de Colmar : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",16
+"Haffner. Industriel de Colmar : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",3
+"Haffner. Industriel de Colmar : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",6
+"Haffner. Industriel de Colmar : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",3
+"Haffner. Industriel de Colmar : ","Worms. Illustre tailleur de Paris: ",1
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",14
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",22
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Mignon. Entrepreneur. Associé de Charrier : ",21
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",14
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",36
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",47
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Hupel de la Noue. Ami des Saccard. Préfet : ",21
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",12
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Michelin (Mme). Épouse du précédent : ",17
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",34
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",18
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Saffré (de). Secrétaire d'Eugène Rougon : ",20
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",18
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Muller (Blanche). Actrice des Variétés : ",6
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",5
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",18
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",12
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",6
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Rozan (duchesse de). Mère du précédent : ",2
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Sternich (duchesse de). Mondaine du Second Empire : ",8
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",5
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Teissière (Mme). Mondaine. Amie des Saccard : ",12
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Vanska (comtesse). Mondaine : ",17
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","*Ristori (Adélaïde). Tragédienne italienne: ",2
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",6
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Simpson. Attaché d'ambassade. — : ",3
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Worms. Illustre tailleur de Paris: ",3
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","*Léonard de Vinci. Peintre italien. — : ",1
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Mégot (Justine). Femme de Plassans. Séduite autrefois par Maxime Rougon (dit Saccard). Mère de Charles Rougon. Épouse du bourrelier Anselme Thomas : ",1
+"Haffner (Suzanne). Épouse du précédent, amie de pension de Renée Saccard et d'Adeline d'Espanet : ","Rougon (Charles), dit Saccard. Fils de Maxime Rougon, dit Saccard, et de Justine Mégot : ",1
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",22
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",22
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",20
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Michelin (Mme). Épouse du précédent : ",23
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Mignon. Entrepreneur. Associé de Charrier : ",30
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",11
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",19
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",21
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",35
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",26
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Saffré (de). Secrétaire d'Eugène Rougon : ",21
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",27
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Larsonneàu. Agent d'affaires. Complice de Saccard : ",2
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",9
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",7
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Muller (Blanche). Actrice des Variétés : ",2
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",3
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Rozan (duchesse de). Mère du précédent : ",2
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Sternich (duchesse de). Mondaine du Second Empire : ",2
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",5
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Teissière (Mme). Mondaine. Amie des Saccard : ",7
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Vanska (comtesse). Mondaine : ",10
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",12
+"Hupel de la Noue. Ami des Saccard. Préfet : ","Worms. Illustre tailleur de Paris: ",2
+"Lagache. Compatriote de Céleste. — : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"Lagache. Compatriote de Céleste. — : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",1
+"Lagache. Compatriote de Céleste. — : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",2
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","*Ristori (Adélaïde). Tragédienne italienne: ",1
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",6
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",9
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",4
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",32
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",28
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Worms. Illustre tailleur de Paris: ",4
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",12
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",4
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",3
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",6
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",3
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Michelin (Mme). Épouse du précédent : ",4
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Mignon. Entrepreneur. Associé de Charrier : ",4
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Muller (Blanche). Actrice des Variétés : ",2
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",3
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Rozan (duchesse de). Mère du précédent : ",2
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Saffré (de). Secrétaire d'Eugène Rougon : ",4
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Sternich (duchesse de). Mondaine du Second Empire : ",2
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Teissière (Mme). Mondaine. Amie des Saccard : ",3
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",6
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Vanska (comtesse). Mondaine : ",3
+"Larsonneàu. Agent d'affaires. Complice de Saccard : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",4
+"*Lassouche : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",2
+"*Lassouche : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",2
+"*Lassouche : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"Lauwerens (de). inancier : ","Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ",2
+"Lauwerens (de). inancier : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",2
+"Lauwerens (de). inancier : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Lauwerens (de). inancier : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",2
+"Lauwerens (de). inancier : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",14
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",18
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Rozan (duchesse de). Mère du précédent : ",4
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",26
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Selim-Pacha: ",2
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Simpson. Attaché d'ambassade. — : ",6
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Sternich (duchesse de). Mondaine du Second Empire : ",12
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",6
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Teissière (Mme). Mondaine. Amie des Saccard : ",14
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Vanska (comtesse). Mondaine : ",16
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Michelin (Mme). Épouse du précédent : ",6
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",10
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",14
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Saffré (de). Secrétaire d'Eugène Rougon : ",8
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ",4
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Mignon. Entrepreneur. Associé de Charrier : ",8
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Muller (Blanche). Actrice des Variétés : ",6
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",7
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",10
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",6
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",7
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","*Ristori (Adélaïde). Tragédienne italienne: ",4
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",3
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Worms. Illustre tailleur de Paris: ",2
+"Lauwerens (Mme de). Épouse du précédent. Amie de Renée Saccard. Entremetteuse mondaine : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",3
+"*Léonard de Vinci. Peintre italien. — : ","Mégot (Justine). Femme de Plassans. Séduite autrefois par Maxime Rougon (dit Saccard). Mère de Charles Rougon. Épouse du bourrelier Anselme Thomas : ",2
+"*Léonard de Vinci. Peintre italien. — : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",1
+"*Léonard de Vinci. Peintre italien. — : ","Rougon (Charles), dit Saccard. Fils de Maxime Rougon, dit Saccard, et de Justine Mégot : ",2
+"*Léonard de Vinci. Peintre italien. — : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",2
+"*Léonard de Vinci. Peintre italien. — : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"*Léonard de Vinci. Peintre italien. — : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"*Léonard de Vinci. Peintre italien. — : ","Worms. Illustre tailleur de Paris: ",2
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",24
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Mignon. Entrepreneur. Associé de Charrier : ",21
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",9
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",38
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",25
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",20
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Michelin (Mme). Épouse du précédent : ",18
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",19
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",15
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Saffré (de). Secrétaire d'Eugène Rougon : ",16
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",20
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",5
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Muller (Blanche). Actrice des Variétés : ",3
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",5
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Rozan (duchesse de). Mère du précédent : ",2
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Sternich (duchesse de). Mondaine du Second Empire : ",2
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",7
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Teissière (Mme). Mondaine. Amie des Saccard : ",3
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Vanska (comtesse). Mondaine : ",3
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Worms. Illustre tailleur de Paris: ",1
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",7
+"Mareuil (de). Ancien raf-fineur du Havre. A substitué à son nom originel (Bonnet) le nom de jeune fille de sa femme. Candidat officiel au Corps législatif. Père de Louise de Mareuil : ","Mareuil (Hélène de). Épouse du précédent. Mère de Louise : ",3
+"Mareuil (Hélène de). Épouse du précédent. Mère de Louise : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",3
+"Mareuil (Hélène de). Épouse du précédent. Mère de Louise : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",3
+"Mareuil (Hélène de). Épouse du précédent. Mère de Louise : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",3
+"Mareuil (Hélène de). Épouse du précédent. Mère de Louise : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",2
+"Mareuil (Hélène de). Épouse du précédent. Mère de Louise : ","Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ",2
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Mignon. Entrepreneur. Associé de Charrier : ",24
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",9
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",46
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",47
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",17
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Michelin (Mme). Épouse du précédent : ",20
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",43
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",26
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Saffré (de). Secrétaire d'Eugène Rougon : ",19
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",19
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","*Ristori (Adélaïde). Tragédienne italienne: ",4
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",12
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Sternich (duchesse de). Mondaine du Second Empire : ",4
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Worms. Illustre tailleur de Paris: ",3
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Muller (Blanche). Actrice des Variétés : ",4
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Teissière (Mme). Mondaine. Amie des Saccard : ",4
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Vanska (comtesse). Mondaine : ",6
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",4
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",3
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",4
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Rougon (Clotilde). Fille d'Aristide Rougon et de sa première femme, Angèle Sicardot : ",1
+"Mareuil (Louise de). Fille des précédents. Épouse Maxime Saccard : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",1
+"Mégot (Justine). Femme de Plassans. Séduite autrefois par Maxime Rougon (dit Saccard). Mère de Charles Rougon. Épouse du bourrelier Anselme Thomas : ","Meinhold (baronne de). Mondaine. Amie des Sac-card: ",1
+"Mégot (Justine). Femme de Plassans. Séduite autrefois par Maxime Rougon (dit Saccard). Mère de Charles Rougon. Épouse du bourrelier Anselme Thomas : ","Rougon (Charles), dit Saccard. Fils de Maxime Rougon, dit Saccard, et de Justine Mégot : ",2
+"Mégot (Justine). Femme de Plassans. Séduite autrefois par Maxime Rougon (dit Saccard). Mère de Charles Rougon. Épouse du bourrelier Anselme Thomas : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",2
+"Mégot (Justine). Femme de Plassans. Séduite autrefois par Maxime Rougon (dit Saccard). Mère de Charles Rougon. Épouse du bourrelier Anselme Thomas : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"Mégot (Justine). Femme de Plassans. Séduite autrefois par Maxime Rougon (dit Saccard). Mère de Charles Rougon. Épouse du bourrelier Anselme Thomas : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"Mégot (Justine). Femme de Plassans. Séduite autrefois par Maxime Rougon (dit Saccard). Mère de Charles Rougon. Épouse du bourrelier Anselme Thomas : ","Worms. Illustre tailleur de Paris: ",2
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",14
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Rozan (duchesse de). Mère du précédent : ",4
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",18
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Selim-Pacha: ",2
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Simpson. Attaché d'ambassade. — : ",5
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Sternich (duchesse de). Mondaine du Second Empire : ",7
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",6
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Teissière (Mme). Mondaine. Amie des Saccard : ",12
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Vanska (comtesse). Mondaine : ",12
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Michelin (Mme). Épouse du précédent : ",4
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Mignon. Entrepreneur. Associé de Charrier : ",8
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Muller (Blanche). Actrice des Variétés : ",4
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",5
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",7
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",11
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Saffré (de). Secrétaire d'Eugène Rougon : ",7
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",4
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",3
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ",2
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Worms. Illustre tailleur de Paris: ",2
+"Meinhold (baronne de). Mondaine. Amie des Sac-card: ","Rougon (Charles), dit Saccard. Fils de Maxime Rougon, dit Saccard, et de Justine Mégot : ",1
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Michelin (Mme). Épouse du précédent : ",21
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Mignon. Entrepreneur. Associé de Charrier : ",16
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",6
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",11
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",19
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",25
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",18
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Saffré (de). Secrétaire d'Eugène Rougon : ",14
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",21
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",3
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Vanska (comtesse). Mondaine : ",4
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Worms. Illustre tailleur de Paris: ",1
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",7
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",2
+"Michelin. Chef de bureau à la voirie à la préfefture de la Seine : ","Teissière (Mme). Mondaine. Amie des Saccard : ",2
+"Michelin (Mme). Épouse du précédent : ","Mignon. Entrepreneur. Associé de Charrier : ",19
+"Michelin (Mme). Épouse du précédent : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",10
+"Michelin (Mme). Épouse du précédent : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",13
+"Michelin (Mme). Épouse du précédent : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",24
+"Michelin (Mme). Épouse du précédent : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",30
+"Michelin (Mme). Épouse du précédent : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",24
+"Michelin (Mme). Épouse du précédent : ","Saffré (de). Secrétaire d'Eugène Rougon : ",20
+"Michelin (Mme). Épouse du précédent : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",22
+"Michelin (Mme). Épouse du précédent : ","Muller (Blanche). Actrice des Variétés : ",2
+"Michelin (Mme). Épouse du précédent : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",4
+"Michelin (Mme). Épouse du précédent : ","Rozan (duchesse de). Mère du précédent : ",2
+"Michelin (Mme). Épouse du précédent : ","Sternich (duchesse de). Mondaine du Second Empire : ",3
+"Michelin (Mme). Épouse du précédent : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",4
+"Michelin (Mme). Épouse du précédent : ","Teissière (Mme). Mondaine. Amie des Saccard : ",4
+"Michelin (Mme). Épouse du précédent : ","Vanska (comtesse). Mondaine : ",7
+"Michelin (Mme). Épouse du précédent : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",9
+"Michelin (Mme). Épouse du précédent : ","Simpson. Attaché d'ambassade. — : ",1
+"Mignon. Entrepreneur. Associé de Charrier : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",10
+"Mignon. Entrepreneur. Associé de Charrier : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",43
+"Mignon. Entrepreneur. Associé de Charrier : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",31
+"Mignon. Entrepreneur. Associé de Charrier : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",20
+"Mignon. Entrepreneur. Associé de Charrier : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",18
+"Mignon. Entrepreneur. Associé de Charrier : ","Saffré (de). Secrétaire d'Eugène Rougon : ",16
+"Mignon. Entrepreneur. Associé de Charrier : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",28
+"Mignon. Entrepreneur. Associé de Charrier : ","Worms. Illustre tailleur de Paris: ",2
+"Mignon. Entrepreneur. Associé de Charrier : ","Muller (Blanche). Actrice des Variétés : ",2
+"Mignon. Entrepreneur. Associé de Charrier : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",3
+"Mignon. Entrepreneur. Associé de Charrier : ","Rozan (duchesse de). Mère du précédent : ",2
+"Mignon. Entrepreneur. Associé de Charrier : ","Sternich (duchesse de). Mondaine du Second Empire : ",2
+"Mignon. Entrepreneur. Associé de Charrier : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",5
+"Mignon. Entrepreneur. Associé de Charrier : ","Teissière (Mme). Mondaine. Amie des Saccard : ",7
+"Mignon. Entrepreneur. Associé de Charrier : ","Vanska (comtesse). Mondaine : ",8
+"Mignon. Entrepreneur. Associé de Charrier : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",11
+"Mignon. Entrepreneur. Associé de Charrier : ","Simpson. Attaché d'ambassade. — : ",3
+"Mignon. Entrepreneur. Associé de Charrier : ","Rougon (Clotilde). Fille d'Aristide Rougon et de sa première femme, Angèle Sicardot : ",1
+"Mignon. Entrepreneur. Associé de Charrier : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",1
+"Muller (Blanche). Actrice des Variétés : ","Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ",6
+"Muller (Blanche). Actrice des Variétés : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",14
+"Muller (Blanche). Actrice des Variétés : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",14
+"Muller (Blanche). Actrice des Variétés : ","Saffré (de). Secrétaire d'Eugène Rougon : ",4
+"Muller (Blanche). Actrice des Variétés : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",4
+"Muller (Blanche). Actrice des Variétés : ","Rozan (duchesse de). Mère du précédent : ",2
+"Muller (Blanche). Actrice des Variétés : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",8
+"Muller (Blanche). Actrice des Variétés : ","Sternich (duchesse de). Mondaine du Second Empire : ",4
+"Muller (Blanche). Actrice des Variétés : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",4
+"Muller (Blanche). Actrice des Variétés : ","Teissière (Mme). Mondaine. Amie des Saccard : ",4
+"Muller (Blanche). Actrice des Variétés : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",2
+"Muller (Blanche). Actrice des Variétés : ","Vanska (comtesse). Mondaine : ",4
+"Muller (Blanche). Actrice des Variétés : ","*Ristori (Adélaïde). Tragédienne italienne: ",2
+"Muller (Blanche). Actrice des Variétés : ","Simpson. Attaché d'ambassade. — : ",3
+"Muller (Blanche). Actrice des Variétés : ","Worms. Illustre tailleur de Paris: ",2
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",18
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",25
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",18
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",9
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Saffré (de). Secrétaire d'Eugène Rougon : ",12
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",9
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",8
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Rozan (duchesse de). Mère du précédent : ",2
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Sternich (duchesse de). Mondaine du Second Empire : ",4
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",4
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Teissière (Mme). Mondaine. Amie des Saccard : ",3
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Vanska (comtesse). Mondaine : ",6
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Mussy (de). Attaché d'ambassade. Ami de Maxime Saccard : ","Simpson. Attaché d'ambassade. — : ",4
+"*Ristori (Adélaïde). Tragédienne italienne: ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",4
+"*Ristori (Adélaïde). Tragédienne italienne: ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",6
+"*Ristori (Adélaïde). Tragédienne italienne: ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"*Ristori (Adélaïde). Tragédienne italienne: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",3
+"*Ristori (Adélaïde). Tragédienne italienne: ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",6
+"*Ristori (Adélaïde). Tragédienne italienne: ","Sternich (duchesse de). Mondaine du Second Empire : ",4
+"*Ristori (Adélaïde). Tragédienne italienne: ","Teissière (Mme). Mondaine. Amie des Saccard : ",2
+"*Ristori (Adélaïde). Tragédienne italienne: ","Vanska (comtesse). Mondaine : ",2
+"Rougon (Charles), dit Saccard. Fils de Maxime Rougon, dit Saccard, et de Justine Mégot : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",2
+"Rougon (Charles), dit Saccard. Fils de Maxime Rougon, dit Saccard, et de Justine Mégot : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"Rougon (Charles), dit Saccard. Fils de Maxime Rougon, dit Saccard, et de Justine Mégot : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",2
+"Rougon (Charles), dit Saccard. Fils de Maxime Rougon, dit Saccard, et de Justine Mégot : ","Worms. Illustre tailleur de Paris: ",2
+"Rougon (Clotilde). Fille d'Aristide Rougon et de sa première femme, Angèle Sicardot : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",2
+"Rougon (Clotilde). Fille d'Aristide Rougon et de sa première femme, Angèle Sicardot : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",5
+"Rougon (Clotilde). Fille d'Aristide Rougon et de sa première femme, Angèle Sicardot : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",9
+"Rougon (Clotilde). Fille d'Aristide Rougon et de sa première femme, Angèle Sicardot : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",9
+"Rougon (Clotilde). Fille d'Aristide Rougon et de sa première femme, Angèle Sicardot : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",1
+"Rougon (Clotilde). Fille d'Aristide Rougon et de sa première femme, Angèle Sicardot : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",2
+"Rougon (Clotilde). Fille d'Aristide Rougon et de sa première femme, Angèle Sicardot : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",3
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",38
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",19
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",17
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",13
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Sternich (duchesse de). Mondaine du Second Empire : ",3
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Worms. Illustre tailleur de Paris: ",3
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Saffré (de). Secrétaire d'Eugène Rougon : ",6
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",14
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Teissière (Mme). Mondaine. Amie des Saccard : ",1
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Vanska (comtesse). Mondaine : ",2
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",10
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Touche. Clerc d'avoué à Plassans. Époux de Sidonie Rougon : ",2
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",23
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",89
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",150
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Saffré (de). Secrétaire d'Eugène Rougon : ",24
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",16
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",23
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Worms. Illustre tailleur de Paris: ",17
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Rozan (duchesse de). Mère du précédent : ",3
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Selim-Pacha: ",2
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Simpson. Attaché d'ambassade. — : ",11
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Sternich (duchesse de). Mondaine du Second Empire : ",12
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Teissière (Mme). Mondaine. Amie des Saccard : ",8
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Vanska (comtesse). Mondaine : ",12
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",13
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",2
+"Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",2
+"Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",1
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",56
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",48
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Saffré (de). Secrétaire d'Eugène Rougon : ",17
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",18
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",12
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",2
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Vanska (comtesse). Mondaine : ",5
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Worms. Illustre tailleur de Paris: ",3
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Teissière (Mme). Mondaine. Amie des Saccard : ",3
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ",4
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Simpson. Attaché d'ambassade. — : ",1
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Sternich (duchesse de). Mondaine du Second Empire : ",1
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Touche. Clerc d'avoué à Plassans. Époux de Sidonie Rougon : ",3
+"Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",22
+"Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",7
+"Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",15
+"Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ","Rozan (duchesse de). Mère du précédent : ",2
+"Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ","Saffré (de). Secrétaire d'Eugène Rougon : ",8
+"Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ","Sternich (duchesse de). Mondaine du Second Empire : ",4
+"Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ","Teissière (Mme). Mondaine. Amie des Saccard : ",4
+"Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",2
+"Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ","Vanska (comtesse). Mondaine : ",6
+"Rozan (duc de). Premier amant de Renée Saccard. Entretient Laure d'Aurigny : ","Simpson. Attaché d'ambassade. — : ",5
+"Rozan (duchesse de). Mère du précédent : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",4
+"Rozan (duchesse de). Mère du précédent : ","Selim-Pacha: ",2
+"Rozan (duchesse de). Mère du précédent : ","Simpson. Attaché d'ambassade. — : ",2
+"Rozan (duchesse de). Mère du précédent : ","Sternich (duchesse de). Mondaine du Second Empire : ",4
+"Rozan (duchesse de). Mère du précédent : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",4
+"Rozan (duchesse de). Mère du précédent : ","Teissière (Mme). Mondaine. Amie des Saccard : ",4
+"Rozan (duchesse de). Mère du précédent : ","Vanska (comtesse). Mondaine : ",4
+"Rozan (duchesse de). Mère du précédent : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"Rozan (duchesse de). Mère du précédent : ","Saffré (de). Secrétaire d'Eugène Rougon : ",2
+"Rozan (duchesse de). Mère du précédent : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",2
+"Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",23
+"Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",4
+"Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ","Touche. Clerc d'avoué à Plassans. Époux de Sidonie Rougon : ",2
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ",133
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Saffré (de). Secrétaire d'Eugène Rougon : ",29
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",43
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",17
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Worms. Illustre tailleur de Paris: ",18
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Simpson. Attaché d'ambassade. — : ",8
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Sternich (duchesse de). Mondaine du Second Empire : ",7
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Teissière (Mme). Mondaine. Amie des Saccard : ",7
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Vanska (comtesse). Mondaine : ",12
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Touche. Clerc d'avoué à Plassans. Époux de Sidonie Rougon : ",3
+"Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ","Saffré (de). Secrétaire d'Eugène Rougon : ",34
+"Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",23
+"Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",27
+"Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ","Worms. Illustre tailleur de Paris: ",27
+"Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ","Selim-Pacha: ",2
+"Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ","Simpson. Attaché d'ambassade. — : ",16
+"Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ","Sternich (duchesse de). Mondaine du Second Empire : ",15
+"Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ","Teissière (Mme). Mondaine. Amie des Saccard : ",12
+"Saccard (Renée). Fille de Béraud du Châtel. Deuxième femme d'Aristide Saccard : ","Vanska (comtesse). Mondaine : ",18
+"Saffré (de). Secrétaire d'Eugène Rougon : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",19
+"Saffré (de). Secrétaire d'Eugène Rougon : ","Sternich (duchesse de). Mondaine du Second Empire : ",2
+"Saffré (de). Secrétaire d'Eugène Rougon : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",5
+"Saffré (de). Secrétaire d'Eugène Rougon : ","Teissière (Mme). Mondaine. Amie des Saccard : ",5
+"Saffré (de). Secrétaire d'Eugène Rougon : ","Vanska (comtesse). Mondaine : ",7
+"Selim-Pacha: ","Simpson. Attaché d'ambassade. — : ",2
+"Selim-Pacha: ","Sternich (duchesse de). Mondaine du Second Empire : ",2
+"Selim-Pacha: ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",2
+"Selim-Pacha: ","Teissière (Mme). Mondaine. Amie des Saccard : ",2
+"Selim-Pacha: ","Vanska (comtesse). Mondaine : ",2
+"Simpson. Attaché d'ambassade. — : ","Sternich (duchesse de). Mondaine du Second Empire : ",4
+"Simpson. Attaché d'ambassade. — : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",7
+"Simpson. Attaché d'ambassade. — : ","Teissière (Mme). Mondaine. Amie des Saccard : ",2
+"Simpson. Attaché d'ambassade. — : ","Vanska (comtesse). Mondaine : ",4
+"Simpson. Attaché d'ambassade. — : ","Worms. Illustre tailleur de Paris: ",3
+"Simpson. Attaché d'ambassade. — : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",3
+"Sternich (duchesse de). Mondaine du Second Empire : ","Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ",4
+"Sternich (duchesse de). Mondaine du Second Empire : ","Teissière (Mme). Mondaine. Amie des Saccard : ",8
+"Sternich (duchesse de). Mondaine du Second Empire : ","Vanska (comtesse). Mondaine : ",10
+"Sternich (duchesse de). Mondaine du Second Empire : ","Worms. Illustre tailleur de Paris: ",2
+"Sternich (duchesse de). Mondaine du Second Empire : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",2
+"Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ","Teissière (Mme). Mondaine. Amie des Saccard : ",4
+"Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ","Vanska (comtesse). Mondaine : ",4
+"Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ","Worms. Illustre tailleur de Paris: ",3
+"Sylvia. Petite aéfrice. Maîtresse de Maxime Saccard : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",5
+"Teissière (Mme). Mondaine. Amie des Saccard : ","Vanska (comtesse). Mondaine : ",14
+"Teissière (Mme). Mondaine. Amie des Saccard : ","Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ",4
+"Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ","Vanska (comtesse). Mondaine : ",8
+"Toutin-Laroche. Conseiller municipal de Paris. Complice des trafics d'Aristide Saccard : ","Worms. Illustre tailleur de Paris: ",2

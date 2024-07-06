@@ -1,0 +1,640 @@
+"from","to","weight"
+"André (le père). Vieux paysan de Chavanoz : ","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",2
+"André (le père). Vieux paysan de Chavanoz : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",2
+"André (le père). Vieux paysan de Chavanoz : ","Rébufat (JuStin). Fils des précédents : ",1
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Garçonnet. Maire de Pl sans en ",2
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ",8
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",4
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",4
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Peirotte. Receveur particulier à Plassans : ",2
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",3
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",2
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ",4
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",4
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",4
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",3
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Brunet (famille). Bourgeois de Plassans : ",2
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ",2
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Massicot (Mme). Épouse du précédent: ",2
+"Blériot (de). Préfet. Réprime l'insurreéfion de la région de Plassans en décembre ","Vuillet. Libraire à Plassans : ",2
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ",5
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ",7
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Roudier. Ancien bonnetier, retiré à Plassans: ",7
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",5
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",4
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",6
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",1
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ",3
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Vuillet. Libraire à Plassans : ",6
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :",3
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",2
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",3
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",1
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",1
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Rébufat (JuStin). Fils des précédents : ",1
+"*Bonaparte (Napoléon). Empereur sous le nom de Napoléon Ier : ","Rengade. Gendarme à Plassans: ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ",17
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ",19
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Roudier. Ancien bonnetier, retiré à Plassans: ",17
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",12
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",12
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",14
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Vuillet. Libraire à Plassans : ",14
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rébufat (JuStin). Fils des précédents : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rengade. Gendarme à Plassans: ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",23
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",23
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","*Oudinot (général). Général français : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Peirotte. Receveur particulier à Plassans : ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","*Cavaignac (Louis-Eugène). Homme politique français : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Garçonnet. Maire de Pl sans en ",3
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",4
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ",2
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Mourgue. Paysan de Pou-jols : ",1
+"*Bonaparte (Louis-Napoléon). Empereur sous le nom de Napoléon III : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",1
+"Brunet (famille). Bourgeois de Plassans : ","Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ",2
+"Brunet (famille). Bourgeois de Plassans : ","Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ",2
+"Brunet (famille). Bourgeois de Plassans : ","Massicot (Mme). Épouse du précédent: ",2
+"Brunet (famille). Bourgeois de Plassans : ","Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ",2
+"Brunet (famille). Bourgeois de Plassans : ","Roudier. Ancien bonnetier, retiré à Plassans: ",1
+"Brunet (famille). Bourgeois de Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Brunet (famille). Bourgeois de Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Brunet (famille). Bourgeois de Plassans : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"Brunet (famille). Bourgeois de Plassans : ","Vuillet. Libraire à Plassans : ",2
+"Brunet (famille). Bourgeois de Plassans : ","Garçonnet. Maire de Pl sans en ",1
+"Burgat. Forgeron à Al-boise: ","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",2
+"Burgat. Forgeron à Al-boise: ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",2
+"Burgat. Forgeron à Al-boise: ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",1
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ",45
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Massicot (Mme). Épouse du précédent: ",2
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ",3
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Roudier. Ancien bonnetier, retiré à Plassans: ",38
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",47
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",44
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",26
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Vuillet. Libraire à Plassans : ",28
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",23
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",9
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",23
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :",8
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",4
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","*Oudinot (général). Général français : ",2
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Peirotte. Receveur particulier à Plassans : ",7
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","*Cavaignac (Louis-Eugène). Homme politique français : ",2
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ",4
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Garçonnet. Maire de Pl sans en ",9
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",4
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",6
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",5
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ",1
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Lacamp. Marchand d'huile à Plassans : ",1
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Puech. De la maison Puech et Lacamp. Marchand d'huile à Plassans. Père de Félicité Puech. —:",1
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",1
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",1
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",1
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",1
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","*Lucullus. Riche Romain : ",1
+"Carnavant (marquis de). Noble du quartier Saint-Marc, à Plassans : ","Rengade. Gendarme à Plassans: ",1
+"Cassoute. Terrassier de Plassans. — : ","Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :",1
+"Cassoute. Terrassier de Plassans. — : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",2
+"Cassoute. Terrassier de Plassans. — : ","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",2
+"Cassoute. Terrassier de Plassans. — : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",2
+"Cassoute. Terrassier de Plassans. — : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",4
+"Cassoute. Terrassier de Plassans. — : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",3
+"Cassoute. Terrassier de Plassans. — : ","Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ",2
+"Cassoute. Terrassier de Plassans. — : ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"Cassoute. Terrassier de Plassans. — : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",1
+"Catherine. Bonne de Granoux. — : ","Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ",2
+"Catherine. Bonne de Granoux. — : ","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",1
+"Catherine. Bonne de Granoux. — : ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"Catherine. Bonne de Granoux. — : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Catherine. Bonne de Granoux. — : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"*Cavaignac (Louis-Eugène). Homme politique français : ","Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ",2
+"*Cavaignac (Louis-Eugène). Homme politique français : ","*Oudinot (général). Général français : ",1
+"*Cavaignac (Louis-Eugène). Homme politique français : ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"*Cavaignac (Louis-Eugène). Homme politique français : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"*Cavaignac (Louis-Eugène). Homme politique français : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"*Cavaignac (Louis-Eugène). Homme politique français : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"*Cavaignac (Louis-Eugène). Homme politique français : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"*Cavaignac (Louis-Eugène). Homme politique français : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",2
+"*Cavaignac (Louis-Eugène). Homme politique français : ","Vuillet. Libraire à Plassans : ",2
+"*César. Consul romain: ","Garçonnet. Maire de Pl sans en ",2
+"*César. Consul romain: ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"*César. Consul romain: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"*César. Consul romain: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"*César. Consul romain: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"*César. Consul romain: ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",1
+"*César. Consul romain: ","Rengade. Gendarme à Plassans: ",1
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",6
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ",2
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",4
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",4
+"*Chambord (comte de). Prétendant au trône de France. Appelé Henri V par les monarchistes : ","Vuillet. Libraire à Plassans : ",2
+"Chantegreil. Père de Marie Chantegreil, dite Miette. Braconnier de Cha-vanoz, emprisonné au bagne de Toulon : ","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",12
+"Chantegreil. Père de Marie Chantegreil, dite Miette. Braconnier de Cha-vanoz, emprisonné au bagne de Toulon : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",10
+"Chantegreil. Père de Marie Chantegreil, dite Miette. Braconnier de Cha-vanoz, emprisonné au bagne de Toulon : ","Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ",6
+"Chantegreil. Père de Marie Chantegreil, dite Miette. Braconnier de Cha-vanoz, emprisonné au bagne de Toulon : ","Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :",7
+"Chantegreil. Père de Marie Chantegreil, dite Miette. Braconnier de Cha-vanoz, emprisonné au bagne de Toulon : ","Rébufat (Eulalie). Sœur du braconnier Chantegreil. Femme du précédent. Mère de Justin Rébufat  : ",3
+"Chantegreil. Père de Marie Chantegreil, dite Miette. Braconnier de Cha-vanoz, emprisonné au bagne de Toulon : ","Rébufat (JuStin). Fils des précédents : ",3
+"Chantegreil. Père de Marie Chantegreil, dite Miette. Braconnier de Cha-vanoz, emprisonné au bagne de Toulon : ","Vian. Charron à Plassans : ",2
+"Chantegreil. Père de Marie Chantegreil, dite Miette. Braconnier de Cha-vanoz, emprisonné au bagne de Toulon : ","Mourgue. Paysan de Pou-jols : ",2
+"Chantegreil. Père de Marie Chantegreil, dite Miette. Braconnier de Cha-vanoz, emprisonné au bagne de Toulon : ","Rengade. Gendarme à Plassans: ",2
+"Dubruel. Charcutier à Plassans : ","Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ",4
+"Dubruel. Charcutier à Plassans : ","Liévin. Bourgeois de Plassans : ",2
+"Dubruel. Charcutier à Plassans : ","Massicot. Bourgeois de Plassans : ",2
+"Dubruel. Charcutier à Plassans : ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"Dubruel. Charcutier à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",3
+"Dubruel. Charcutier à Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",4
+"Dubruel. Charcutier à Plassans : ","Vuillet. Libraire à Plassans : ",1
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ",12
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",46
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Roudier. Ancien bonnetier, retiré à Plassans: ",10
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",34
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",55
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Vuillet. Libraire à Plassans : ",6
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",37
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",60
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rébufat (JuStin). Fils des précédents : ",16
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rengade. Gendarme à Plassans: ",9
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",6
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ",36
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",2
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",13
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mourgue. Paysan de Pou-jols : ",3
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",7
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",2
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Peirotte. Receveur particulier à Plassans : ",1
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ",6
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rébufat (Eulalie). Sœur du braconnier Chantegreil. Femme du précédent. Mère de Justin Rébufat  : ",1
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Vian. Charron à Plassans : ",6
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",10
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",14
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",7
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Puech. De la maison Puech et Lacamp. Marchand d'huile à Plassans. Père de Félicité Puech. —:",4
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Lacamp. Marchand d'huile à Plassans : ",2
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",6
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ",2
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",6
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",3
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",2
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","*Rousseau (Jean-Jacques). Écrivain français : ",2
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",6
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ",4
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",8
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",3
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","*Léonidas. Général grec : ",1
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Garçonnet. Maire de Pl sans en ",1
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ",1
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Lantier (Mme). Mère du précédent : ",1
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",1
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",1
+"Garçonnet. Maire de Pl sans en ","Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ",3
+"Garçonnet. Maire de Pl sans en ","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",7
+"Garçonnet. Maire de Pl sans en ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",8
+"Garçonnet. Maire de Pl sans en ","Peirotte. Receveur particulier à Plassans : ",7
+"Garçonnet. Maire de Pl sans en ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",5
+"Garçonnet. Maire de Pl sans en ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",12
+"Garçonnet. Maire de Pl sans en ","Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ",7
+"Garçonnet. Maire de Pl sans en ","Roudier. Ancien bonnetier, retiré à Plassans: ",7
+"Garçonnet. Maire de Pl sans en ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",5
+"Garçonnet. Maire de Pl sans en ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",12
+"Garçonnet. Maire de Pl sans en ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",10
+"Garçonnet. Maire de Pl sans en ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",12
+"Garçonnet. Maire de Pl sans en ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",1
+"Garçonnet. Maire de Pl sans en ","Vuillet. Libraire à Plassans : ",2
+"Garçonnet. Maire de Pl sans en ","Massicot (Mme). Épouse du précédent: ",1
+"Garçonnet. Maire de Pl sans en ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",5
+"Garçonnet. Maire de Pl sans en ","Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ",1
+"Garçonnet. Maire de Pl sans en ","Rébufat (JuStin). Fils des précédents : ",1
+"Garçonnet. Maire de Pl sans en ","Rengade. Gendarme à Plassans: ",1
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ",1
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"Grandjean (Hélène). Deuxième enfant du chapelier Mouret et d'Ursule Mac-quart. Veuve de Charles Grandjean. Maîtresse du Docteur Deberle, puis épouse de Rambaud. Mère de Jeanne Grandjean : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",1
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ",4
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",80
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",32
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Roudier. Ancien bonnetier, retiré à Plassans: ",72
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",69
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Massicot (Mme). Épouse du précédent: ",2
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Vuillet. Libraire à Plassans : ",38
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",25
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",6
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",19
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",15
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",4
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",6
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Rébufat (JuStin). Fils des précédents : ",2
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Rengade. Gendarme à Plassans: ",3
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","*Oudinot (général). Général français : ",2
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Peirotte. Receveur particulier à Plassans : ",9
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",7
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ",4
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Mourgue. Paysan de Pou-jols : ",1
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",4
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Liévin. Bourgeois de Plassans : ",2
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Massicot. Bourgeois de Plassans : ",2
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",1
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",1
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",1
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","*Léonidas. Général grec : ",2
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",1
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ",1
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","*Pirqn (Alexis). Poète français : ",2
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","Touche. Petit rentier de Plassans : ",1
+"Granoux (Isidore). Ancien marchand d'amandes. Rentier de Plassans: ","*Lucullus. Riche Romain : ",1
+"Lacamp. Marchand d'huile à Plassans : ","Puech. De la maison Puech et Lacamp. Marchand d'huile à Plassans. Père de Félicité Puech. —:",2
+"Lacamp. Marchand d'huile à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Lacamp. Marchand d'huile à Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lantier (Mme). Mère du précédent : ",5
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",5
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",5
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",5
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",4
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",5
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ",5
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",2
+"Lantier (Auguste). Amant de Gervaise Macquart. Père de Claude* Jacques et Étienne Lantier. Ouvrier tanneur à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Lantier (Mme). Mère du précédent : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",5
+"Lantier (Mme). Mère du précédent : ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",5
+"Lantier (Mme). Mère du précédent : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",5
+"Lantier (Mme). Mère du précédent : ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",4
+"Lantier (Mme). Mère du précédent : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",5
+"Lantier (Mme). Mère du précédent : ","Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ",5
+"Lantier (Mme). Mère du précédent : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Lantier (Mme). Mère du précédent : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",2
+"Lantier (Mme). Mère du précédent : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ",5
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",5
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",4
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",5
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ",5
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",5
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",4
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",5
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ",5
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",2
+"Lantier (Etienne). Troisième fils de Gervaise Mac-quart et d'AuguSte Lantier: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"*Léonidas. Général grec : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",1
+"*Léonidas. Général grec : ","Roudier. Ancien bonnetier, retiré à Plassans: ",1
+"*Léonidas. Général grec : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"*Léonidas. Général grec : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"*Léonidas. Général grec : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"*Léonidas. Général grec : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",1
+"Liévin. Bourgeois de Plassans : ","Massicot. Bourgeois de Plassans : ",2
+"Liévin. Bourgeois de Plassans : ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"Liévin. Bourgeois de Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Liévin. Bourgeois de Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Liévin. Bourgeois de Plassans : ","Vuillet. Libraire à Plassans : ",1
+"*Lucullus. Riche Romain : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",2
+"*Lucullus. Riche Romain : ","Peirotte. Receveur particulier à Plassans : ",2
+"*Lucullus. Riche Romain : ","Rengade. Gendarme à Plassans: ",2
+"*Lucullus. Riche Romain : ","Roudier. Ancien bonnetier, retiré à Plassans: ",1
+"*Lucullus. Riche Romain : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"*Lucullus. Riche Romain : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"*Lucullus. Riche Romain : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",1
+"*Lucullus. Riche Romain : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"*Lucullus. Riche Romain : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",1
+"*Lucullus. Riche Romain : ","Vuillet. Libraire à Plassans : ",1
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Roudier. Ancien bonnetier, retiré à Plassans: ",4
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",8
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",25
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",2
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",2
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Vuillet. Libraire à Plassans : ",2
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Peirotte. Receveur particulier à Plassans : ",1
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",9
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",17
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",11
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",4
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Puech. De la maison Puech et Lacamp. Marchand d'huile à Plassans. Père de Félicité Puech. —:",2
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",1
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",1
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",1
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",1
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",1
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",14
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Rengade. Gendarme à Plassans: ",4
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",10
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ",2
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Rébufat (JuStin). Fils des précédents : ",4
+"Macquart. Contrebandier et braconnier. Amant d'Adélaïde Fouque. Père d'Antoine et d'Ursule Macquart: ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Roudier. Ancien bonnetier, retiré à Plassans: ",14
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",37
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",54
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Vuillet. Libraire à Plassans : ",1
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",10
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",28
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",15
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",8
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ",8
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Puech. De la maison Puech et Lacamp. Marchand d'huile à Plassans. Père de Félicité Puech. —:",1
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",6
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",11
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",3
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","*Rousseau (Jean-Jacques). Écrivain français : ",1
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",14
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ",12
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ",16
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",4
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",3
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",7
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",5
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Peirotte. Receveur particulier à Plassans : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ",1
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rébufat (JuStin). Fils des précédents : ",1
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",4
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Picou. Petit rentier de Plassans: ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rengade. Gendarme à Plassans: ",1
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Touche. Petit rentier de Plassans : ",1
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ",11
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ",9
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",7
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",2
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",3
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",5
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",4
+"Macquart (Joséphine), dite Fine. Rempailleuse de chaises à Plassans. Épouse d'Antoine Macquart. Mère de Lisa, Gervaise et Jean Macquart : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",4
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ",12
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",7
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",1
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Roudier. Ancien bonnetier, retiré à Plassans: ",1
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",4
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Macquart (Gervaise). Fille d'Antoine Macquart et de Joséphine Gavaudan. Maîtresse d'AuguSte Lantier. Épouse de Coupeau. Mère de Claude, Jacques, Étienne Lantier et d'Anna Coupeau : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",3
+"Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",5
+"Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ","Roudier. Ancien bonnetier, retiré à Plassans: ",1
+"Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",4
+"Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Macquart (Jean). Fils d'Antoine Macquart et de Joséphine Gavaudan. Menuisier à Plassans : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",3
+"Massicot. Bourgeois de Plassans : ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"Massicot. Bourgeois de Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Massicot. Bourgeois de Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Massicot. Bourgeois de Plassans : ","Vuillet. Libraire à Plassans : ",1
+"Massicot (Mme). Épouse du précédent: ","Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ",2
+"Massicot (Mme). Épouse du précédent: ","Roudier. Ancien bonnetier, retiré à Plassans: ",1
+"Massicot (Mme). Épouse du précédent: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Massicot (Mme). Épouse du précédent: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Massicot (Mme). Épouse du précédent: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"Massicot (Mme). Épouse du précédent: ","Vuillet. Libraire à Plassans : ",2
+"Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ","Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ",4
+"Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",4
+"Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ","Peirotte. Receveur particulier à Plassans : ",2
+"Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",3
+"Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",2
+"Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",5
+"Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",5
+"Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",4
+"Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ","Vuillet. Libraire à Plassans : ",2
+"Masson (colonel). Officier chargé de réprimer la résistance républicaine au coup d'État: ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",98
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Peirotte. Receveur particulier à Plassans : ",9
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",7
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",12
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Rébufat (JuStin). Fils des précédents : ",24
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Rengade. Gendarme à Plassans: ",11
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Roudier. Ancien bonnetier, retiré à Plassans: ",4
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",7
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",10
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Vuillet. Libraire à Plassans : ",4
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",3
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Mourgue. Paysan de Pou-jols : ",5
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ",12
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Rébufat (Eulalie). Sœur du braconnier Chantegreil. Femme du précédent. Mère de Justin Rébufat  : ",4
+"Miette (Marie Chante-I greil, dite). Fille de Chante-: greil. Jeune amie de Silvère Mouret: ","Vian. Charron à Plassans : ",3
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",7
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",2
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",8
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",4
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",4
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",5
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",3
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",3
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",2
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Mouret. Ouvrier chapelier. Époux d'Ursule Mac-quart : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",2
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",2
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",2
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",1
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",6
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",3
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",5
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",5
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",5
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",3
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",2
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",3
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",2
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",7
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",7
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",3
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Puech. De la maison Puech et Lacamp. Marchand d'huile à Plassans. Père de Félicité Puech. —:",2
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",4
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",1
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",2
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",1
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ",2
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",1
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Peirotte. Receveur particulier à Plassans : ",10
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",10
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",15
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Rébufat (JuStin). Fils des précédents : ",21
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Rengade. Gendarme à Plassans: ",19
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Roudier. Ancien bonnetier, retiré à Plassans: ",7
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",23
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",26
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Vuillet. Libraire à Plassans : ",4
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Mourgue. Paysan de Pou-jols : ",7
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",13
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",2
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ",9
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Rébufat (Eulalie). Sœur du braconnier Chantegreil. Femme du précédent. Mère de Justin Rébufat  : ",1
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Vian. Charron à Plassans : ",6
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ",3
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","*Rousseau (Jean-Jacques). Écrivain français : ",2
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",4
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",3
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",1
+"Mouret (Silvère). Fils d'Ursule Macquart et du chapelier Mouret : ","Picou. Petit rentier de Plassans: ",1
+"Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",8
+"Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",15
+"Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ","Puech. De la maison Puech et Lacamp. Marchand d'huile à Plassans. Père de Félicité Puech. —:",1
+"Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",6
+"Mouret (Ursule). Fille d'Adélaïde Fouque et de Macquart. Épouse de Mouret. Mère de François, Hélène et Silvère Mouret : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",3
+"Mourgue. Paysan de Pou-jols : ","Rébufat (JuStin). Fils des précédents : ",2
+"Mourgue. Paysan de Pou-jols : ","Rengade. Gendarme à Plassans: ",7
+"Mourgue. Paysan de Pou-jols : ","Roudier. Ancien bonnetier, retiré à Plassans: ",1
+"Mourgue. Paysan de Pou-jols : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",1
+"Mourgue. Paysan de Pou-jols : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",1
+"Mourgue. Paysan de Pou-jols : ","Vuillet. Libraire à Plassans : ",1
+"*Oudinot (général). Général français : ","Peirotte. Receveur particulier à Plassans : ",1
+"*Oudinot (général). Général français : ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"*Oudinot (général). Général français : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"*Oudinot (général). Général français : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"*Oudinot (général). Général français : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"*Oudinot (général). Général français : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",2
+"*Oudinot (général). Général français : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",2
+"*Oudinot (général). Général français : ","Vuillet. Libraire à Plassans : ",2
+"Peirotte. Receveur particulier à Plassans : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",4
+"Peirotte. Receveur particulier à Plassans : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",13
+"Peirotte. Receveur particulier à Plassans : ","Roudier. Ancien bonnetier, retiré à Plassans: ",9
+"Peirotte. Receveur particulier à Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",6
+"Peirotte. Receveur particulier à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",11
+"Peirotte. Receveur particulier à Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",12
+"Peirotte. Receveur particulier à Plassans : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",10
+"Peirotte. Receveur particulier à Plassans : ","Vuillet. Libraire à Plassans : ",4
+"Peirotte. Receveur particulier à Plassans : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",2
+"Peirotte. Receveur particulier à Plassans : ","Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ",1
+"Peirotte. Receveur particulier à Plassans : ","Rébufat (JuStin). Fils des précédents : ",1
+"Peirotte. Receveur particulier à Plassans : ","Rengade. Gendarme à Plassans: ",4
+"Picou. Petit rentier de Plassans: ","Rengade. Gendarme à Plassans: ",1
+"Picou. Petit rentier de Plassans: ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"Picou. Petit rentier de Plassans: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Picou. Petit rentier de Plassans: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Picou. Petit rentier de Plassans: ","Touche. Petit rentier de Plassans : ",1
+"*Pirqn (Alexis). Poète français : ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"*Pirqn (Alexis). Poète français : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"*Pirqn (Alexis). Poète français : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"*Pirqn (Alexis). Poète français : ","Vuillet. Libraire à Plassans : ",2
+"Puech. De la maison Puech et Lacamp. Marchand d'huile à Plassans. Père de Félicité Puech. —:","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",6
+"Puech. De la maison Puech et Lacamp. Marchand d'huile à Plassans. Père de Félicité Puech. —:","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",6
+"Puech. De la maison Puech et Lacamp. Marchand d'huile à Plassans. Père de Félicité Puech. —:","Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ",1
+"Puech. De la maison Puech et Lacamp. Marchand d'huile à Plassans. Père de Félicité Puech. —:","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ","Rébufat (Eulalie). Sœur du braconnier Chantegreil. Femme du précédent. Mère de Justin Rébufat  : ",4
+"Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ","Rébufat (JuStin). Fils des précédents : ",9
+"Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ","Rengade. Gendarme à Plassans: ",1
+"Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",1
+"Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ","Vian. Charron à Plassans : ",1
+"Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",1
+"Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"Rébufat. Méger du Jas Meiffren. Mari d'Eulalie Chantegreil : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",1
+"Rébufat (Eulalie). Sœur du braconnier Chantegreil. Femme du précédent. Mère de Justin Rébufat  : ","Rébufat (JuStin). Fils des précédents : ",3
+"Rébufat (JuStin). Fils des précédents : ","Rengade. Gendarme à Plassans: ",4
+"Rébufat (JuStin). Fils des précédents : ","Roudier. Ancien bonnetier, retiré à Plassans: ",2
+"Rébufat (JuStin). Fils des précédents : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",1
+"Rébufat (JuStin). Fils des précédents : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",3
+"Rébufat (JuStin). Fils des précédents : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",3
+"Rébufat (JuStin). Fils des précédents : ","Vuillet. Libraire à Plassans : ",2
+"Rébufat (JuStin). Fils des précédents : ","Vian. Charron à Plassans : ",1
+"Rébufat (JuStin). Fils des précédents : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",1
+"Rébufat (JuStin). Fils des précédents : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"Rengade. Gendarme à Plassans: ","Roudier. Ancien bonnetier, retiré à Plassans: ",5
+"Rengade. Gendarme à Plassans: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",5
+"Rengade. Gendarme à Plassans: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",8
+"Rengade. Gendarme à Plassans: ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",3
+"Rengade. Gendarme à Plassans: ","Vuillet. Libraire à Plassans : ",3
+"Rengade. Gendarme à Plassans: ","Vian. Charron à Plassans : ",1
+"Rengade. Gendarme à Plassans: ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",1
+"Rengade. Gendarme à Plassans: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",3
+"Roudier. Ancien bonnetier, retiré à Plassans: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",62
+"Roudier. Ancien bonnetier, retiré à Plassans: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",71
+"Roudier. Ancien bonnetier, retiré à Plassans: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",24
+"Roudier. Ancien bonnetier, retiré à Plassans: ","Vuillet. Libraire à Plassans : ",35
+"Roudier. Ancien bonnetier, retiré à Plassans: ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",26
+"Roudier. Ancien bonnetier, retiré à Plassans: ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",5
+"Roudier. Ancien bonnetier, retiré à Plassans: ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",17
+"Roudier. Ancien bonnetier, retiré à Plassans: ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",3
+"Roudier. Ancien bonnetier, retiré à Plassans: ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",4
+"Roudier. Ancien bonnetier, retiré à Plassans: ","Touche. Petit rentier de Plassans : ",2
+"Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",10
+"Rougon. Paysan des Basses-Alpes. Jardinier à Plassans. Mari d' Adélaïde Fouque. Père de Pierre Rougon : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",26
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",14
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Vuillet. Libraire à Plassans : ",14
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",32
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",26
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",1
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",5
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",9
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",4
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",124
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",48
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Vuillet. Libraire à Plassans : ",40
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",28
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",6
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",10
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",13
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ",3
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Touche. Petit rentier de Plassans : ",2
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",4
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",4
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",3
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ",2
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",2
+"Rougon (Maxime). Fils d'Aristide Rougon, dit plus tard Saccard, et d'Angèle Sicardot : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",1
+"Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",10
+"Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",15
+"Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",13
+"Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ","Vuillet. Libraire à Plassans : ",2
+"Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",1
+"Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",1
+"Rougon (Pascal). Second fils de Pierre Rougon et de Félicité Puech. Médecin à Plassans : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",2
+"Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",48
+"Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ","Vuillet. Libraire à Plassans : ",35
+"Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",27
+"Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",9
+"Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ","Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ",9
+"Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ","Touche. Petit rentier de Plassans : ",2
+"Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",4
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"*Rousseau (Jean-Jacques). Écrivain français : ","Vian. Charron à Plassans : ",1
+"Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",11
+"Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ","Vuillet. Libraire à Plassans : ",4
+"Saccard (Angèle). Fille du commandant Sicardot. Première femme d'Aristide Rougon, dit Saccard. Mère de Maxime et Clotilde : ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",5
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Vuillet. Libraire à Plassans : ",19
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ",21
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",3
+"Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",1
+"Sicardot (commandant). Capitaine retraité à Plassans. Père d'Angèle Sicardot : ","Vuillet. Libraire à Plassans : ",20
+"Touche. Petit rentier de Plassans : ","Vuillet. Libraire à Plassans : ",1
+"Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ","Vuillet. Libraire à Plassans : ",3

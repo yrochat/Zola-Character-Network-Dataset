@@ -1,0 +1,824 @@
+"from","to","weight"
+"Alexandre. Gardien à l'asile des Tulettes : ","Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ",2
+"Alexandre. Gardien à l'asile des Tulettes : ","Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ",4
+"Alexandre. Gardien à l'asile des Tulettes : ","Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :",5
+"Alexandre. Gardien à l'asile des Tulettes : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",11
+"Alexandre. Gardien à l'asile des Tulettes : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",11
+"Alexandre. Gardien à l'asile des Tulettes : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",5
+"Alexandre. Gardien à l'asile des Tulettes : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",3
+"Alexandre. Gardien à l'asile des Tulettes : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",5
+"Alexandre. Gardien à l'asile des Tulettes : ","Rose. Vieille servante des Mouret, à Plassans : ",6
+"Alexandre. Gardien à l'asile des Tulettes : ","Gautier (le père). Vigneron à Saint-Eutrope : ",2
+"Alexandre. Gardien à l'asile des Tulettes : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",2
+"Alexandre. Gardien à l'asile des Tulettes : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Alexandre. Gardien à l'asile des Tulettes : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"Alexandre. Gardien à l'asile des Tulettes : ","Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ",1
+"Alexandre. Gardien à l'asile des Tulettes : ","Faujas (Mme). Mère du précédent. — : ",1
+"Alexandre. Gardien à l'asile des Tulettes : ","Porquier (doâeur). Médecin à Plassans : ",1
+"Alexandre. Gardien à l'asile des Tulettes : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",1
+"Bergasse. Revendeur au r marché de Plassans : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",2
+"Bergasse. Revendeur au r marché de Plassans : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",2
+"Bergasse. Revendeur au r marché de Plassans : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",2
+"Bergasse. Revendeur au r marché de Plassans : ","Rose. Vieille servante des Mouret, à Plassans : ",2
+"Bergasse. Revendeur au r marché de Plassans : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",1
+"Bergasse. Revendeur au r marché de Plassans : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",1
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ",43
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ",22
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Maffre. Juge de paix à Plassans : ",36
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",23
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",26
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Rastoil. Président du tribunal de Plassans : ",40
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Rastoil (Mme). Épouse du précédent : ",22
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Rastoil (Angéline). Fille aînée des RaStoil : ",20
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",27
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",30
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Condamin (de). Conservateur des Eaux et Forêts à Plassans : ",34
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ",31
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Delangre. Maire de Plassans : ",32
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Paloque. Juge au tribunal de Plassans : ",22
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",38
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Porquier (doâeur). Médecin à Plassans : ",35
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",15
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",5
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ",24
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",2
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Delangre (Mme). Épouse du précédent : ",6
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ",14
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Paloque (Mme). Épouse du précédent : ",28
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Porquier (Guillaume). Fils du précédent: ",10
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","*Hôrace. Poète latin : ",1
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",8
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Faujas (Mme). Mère du précédent. — : ",3
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Rastoil (Séverin). Fils des RaStoil. — : ",13
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Delangre (Lucien). Fils des précédents : ",4
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",8
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",6
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Rose. Vieille servante des Mouret, à Plassans : ",8
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",2
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ",6
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Maffre (Alphonse et Ambroise). Fils du précédent : ",8
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",2
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",4
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ",1
+"Bourdeu (de). Ancien préfet de la Drôme, retiré à Plassans : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",1
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Condamin (de). Conservateur des Eaux et Forêts à Plassans : ",20
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Delangre. Maire de Plassans : ",17
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ",52
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Maffre. Juge de paix à Plassans : ",18
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",14
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",34
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",33
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Paloque. Juge au tribunal de Plassans : ",12
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",19
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Porquier (doâeur). Médecin à Plassans : ",18
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Rastoil. Président du tribunal de Plassans : ",25
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",24
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ",20
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Paloque (Mme). Épouse du précédent : ",22
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Rastoil (Mme). Épouse du précédent : ",17
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Rastoil (Angéline). Fille aînée des RaStoil : ",12
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",15
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Delangre (Mme). Épouse du précédent : ",8
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",24
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Faujas (Mme). Mère du précédent. — : ",13
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Delangre (Lucien). Fils des précédents : ",5
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Rastoil (Séverin). Fils des RaStoil. — : ",14
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",6
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",6
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ",19
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Maffre (Alphonse et Ambroise). Fils du précédent : ",6
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ",6
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ",4
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Porquier (Guillaume). Fils du précédent: ",7
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",10
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",4
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",4
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",12
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",13
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Rose. Vieille servante des Mouret, à Plassans : ",15
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",12
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ",7
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Eusèbe. Enfant de chœur à Saint-Saturnin, cathédrale de Plassans : ",2
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ",2
+"Bourrette (abbé). Premier vicaire à Saint-Saturnin, cathédrale de Plassans : ","*Hôrace. Poète latin : ",1
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","Condamin (de). Conservateur des Eaux et Forêts à Plassans : ",1
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ",2
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ",4
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ",3
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","Paloque (Mme). Épouse du précédent : ",2
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",2
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",2
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",1
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",1
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",1
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ",2
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","*Hôrace. Poète latin : ",1
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",2
+"Chardon (abbé). Candidat à la cure de Saint-Saturnin* cathédrale de Plassans : ","Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ",1
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ",12
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ",11
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",9
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",3
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Rose. Vieille servante des Mouret, à Plassans : ",3
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",4
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Rastoil. Président du tribunal de Plassans : ",3
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",1
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",3
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",1
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",2
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",2
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Eusèbe. Enfant de chœur à Saint-Saturnin, cathédrale de Plassans : ",2
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",7
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","*Hôrace. Poète latin : ",2
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Faujas (Mme). Mère du précédent. — : ",4
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :",2
+"Compan. Curé de Saint-Saturnin, cathédrale de Plassans : ","Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ",2
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ",49
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Delangre. Maire de Plassans : ",36
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Maffre. Juge de paix à Plassans : ",30
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",28
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",34
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Paloque. Juge au tribunal de Plassans : ",27
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",43
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Porquier (doâeur). Médecin à Plassans : ",39
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Rastoil. Président du tribunal de Plassans : ",41
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",20
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",10
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ",50
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",3
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Delangre (Mme). Épouse du précédent : ",12
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ",9
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Paloque (Mme). Épouse du précédent : ",34
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Porquier (Guillaume). Fils du précédent: ",13
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Rastoil (Mme). Épouse du précédent : ",28
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Rastoil (Angéline). Fille aînée des RaStoil : ",26
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",34
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ",18
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","*Hôrace. Poète latin : ",1
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",9
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",30
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Rose. Vieille servante des Mouret, à Plassans : ",14
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Faujas (Mme). Mère du précédent. — : ",7
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",7
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",6
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Maffre (Alphonse et Ambroise). Fils du précédent : ",7
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Rastoil (Séverin). Fils des RaStoil. — : ",13
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ",2
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Delangre (Lucien). Fils des précédents : ",5
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",3
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",5
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",4
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Peirotte. Receveur particulier à Plassans : ",1
+"Condamin (de). Conservateur des Eaux et Forêts à Plassans : ","Lieutaud. Architefte diocésain à Plassans : ",2
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Delangre. Maire de Plassans : ",36
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Maffre. Juge de paix à Plassans : ",31
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",42
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",58
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Paloque. Juge au tribunal de Plassans : ",25
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",40
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Porquier (doâeur). Médecin à Plassans : ",36
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Rastoil. Président du tribunal de Plassans : ",40
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",29
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",14
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Delangre (Mme). Épouse du précédent : ",17
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ",68
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ",18
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","*Hôrace. Poète latin : ",2
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ",11
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Paloque (Mme). Épouse du précédent : ",42
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Rastoil (Mme). Épouse du précédent : ",33
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Rousselot (Mgr). Archevêque de Plassans : ",15
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",31
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Rastoil (Séverin). Fils des RaStoil. — : ",12
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Rastoil (Angéline). Fille aînée des RaStoil : ",24
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",32
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Rose. Vieille servante des Mouret, à Plassans : ",24
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Faujas (Mme). Mère du précédent. — : ",19
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",14
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",15
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Porquier (Guillaume). Fils du précédent: ",12
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Maffre (Alphonse et Ambroise). Fils du précédent : ",11
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ",3
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",5
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",4
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",3
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",5
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",3
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Delangre (Lucien). Fils des précédents : ",4
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Peirotte. Receveur particulier à Plassans : ",1
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Lieutaud. Architefte diocésain à Plassans : ",4
+"Condamin (O&avie de). Épouse du précédent. Agent occulte d'Eugène Rougon : ","Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :",1
+"Delangre. Maire de Plassans : ","Maffre. Juge de paix à Plassans : ",31
+"Delangre. Maire de Plassans : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",27
+"Delangre. Maire de Plassans : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",30
+"Delangre. Maire de Plassans : ","Paloque. Juge au tribunal de Plassans : ",25
+"Delangre. Maire de Plassans : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",38
+"Delangre. Maire de Plassans : ","Porquier (doâeur). Médecin à Plassans : ",32
+"Delangre. Maire de Plassans : ","Rastoil. Président du tribunal de Plassans : ",35
+"Delangre. Maire de Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",15
+"Delangre. Maire de Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",5
+"Delangre. Maire de Plassans : ","Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ",51
+"Delangre. Maire de Plassans : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",6
+"Delangre. Maire de Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Delangre. Maire de Plassans : ","Delangre (Mme). Épouse du précédent : ",11
+"Delangre. Maire de Plassans : ","Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ",11
+"Delangre. Maire de Plassans : ","Paloque (Mme). Épouse du précédent : ",33
+"Delangre. Maire de Plassans : ","Porquier (Guillaume). Fils du précédent: ",11
+"Delangre. Maire de Plassans : ","Rastoil (Mme). Épouse du précédent : ",31
+"Delangre. Maire de Plassans : ","Rastoil (Angéline). Fille aînée des RaStoil : ",22
+"Delangre. Maire de Plassans : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",28
+"Delangre. Maire de Plassans : ","Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ",18
+"Delangre. Maire de Plassans : ","*Hôrace. Poète latin : ",1
+"Delangre. Maire de Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",12
+"Delangre. Maire de Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",29
+"Delangre. Maire de Plassans : ","Rastoil (Séverin). Fils des RaStoil. — : ",13
+"Delangre. Maire de Plassans : ","Delangre (Lucien). Fils des précédents : ",7
+"Delangre. Maire de Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",5
+"Delangre. Maire de Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",5
+"Delangre. Maire de Plassans : ","Rose. Vieille servante des Mouret, à Plassans : ",11
+"Delangre. Maire de Plassans : ","Maffre (Alphonse et Ambroise). Fils du précédent : ",6
+"Delangre. Maire de Plassans : ","Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ",3
+"Delangre. Maire de Plassans : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",2
+"Delangre. Maire de Plassans : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",3
+"Delangre. Maire de Plassans : ","Faujas (Mme). Mère du précédent. — : ",13
+"Delangre. Maire de Plassans : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",6
+"Delangre. Maire de Plassans : ","Lieutaud. Architefte diocésain à Plassans : ",3
+"Delangre. Maire de Plassans : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",4
+"Delangre (Mme). Épouse du précédent : ","Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ",21
+"Delangre (Mme). Épouse du précédent : ","Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ",3
+"Delangre (Mme). Épouse du précédent : ","Paloque. Juge au tribunal de Plassans : ",6
+"Delangre (Mme). Épouse du précédent : ","Paloque (Mme). Épouse du précédent : ",14
+"Delangre (Mme). Épouse du précédent : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",6
+"Delangre (Mme). Épouse du précédent : ","Porquier (doâeur). Médecin à Plassans : ",8
+"Delangre (Mme). Épouse du précédent : ","Porquier (Guillaume). Fils du précédent: ",4
+"Delangre (Mme). Épouse du précédent : ","Rastoil (Mme). Épouse du précédent : ",22
+"Delangre (Mme). Épouse du précédent : ","Rastoil (Angéline). Fille aînée des RaStoil : ",3
+"Delangre (Mme). Épouse du précédent : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",3
+"Delangre (Mme). Épouse du précédent : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",9
+"Delangre (Mme). Épouse du précédent : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",5
+"Delangre (Mme). Épouse du précédent : ","Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ",7
+"Delangre (Mme). Épouse du précédent : ","*Hôrace. Poète latin : ",1
+"Delangre (Mme). Épouse du précédent : ","Maffre. Juge de paix à Plassans : ",9
+"Delangre (Mme). Épouse du précédent : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",18
+"Delangre (Mme). Épouse du précédent : ","Rousselot (Mgr). Archevêque de Plassans : ",5
+"Delangre (Mme). Épouse du précédent : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",7
+"Delangre (Mme). Épouse du précédent : ","Faujas (Mme). Mère du précédent. — : ",8
+"Delangre (Mme). Épouse du précédent : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",13
+"Delangre (Mme). Épouse du précédent : ","Rastoil. Président du tribunal de Plassans : ",6
+"Delangre (Mme). Épouse du précédent : ","Rastoil (Séverin). Fils des RaStoil. — : ",3
+"Delangre (Mme). Épouse du précédent : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",1
+"Delangre (Mme). Épouse du précédent : ","Maffre (Alphonse et Ambroise). Fils du précédent : ",4
+"Delangre (Mme). Épouse du précédent : ","Delangre (Lucien). Fils des précédents : ",2
+"Delangre (Mme). Épouse du précédent : ","Rose. Vieille servante des Mouret, à Plassans : ",5
+"Delangre (Mme). Épouse du précédent : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",5
+"Delangre (Mme). Épouse du précédent : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",3
+"Delangre (Lucien). Fils des précédents : ","Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ",13
+"Delangre (Lucien). Fils des précédents : ","Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ",3
+"Delangre (Lucien). Fils des précédents : ","Maffre. Juge de paix à Plassans : ",9
+"Delangre (Lucien). Fils des précédents : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",7
+"Delangre (Lucien). Fils des précédents : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",8
+"Delangre (Lucien). Fils des précédents : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",5
+"Delangre (Lucien). Fils des précédents : ","Porquier (doâeur). Médecin à Plassans : ",9
+"Delangre (Lucien). Fils des précédents : ","Rastoil. Président du tribunal de Plassans : ",6
+"Delangre (Lucien). Fils des précédents : ","Rastoil (Mme). Épouse du précédent : ",5
+"Delangre (Lucien). Fils des précédents : ","Rastoil (Séverin). Fils des RaStoil. — : ",10
+"Delangre (Lucien). Fils des précédents : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",7
+"Delangre (Lucien). Fils des précédents : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",6
+"Delangre (Lucien). Fils des précédents : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",4
+"Delangre (Lucien). Fils des précédents : ","Paloque (Mme). Épouse du précédent : ",4
+"Delangre (Lucien). Fils des précédents : ","Porquier (Guillaume). Fils du précédent: ",8
+"Delangre (Lucien). Fils des précédents : ","Rastoil (Angéline). Fille aînée des RaStoil : ",4
+"Delangre (Lucien). Fils des précédents : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",4
+"Delangre (Lucien). Fils des précédents : ","Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ",1
+"Delangre (Lucien). Fils des précédents : ","Maffre (Alphonse et Ambroise). Fils du précédent : ",6
+"Delangre (Lucien). Fils des précédents : ","Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ",1
+"Delangre (Lucien). Fils des précédents : ","Rousselot (Mgr). Archevêque de Plassans : ",3
+"Delangre (Lucien). Fils des précédents : ","Faujas (Mme). Mère du précédent. — : ",8
+"Delangre (Lucien). Fils des précédents : ","Paloque. Juge au tribunal de Plassans : ",2
+"Delangre (Lucien). Fils des précédents : ","Rose. Vieille servante des Mouret, à Plassans : ",4
+"Delangre (Lucien). Fils des précédents : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",1
+"Delangre (Lucien). Fils des précédents : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",1
+"Eusèbe. Enfant de chœur à Saint-Saturnin, cathédrale de Plassans : ","Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ",2
+"Eusèbe. Enfant de chœur à Saint-Saturnin, cathédrale de Plassans : ","Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ",2
+"Eusèbe. Enfant de chœur à Saint-Saturnin, cathédrale de Plassans : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",1
+"Eusèbe. Enfant de chœur à Saint-Saturnin, cathédrale de Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",1
+"Eusèbe. Enfant de chœur à Saint-Saturnin, cathédrale de Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",1
+"Eusèbe. Enfant de chœur à Saint-Saturnin, cathédrale de Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",1
+"Eusèbe. Enfant de chœur à Saint-Saturnin, cathédrale de Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",1
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ",53
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :",6
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",9
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",159
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",35
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",56
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Maffre. Juge de paix à Plassans : ",41
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",148
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Rastoil. Président du tribunal de Plassans : ",63
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Rastoil (Mme). Épouse du précédent : ",47
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Rastoil (Angéline). Fille aînée des RaStoil : ",31
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",32
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",51
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",42
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Paloque. Juge au tribunal de Plassans : ",29
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",46
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Porquier (doâeur). Médecin à Plassans : ",55
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",4
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",69
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ",19
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Paloque (Mme). Épouse du précédent : ",57
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Porquier (Guillaume). Fils du précédent: ",25
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","*Hôrace. Poète latin : ",4
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Rousselot (Mgr). Archevêque de Plassans : ",31
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Faujas (Mme). Mère du précédent. — : ",99
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Rastoil (Séverin). Fils des RaStoil. — : ",21
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",57
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Rose. Vieille servante des Mouret, à Plassans : ",85
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",2
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ",5
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Maffre (Alphonse et Ambroise). Fils du précédent : ",14
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",4
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",30
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",35
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Peirotte. Receveur particulier à Plassans : ",3
+"Faujas (abbé Ovide). Prêtre à Plassans. Locataire de François Mouret. Agent politique d'Eugène Rougon : ","Lieutaud. Architefte diocésain à Plassans : ",7
+"Faujas (Mme). Mère du précédent. — : ","Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ",13
+"Faujas (Mme). Mère du précédent. — : ","Maffre. Juge de paix à Plassans : ",10
+"Faujas (Mme). Mère du précédent. — : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",88
+"Faujas (Mme). Mère du précédent. — : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",87
+"Faujas (Mme). Mère du précédent. — : ","Paloque (Mme). Épouse du précédent : ",17
+"Faujas (Mme). Mère du précédent. — : ","Rastoil. Président du tribunal de Plassans : ",16
+"Faujas (Mme). Mère du précédent. — : ","Rastoil (Mme). Épouse du précédent : ",17
+"Faujas (Mme). Mère du précédent. — : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",21
+"Faujas (Mme). Mère du précédent. — : ","Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ",1
+"Faujas (Mme). Mère du précédent. — : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",3
+"Faujas (Mme). Mère du précédent. — : ","Porquier (doâeur). Médecin à Plassans : ",18
+"Faujas (Mme). Mère du précédent. — : ","Rose. Vieille servante des Mouret, à Plassans : ",61
+"Faujas (Mme). Mère du précédent. — : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",34
+"Faujas (Mme). Mère du précédent. — : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",38
+"Faujas (Mme). Mère du précédent. — : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",30
+"Faujas (Mme). Mère du précédent. — : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",24
+"Faujas (Mme). Mère du précédent. — : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",24
+"Faujas (Mme). Mère du précédent. — : ","Rousselot (Mgr). Archevêque de Plassans : ",9
+"Faujas (Mme). Mère du précédent. — : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",7
+"Faujas (Mme). Mère du précédent. — : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",11
+"Faujas (Mme). Mère du précédent. — : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",8
+"Faujas (Mme). Mère du précédent. — : ","Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :",4
+"Faujas (Mme). Mère du précédent. — : ","Paloque. Juge au tribunal de Plassans : ",6
+"Faujas (Mme). Mère du précédent. — : ","Rastoil (Angéline). Fille aînée des RaStoil : ",4
+"Faujas (Mme). Mère du précédent. — : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",4
+"Faujas (Mme). Mère du précédent. — : ","Maffre (Alphonse et Ambroise). Fils du précédent : ",9
+"Faujas (Mme). Mère du précédent. — : ","Porquier (Guillaume). Fils du précédent: ",9
+"Faujas (Mme). Mère du précédent. — : ","Rastoil (Séverin). Fils des RaStoil. — : ",6
+"Faujas (Mme). Mère du précédent. — : ","Lieutaud. Architefte diocésain à Plassans : ",4
+"Faujas (Mme). Mère du précédent. — : ","Mousseau (abbé). Prêtre à Plassans: ",2
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :",2
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",6
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",36
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",7
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",8
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Rose. Vieille servante des Mouret, à Plassans : ",10
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Maffre. Juge de paix à Plassans : ",17
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",31
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Rastoil. Président du tribunal de Plassans : ",25
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Rastoil (Mme). Épouse du précédent : ",20
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Rastoil (Angéline). Fille aînée des RaStoil : ",13
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",13
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",26
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Paloque. Juge au tribunal de Plassans : ",12
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Paloque (Mme). Épouse du précédent : ",23
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Porquier (doâeur). Médecin à Plassans : ",19
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",16
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","*Hôrace. Poète latin : ",4
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ",6
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",22
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",13
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Rastoil (Séverin). Fils des RaStoil. — : ",8
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",7
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",2
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ",1
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Maffre (Alphonse et Ambroise). Fils du précédent : ",2
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Porquier (Guillaume). Fils du précédent: ",2
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",2
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",4
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",4
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",3
+"Fenil (abbé). Premier grand vicaire de l'archevê-ché de Plassans : ","Lieutaud. Architefte diocésain à Plassans : ",3
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",8
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",10
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",6
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",3
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",6
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rose. Vieille servante des Mouret, à Plassans : ",5
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Porquier (doâeur). Médecin à Plassans : ",1
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",4
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rastoil. Président du tribunal de Plassans : ",1
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Rastoil (Mme). Épouse du précédent : ",1
+"Fouque (Adélaïde), dite Tante Dide. Aïeule des Rougon-Macquart. Épouse du jardinier Rougon, puis maîtresse du contrebandier Mac-quart :","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",1
+"Gautier (le père). Vigneron à Saint-Eutrope : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",2
+"Gautier (le père). Vigneron à Saint-Eutrope : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",2
+"Gautier (le père). Vigneron à Saint-Eutrope : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",2
+"Gautier (le père). Vigneron à Saint-Eutrope : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",2
+"Gautier (le père). Vigneron à Saint-Eutrope : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Gautier (le père). Vigneron à Saint-Eutrope : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",2
+"*Hôrace. Poète latin : ","Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ",2
+"*Hôrace. Poète latin : ","Maffre. Juge de paix à Plassans : ",1
+"*Hôrace. Poète latin : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",1
+"*Hôrace. Poète latin : ","Paloque (Mme). Épouse du précédent : ",1
+"*Hôrace. Poète latin : ","Porquier (doâeur). Médecin à Plassans : ",1
+"*Hôrace. Poète latin : ","Rastoil (Mme). Épouse du précédent : ",1
+"*Hôrace. Poète latin : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"*Hôrace. Poète latin : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"*Hôrace. Poète latin : ","Rousselot (Mgr). Archevêque de Plassans : ",4
+"*Hôrace. Poète latin : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",4
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Paloque. Juge au tribunal de Plassans : ",5
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Paloque (Mme). Épouse du précédent : ",8
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",13
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Porquier (doâeur). Médecin à Plassans : ",10
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Porquier (Guillaume). Fils du précédent: ",6
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Rastoil (Mme). Épouse du précédent : ",8
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Rastoil (Angéline). Fille aînée des RaStoil : ",5
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Rastoil (Aurélie). Fille cadette des RaStoil : ",6
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",8
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",5
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Maffre. Juge de paix à Plassans : ",4
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",5
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Rousselot (Mgr). Archevêque de Plassans : ",8
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Surin (abbé). Secrétaire de Mgr Rousselot : ",9
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",9
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Rastoil. Président du tribunal de Plassans : ",10
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Rose. Vieille servante des Mouret, à Plassans : ",3
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",4
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",2
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",2
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ",6
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Maffre (Alphonse et Ambroise). Fils du précédent : ",3
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Rastoil (Séverin). Fils des RaStoil. — : ",5
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",1
+"Lagrifoul (marquis de). Vieux gentilhomme légitimiste. Député de Plassans ; ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",1
+"Lieutaud. Architefte diocésain à Plassans : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",7
+"Lieutaud. Architefte diocésain à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",2
+"Lieutaud. Architefte diocésain à Plassans : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",5
+"Lieutaud. Architefte diocésain à Plassans : ","Paloque. Juge au tribunal de Plassans : ",1
+"Lieutaud. Architefte diocésain à Plassans : ","Paloque (Mme). Épouse du précédent : ",2
+"Lieutaud. Architefte diocésain à Plassans : ","Porquier (doâeur). Médecin à Plassans : ",1
+"Lieutaud. Architefte diocésain à Plassans : ","Rastoil. Président du tribunal de Plassans : ",1
+"Lieutaud. Architefte diocésain à Plassans : ","Rastoil (Mme). Épouse du précédent : ",2
+"Lieutaud. Architefte diocésain à Plassans : ","Rastoil (Angéline). Fille aînée des RaStoil : ",1
+"Lieutaud. Architefte diocésain à Plassans : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",1
+"Lieutaud. Architefte diocésain à Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",1
+"Lieutaud. Architefte diocésain à Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",1
+"Lieutaud. Architefte diocésain à Plassans : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",1
+"Lieutaud. Architefte diocésain à Plassans : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",1
+"Lieutaud. Architefte diocésain à Plassans : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",1
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",28
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",17
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",10
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",14
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rose. Vieille servante des Mouret, à Plassans : ",19
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",3
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",6
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Maffre. Juge de paix à Plassans : ",3
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",6
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Porquier (doâeur). Médecin à Plassans : ",9
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rastoil. Président du tribunal de Plassans : ",7
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rastoil (Mme). Épouse du précédent : ",7
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rastoil (Aurélie). Fille cadette des RaStoil : ",5
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Maffre (Alphonse et Ambroise). Fils du précédent : ",1
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Paloque. Juge au tribunal de Plassans : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Paloque (Mme). Épouse du précédent : ",3
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Porquier (Guillaume). Fils du précédent: ",1
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rousselot (Mgr). Archevêque de Plassans : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Surin (abbé). Secrétaire de Mgr Rousselot : ",3
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",15
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",6
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Maffre. Juge de paix à Plassans : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",27
+"Maffre. Juge de paix à Plassans : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",29
+"Maffre. Juge de paix à Plassans : ","Rastoil. Président du tribunal de Plassans : ",38
+"Maffre. Juge de paix à Plassans : ","Rastoil (Mme). Épouse du précédent : ",22
+"Maffre. Juge de paix à Plassans : ","Rastoil (Angéline). Fille aînée des RaStoil : ",21
+"Maffre. Juge de paix à Plassans : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",26
+"Maffre. Juge de paix à Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",24
+"Maffre. Juge de paix à Plassans : ","Paloque. Juge au tribunal de Plassans : ",19
+"Maffre. Juge de paix à Plassans : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",31
+"Maffre. Juge de paix à Plassans : ","Porquier (doâeur). Médecin à Plassans : ",35
+"Maffre. Juge de paix à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",12
+"Maffre. Juge de paix à Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",3
+"Maffre. Juge de paix à Plassans : ","Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ",2
+"Maffre. Juge de paix à Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Maffre. Juge de paix à Plassans : ","Paloque (Mme). Épouse du précédent : ",24
+"Maffre. Juge de paix à Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",5
+"Maffre. Juge de paix à Plassans : ","Rastoil (Séverin). Fils des RaStoil. — : ",11
+"Maffre. Juge de paix à Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",6
+"Maffre. Juge de paix à Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",6
+"Maffre. Juge de paix à Plassans : ","Rose. Vieille servante des Mouret, à Plassans : ",10
+"Maffre. Juge de paix à Plassans : ","Porquier (Guillaume). Fils du précédent: ",10
+"Maffre. Juge de paix à Plassans : ","Maffre (Alphonse et Ambroise). Fils du précédent : ",10
+"Maffre. Juge de paix à Plassans : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",1
+"Maffre. Juge de paix à Plassans : ","Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ",1
+"Maffre. Juge de paix à Plassans : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",1
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",9
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",7
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Paloque (Mme). Épouse du précédent : ",7
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",7
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Porquier (doâeur). Médecin à Plassans : ",9
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Rastoil. Président du tribunal de Plassans : ",10
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Rastoil (Angéline). Fille aînée des RaStoil : ",3
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",6
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Rastoil (Séverin). Fils des RaStoil. — : ",8
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",8
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Paloque. Juge au tribunal de Plassans : ",4
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ",3
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Porquier (Guillaume). Fils du précédent: ",14
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Rastoil (Mme). Épouse du précédent : ",9
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",4
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Rousselot (Mgr). Archevêque de Plassans : ",5
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Rose. Vieille servante des Mouret, à Plassans : ",4
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",4
+"Maffre (Alphonse et Ambroise). Fils du précédent : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",2
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",2
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Rousselot (Mgr). Archevêque de Plassans : ",3
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",5
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",2
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",1
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Paloque. Juge au tribunal de Plassans : ",1
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Paloque (Mme). Épouse du précédent : ",3
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",4
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Porquier (doâeur). Médecin à Plassans : ",3
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Rastoil. Président du tribunal de Plassans : ",3
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",2
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Rastoil (Séverin). Fils des RaStoil. — : ",4
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Porquier (Guillaume). Fils du précédent: ",2
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Rastoil (Mme). Épouse du précédent : ",3
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",3
+"Maurin. Maître chapelier à Plassans. Candidat des républicains aux éleétions législatives : ","Rastoil (Angéline). Fille aînée des RaStoil : ",1
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ",49
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",46
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",39
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",40
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rose. Vieille servante des Mouret, à Plassans : ",32
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Paloque. Juge au tribunal de Plassans : ",6
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",5
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Porquier (doâeur). Médecin à Plassans : ",3
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rastoil. Président du tribunal de Plassans : ",12
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",8
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rastoil (Angéline). Fille aînée des RaStoil : ",3
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",3
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rousselot (Mgr). Archevêque de Plassans : ",4
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",4
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",4
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",4
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rastoil (Mme). Épouse du précédent : ",3
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Rastoil (Séverin). Fils des RaStoil. — : ",2
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Paloque (Mme). Épouse du précédent : ",8
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Porquier (Guillaume). Fils du précédent: ",2
+"Mouret (Désirée). Fille de François Mouret et de Marthe Rougon. Sœur d'Oc-tave et de Serge Mouret : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",1
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:",149
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rose. Vieille servante des Mouret, à Plassans : ",104
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",39
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",43
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rastoil. Président du tribunal de Plassans : ",52
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rastoil (Mme). Épouse du précédent : ",32
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rastoil (Angéline). Fille aînée des RaStoil : ",19
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",19
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",22
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Paloque. Juge au tribunal de Plassans : ",16
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",27
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Porquier (doâeur). Médecin à Plassans : ",34
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",56
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",23
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Paloque (Mme). Épouse du précédent : ",31
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rastoil (Séverin). Fils des RaStoil. — : ",10
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",47
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",51
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Rousselot (Mgr). Archevêque de Plassans : ",14
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",1
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Porquier (Guillaume). Fils du précédent: ",11
+"Mouret (François). Fils d'Ursule Macquart et de Mouret. Époux de Marthe Rougon. Père d'O&ave, Serge et Désirée Mouret. Négociant en vins, huiles et amandes : ","Mousseau (abbé). Prêtre à Plassans: ",2
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",37
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",50
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rose. Vieille servante des Mouret, à Plassans : ",107
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",34
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",42
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rastoil. Président du tribunal de Plassans : ",43
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rastoil (Mme). Épouse du précédent : ",34
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rastoil (Angéline). Fille aînée des RaStoil : ",20
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rastoil (Aurélie). Fille cadette des RaStoil : ",21
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Surin (abbé). Secrétaire de Mgr Rousselot : ",28
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Paloque. Juge au tribunal de Plassans : ",23
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",25
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Porquier (doâeur). Médecin à Plassans : ",42
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",64
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Paloque (Mme). Épouse du précédent : ",48
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rousselot (Mgr). Archevêque de Plassans : ",15
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Rastoil (Séverin). Fils des RaStoil. — : ",9
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",40
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Porquier (Guillaume). Fils du précédent: ",7
+"Mouret (Marthe). Fille de Pierre Rougon et de Félicité Puech. Épouse de François Mouret. Mère d'O&âve, Serge et Désirée:","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",1
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ",41
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Paloque. Juge au tribunal de Plassans : ",4
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rastoil (Angéline). Fille aînée des RaStoil : ",3
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",3
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rose. Vieille servante des Mouret, à Plassans : ",30
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rastoil. Président du tribunal de Plassans : ",9
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rousselot (Mgr). Archevêque de Plassans : ",4
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",5
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",3
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",4
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",4
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",3
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rastoil (Mme). Épouse du précédent : ",2
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rastoil (Séverin). Fils des RaStoil. — : ",2
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Paloque (Mme). Épouse du précédent : ",4
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",1
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Porquier (doâeur). Médecin à Plassans : ",1
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Porquier (Guillaume). Fils du précédent: ",1
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Paloque. Juge au tribunal de Plassans : ",6
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rastoil (Angéline). Fille aînée des RaStoil : ",3
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",4
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rose. Vieille servante des Mouret, à Plassans : ",37
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rastoil. Président du tribunal de Plassans : ",10
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rousselot (Mgr). Archevêque de Plassans : ",4
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",9
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",7
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",4
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",4
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",5
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rastoil (Mme). Épouse du précédent : ",4
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Rastoil (Séverin). Fils des RaStoil. — : ",2
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Paloque (Mme). Épouse du précédent : ",8
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",2
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Porquier (doâeur). Médecin à Plassans : ",6
+"Mouret (Serge). Deuxième fils de François Mouret et de Marthe Rougon. Frère d'Oo tave et de Désirée Mouret : ","Porquier (Guillaume). Fils du précédent: ",2
+"Mousseau (abbé). Prêtre à Plassans: ","Rose. Vieille servante des Mouret, à Plassans : ",2
+"Paloque. Juge au tribunal de Plassans : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",25
+"Paloque. Juge au tribunal de Plassans : ","Porquier (doâeur). Médecin à Plassans : ",27
+"Paloque. Juge au tribunal de Plassans : ","Rastoil. Président du tribunal de Plassans : ",24
+"Paloque. Juge au tribunal de Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",8
+"Paloque. Juge au tribunal de Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",3
+"Paloque. Juge au tribunal de Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Paloque. Juge au tribunal de Plassans : ","Paloque (Mme). Épouse du précédent : ",34
+"Paloque. Juge au tribunal de Plassans : ","Porquier (Guillaume). Fils du précédent: ",7
+"Paloque. Juge au tribunal de Plassans : ","Rastoil (Mme). Épouse du précédent : ",18
+"Paloque. Juge au tribunal de Plassans : ","Rastoil (Angéline). Fille aînée des RaStoil : ",17
+"Paloque. Juge au tribunal de Plassans : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",21
+"Paloque. Juge au tribunal de Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",19
+"Paloque. Juge au tribunal de Plassans : ","Rose. Vieille servante des Mouret, à Plassans : ",8
+"Paloque. Juge au tribunal de Plassans : ","Rastoil (Séverin). Fils des RaStoil. — : ",7
+"Paloque. Juge au tribunal de Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",3
+"Paloque. Juge au tribunal de Plassans : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",1
+"Paloque. Juge au tribunal de Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",3
+"Paloque. Juge au tribunal de Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",1
+"Paloque (Mme). Épouse du précédent : ","PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ",26
+"Paloque (Mme). Épouse du précédent : ","Porquier (doâeur). Médecin à Plassans : ",30
+"Paloque (Mme). Épouse du précédent : ","Porquier (Guillaume). Fils du précédent: ",10
+"Paloque (Mme). Épouse du précédent : ","Rastoil (Mme). Épouse du précédent : ",29
+"Paloque (Mme). Épouse du précédent : ","Rastoil (Angéline). Fille aînée des RaStoil : ",19
+"Paloque (Mme). Épouse du précédent : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",23
+"Paloque (Mme). Épouse du précédent : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",22
+"Paloque (Mme). Épouse du précédent : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",9
+"Paloque (Mme). Épouse du précédent : ","Rousselot (Mgr). Archevêque de Plassans : ",11
+"Paloque (Mme). Épouse du précédent : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",27
+"Paloque (Mme). Épouse du précédent : ","Rastoil. Président du tribunal de Plassans : ",26
+"Paloque (Mme). Épouse du précédent : ","Rose. Vieille servante des Mouret, à Plassans : ",14
+"Paloque (Mme). Épouse du précédent : ","Rastoil (Séverin). Fils des RaStoil. — : ",11
+"Paloque (Mme). Épouse du précédent : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",3
+"Paloque (Mme). Épouse du précédent : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",5
+"Paloque (Mme). Épouse du précédent : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",3
+"Peirotte. Receveur particulier à Plassans : ","Porquier (Guillaume). Fils du précédent: ",3
+"Peirotte. Receveur particulier à Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Peirotte. Receveur particulier à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",3
+"Peirotte. Receveur particulier à Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",3
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Porquier (doâeur). Médecin à Plassans : ",40
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Rastoil. Président du tribunal de Plassans : ",50
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",14
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",6
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Porquier (Guillaume). Fils du précédent: ",12
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Rastoil (Mme). Épouse du précédent : ",26
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Rastoil (Angéline). Fille aînée des RaStoil : ",25
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",34
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Rastoil (Séverin). Fils des RaStoil. — : ",16
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",31
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",8
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",6
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Rose. Vieille servante des Mouret, à Plassans : ",9
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",8
+"PÉQUEUR DES SAULAIES. Sous-préfet de Plassans : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",2
+"Porquier (doâeur). Médecin à Plassans : ","Rastoil. Président du tribunal de Plassans : ",38
+"Porquier (doâeur). Médecin à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",19
+"Porquier (doâeur). Médecin à Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",10
+"Porquier (doâeur). Médecin à Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Porquier (doâeur). Médecin à Plassans : ","Porquier (Guillaume). Fils du précédent: ",14
+"Porquier (doâeur). Médecin à Plassans : ","Rastoil (Mme). Épouse du précédent : ",23
+"Porquier (doâeur). Médecin à Plassans : ","Rastoil (Angéline). Fille aînée des RaStoil : ",23
+"Porquier (doâeur). Médecin à Plassans : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",28
+"Porquier (doâeur). Médecin à Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",5
+"Porquier (doâeur). Médecin à Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",27
+"Porquier (doâeur). Médecin à Plassans : ","Rastoil (Séverin). Fils des RaStoil. — : ",15
+"Porquier (doâeur). Médecin à Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",11
+"Porquier (doâeur). Médecin à Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",14
+"Porquier (doâeur). Médecin à Plassans : ","Rose. Vieille servante des Mouret, à Plassans : ",19
+"Porquier (doâeur). Médecin à Plassans : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",2
+"Porquier (Guillaume). Fils du précédent: ","Rastoil (Mme). Épouse du précédent : ",11
+"Porquier (Guillaume). Fils du précédent: ","Rastoil (Angéline). Fille aînée des RaStoil : ",4
+"Porquier (Guillaume). Fils du précédent: ","Rastoil (Aurélie). Fille cadette des RaStoil : ",6
+"Porquier (Guillaume). Fils du précédent: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",12
+"Porquier (Guillaume). Fils du précédent: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",5
+"Porquier (Guillaume). Fils du précédent: ","Rastoil. Président du tribunal de Plassans : ",11
+"Porquier (Guillaume). Fils du précédent: ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",11
+"Porquier (Guillaume). Fils du précédent: ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",8
+"Porquier (Guillaume). Fils du précédent: ","Rastoil (Séverin). Fils des RaStoil. — : ",7
+"Porquier (Guillaume). Fils du précédent: ","Rousselot (Mgr). Archevêque de Plassans : ",5
+"Porquier (Guillaume). Fils du précédent: ","Surin (abbé). Secrétaire de Mgr Rousselot : ",6
+"Porquier (Guillaume). Fils du précédent: ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Porquier (Guillaume). Fils du précédent: ","Rose. Vieille servante des Mouret, à Plassans : ",4
+"Rastoil. Président du tribunal de Plassans : ","Rastoil (Mme). Épouse du précédent : ",35
+"Rastoil. Président du tribunal de Plassans : ","Rastoil (Angéline). Fille aînée des RaStoil : ",27
+"Rastoil. Président du tribunal de Plassans : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",36
+"Rastoil. Président du tribunal de Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",33
+"Rastoil. Président du tribunal de Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",16
+"Rastoil. Président du tribunal de Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",7
+"Rastoil. Président du tribunal de Plassans : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Rastoil. Président du tribunal de Plassans : ","Rastoil (Séverin). Fils des RaStoil. — : ",16
+"Rastoil. Président du tribunal de Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",8
+"Rastoil. Président du tribunal de Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",6
+"Rastoil. Président du tribunal de Plassans : ","Rose. Vieille servante des Mouret, à Plassans : ",21
+"Rastoil. Président du tribunal de Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",12
+"Rastoil. Président du tribunal de Plassans : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",2
+"Rastoil (Mme). Épouse du précédent : ","Rastoil (Angéline). Fille aînée des RaStoil : ",16
+"Rastoil (Mme). Épouse du précédent : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",24
+"Rastoil (Mme). Épouse du précédent : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",21
+"Rastoil (Mme). Épouse du précédent : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",21
+"Rastoil (Mme). Épouse du précédent : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",10
+"Rastoil (Mme). Épouse du précédent : ","Rousselot (Mgr). Archevêque de Plassans : ",12
+"Rastoil (Mme). Épouse du précédent : ","Rastoil (Séverin). Fils des RaStoil. — : ",10
+"Rastoil (Mme). Épouse du précédent : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",8
+"Rastoil (Mme). Épouse du précédent : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",4
+"Rastoil (Mme). Épouse du précédent : ","Rose. Vieille servante des Mouret, à Plassans : ",13
+"Rastoil (Mme). Épouse du précédent : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",1
+"Rastoil (Angéline). Fille aînée des RaStoil : ","Rastoil (Aurélie). Fille cadette des RaStoil : ",37
+"Rastoil (Angéline). Fille aînée des RaStoil : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",22
+"Rastoil (Angéline). Fille aînée des RaStoil : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",7
+"Rastoil (Angéline). Fille aînée des RaStoil : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",2
+"Rastoil (Angéline). Fille aînée des RaStoil : ","Rose. Vieille servante des Mouret, à Plassans : ",7
+"Rastoil (Angéline). Fille aînée des RaStoil : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",3
+"Rastoil (Angéline). Fille aînée des RaStoil : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",3
+"Rastoil (Angéline). Fille aînée des RaStoil : ","Rastoil (Séverin). Fils des RaStoil. — : ",7
+"Rastoil (Angéline). Fille aînée des RaStoil : ","Rousselot (Mgr). Archevêque de Plassans : ",3
+"Rastoil (Aurélie). Fille cadette des RaStoil : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",25
+"Rastoil (Aurélie). Fille cadette des RaStoil : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",9
+"Rastoil (Aurélie). Fille cadette des RaStoil : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",3
+"Rastoil (Aurélie). Fille cadette des RaStoil : ","Rose. Vieille servante des Mouret, à Plassans : ",8
+"Rastoil (Aurélie). Fille cadette des RaStoil : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",3
+"Rastoil (Aurélie). Fille cadette des RaStoil : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",3
+"Rastoil (Aurélie). Fille cadette des RaStoil : ","Rastoil (Séverin). Fils des RaStoil. — : ",8
+"Rastoil (Aurélie). Fille cadette des RaStoil : ","Rousselot (Mgr). Archevêque de Plassans : ",5
+"Rastoil (Séverin). Fils des RaStoil. — : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",16
+"Rastoil (Séverin). Fils des RaStoil. — : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",4
+"Rastoil (Séverin). Fils des RaStoil. — : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",4
+"Rastoil (Séverin). Fils des RaStoil. — : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",3
+"Rastoil (Séverin). Fils des RaStoil. — : ","Rousselot (Mgr). Archevêque de Plassans : ",6
+"Rastoil (Séverin). Fils des RaStoil. — : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",2
+"Rastoil (Séverin). Fils des RaStoil. — : ","Rose. Vieille servante des Mouret, à Plassans : ",4
+"Rastoil (Séverin). Fils des RaStoil. — : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",1
+"Rose. Vieille servante des Mouret, à Plassans : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",21
+"Rose. Vieille servante des Mouret, à Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",10
+"Rose. Vieille servante des Mouret, à Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",36
+"Rose. Vieille servante des Mouret, à Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",41
+"Rose. Vieille servante des Mouret, à Plassans : ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",35
+"Rose. Vieille servante des Mouret, à Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",9
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ",4
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",3
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ",44
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Rousselot (Mgr). Archevêque de Plassans : ",10
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",9
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",18
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",16
+"Rougon (Félicité). Fille du marchand d'huile Puech. Épouse de Pierre Rougon. Mère d'Eugène, Pascal, Aristide, Sidonie et Marthe Rougon. .-— : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",1
+"Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",8
+"Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ","Rousselot (Mgr). Archevêque de Plassans : ",3
+"Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",4
+"Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",4
+"Rougon (Pierre). Fils d'Adélaïde Fouque et de Rougon. Époux de Félicité Puech. Père d'Eugène, Pascal, Aristide, Sidonie et Marthe R o u g o n. Marchand d'huile à Plassans : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",1
+"Rousselot (Mgr). Archevêque de Plassans : ","Surin (abbé). Secrétaire de Mgr Rousselot : ",23
+"Rousselot (Mgr). Archevêque de Plassans : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",2
+"Rousselot (Mgr). Archevêque de Plassans : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",4
+"Rousselot (Mgr). Archevêque de Plassans : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",2
+"Rousselot (Mgr). Archevêque de Plassans : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",3
+"Surin (abbé). Secrétaire de Mgr Rousselot : ","Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ",6
+"Surin (abbé). Secrétaire de Mgr Rousselot : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",5
+"Surin (abbé). Secrétaire de Mgr Rousselot : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",2
+"Surin (abbé). Secrétaire de Mgr Rousselot : ","Vial (abbé). Second grand-vicaire du diocèse de Plassans : ",3
+"Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ","Trouche (Olympe). Sœur de l'abbé Faujas. Épouse d'Honoré Trouche : ",61
+"Trouche (Honoré). Époux d'Olympe Faujas. Beau-frère de l'abbéFaujas : ","Valqueyras (comte de). Noble du quartier Saint-Marc, à Plassans : ",1

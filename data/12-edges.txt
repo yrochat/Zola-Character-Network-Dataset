@@ -1,0 +1,697 @@
+"from","to","weight"
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ",4
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ",4
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ",4
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ",2
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",4
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",4
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Véronique. Servante des Chanteau : ",3
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Delorme. Parent des  Quenu : ",3
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",3
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Liardin. Parent des Que-nu : ",3
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",3
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Naudet. Cousin des Que-nu : ",3
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",3
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",3
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Horteur (abbé). Curé de Bonneville : ",1
+"Adèle. Demoiselle de boutique de la charcuterie Quenu : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",1
+"Bouland (Mme). Sage-femme : ","Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ",13
+"Bouland (Mme). Sage-femme : ","Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ",26
+"Bouland (Mme). Sage-femme : ","Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ",23
+"Bouland (Mme). Sage-femme : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",28
+"Bouland (Mme). Sage-femme : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",28
+"Bouland (Mme). Sage-femme : ","Véronique. Servante des Chanteau : ",20
+"Bouland (Mme). Sage-femme : ","Cazenove (Docteur). Médecin à Arromanches : ",21
+"Bouland (Mme). Sage-femme : ","Horteur (abbé). Curé de Bonneville : ",7
+"Bouland (Mme). Sage-femme : ","Gonin. Pêcheur de Bonneville : ",2
+"Bouland (Mme). Sage-femme : ","Gonin (femme). Épouse du précédent. Cousine de Cuche : ",2
+"Bouland (Mme). Sage-femme : ","Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ",5
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ",15
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ",17
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ",20
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",1
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Malivoire. Loueur de voitures à Arromanches : ",2
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",6
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",6
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",20
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",6
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",10
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Véronique. Servante des Chanteau : ",7
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ",2
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Cazenove (Docteur). Médecin à Arromanches : ",7
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Herbelin. Illustre chimiste : ",3
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",4
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","*Schopenhauer (Arthur). Philosophe allemand : ",2
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Delorme. Parent des  Quenu : ",2
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",2
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Liardin. Parent des Que-nu : ",2
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",2
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Naudet. Cousin des Que-nu : ",2
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",2
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Horteur (abbé). Curé de Bonneville : ",4
+"Boutigny. Associé de Lazare Chanteau pour l'exploitation des algues : ","Davoine. Ancien associé de Chanteau : ",2
+"Cazenove (Docteur). Médecin à Arromanches : ","Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ",105
+"Cazenove (Docteur). Médecin à Arromanches : ","Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ",133
+"Cazenove (Docteur). Médecin à Arromanches : ","Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ",36
+"Cazenove (Docteur). Médecin à Arromanches : ","Horteur (abbé). Curé de Bonneville : ",51
+"Cazenove (Docteur). Médecin à Arromanches : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",138
+"Cazenove (Docteur). Médecin à Arromanches : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",86
+"Cazenove (Docteur). Médecin à Arromanches : ","Véronique. Servante des Chanteau : ",94
+"Cazenove (Docteur). Médecin à Arromanches : ","Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ",92
+"Cazenove (Docteur). Médecin à Arromanches : ","Delorme. Parent des  Quenu : ",4
+"Cazenove (Docteur). Médecin à Arromanches : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",4
+"Cazenove (Docteur). Médecin à Arromanches : ","Liardin. Parent des Que-nu : ",4
+"Cazenove (Docteur). Médecin à Arromanches : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",4
+"Cazenove (Docteur). Médecin à Arromanches : ","Naudet. Cousin des Que-nu : ",4
+"Cazenove (Docteur). Médecin à Arromanches : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",3
+"Cazenove (Docteur). Médecin à Arromanches : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",3
+"Cazenove (Docteur). Médecin à Arromanches : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",4
+"Cazenove (Docteur). Médecin à Arromanches : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",4
+"Cazenove (Docteur). Médecin à Arromanches : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",14
+"Cazenove (Docteur). Médecin à Arromanches : ","Cuche. Pêcheur de Bonneville : ",8
+"Cazenove (Docteur). Médecin à Arromanches : ","Cuche (Mme). Épouse du précédent : ",5
+"Cazenove (Docteur). Médecin à Arromanches : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",6
+"Cazenove (Docteur). Médecin à Arromanches : ","Martin. Domestique du Docteur Cazenove : ",10
+"Cazenove (Docteur). Médecin à Arromanches : ","Cuche (le petit). Fils des précédents : ",10
+"Cazenove (Docteur). Médecin à Arromanches : ","Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ",4
+"Cazenove (Docteur). Médecin à Arromanches : ","Herbelin. Illustre chimiste : ",1
+"Cazenove (Docteur). Médecin à Arromanches : ","Gonin (femme). Épouse du précédent. Cousine de Cuche : ",8
+"Cazenove (Docteur). Médecin à Arromanches : ","Gonin (la petite). Fille des précédents: ",9
+"Cazenove (Docteur). Médecin à Arromanches : ","Houtelard (père). Pêcheur de Bonneville : ",2
+"Cazenove (Docteur). Médecin à Arromanches : ","Houtelard (la première femme de) : ",2
+"Cazenove (Docteur). Médecin à Arromanches : ","Houtelard (la seconde femme de) : ",2
+"Cazenove (Docteur). Médecin à Arromanches : ","Houtelard (le fils) : ",6
+"Cazenove (Docteur). Médecin à Arromanches : ","Prouane (Mme). Épouse du précédent : ",6
+"Cazenove (Docteur). Médecin à Arromanches : ","Prouane (fille). Fille des précédents : ",8
+"Cazenove (Docteur). Médecin à Arromanches : ","Gonin. Pêcheur de Bonneville : ",5
+"Cazenove (Docteur). Médecin à Arromanches : ","Simonnot (Mme). Femme de Bonneville. — : ",2
+"Cazenove (Docteur). Médecin à Arromanches : ","Tourmal (fille). Fille des Tourmal : ",5
+"Cazenove (Docteur). Médecin à Arromanches : ","Malivoire. Loueur de voitures à Arromanches : ",5
+"Cazenove (Docteur). Médecin à Arromanches : ","Gonin (fille de la petite). Enfant de la précédente : ",4
+"Cazenove (Docteur). Médecin à Arromanches : ","Tourmal. Père de Tour-mal : ",3
+"Cazenove (Docteur). Médecin à Arromanches : ","Tourmal. Contrebandier à Bonneville : ",3
+"Cazenove (Docteur). Médecin à Arromanches : ","Tourmal (Mme). Épouse du précédent : ",3
+"Cazenove (Docteur). Médecin à Arromanches : ","*Schopenhauer (Arthur). Philosophe allemand : ",2
+"Cazenove (Docteur). Médecin à Arromanches : ","*Érard. Faéleur de pianos : ",1
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ",13
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ",17
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ",17
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",4
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",4
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",17
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",3
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",8
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Véronique. Servante des Chanteau : ",9
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Horteur (abbé). Curé de Bonneville : ",2
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Davoine. Ancien associé de Chanteau : ",3
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ",2
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Malivoire. Loueur de voitures à Arromanches : ",1
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ",2
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ",1
+"Chanteau (père). Père de Chanteau. Ancien commerçant de bois : ","*Schopenhauer (Arthur). Philosophe allemand : ",1
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ",187
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ",234
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ",4
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",14
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",10
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",242
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Véronique. Servante des Chanteau : ",163
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Delorme. Parent des  Quenu : ",11
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",11
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Liardin. Parent des Que-nu : ",11
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",11
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Naudet. Cousin des Que-nu : ",11
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",11
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",14
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ",38
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",133
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Horteur (abbé). Curé de Bonneville : ",79
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Gonin. Pêcheur de Bonneville : ",8
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Gonin (femme). Épouse du précédent. Cousine de Cuche : ",9
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",2
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Malivoire. Loueur de voitures à Arromanches : ",18
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",25
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Herbelin. Illustre chimiste : ",6
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","*Schopenhauer (Arthur). Philosophe allemand : ",7
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Cuche. Pêcheur de Bonneville : ",12
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Cuche (Mme). Épouse du précédent : ",9
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",17
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Martin. Domestique du Docteur Cazenove : ",9
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Cuche (le petit). Fils des précédents : ",26
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Simonnot (Mme). Femme de Bonneville. — : ",2
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Prouane (Mme). Épouse du précédent : ",6
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Gonin (la petite). Fille des précédents: ",22
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Houtelard (le fils) : ",19
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Prouane (fille). Fille des précédents : ",25
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Tourmal (fille). Fille des Tourmal : ",20
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Gonin (fille de la petite). Enfant de la précédente : ",6
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Tourmal. Père de Tour-mal : ",7
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Tourmal. Contrebandier à Bonneville : ",11
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Tourmal (Mme). Épouse du précédent : ",8
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Davoine. Ancien associé de Chanteau : ",13
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ",2
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Houtelard (père). Pêcheur de Bonneville : ",14
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","*Érard. Faéleur de pianos : ",2
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Houtelard (la seconde femme de) : ",9
+"Chanteau. Père de Lazare Chanteau. Cousin de Quenu. Tuteur de Pauline Quenu. Ancien commerçant de bois : ","Léonie. Tante de Louise Thibaudier : ",5
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ",219
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ",4
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",15
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",11
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",222
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Véronique. Servante des Chanteau : ",146
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Delorme. Parent des  Quenu : ",12
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",12
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Liardin. Parent des Que-nu : ",12
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",12
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Naudet. Cousin des Que-nu : ",12
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",12
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",15
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ",18
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",108
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Horteur (abbé). Curé de Bonneville : ",60
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",2
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Malivoire. Loueur de voitures à Arromanches : ",12
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",23
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Herbelin. Illustre chimiste : ",8
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","*Schopenhauer (Arthur). Philosophe allemand : ",5
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Cuche. Pêcheur de Bonneville : ",12
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Cuche (Mme). Épouse du précédent : ",6
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",12
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Martin. Domestique du Docteur Cazenove : ",7
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Cuche (le petit). Fils des précédents : ",18
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Gonin. Pêcheur de Bonneville : ",4
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Gonin (femme). Épouse du précédent. Cousine de Cuche : ",3
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Simonnot (Mme). Femme de Bonneville. — : ",2
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Prouane (Mme). Épouse du précédent : ",2
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Gonin (la petite). Fille des précédents: ",14
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Houtelard (le fils) : ",13
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Prouane (fille). Fille des précédents : ",12
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Tourmal (fille). Fille des Tourmal : ",9
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Davoine. Ancien associé de Chanteau : ",13
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ",2
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Houtelard (père). Pêcheur de Bonneville : ",12
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Tourmal. Contrebandier à Bonneville : ",6
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","*Érard. Faéleur de pianos : ",2
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Tourmal. Père de Tour-mal : ",1
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Tourmal (Mme). Épouse du précédent : ",2
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Houtelard (la seconde femme de) : ",5
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Léonie. Tante de Louise Thibaudier : ",6
+"Chanteau (Eugénie). Née Eugénie de la Vignière. Épouse du précédent : ","Gonin (fille de la petite). Enfant de la précédente : ",2
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ",4
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",15
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",11
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",311
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Véronique. Servante des Chanteau : ",193
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Delorme. Parent des  Quenu : ",12
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",12
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Liardin. Parent des Que-nu : ",12
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",12
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Naudet. Cousin des Que-nu : ",12
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",12
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",15
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ",51
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",175
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Horteur (abbé). Curé de Bonneville : ",85
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Gonin. Pêcheur de Bonneville : ",10
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Gonin (femme). Épouse du précédent. Cousine de Cuche : ",11
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ",2
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Malivoire. Loueur de voitures à Arromanches : ",17
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",31
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Herbelin. Illustre chimiste : ",8
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","*Schopenhauer (Arthur). Philosophe allemand : ",10
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Cuche. Pêcheur de Bonneville : ",17
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Cuche (Mme). Épouse du précédent : ",9
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",20
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Martin. Domestique du Docteur Cazenove : ",10
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Cuche (le petit). Fils des précédents : ",27
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Simonnot (Mme). Femme de Bonneville. — : ",2
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Prouane (Mme). Épouse du précédent : ",7
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Gonin (la petite). Fille des précédents: ",25
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Houtelard (le fils) : ",21
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Prouane (fille). Fille des précédents : ",26
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Tourmal (fille). Fille des Tourmal : ",19
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Gonin (fille de la petite). Enfant de la précédente : ",5
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Tourmal. Père de Tour-mal : ",6
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Tourmal. Contrebandier à Bonneville : ",11
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Tourmal (Mme). Épouse du précédent : ",7
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Davoine. Ancien associé de Chanteau : ",12
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ",2
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Houtelard (père). Pêcheur de Bonneville : ",19
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","*Érard. Faéleur de pianos : ",2
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Houtelard (la seconde femme de) : ",10
+"Chanteau (Lazare). Fils des précédents. Cousin de Pauline Quenu. Épouse Louise Thibaudier : ","Léonie. Tante de Louise Thibaudier : ",6
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",55
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",50
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Véronique. Servante des Chanteau : ",28
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Horteur (abbé). Curé de Bonneville : ",20
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Malivoire. Loueur de voitures à Arromanches : ",1
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Cuche. Pêcheur de Bonneville : ",2
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Gonin. Pêcheur de Bonneville : ",2
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Gonin (femme). Épouse du précédent. Cousine de Cuche : ",4
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Gonin (la petite). Fille des précédents: ",7
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Gonin (fille de la petite). Enfant de la précédente : ",6
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Martin. Domestique du Docteur Cazenove : ",4
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Prouane (fille). Fille des précédents : ",8
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Tourmal. Père de Tour-mal : ",4
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Tourmal. Contrebandier à Bonneville : ",4
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Tourmal (Mme). Épouse du précédent : ",4
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Tourmal (fille). Fille des Tourmal : ",8
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",2
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Prouane (Mme). Épouse du précédent : ",2
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","*Schopenhauer (Arthur). Philosophe allemand : ",4
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Cuche (le petit). Fils des précédents : ",6
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Houtelard (le fils) : ",4
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Cuche (Mme). Épouse du précédent : ",1
+"Chanteau (Paul). Fils de Lazare Chanteau et de Louise Thibaudier : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Cuche. Pêcheur de Bonneville : ","Cuche (Mme). Épouse du précédent : ",11
+"Cuche. Pêcheur de Bonneville : ","Horteur (abbé). Curé de Bonneville : ",6
+"Cuche. Pêcheur de Bonneville : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",12
+"Cuche. Pêcheur de Bonneville : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",21
+"Cuche. Pêcheur de Bonneville : ","Véronique. Servante des Chanteau : ",13
+"Cuche. Pêcheur de Bonneville : ","Martin. Domestique du Docteur Cazenove : ",2
+"Cuche. Pêcheur de Bonneville : ","Cuche (le petit). Fils des précédents : ",11
+"Cuche. Pêcheur de Bonneville : ","Gonin (femme). Épouse du précédent. Cousine de Cuche : ",11
+"Cuche. Pêcheur de Bonneville : ","Gonin (la petite). Fille des précédents: ",8
+"Cuche. Pêcheur de Bonneville : ","Houtelard (père). Pêcheur de Bonneville : ",12
+"Cuche. Pêcheur de Bonneville : ","Houtelard (la première femme de) : ",2
+"Cuche. Pêcheur de Bonneville : ","Houtelard (la seconde femme de) : ",5
+"Cuche. Pêcheur de Bonneville : ","Houtelard (le fils) : ",6
+"Cuche. Pêcheur de Bonneville : ","Prouane (Mme). Épouse du précédent : ",4
+"Cuche. Pêcheur de Bonneville : ","Prouane (fille). Fille des précédents : ",8
+"Cuche. Pêcheur de Bonneville : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",9
+"Cuche. Pêcheur de Bonneville : ","Gonin. Pêcheur de Bonneville : ",11
+"Cuche. Pêcheur de Bonneville : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Cuche. Pêcheur de Bonneville : ","Gonin (fille de la petite). Enfant de la précédente : ",2
+"Cuche. Pêcheur de Bonneville : ","Tourmal. Père de Tour-mal : ",3
+"Cuche. Pêcheur de Bonneville : ","Tourmal. Contrebandier à Bonneville : ",7
+"Cuche. Pêcheur de Bonneville : ","Tourmal (Mme). Épouse du précédent : ",3
+"Cuche. Pêcheur de Bonneville : ","Tourmal (fille). Fille des Tourmal : ",4
+"Cuche. Pêcheur de Bonneville : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",1
+"Cuche. Pêcheur de Bonneville : ","Davoine. Ancien associé de Chanteau : ",1
+"Cuche (Mme). Épouse du précédent : ","Horteur (abbé). Curé de Bonneville : ",2
+"Cuche (Mme). Épouse du précédent : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",10
+"Cuche (Mme). Épouse du précédent : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",14
+"Cuche (Mme). Épouse du précédent : ","Véronique. Servante des Chanteau : ",9
+"Cuche (Mme). Épouse du précédent : ","Martin. Domestique du Docteur Cazenove : ",1
+"Cuche (Mme). Épouse du précédent : ","Cuche (le petit). Fils des précédents : ",12
+"Cuche (Mme). Épouse du précédent : ","Gonin (femme). Épouse du précédent. Cousine de Cuche : ",7
+"Cuche (Mme). Épouse du précédent : ","Gonin (la petite). Fille des précédents: ",6
+"Cuche (Mme). Épouse du précédent : ","Houtelard (père). Pêcheur de Bonneville : ",8
+"Cuche (Mme). Épouse du précédent : ","Houtelard (la première femme de) : ",2
+"Cuche (Mme). Épouse du précédent : ","Houtelard (la seconde femme de) : ",5
+"Cuche (Mme). Épouse du précédent : ","Houtelard (le fils) : ",6
+"Cuche (Mme). Épouse du précédent : ","Prouane (Mme). Épouse du précédent : ",5
+"Cuche (Mme). Épouse du précédent : ","Prouane (fille). Fille des précédents : ",8
+"Cuche (Mme). Épouse du précédent : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",2
+"Cuche (Mme). Épouse du précédent : ","Gonin. Pêcheur de Bonneville : ",6
+"Cuche (Mme). Épouse du précédent : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",1
+"Cuche (Mme). Épouse du précédent : ","Tourmal. Contrebandier à Bonneville : ",4
+"Cuche (Mme). Épouse du précédent : ","Davoine. Ancien associé de Chanteau : ",1
+"Cuche (Mme). Épouse du précédent : ","Tourmal (fille). Fille des Tourmal : ",2
+"Cuche (Mme). Épouse du précédent : ","Gonin (fille de la petite). Enfant de la précédente : ",1
+"Cuche (Mme). Épouse du précédent : ","Tourmal. Père de Tour-mal : ",1
+"Cuche (Mme). Épouse du précédent : ","Tourmal (Mme). Épouse du précédent : ",1
+"Cuche (le petit). Fils des précédents : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",34
+"Cuche (le petit). Fils des précédents : ","Véronique. Servante des Chanteau : ",25
+"Cuche (le petit). Fils des précédents : ","Gonin (femme). Épouse du précédent. Cousine de Cuche : ",8
+"Cuche (le petit). Fils des précédents : ","Gonin (la petite). Fille des précédents: ",22
+"Cuche (le petit). Fils des précédents : ","Houtelard (père). Pêcheur de Bonneville : ",11
+"Cuche (le petit). Fils des précédents : ","Houtelard (la première femme de) : ",2
+"Cuche (le petit). Fils des précédents : ","Houtelard (la seconde femme de) : ",7
+"Cuche (le petit). Fils des précédents : ","Houtelard (le fils) : ",23
+"Cuche (le petit). Fils des précédents : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",11
+"Cuche (le petit). Fils des précédents : ","Prouane (Mme). Épouse du précédent : ",7
+"Cuche (le petit). Fils des précédents : ","Prouane (fille). Fille des précédents : ",25
+"Cuche (le petit). Fils des précédents : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",19
+"Cuche (le petit). Fils des précédents : ","Martin. Domestique du Docteur Cazenove : ",2
+"Cuche (le petit). Fils des précédents : ","Horteur (abbé). Curé de Bonneville : ",12
+"Cuche (le petit). Fils des précédents : ","Tourmal (fille). Fille des Tourmal : ",18
+"Cuche (le petit). Fils des précédents : ","Gonin. Pêcheur de Bonneville : ",9
+"Cuche (le petit). Fils des précédents : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",1
+"Cuche (le petit). Fils des précédents : ","Tourmal. Contrebandier à Bonneville : ",10
+"Cuche (le petit). Fils des précédents : ","Davoine. Ancien associé de Chanteau : ",1
+"Cuche (le petit). Fils des précédents : ","Tourmal. Père de Tour-mal : ",6
+"Cuche (le petit). Fils des précédents : ","Tourmal (Mme). Épouse du précédent : ",7
+"Cuche (le petit). Fils des précédents : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Cuche (le petit). Fils des précédents : ","Léonie. Tante de Louise Thibaudier : ",1
+"Cuche (le petit). Fils des précédents : ","Gonin (fille de la petite). Enfant de la précédente : ",3
+"Davoine. Ancien associé de Chanteau : ","Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ",1
+"Davoine. Ancien associé de Chanteau : ","Malivoire. Loueur de voitures à Arromanches : ",3
+"Davoine. Ancien associé de Chanteau : ","Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ",1
+"Davoine. Ancien associé de Chanteau : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",2
+"Davoine. Ancien associé de Chanteau : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Davoine. Ancien associé de Chanteau : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",13
+"Davoine. Ancien associé de Chanteau : ","Véronique. Servante des Chanteau : ",7
+"Davoine. Ancien associé de Chanteau : ","Gonin. Pêcheur de Bonneville : ",1
+"Davoine. Ancien associé de Chanteau : ","Gonin (femme). Épouse du précédent. Cousine de Cuche : ",1
+"Davoine. Ancien associé de Chanteau : ","Houtelard (père). Pêcheur de Bonneville : ",1
+"Davoine. Ancien associé de Chanteau : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",2
+"Davoine. Ancien associé de Chanteau : ","Tourmal. Contrebandier à Bonneville : ",1
+"Davoine. Ancien associé de Chanteau : ","Horteur (abbé). Curé de Bonneville : ",4
+"Davoine. Ancien associé de Chanteau : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",1
+"Davoine. Ancien associé de Chanteau : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",4
+"Davoine. Ancien associé de Chanteau : ","Delorme. Parent des  Quenu : ",1
+"Davoine. Ancien associé de Chanteau : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",1
+"Davoine. Ancien associé de Chanteau : ","Liardin. Parent des Que-nu : ",1
+"Davoine. Ancien associé de Chanteau : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",1
+"Davoine. Ancien associé de Chanteau : ","Naudet. Cousin des Que-nu : ",1
+"Davoine. Ancien associé de Chanteau : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",1
+"Davoine. Ancien associé de Chanteau : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"Delorme. Parent des  Quenu : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",12
+"Delorme. Parent des  Quenu : ","Liardin. Parent des Que-nu : ",12
+"Delorme. Parent des  Quenu : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",12
+"Delorme. Parent des  Quenu : ","Naudet. Cousin des Que-nu : ",12
+"Delorme. Parent des  Quenu : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",5
+"Delorme. Parent des  Quenu : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",12
+"Delorme. Parent des  Quenu : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",12
+"Delorme. Parent des  Quenu : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",12
+"Delorme. Parent des  Quenu : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",3
+"Delorme. Parent des  Quenu : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Delorme. Parent des  Quenu : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",5
+"Delorme. Parent des  Quenu : ","Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ",1
+"Delorme. Parent des  Quenu : ","Véronique. Servante des Chanteau : ",4
+"Delorme. Parent des  Quenu : ","Horteur (abbé). Curé de Bonneville : ",3
+"Delorme. Parent des  Quenu : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",1
+"*Érard. Faéleur de pianos : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",2
+"Gonin. Pêcheur de Bonneville : ","Gonin (femme). Épouse du précédent. Cousine de Cuche : ",12
+"Gonin. Pêcheur de Bonneville : ","Horteur (abbé). Curé de Bonneville : ",6
+"Gonin. Pêcheur de Bonneville : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",14
+"Gonin. Pêcheur de Bonneville : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",8
+"Gonin. Pêcheur de Bonneville : ","Véronique. Servante des Chanteau : ",11
+"Gonin. Pêcheur de Bonneville : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Gonin. Pêcheur de Bonneville : ","Gonin (la petite). Fille des précédents: ",8
+"Gonin. Pêcheur de Bonneville : ","Gonin (fille de la petite). Enfant de la précédente : ",2
+"Gonin. Pêcheur de Bonneville : ","Martin. Domestique du Docteur Cazenove : ",1
+"Gonin. Pêcheur de Bonneville : ","Prouane (fille). Fille des précédents : ",8
+"Gonin. Pêcheur de Bonneville : ","Tourmal. Père de Tour-mal : ",4
+"Gonin. Pêcheur de Bonneville : ","Tourmal. Contrebandier à Bonneville : ",6
+"Gonin. Pêcheur de Bonneville : ","Tourmal (Mme). Épouse du précédent : ",4
+"Gonin. Pêcheur de Bonneville : ","Tourmal (fille). Fille des Tourmal : ",5
+"Gonin. Pêcheur de Bonneville : ","Houtelard (père). Pêcheur de Bonneville : ",6
+"Gonin. Pêcheur de Bonneville : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",5
+"Gonin. Pêcheur de Bonneville : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",1
+"Gonin. Pêcheur de Bonneville : ","Houtelard (le fils) : ",6
+"Gonin. Pêcheur de Bonneville : ","Houtelard (la seconde femme de) : ",2
+"Gonin. Pêcheur de Bonneville : ","Prouane (Mme). Épouse du précédent : ",3
+"Gonin. Pêcheur de Bonneville : ","Houtelard (la première femme de) : ",1
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Horteur (abbé). Curé de Bonneville : ",7
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",15
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",9
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Véronique. Servante des Chanteau : ",9
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Gonin (la petite). Fille des précédents: ",9
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Houtelard (père). Pêcheur de Bonneville : ",6
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Houtelard (la première femme de) : ",2
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Houtelard (la seconde femme de) : ",3
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Houtelard (le fils) : ",5
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",7
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Prouane (Mme). Épouse du précédent : ",5
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Prouane (fille). Fille des précédents : ",9
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Gonin (fille de la petite). Enfant de la précédente : ",4
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Martin. Domestique du Docteur Cazenove : ",2
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Tourmal. Père de Tour-mal : ",5
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Tourmal. Contrebandier à Bonneville : ",7
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Tourmal (Mme). Épouse du précédent : ",5
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Tourmal (fille). Fille des Tourmal : ",5
+"Gonin (femme). Épouse du précédent. Cousine de Cuche : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",1
+"Gonin (la petite). Fille des précédents: ","Houtelard (père). Pêcheur de Bonneville : ",8
+"Gonin (la petite). Fille des précédents: ","Houtelard (la première femme de) : ",2
+"Gonin (la petite). Fille des précédents: ","Houtelard (la seconde femme de) : ",6
+"Gonin (la petite). Fille des précédents: ","Houtelard (le fils) : ",22
+"Gonin (la petite). Fille des précédents: ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",9
+"Gonin (la petite). Fille des précédents: ","Prouane (Mme). Épouse du précédent : ",7
+"Gonin (la petite). Fille des précédents: ","Prouane (fille). Fille des précédents : ",27
+"Gonin (la petite). Fille des précédents: ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",30
+"Gonin (la petite). Fille des précédents: ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",20
+"Gonin (la petite). Fille des précédents: ","Horteur (abbé). Curé de Bonneville : ",15
+"Gonin (la petite). Fille des précédents: ","Tourmal (fille). Fille des Tourmal : ",18
+"Gonin (la petite). Fille des précédents: ","Gonin (fille de la petite). Enfant de la précédente : ",6
+"Gonin (la petite). Fille des précédents: ","Martin. Domestique du Docteur Cazenove : ",2
+"Gonin (la petite). Fille des précédents: ","Tourmal. Père de Tour-mal : ",9
+"Gonin (la petite). Fille des précédents: ","Tourmal. Contrebandier à Bonneville : ",10
+"Gonin (la petite). Fille des précédents: ","Tourmal (Mme). Épouse du précédent : ",10
+"Gonin (la petite). Fille des précédents: ","Malivoire. Loueur de voitures à Arromanches : ",2
+"Gonin (la petite). Fille des précédents: ","Véronique. Servante des Chanteau : ",20
+"Gonin (la petite). Fille des précédents: ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Gonin (la petite). Fille des précédents: ","Léonie. Tante de Louise Thibaudier : ",1
+"Gonin (fille de la petite). Enfant de la précédente : ","Horteur (abbé). Curé de Bonneville : ",4
+"Gonin (fille de la petite). Enfant de la précédente : ","Martin. Domestique du Docteur Cazenove : ",2
+"Gonin (fille de la petite). Enfant de la précédente : ","Prouane (fille). Fille des précédents : ",5
+"Gonin (fille de la petite). Enfant de la précédente : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",6
+"Gonin (fille de la petite). Enfant de la précédente : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",4
+"Gonin (fille de la petite). Enfant de la précédente : ","Tourmal. Père de Tour-mal : ",4
+"Gonin (fille de la petite). Enfant de la précédente : ","Tourmal. Contrebandier à Bonneville : ",4
+"Gonin (fille de la petite). Enfant de la précédente : ","Tourmal (Mme). Épouse du précédent : ",4
+"Gonin (fille de la petite). Enfant de la précédente : ","Tourmal (fille). Fille des Tourmal : ",5
+"Gonin (fille de la petite). Enfant de la précédente : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",2
+"Gonin (fille de la petite). Enfant de la précédente : ","Prouane (Mme). Épouse du précédent : ",2
+"Gonin (fille de la petite). Enfant de la précédente : ","Véronique. Servante des Chanteau : ",2
+"Gonin (fille de la petite). Enfant de la précédente : ","Houtelard (le fils) : ",1
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",4
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",4
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",4
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Véronique. Servante des Chanteau : ",4
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Malivoire. Loueur de voitures à Arromanches : ",1
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ",2
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",1
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Liardin. Parent des Que-nu : ",1
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",1
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Naudet. Cousin des Que-nu : ",1
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",1
+"Gradelle. Frère de Mme Quenu mère. Oncle de Florent et de Quenu. Charcutier : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"Herbelin. Illustre chimiste : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",8
+"Herbelin. Illustre chimiste : ","Véronique. Servante des Chanteau : ",4
+"Horteur (abbé). Curé de Bonneville : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",87
+"Horteur (abbé). Curé de Bonneville : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",46
+"Horteur (abbé). Curé de Bonneville : ","Véronique. Servante des Chanteau : ",59
+"Horteur (abbé). Curé de Bonneville : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",11
+"Horteur (abbé). Curé de Bonneville : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",5
+"Horteur (abbé). Curé de Bonneville : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Horteur (abbé). Curé de Bonneville : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",3
+"Horteur (abbé). Curé de Bonneville : ","Martin. Domestique du Docteur Cazenove : ",5
+"Horteur (abbé). Curé de Bonneville : ","Prouane (Mme). Épouse du précédent : ",5
+"Horteur (abbé). Curé de Bonneville : ","Houtelard (le fils) : ",11
+"Horteur (abbé). Curé de Bonneville : ","Prouane (fille). Fille des précédents : ",14
+"Horteur (abbé). Curé de Bonneville : ","Tourmal (fille). Fille des Tourmal : ",10
+"Horteur (abbé). Curé de Bonneville : ","Malivoire. Loueur de voitures à Arromanches : ",5
+"Horteur (abbé). Curé de Bonneville : ","Tourmal. Père de Tour-mal : ",7
+"Horteur (abbé). Curé de Bonneville : ","Tourmal. Contrebandier à Bonneville : ",11
+"Horteur (abbé). Curé de Bonneville : ","Tourmal (Mme). Épouse du précédent : ",8
+"Horteur (abbé). Curé de Bonneville : ","*Schopenhauer (Arthur). Philosophe allemand : ",3
+"Horteur (abbé). Curé de Bonneville : ","Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ",3
+"Horteur (abbé). Curé de Bonneville : ","Liardin. Parent des Que-nu : ",3
+"Horteur (abbé). Curé de Bonneville : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",3
+"Horteur (abbé). Curé de Bonneville : ","Naudet. Cousin des Que-nu : ",3
+"Horteur (abbé). Curé de Bonneville : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",3
+"Horteur (abbé). Curé de Bonneville : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",3
+"Horteur (abbé). Curé de Bonneville : ","Houtelard (père). Pêcheur de Bonneville : ",8
+"Horteur (abbé). Curé de Bonneville : ","Houtelard (la seconde femme de) : ",4
+"Houtelard (père). Pêcheur de Bonneville : ","Houtelard (la première femme de) : ",2
+"Houtelard (père). Pêcheur de Bonneville : ","Houtelard (la seconde femme de) : ",13
+"Houtelard (père). Pêcheur de Bonneville : ","Houtelard (le fils) : ",10
+"Houtelard (père). Pêcheur de Bonneville : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",14
+"Houtelard (père). Pêcheur de Bonneville : ","Prouane (Mme). Épouse du précédent : ",5
+"Houtelard (père). Pêcheur de Bonneville : ","Prouane (fille). Fille des précédents : ",10
+"Houtelard (père). Pêcheur de Bonneville : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",22
+"Houtelard (père). Pêcheur de Bonneville : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",6
+"Houtelard (père). Pêcheur de Bonneville : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",1
+"Houtelard (père). Pêcheur de Bonneville : ","Tourmal. Contrebandier à Bonneville : ",4
+"Houtelard (père). Pêcheur de Bonneville : ","Véronique. Servante des Chanteau : ",12
+"Houtelard (père). Pêcheur de Bonneville : ","*Schopenhauer (Arthur). Philosophe allemand : ",1
+"Houtelard (père). Pêcheur de Bonneville : ","Tourmal (fille). Fille des Tourmal : ",2
+"Houtelard (la première femme de) : ","Houtelard (la seconde femme de) : ",2
+"Houtelard (la première femme de) : ","Houtelard (le fils) : ",2
+"Houtelard (la première femme de) : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",2
+"Houtelard (la première femme de) : ","Prouane (Mme). Épouse du précédent : ",2
+"Houtelard (la première femme de) : ","Prouane (fille). Fille des précédents : ",2
+"Houtelard (la première femme de) : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",2
+"Houtelard (la première femme de) : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",2
+"Houtelard (la seconde femme de) : ","Houtelard (le fils) : ",8
+"Houtelard (la seconde femme de) : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",7
+"Houtelard (la seconde femme de) : ","Prouane (Mme). Épouse du précédent : ",3
+"Houtelard (la seconde femme de) : ","Prouane (fille). Fille des précédents : ",8
+"Houtelard (la seconde femme de) : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",13
+"Houtelard (la seconde femme de) : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",5
+"Houtelard (la seconde femme de) : ","Véronique. Servante des Chanteau : ",5
+"Houtelard (la seconde femme de) : ","*Schopenhauer (Arthur). Philosophe allemand : ",1
+"Houtelard (la seconde femme de) : ","Tourmal (fille). Fille des Tourmal : ",1
+"Houtelard (le fils) : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",8
+"Houtelard (le fils) : ","Prouane (Mme). Épouse du précédent : ",6
+"Houtelard (le fils) : ","Prouane (fille). Fille des précédents : ",25
+"Houtelard (le fils) : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",26
+"Houtelard (le fils) : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",18
+"Houtelard (le fils) : ","Tourmal (fille). Fille des Tourmal : ",15
+"Houtelard (le fils) : ","Malivoire. Loueur de voitures à Arromanches : ",2
+"Houtelard (le fils) : ","Véronique. Servante des Chanteau : ",18
+"Houtelard (le fils) : ","Tourmal. Père de Tour-mal : ",4
+"Houtelard (le fils) : ","Tourmal. Contrebandier à Bonneville : ",5
+"Houtelard (le fils) : ","Tourmal (Mme). Épouse du précédent : ",5
+"Houtelard (le fils) : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Houtelard (le fils) : ","Léonie. Tante de Louise Thibaudier : ",1
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Liardin. Parent des Que-nu : ",12
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",12
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Naudet. Cousin des Que-nu : ",12
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",5
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",12
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",12
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",12
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",3
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",5
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Véronique. Servante des Chanteau : ",4
+"Lantier (Claude). Premier fils de Gervaise Macquart et d'AuguSte Lantier. Frère d'Étienne et de Jacques Lantier: ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",1
+"Léonie. Tante de Louise Thibaudier : ","Prouane (fille). Fille des précédents : ",1
+"Léonie. Tante de Louise Thibaudier : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",6
+"Léonie. Tante de Louise Thibaudier : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Léonie. Tante de Louise Thibaudier : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",6
+"Léonie. Tante de Louise Thibaudier : ","Tourmal (fille). Fille des Tourmal : ",1
+"Léonie. Tante de Louise Thibaudier : ","Malivoire. Loueur de voitures à Arromanches : ",2
+"Léonie. Tante de Louise Thibaudier : ","Véronique. Servante des Chanteau : ",3
+"Liardin. Parent des Que-nu : ","Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ",12
+"Liardin. Parent des Que-nu : ","Naudet. Cousin des Que-nu : ",12
+"Liardin. Parent des Que-nu : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",5
+"Liardin. Parent des Que-nu : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",12
+"Liardin. Parent des Que-nu : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",12
+"Liardin. Parent des Que-nu : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",12
+"Liardin. Parent des Que-nu : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",3
+"Liardin. Parent des Que-nu : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Liardin. Parent des Que-nu : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",5
+"Liardin. Parent des Que-nu : ","Véronique. Servante des Chanteau : ",4
+"Liardin. Parent des Que-nu : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",1
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Malivoire. Loueur de voitures à Arromanches : ",1
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",2
+"Macquart (Antoine). Fils d'Adélaïde Fouque et de Macquart. Époux de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Mac-quart: ","Véronique. Servante des Chanteau : ",2
+"Malivoire. Loueur de voitures à Arromanches : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",3
+"Malivoire. Loueur de voitures à Arromanches : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",3
+"Malivoire. Loueur de voitures à Arromanches : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",18
+"Malivoire. Loueur de voitures à Arromanches : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",7
+"Malivoire. Loueur de voitures à Arromanches : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",14
+"Malivoire. Loueur de voitures à Arromanches : ","Véronique. Servante des Chanteau : ",17
+"Malivoire. Loueur de voitures à Arromanches : ","Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ",1
+"Malivoire. Loueur de voitures à Arromanches : ","Martin. Domestique du Docteur Cazenove : ",1
+"Malivoire. Loueur de voitures à Arromanches : ","Prouane (fille). Fille des précédents : ",2
+"Martin. Domestique du Docteur Cazenove : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",2
+"Martin. Domestique du Docteur Cazenove : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",10
+"Martin. Domestique du Docteur Cazenove : ","Véronique. Servante des Chanteau : ",6
+"Martin. Domestique du Docteur Cazenove : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",8
+"Martin. Domestique du Docteur Cazenove : ","Prouane (fille). Fille des précédents : ",2
+"Martin. Domestique du Docteur Cazenove : ","Tourmal. Père de Tour-mal : ",2
+"Martin. Domestique du Docteur Cazenove : ","Tourmal. Contrebandier à Bonneville : ",2
+"Martin. Domestique du Docteur Cazenove : ","Tourmal (Mme). Épouse du précédent : ",2
+"Martin. Domestique du Docteur Cazenove : ","Tourmal (fille). Fille des Tourmal : ",2
+"Martin. Domestique du Docteur Cazenove : ","Prouane (Mme). Épouse du précédent : ",1
+"Martin. Domestique du Docteur Cazenove : ","*Schopenhauer (Arthur). Philosophe allemand : ",2
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Naudet. Cousin des Que-nu : ",12
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",5
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",12
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",12
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",12
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",3
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",5
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Véronique. Servante des Chanteau : ",4
+"Mouret (Octave). Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Époux de Caroline Hédouin, puis de Denise Baudu : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",1
+"Naudet. Cousin des Que-nu : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",5
+"Naudet. Cousin des Que-nu : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",12
+"Naudet. Cousin des Que-nu : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",12
+"Naudet. Cousin des Que-nu : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",12
+"Naudet. Cousin des Que-nu : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",3
+"Naudet. Cousin des Que-nu : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Naudet. Cousin des Que-nu : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",5
+"Naudet. Cousin des Que-nu : ","Véronique. Servante des Chanteau : ",4
+"Naudet. Cousin des Que-nu : ","Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ",1
+"Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",24
+"Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ","Véronique. Servante des Chanteau : ",12
+"Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ","Prouane (Mme). Épouse du précédent : ",9
+"Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ","Prouane (fille). Fille des précédents : ",11
+"Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",6
+"Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ","Tourmal. Père de Tour-mal : ",3
+"Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ","Tourmal. Contrebandier à Bonneville : ",7
+"Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ","Tourmal (Mme). Épouse du précédent : ",3
+"Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ","Tourmal (fille). Fille des Tourmal : ",5
+"Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",2
+"Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",1
+"Prouane. Pêcheur. Bedeau et secrétaire de mairie à Bonneville : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",1
+"Prouane (Mme). Épouse du précédent : ","Prouane (fille). Fille des précédents : ",9
+"Prouane (Mme). Épouse du précédent : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",11
+"Prouane (Mme). Épouse du précédent : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",3
+"Prouane (Mme). Épouse du précédent : ","Véronique. Servante des Chanteau : ",5
+"Prouane (Mme). Épouse du précédent : ","Tourmal. Père de Tour-mal : ",3
+"Prouane (Mme). Épouse du précédent : ","Tourmal. Contrebandier à Bonneville : ",4
+"Prouane (Mme). Épouse du précédent : ","Tourmal (Mme). Épouse du précédent : ",3
+"Prouane (Mme). Épouse du précédent : ","Tourmal (fille). Fille des Tourmal : ",5
+"Prouane (fille). Fille des précédents : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",33
+"Prouane (fille). Fille des précédents : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",21
+"Prouane (fille). Fille des précédents : ","Tourmal (fille). Fille des Tourmal : ",23
+"Prouane (fille). Fille des précédents : ","Tourmal. Père de Tour-mal : ",9
+"Prouane (fille). Fille des précédents : ","Tourmal. Contrebandier à Bonneville : ",11
+"Prouane (fille). Fille des précédents : ","Tourmal (Mme). Épouse du précédent : ",10
+"Prouane (fille). Fille des précédents : ","Véronique. Servante des Chanteau : ",18
+"Prouane (fille). Fille des précédents : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Prouane (fille). Fille des précédents : ","*Schopenhauer (Arthur). Philosophe allemand : ",1
+"Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ","Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ",2
+"Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",2
+"Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",2
+"Quenu (Mme). Sœur de Gradelle. Épouse en secondes noces de Quenu (père), mère de Florent et de Quenu : ","Véronique. Servante des Chanteau : ",2
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ",11
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",15
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Véronique. Servante des Chanteau : ",11
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",5
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",5
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",7
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",7
+"Quenu. Fils de Quenu et de Mme Quenu, née Gradelle. Époux de Lise Mac-quart. Père de Pauline Quenu : ","Tourmal. Contrebandier à Bonneville : ",1
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ",11
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Véronique. Servante des Chanteau : ",8
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",7
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",7
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",3
+"Quenu (Lisa). Fille d'Antoine Macquart et de Joséphine Gavaudan. Sœur de Gervaise et de Jean Macquart. Épouse de Quenu. Mère de Pauline Quenu : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",3
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Véronique. Servante des Chanteau : ",198
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ",12
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",15
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",181
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",31
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","*Schopenhauer (Arthur). Philosophe allemand : ",10
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Simonnot (Mme). Femme de Bonneville. — : ",2
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Tourmal (fille). Fille des Tourmal : ",23
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Tourmal. Père de Tour-mal : ",9
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Tourmal. Contrebandier à Bonneville : ",15
+"Quenu (Pauline). Fille de Quenu et de Lisa Macquart : ","Tourmal (Mme). Épouse du précédent : ",10
+"Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ","Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ",12
+"Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",5
+"Rambaud. Demi-frère cadet de l'abbé Jouve. Négociant en produits du Midi. Épouse Hélène Grand)ean : ","Véronique. Servante des Chanteau : ",4
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","*Schopenhauer (Arthur). Philosophe allemand : ",1
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ",2
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",5
+"Saccard (Aristide). Aristide Rougon, dit Saccard. Fils de Pierre Rougon et de Félicité Puech. Époux d'Angèle Sicardot. Père de Maxime et Clotilde Rougôn. —: ","Véronique. Servante des Chanteau : ",5
+"*Schopenhauer (Arthur). Philosophe allemand : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",5
+"*Schopenhauer (Arthur). Philosophe allemand : ","Véronique. Servante des Chanteau : ",2
+"*Schopenhauer (Arthur). Philosophe allemand : ","Tourmal (fille). Fille des Tourmal : ",1
+"Simonnot (Mme). Femme de Bonneville. — : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",1
+"Simonnot (Mme). Femme de Bonneville. — : ","Véronique. Servante des Chanteau : ",1
+"Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ","Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ",31
+"Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ","Véronique. Servante des Chanteau : ",17
+"Thibaudier. Banquier à Caen. Père de Louise Thibaudier : ","Tourmal (fille). Fille des Tourmal : ",2
+"Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ","Véronique. Servante des Chanteau : ",111
+"Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ","Tourmal (fille). Fille des Tourmal : ",16
+"Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ","Tourmal. Père de Tour-mal : ",5
+"Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ","Tourmal. Contrebandier à Bonneville : ",6
+"Thibaudier (Louise). Fille du précédent. Épouse Lazare Chanteau : ","Tourmal (Mme). Épouse du précédent : ",6
+"Tourmal. Père de Tour-mal : ","Tourmal. Contrebandier à Bonneville : ",9
+"Tourmal. Père de Tour-mal : ","Tourmal (Mme). Épouse du précédent : ",9
+"Tourmal. Père de Tour-mal : ","Tourmal (fille). Fille des Tourmal : ",9
+"Tourmal. Père de Tour-mal : ","Véronique. Servante des Chanteau : ",5
+"Tourmal. Contrebandier à Bonneville : ","Tourmal (Mme). Épouse du précédent : ",10
+"Tourmal. Contrebandier à Bonneville : ","Tourmal (fille). Fille des Tourmal : ",11
+"Tourmal. Contrebandier à Bonneville : ","Véronique. Servante des Chanteau : ",9
+"Tourmal (Mme). Épouse du précédent : ","Tourmal (fille). Fille des Tourmal : ",10
+"Tourmal (Mme). Épouse du précédent : ","Véronique. Servante des Chanteau : ",6
+"Tourmal (fille). Fille des Tourmal : ","Véronique. Servante des Chanteau : ",12

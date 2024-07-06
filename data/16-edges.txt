@@ -1,0 +1,147 @@
+"from","to","weight"
+"Chouteau (les). Vieillards nécessiteux de Beaumont : ","Gabet (la mère). Vieille journalière de Beaumont : ",6
+"Chouteau (les). Vieillards nécessiteux de Beaumont : ","Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ",8
+"Chouteau (les). Vieillards nécessiteux de Beaumont : ","Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ",4
+"Chouteau (les). Vieillards nécessiteux de Beaumont : ","Hubertine. Femme d'Hubert : ",6
+"Chouteau (les). Vieillards nécessiteux de Beaumont : ","Mascart (le père). Aveugle paralytique de Beaumont : ",8
+"Chouteau (les). Vieillards nécessiteux de Beaumont : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",8
+"Chouteau (les). Vieillards nécessiteux de Beaumont : ","Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ",7
+"Chouteau (les). Vieillards nécessiteux de Beaumont : ","Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ",2
+"Chouteau (les). Vieillards nécessiteux de Beaumont : ","Voincourt (Claire de). Fille de la comtesse de Voincourt. Devait épouser Félicien VII de Hautecœur : ",3
+"Chouteau (les). Vieillards nécessiteux de Beaumont : ","Voincourt (comtesse de). Aristocrate de Beaumont : ",2
+"Chouteau (les). Vieillards nécessiteux de Beaumont : ","Cornille (abbé). Prêtre de la cathédrale de Beaumont : ",2
+"Chouteau (les). Vieillards nécessiteux de Beaumont : ","Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ",2
+"Cornille (abbé). Prêtre de la cathédrale de Beaumont : ","Gabet (la mère). Vieille journalière de Beaumont : ",2
+"Cornille (abbé). Prêtre de la cathédrale de Beaumont : ","Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ",2
+"Cornille (abbé). Prêtre de la cathédrale de Beaumont : ","Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ",32
+"Cornille (abbé). Prêtre de la cathédrale de Beaumont : ","Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ",33
+"Cornille (abbé). Prêtre de la cathédrale de Beaumont : ","Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ",31
+"Cornille (abbé). Prêtre de la cathédrale de Beaumont : ","Hubertine. Femme d'Hubert : ",37
+"Cornille (abbé). Prêtre de la cathédrale de Beaumont : ","Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ",3
+"Cornille (abbé). Prêtre de la cathédrale de Beaumont : ","Mascart (le père). Aveugle paralytique de Beaumont : ",2
+"Cornille (abbé). Prêtre de la cathédrale de Beaumont : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",38
+"Cornille (abbé). Prêtre de la cathédrale de Beaumont : ","Hautecœur (la lignée des). Ancêtres de Jean XII de Hautecœur : ",8
+"Cornille (abbé). Prêtre de la cathédrale de Beaumont : ","Valençay (Paule de). Épouse de Jean XII de Hau-tecœur. Mère de Félicien, morte en couches : ",8
+"Cornille (abbé). Prêtre de la cathédrale de Beaumont : ","Voincourt (Claire de). Fille de la comtesse de Voincourt. Devait épouser Félicien VII de Hautecœur : ",5
+"Cornille (abbé). Prêtre de la cathédrale de Beaumont : ","Voincourt (comtesse de). Aristocrate de Beaumont : ",1
+"Foucart (Mme). Sage-femme à Paris : ","Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ",2
+"Foucart (Mme). Sage-femme à Paris : ","Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ",3
+"Foucart (Mme). Sage-femme à Paris : ","Hubertine. Femme d'Hubert : ",3
+"Foucart (Mme). Sage-femme à Paris : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",3
+"Foucart (Mme). Sage-femme à Paris : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Foucart (Mme). Sage-femme à Paris : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Foucart (Mme). Sage-femme à Paris : ","Touche. Clerc d'avoué à Plassans. Époux de Sidonie Rougon : ",2
+"Franchomme (Louis). Cousin de Françoise Hame-lin. Ouvrier fleuriste : ","Franchomme (Thérèse). Épouse du précédent. Sœur de Rabier. Nourrice d'Angélique Rougon : ",3
+"Franchomme (Louis). Cousin de Françoise Hame-lin. Ouvrier fleuriste : ","Hamelin (Françoise). Nourrice d'Angélique. Épouse d'un cultivateur de Soulanges. Dite maman Nini : ",3
+"Franchomme (Louis). Cousin de Françoise Hame-lin. Ouvrier fleuriste : ","Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ",3
+"Franchomme (Louis). Cousin de Françoise Hame-lin. Ouvrier fleuriste : ","Hubertine. Femme d'Hubert : ",3
+"Franchomme (Louis). Cousin de Françoise Hame-lin. Ouvrier fleuriste : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",3
+"Franchomme (Louis). Cousin de Françoise Hame-lin. Ouvrier fleuriste : ","Rabier (les). Tanneurs à Beaumont, à qui Angélique a été confiée par Thérèse Franchomme : ",2
+"Franchomme (Louis). Cousin de Françoise Hame-lin. Ouvrier fleuriste : ","Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ",1
+"Franchomme (Thérèse). Épouse du précédent. Sœur de Rabier. Nourrice d'Angélique Rougon : ","Hamelin (Françoise). Nourrice d'Angélique. Épouse d'un cultivateur de Soulanges. Dite maman Nini : ",3
+"Franchomme (Thérèse). Épouse du précédent. Sœur de Rabier. Nourrice d'Angélique Rougon : ","Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ",3
+"Franchomme (Thérèse). Épouse du précédent. Sœur de Rabier. Nourrice d'Angélique Rougon : ","Hubertine. Femme d'Hubert : ",3
+"Franchomme (Thérèse). Épouse du précédent. Sœur de Rabier. Nourrice d'Angélique Rougon : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",3
+"Franchomme (Thérèse). Épouse du précédent. Sœur de Rabier. Nourrice d'Angélique Rougon : ","Rabier (les). Tanneurs à Beaumont, à qui Angélique a été confiée par Thérèse Franchomme : ",2
+"Franchomme (Thérèse). Épouse du précédent. Sœur de Rabier. Nourrice d'Angélique Rougon : ","Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ",1
+"Gabet (la mère). Vieille journalière de Beaumont : ","Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ",14
+"Gabet (la mère). Vieille journalière de Beaumont : ","Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ",6
+"Gabet (la mère). Vieille journalière de Beaumont : ","Hubertine. Femme d'Hubert : ",12
+"Gabet (la mère). Vieille journalière de Beaumont : ","Mascart (le père). Aveugle paralytique de Beaumont : ",6
+"Gabet (la mère). Vieille journalière de Beaumont : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",14
+"Gabet (la mère). Vieille journalière de Beaumont : ","Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ",5
+"Gabet (la mère). Vieille journalière de Beaumont : ","Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ",6
+"Gabet (la mère). Vieille journalière de Beaumont : ","Voincourt (Claire de). Fille de la comtesse de Voincourt. Devait épouser Félicien VII de Hautecœur : ",4
+"Gabet (la mère). Vieille journalière de Beaumont : ","Voincourt (comtesse de). Aristocrate de Beaumont : ",2
+"Gabet (la mère). Vieille journalière de Beaumont : ","Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ",2
+"Gabet (la mère). Vieille journalière de Beaumont : ","Hautecœur (la lignée des). Ancêtres de Jean XII de Hautecœur : ",2
+"Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ","Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ",1
+"Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ","Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ",2
+"Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ","Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ",8
+"Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ","Hubertine. Femme d'Hubert : ",8
+"Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ","Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ",2
+"Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ","Mascart (le père). Aveugle paralytique de Beaumont : ",2
+"Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",8
+"Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ","Hamelin (Françoise). Nourrice d'Angélique. Épouse d'un cultivateur de Soulanges. Dite maman Nini : ",1
+"Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ","Rabier (les). Tanneurs à Beaumont, à qui Angélique a été confiée par Thérèse Franchomme : ",2
+"Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",1
+"Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Grandsire. Cousin d'Hu-bertine. Juge de paix à Beaumont : ","Touche. Clerc d'avoué à Plassans. Époux de Sidonie Rougon : ",1
+"Hamelin (Françoise). Nourrice d'Angélique. Épouse d'un cultivateur de Soulanges. Dite maman Nini : ","Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ",3
+"Hamelin (Françoise). Nourrice d'Angélique. Épouse d'un cultivateur de Soulanges. Dite maman Nini : ","Hubertine. Femme d'Hubert : ",3
+"Hamelin (Françoise). Nourrice d'Angélique. Épouse d'un cultivateur de Soulanges. Dite maman Nini : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",5
+"Hamelin (Françoise). Nourrice d'Angélique. Épouse d'un cultivateur de Soulanges. Dite maman Nini : ","Rabier (les). Tanneurs à Beaumont, à qui Angélique a été confiée par Thérèse Franchomme : ",2
+"Hamelin (Françoise). Nourrice d'Angélique. Épouse d'un cultivateur de Soulanges. Dite maman Nini : ","Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ",2
+"Hautecœur (la lignée des). Ancêtres de Jean XII de Hautecœur : ","Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ",21
+"Hautecœur (la lignée des). Ancêtres de Jean XII de Hautecœur : ","Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ",18
+"Hautecœur (la lignée des). Ancêtres de Jean XII de Hautecœur : ","Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ",17
+"Hautecœur (la lignée des). Ancêtres de Jean XII de Hautecœur : ","Hubertine. Femme d'Hubert : ",19
+"Hautecœur (la lignée des). Ancêtres de Jean XII de Hautecœur : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",27
+"Hautecœur (la lignée des). Ancêtres de Jean XII de Hautecœur : ","Valençay (Paule de). Épouse de Jean XII de Hau-tecœur. Mère de Félicien, morte en couches : ",5
+"Hautecœur (la lignée des). Ancêtres de Jean XII de Hautecœur : ","Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ",2
+"Hautecœur (la lignée des). Ancêtres de Jean XII de Hautecœur : ","Séverin. Archevêque du xe siècle : ",2
+"Hautecœur (la lignée des). Ancêtres de Jean XII de Hautecœur : ","Voincourt (comtesse de). Aristocrate de Beaumont : ",1
+"Hautecœur (la lignée des). Ancêtres de Jean XII de Hautecœur : ","Voincourt (Claire de). Fille de la comtesse de Voincourt. Devait épouser Félicien VII de Hautecœur : ",1
+"Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ","Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ",68
+"Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ","Hubertine. Femme d'Hubert : ",62
+"Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ","Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ",4
+"Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ","Mascart (le père). Aveugle paralytique de Beaumont : ",2
+"Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",76
+"Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ","Voincourt (Claire de). Fille de la comtesse de Voincourt. Devait épouser Félicien VII de Hautecœur : ",17
+"Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ","Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ",51
+"Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ","Valençay (Paule de). Épouse de Jean XII de Hau-tecœur. Mère de Félicien, morte en couches : ",15
+"Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ","Voincourt (comtesse de). Aristocrate de Beaumont : ",6
+"Hautecœur (Monseigneur de). Jean XII de Hautecœur. A été l'époux de Paule de Valençay. Père de Félicien VII de Hautecœur. Évêque de Beaumont. — : ","Séverin. Archevêque du xe siècle : ",1
+"Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ","Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ",78
+"Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ","Hubertine. Femme d'Hubert : ",93
+"Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ","Mascart (le père). Aveugle paralytique de Beaumont : ",8
+"Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",121
+"Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ","Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ",11
+"Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ","Voincourt (Claire de). Fille de la comtesse de Voincourt. Devait épouser Félicien VII de Hautecœur : ",21
+"Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ","Voincourt (comtesse de). Aristocrate de Beaumont : ",10
+"Hautecœur (Félicien VII de). Fils du précédent et de Paule de Valençay. Épouse Angélique Rougon : ","Valençay (Paule de). Épouse de Jean XII de Hau-tecœur. Mère de Félicien, morte en couches : ",15
+"Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ","Hubertine. Femme d'Hubert : ",113
+"Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ","Mascart (le père). Aveugle paralytique de Beaumont : ",4
+"Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",113
+"Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ","Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ",4
+"Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ","Valençay (Paule de). Épouse de Jean XII de Hau-tecœur. Mère de Félicien, morte en couches : ",7
+"Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ","Voincourt (Claire de). Fille de la comtesse de Voincourt. Devait épouser Félicien VII de Hautecœur : ",10
+"Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",3
+"Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ","Touche. Clerc d'avoué à Plassans. Époux de Sidonie Rougon : ",2
+"Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ","Rabier (les). Tanneurs à Beaumont, à qui Angélique a été confiée par Thérèse Franchomme : ",3
+"Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ","Séverin. Archevêque du xe siècle : ",1
+"Hubert. Époux d'Hubertine. A recueilli Angélique Rougon. Brodeur à Beau-mont : ","Voincourt (comtesse de). Aristocrate de Beaumont : ",2
+"Hubertine. Femme d'Hubert : ","Mascart (le père). Aveugle paralytique de Beaumont : ",6
+"Hubertine. Femme d'Hubert : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",136
+"Hubertine. Femme d'Hubert : ","Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ",8
+"Hubertine. Femme d'Hubert : ","Voincourt (Claire de). Fille de la comtesse de Voincourt. Devait épouser Félicien VII de Hautecœur : ",17
+"Hubertine. Femme d'Hubert : ","Voincourt (comtesse de). Aristocrate de Beaumont : ",7
+"Hubertine. Femme d'Hubert : ","Valençay (Paule de). Épouse de Jean XII de Hau-tecœur. Mère de Félicien, morte en couches : ",11
+"Hubertine. Femme d'Hubert : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Hubertine. Femme d'Hubert : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",3
+"Hubertine. Femme d'Hubert : ","Touche. Clerc d'avoué à Plassans. Époux de Sidonie Rougon : ",2
+"Hubertine. Femme d'Hubert : ","Rabier (les). Tanneurs à Beaumont, à qui Angélique a été confiée par Thérèse Franchomme : ",3
+"Hubertine. Femme d'Hubert : ","Séverin. Archevêque du xe siècle : ",2
+"Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ","Mascart (le père). Aveugle paralytique de Beaumont : ",7
+"Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",11
+"Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ","Voincourt (Claire de). Fille de la comtesse de Voincourt. Devait épouser Félicien VII de Hautecœur : ",3
+"Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ","Voincourt (comtesse de). Aristocrate de Beaumont : ",2
+"Lemballeuse (les). Pauvresses de Beaumont : la mère et les filles, Tiennette, Rose, Jeanne : ","Valençay (Paule de). Épouse de Jean XII de Hau-tecœur. Mère de Félicien, morte en couches : ",2
+"Mascart (le père). Aveugle paralytique de Beaumont : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",8
+"Mascart (le père). Aveugle paralytique de Beaumont : ","Voincourt (Claire de). Fille de la comtesse de Voincourt. Devait épouser Félicien VII de Hautecœur : ",3
+"Mascart (le père). Aveugle paralytique de Beaumont : ","Voincourt (comtesse de). Aristocrate de Beaumont : ",2
+"Rabier (les). Tanneurs à Beaumont, à qui Angélique a été confiée par Thérèse Franchomme : ","Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ",3
+"Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ","Voincourt (Claire de). Fille de la comtesse de Voincourt. Devait épouser Félicien VII de Hautecœur : ",24
+"Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ","Voincourt (comtesse de). Aristocrate de Beaumont : ",13
+"Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ","Valençay (Paule de). Épouse de Jean XII de Hau-tecœur. Mère de Félicien, morte en couches : ",15
+"Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ","Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ",2
+"Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",3
+"Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ","Touche. Clerc d'avoué à Plassans. Époux de Sidonie Rougon : ",2
+"Rougon (Angélique). Fille de Sidonie Rougon et de père inconnu. Adoptée par les Hubert. Épouse Félicien de Hautecœur : ","Séverin. Archevêque du xe siècle : ",2
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ",2
+"Rougon (Eugène). Fils de Pierre Rougon et de Félicité Puech. Avocat. Agent secret de Louis - Napoléon Bonaparte: ","Touche. Clerc d'avoué à Plassans. Époux de Sidonie Rougon : ",2
+"Rougon (Sidonie). Première fille et quatrième enfant de Pierre et Félicité Puech. Mère d'Angélique. Épouse de Touche : ","Touche. Clerc d'avoué à Plassans. Époux de Sidonie Rougon : ",2
+"Valençay (Paule de). Épouse de Jean XII de Hau-tecœur. Mère de Félicien, morte en couches : ","Voincourt (comtesse de). Aristocrate de Beaumont : ",1
+"Valençay (Paule de). Épouse de Jean XII de Hau-tecœur. Mère de Félicien, morte en couches : ","Voincourt (Claire de). Fille de la comtesse de Voincourt. Devait épouser Félicien VII de Hautecœur : ",1
+"Voincourt (comtesse de). Aristocrate de Beaumont : ","Voincourt (Claire de). Fille de la comtesse de Voincourt. Devait épouser Félicien VII de Hautecœur : ",13
