@@ -11,6 +11,8 @@ The (undirected) character networks are available as csv files, with three colum
 
 The index of characters is available at the end of La Pléiade edition of Les Rougon-Macquart. It was digitised and corrected so that names are recognisable. Some errors remain, but it doesn't have an impact on the data.
 
+Example of original data:
+
 ![](https://github.com/yrochat/Zola-Character-Network-Dataset/blob/main/indexzola.png)
 
 If you analyse or plot the networks, you will see that they had their characters organised differently from one novel to the next, whereas they were written by the same author.
