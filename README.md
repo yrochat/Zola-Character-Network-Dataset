@@ -1,6 +1,6 @@
 This dataset was used for a [conference paper at the Digital Humanities 2015 conference in Sydney](https://serval.unil.ch/fr/notice/serval:BIB_E4427AF55A80).
 
-The networks were built with [the method of co-occurrences developed in my PhD thesis](https://github.com/yrochat/phd_thesis) (2014).
+The networks were built with [the method of co-occurrences developed in my PhD thesis](../../../phd_thesis) (2014). I used R and [igraph](../../../../igraph/rigraph/).
 
 This dataset contains:
 
@@ -13,8 +13,8 @@ The index of characters is available at the end of La Pléiade edition of Les Ro
 
 Example of original data:
 
-![](https://github.com/yrochat/Zola-Character-Network-Dataset/blob/main/indexzola.png)
+![](indexzola.png)
 
 If you analyse the networks (never base your observations on the plots), you will see that they had their characters organised differently from one novel to the next, whereas they were written by the same author.
 
-![](https://github.com/yrochat/Zola-Character-Network-Dataset/blob/main/figure1.png)
+![](figure1.png)
