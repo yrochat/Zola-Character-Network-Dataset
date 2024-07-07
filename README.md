@@ -17,6 +17,6 @@ Example of original data:
 
 ![](indexzola.png)
 
-If you analyse the networks (never base your observations on the plots), you will see that they had their characters organised differently from one novel to the next, whereas they were written by the same author.
+If you analyse the networks (reminder: never base any conclusion on network plots!), you will see that they had their characters organised differently from one novel to the next, whereas they were written by the same author.
 
 ![](figure1.png)
