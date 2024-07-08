@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12675627.svg)](https://doi.org/10.5281/zenodo.12675627)
 
+How to cite : Yannick Rochat. (2024). *Zola Character Networks Dataset (v1.0.0)* [Data set]. EPFL. [https://doi.org/10.5281/zenodo.12675627](https://doi.org/10.5281/zenodo.12675627)
+
 This dataset was used for a [conference paper at the Digital Humanities 2015 conference in Sydney](https://serval.unil.ch/fr/notice/serval:BIB_E4427AF55A80).
 
 The networks were built with [the method of co-occurrences developed in my PhD thesis](../../../phd_thesis) (2014). I used R and [igraph](../../../../igraph/rigraph/).
